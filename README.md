@@ -10,10 +10,10 @@ Check the Releases section for the latest.
 What makes This Mod different than vanilla:
 
 Plugins and Patch QoL:
--Increased Shared Stash Tabs (100+)
--Increased material storage limit (up to 255)
--Mercs do not die in town (from poison or open wounds)
--Magic and Rare items automatically ID.
+Increased Shared Stash Tabs (100+)
+Increased material storage limit (up to 255)
+Mercs do not die in town (from poison or open wounds)
+Magic and Rare items automatically ID.
 Whirlwind can trigger CTC events.
 Monster show up on automap
 Access Stash Remotely anywhere on the map
