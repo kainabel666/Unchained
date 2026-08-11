@@ -1,0 +1,149 @@
+{
+    "basedOn": "BankOriginalLayout.json",
+    "type": "BankPanel", "name": "BankExpansionLayout",
+    "fields": {
+        "backgroundFile": [
+            "PANEL\\expandedstash",
+            "PANEL\\additionalstash"
+        ]
+    },
+    "children": [
+        {
+            "type": "ClickCatcherWidget", "name": "click_catcher",
+        },
+        {
+            "type": "GridImageWidget", "name": "background",
+            "fields": {
+                "filename": "PANEL\\expandedstash",
+            },
+        },
+        {
+            "type": "TextBoxWidget", "name": "gold_max",
+            "fields": {
+                "rect": { "x": 78, "y": 35 },
+            },
+        },
+        {
+            "type": "TextBoxWidget", "name": "gold_amount",
+            "fields": {
+                "rect": { "x": 40, "y": 358 },
+            },
+        },
+        {
+            "type": "ButtonWidget", "name": "gold_withdraw",
+            "fields": {
+                "rect": { "x": 15, "y": 357 },
+            },
+        },
+        {
+            "type": "ButtonWidget", "name": "close",
+            "fields": {
+                "rect": { "x": 272, "y": 384 },
+            },
+        },
+        {
+            "type": "InventoryGridWidget", "name": "grid",
+            "fields": {
+                "rect": { "x": 15, "y": 63 },
+                "cellCount": { "x": 10, "y": 10 },
+                "cellSize": "$ItemCellSize",
+            },
+        },
+        {
+            "type": "TabBarWidget", "name": "BankTabs",
+            "fields": {
+                "tabCount": 2,
+                "filename": "PANEL\\buyselltabs",
+                "inactiveFrames": [ 4, 5 ],
+                "activeFrames": [ 0, 1 ],
+                "disabledFrames": [ -1, 5 ],
+                "textStrings": [ "@personal", "@shared" ],
+                "tabSize": { "x": 79, "y": 24 },
+                "tabPadding": { "x": 1, "y": 0 },
+                "onSwitchTabMessage": "BankPanelMessage:SelectTab",
+            }
+        },
+        {
+            "type": "Widget", "name": "SharedStashTabContainer",
+            "children": [
+                {
+                    "type": "Widget", "name": "PreviousSeasonToggleDisplay",
+                    "fields": {
+                        "rect": { "x": 246, "y": 28 }
+                    },
+                    "children": [
+                        {
+                            "type": "TextBoxWidget", "name": "ShowPreviousLadderText",
+                            "fields": {
+                                "text": "@oldStash",
+                                "rect": { "x": 35, "y": 16 },
+                                "style": {
+                                    "fontColor": "$PanelTitleColor",
+                                    "pointSize": "$MediumFontSize",
+                                    "alignment": { "v": "center", "h": "left" },
+                                    "spacing": "$MinimumSpacing",
+                                    "dropShadow": "$DefaultDropShadow"
+                                }
+                            }
+                        },
+                        {
+                            "type": "ToggleButtonWidget", "name": "ShowPreviousLadderSeasonToggle",
+                            "fields": {
+                                "rect": { "x": 0, "y": 0 },
+                                "filename": "PANEL\\buysellbtn",
+                                "untoggledFrame": 0,
+                                "untoggledPressedFrame": 1,
+                                "toggledFrame": 16,
+                                "toggledPressedFrame": 17,
+                                "onClickMessage": "BankPanelMessage:TogglePreviousSeasonTabs",
+                                "tooltipString": "@SharedStashPreviousSeasonToggleTooltip",
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "Widget", "name": "StashNavigation",
+                    "fields": {
+                        "rect": { "x": 15, "y": 385, "width": 164, "height": 32 }
+                    },
+                    "children": [
+                        {
+                            "type": "ButtonWidget", "name": "StashLeftArrow",
+                            "fields": {
+                                "rect": {  "x": 0, "y": 0, "width": 32, "height": 32 },
+                                "filename": "PANEL\\buysellbtn",
+                                "normalFrame": 12,
+                                "pressedFrame": 13,
+                                "onClickMessage": "BankPanelMessage:SharedStashLeft"
+                            }
+                        },
+                        {
+                            "type": "TextBoxWidget", "name": "CurrentSharedStashText",
+                            "fields": {
+                                "text": "@SharedStashPage",
+                                "rect": {  "x": 42, "y": 5, "width": 105, "height": 23 },
+                                "style": {
+                                    "fontColor": "$PanelTitleColor",
+                                    "pointSize": "$MediumFontSize",
+                                    "alignment": { "v": "center", "h": "center" },
+                                    "spacing" : "$MinimumSpacing",
+                                    "dropShadow": "$DefaultDropShadow"
+                                }
+                            }
+                        },
+                        {
+                            "type": "ButtonWidget", "name": "StashRightArrow",
+                            "fields": {
+                                "rect": {  "x": 153, "y": 0, "width": 32, "height": 32 },
+                                "filename": "PANEL\\buysellbtn",
+                                "normalFrame": 14,
+                                "pressedFrame": 15,
+                                "onClickMessage": "BankPanelMessage:SharedStashRight"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
