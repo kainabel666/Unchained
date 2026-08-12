@@ -284,3 +284,5 @@ affix-rand	280	1	25																													Add random affix from property	I
 extra-skill-dmg%-rand	281	1	1	passive_fire_mastery			1	passive_ltng_mastery			1	passive_cold_mastery			1	passive_pois_mastery			1	passive_mag_mastery												used to with affix-rand to roll a random stat					0
 war-tab-rand	282	1	10	item_addskill_tab		21	10	item_addskill_tab		22	10	item_addskill_tab		23																							0
 extra-mag	283	1	1	passive_mag_mastery																												+#% to Magic Skill Damage		Min %	Max %		0
+mag-min	284	1	1	magicmindam																												+# to Minimum Magic Damage		Min #	Max #		0
+mag-max	285	1	1	magicmaxdam																												+# to Maximum Magic Damage		Min #	Max #		0
