@@ -33,8 +33,8 @@ Breaching-Affix6	36	2	red-mag			5	10	1	red-dmg			5	10	1																									
 Mystical-Affix6	37	2	red-mag			5	10	1	red-dmg			5	10	1																																										0
 Gelid-Affix5	38	2	move1			5	7	1	balance1			12	18	3	all-stats			3	5	1																																				0
 SingleRes1	39	2	res-fire			5	10	1	res-cold			5	10	1	res-ltng			5	10	1	res-pois			5	10	1																														0
-SingleRes1	40	2	res-fire			5	10	1	res-cold			5	10	1	res-ltng			5	10	1	res-pois			5	10	1																														0
-SingleRes1	41	2	res-fire			5	10	1	res-cold			5	10	1	res-ltng			5	10	1	res-pois			5	10	1																														0
+SingleRes2	40	2	res-fire			8	15	1	res-cold			8	15	1	res-ltng			8	15	1	res-pois			8	15	1																														0
+SingleRes3	41	2	res-fire			10	20	1	res-cold			10	20	1	res-ltng			10	20	1	res-pois			10	20	1																														0
 ResBalanceSocket	42	2	res-all			3	5	1	balance2			8	16	1	sock			0	1	1																																				0
 BootsStam1	43	2	stam			20	30	1	stamdrain			20	30	1	regen-stam			5	15	1																																				
 BootsStam2	44	2	stam			30	50	1	stamdrain			30	50	1	regen-stam			15	30	1																																				
