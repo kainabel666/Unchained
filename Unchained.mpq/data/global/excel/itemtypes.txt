@@ -110,3 +110,5 @@ Grimoire	grim	shld	warl	106	ID1LVL42	1	1	rarm	larm			0	0	0	0		1	0	0	4	25	4	40	4	
 Colossal Jewel	cjwl	jewl		107	ID1LVL43	0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	jewel			1	0
 Crafted Sunder Charm	csch	char		108	ID1LVL44	0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc					0
 Helm	helm	armo	merc	109	ID1LVL45	1	1	head	head			0	0	0	0		1	0	0	4	25	4	40	4	0	3			0							armo	helms	r_hel			0
+Reroll	roll	misc		110	ID0LVL46	0	0					0	0	0	0			1	0	0	25	0	40	0	0	1			0							misc					0
+Reliquary	relq	misc		111	ID0LVL47	0	0					0	0	0	0			1	0	0	25	0	40	0	0	1			0							misc					0
