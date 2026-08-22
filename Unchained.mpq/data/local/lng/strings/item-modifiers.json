@@ -6305,5 +6305,22 @@
     "ptBR": "ÿcU%s-%sÿc3",
     "ruRU": "ÿcU%s-%sÿc3",
     "zhCN": "ÿcU%s-%sÿc3"
+  },
+  {
+    "id": 48000,
+    "Key": "ModStrReliqPts",
+    "deDE": "Reliquienpunkte %d/5000",
+    "enUS": "Reliquary Points %d/5000",
+    "esES": "Puntos de relicario %d/5000",
+    "esMX": "Puntos de relicario %d/5000",
+    "frFR": "Punti Reliquiario %d/5000",
+    "itIT": "Points de reliquaire %d/5000",
+    "jaJP": "聖遺物ポイント %d/5000",
+    "koKR": "유물함 포인트 %d/5000",
+    "plPL": "Punkty Relikwiarza %d/5000",
+    "ptBR": "Pontos de Relicário %d/5000",
+    "ruRU": "Очки реликвария %d/5000",
+    "zhCN": "圣物点 %d/5000",
+    "zhTW": "聖物點 %d/5000"
   }
 ]
