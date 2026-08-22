@@ -80,6 +80,9 @@ Increased socket count to maximum possible for all items
 
 All items can now reach their maximum socket count on all difficulties
 
+Reduce level and level requirement and Boost stats for all unique basic and exceptional armor
+
+Reduce level and level requirement and Boost stats for all unique low and mid level rings and amulets
 
 
 ****Planned Future Changes****
@@ -88,9 +91,6 @@ New monster types including The Bound and enhanced quest related content
 
 Thematic enemies and environment throughout playthrough
 
-Reduce level and level requirement and Boost stats for all unique basic and exceptional armor
-
-Reduce level and level requirement and Boost stats for all unique low and mid level rings and amulets
 
 Add Energy as synergy to casting and elemental skills
 
@@ -116,7 +116,7 @@ Lots of custom stats for each class
 
 Improved underutilized skills for each class to help establish Identity and enhance playthroughs
 
-Reuse remove levels as endgame, leveling or farming zones
+Reuse removed levels as endgame, leveling or farming zones
 
 New Dungeons to challenge your builds
 
