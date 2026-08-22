@@ -1,0 +1,36 @@
+{
+    // Restart D2R after editing this file.
+
+    // Master switch. Set this to false to keep the plugin installed but inactive.
+    "enabled": true,
+
+    // Socket bounds accept values from 1 through 6. Equal bounds force an exact
+    // value; different bounds roll an inclusive range.
+    // Set a rule to null to delegate that difficulty and quality to vanilla directly.
+    // Every result is capped by the item's base, type, item level, and inventory size.
+    "normal": {
+        "magic": { "minSockets": 3, "maxSockets": 5 },
+        "rare": { "minSockets": 2, "maxSockets": 2 },
+        "set": { "minSockets": 1, "maxSockets": 2 },
+        "unique": { "minSockets": 1, "maxSockets": 3 },
+        "crafted": { "minSockets": 1, "maxSockets": 3 }
+    },
+    "nightmare": {
+        "magic": { "minSockets": 3, "maxSockets": 5 },
+        "rare": { "minSockets": 2, "maxSockets": 2 },
+        "set": { "minSockets": 1, "maxSockets": 2 },
+        "unique": { "minSockets": 1, "maxSockets": 3 },
+        "crafted": { "minSockets": 1, "maxSockets": 3 }
+    },
+    "hell": {
+        "magic": { "minSockets": 3, "maxSockets": 5 },
+        "rare": { "minSockets": 2, "maxSockets": 2 },
+        "set": { "minSockets": 1, "maxSockets": 2 },
+        "unique": { "minSockets": 1, "maxSockets": 3 },
+        "crafted": { "minSockets": 1, "maxSockets": 3 }
+    },
+
+    // Write one extra log line for each configured Larzuk reward. Leave this
+    // disabled during normal play; startup messages and errors are always logged.
+    "diagnostics": false
+}

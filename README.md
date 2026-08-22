@@ -48,6 +48,11 @@ Improved Quest rewards that scale with difficulty
 
 Runewords can be made in Magic and Rare items
 
+Vendor Refresh Inventory
+
+Set items can now be found ethreal
+
+
 
 
 ****Current Changes****
