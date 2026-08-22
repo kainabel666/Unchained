@@ -576,48 +576,48 @@ Act 4 (H) Citem B	11	80	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (H) Equip B
 Act 5 (H) Citem A	11	81	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip A	37	Act 5 (H) Good	3	Act 1 Worldstone Shard Parent	3																						0
 Act 5 (H) Citem B	11	83	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip B	37	Act 5 (H) Good	3	Act 1 Worldstone Shard Parent	3																						0
 Act 5 (H) Citem C	11	85	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Act 5 (H) Good	3	Act 1 Worldstone Shard Parent	3																						0
-Act 1 Cpot A	12	0	2					0	Hpotion 1	1																												0
-Act 1 Cpot B	12	5	2					0	Hpotion 1	1																												0
-Act 1 Cpot C	12	9	2					0	Hpotion 1	1																												0
-Act 2 Cpot A	12	12	2					0	Hpotion 2	1																												0
-Act 2 Cpot B	12	15	2					0	Hpotion 2	1																												0
-Act 2 Cpot C	12	18	2					0	Hpotion 2	1																												0
-Act 3 Cpot A	12	20	2					0	Hpotion 3	1																												0
-Act 3 Cpot B	12	22	2					0	Hpotion 3	1																												0
-Act 3 Cpot C	12	24	2					0	Hpotion 3	1																												0
-Act 4 Cpot A	12	26	2					0	Hpotion 3	1	Hpotion 4	2																										0
-Act 4 Cpot B	12	29	2					0	Hpotion 3	1	Hpotion 4	2																										0
-Act 5 Cpot A	12	32	2					0	Hpotion 4	1	Hpotion 5	2																										0
-Act 5 Cpot B	12	34	2					0	Hpotion 4	1	Hpotion 5	2																										0
-Act 5 Cpot C	12	36	2					0	Hpotion 4	1	Hpotion 5	2																										0
-Act 1 (N) Cpot A	12	38	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
-Act 1 (N) Cpot B	12	40	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
-Act 1 (N) Cpot C	12	41	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
-Act 2 (N) Cpot A	12	42	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
-Act 2 (N) Cpot B	12	44	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
-Act 2 (N) Cpot C	12	45	2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
-Act 3 (N) Cpot A	12	46	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 3 (N) Cpot B	12	48	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 3 (N) Cpot C	12	50	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 4 (N) Cpot A	12	51	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 4 (N) Cpot B	12	54	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 5 (N) Cpot A	12	57	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 5 (N) Cpot B	12	60	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 5 (N) Cpot C	12	62	2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 1 (H) Cpot A	12	63	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 1 (H) Cpot B	12	66	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 1 (H) Cpot C	12	68	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 2 (H) Cpot A	12	69	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 2 (H) Cpot B	12	71	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 2 (H) Cpot C	12	72	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 3 (H) Cpot A	12	74	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 3 (H) Cpot B	12	75	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 3 (H) Cpot C	12	77	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 4 (H) Cpot A	12	78	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 4 (H) Cpot B	12	80	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 5 (H) Cpot A	12	81	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 5 (H) Cpot B	12	83	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
-Act 5 (H) Cpot C	12	85	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 1 Cpot A	12	0	1					0	Hpotion 1	1																												0
+Act 1 Cpot B	12	5	1					0	Hpotion 1	1																												0
+Act 1 Cpot C	12	9	1					0	Hpotion 1	1																												0
+Act 2 Cpot A	12	12	1					0	Hpotion 2	1																												0
+Act 2 Cpot B	12	15	1					0	Hpotion 2	1																												0
+Act 2 Cpot C	12	18	1					0	Hpotion 2	1																												0
+Act 3 Cpot A	12	20	1					0	Hpotion 3	1																												0
+Act 3 Cpot B	12	22	1					0	Hpotion 3	1																												0
+Act 3 Cpot C	12	24	1					0	Hpotion 3	1																												0
+Act 4 Cpot A	12	26	1					0	Hpotion 3	1	Hpotion 4	2																										0
+Act 4 Cpot B	12	29	1					0	Hpotion 3	1	Hpotion 4	2																										0
+Act 5 Cpot A	12	32	1					0	Hpotion 4	1	Hpotion 5	2																										0
+Act 5 Cpot B	12	34	1					0	Hpotion 4	1	Hpotion 5	2																										0
+Act 5 Cpot C	12	36	1					0	Hpotion 4	1	Hpotion 5	2																										0
+Act 1 (N) Cpot A	12	38	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
+Act 1 (N) Cpot B	12	40	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
+Act 1 (N) Cpot C	12	41	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
+Act 2 (N) Cpot A	12	42	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
+Act 2 (N) Cpot B	12	44	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
+Act 2 (N) Cpot C	12	45	1					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																								0
+Act 3 (N) Cpot A	12	46	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 3 (N) Cpot B	12	48	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 3 (N) Cpot C	12	50	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 4 (N) Cpot A	12	51	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 4 (N) Cpot B	12	54	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 5 (N) Cpot A	12	57	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 5 (N) Cpot B	12	60	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 5 (N) Cpot C	12	62	1					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 1 (H) Cpot A	12	63	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 1 (H) Cpot B	12	66	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 1 (H) Cpot C	12	68	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 2 (H) Cpot A	12	69	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 2 (H) Cpot B	12	71	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 2 (H) Cpot C	12	72	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 3 (H) Cpot A	12	74	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 3 (H) Cpot B	12	75	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 3 (H) Cpot C	12	77	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 4 (H) Cpot A	12	78	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 4 (H) Cpot B	12	80	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 5 (H) Cpot A	12	81	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 5 (H) Cpot B	12	83	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
+Act 5 (H) Cpot C	12	85	1					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																						0
 Act 1 Champ A	13	0	-2					0	Act 1 Citem A	1	Act 1 Cpot A	1																										0
 Act 1 Champ B	13	5	-2					0	Act 1 Citem B	1	Act 1 Cpot B	1																										0
 Act 1 Champ C	13	9	-2					0	Act 1 Citem C	1	Act 1 Cpot C	1																										0
@@ -703,48 +703,48 @@ Act 4 (H) Uitem B	14	80	1	800	800	800	1024	0	Act 4 (H) Equip B	58	Act 4 (H) Good
 Act 5 (H) Uitem A	14	81	1	800	800	800	1024	0	Act 5 (H) Equip A	58	Act 5 (H) Good	4	Act 1 Worldstone Shard Parent	2																								0
 Act 5 (H) Uitem B	14	83	1	800	800	800	1024	0	Act 5 (H) Equip B	58	Act 5 (H) Good	4	Act 1 Worldstone Shard Parent	2																								0
 Act 5 (H) Uitem C	14	85	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	Act 1 Worldstone Shard Parent	2																								0
-Act 1 Unique A	15	0	-4					0	Act 1 Uitem A	2	Act 1 Cpot A	2																										0
-Act 1 Unique B	15	5	-4					0	Act 1 Uitem B	2	Act 1 Cpot B	2																										0
-Act 1 Unique C	15	9	-4					0	Act 1 Uitem C	2	Act 1 Cpot C	2																										0
-Act 2 Unique A	15	12	-4					0	Act 2 Uitem A	2	Act 2 Cpot A	2																										0
-Act 2 Unique B	15	15	-4					0	Act 2 Uitem B	2	Act 2 Cpot B	2																										0
-Act 2 Unique C	15	18	-4					0	Act 2 Uitem C	2	Act 2 Cpot C	2																										0
-Act 3 Unique A	15	20	-4					0	Act 3 Uitem A	2	Act 3 Cpot A	2																										0
-Act 3 Unique B	15	22	-4					0	Act 3 Uitem B	2	Act 3 Cpot B	2																										0
-Act 3 Unique C	15	24	-4					0	Act 3 Uitem C	2	Act 3 Cpot C	2																										0
-Act 4 Unique A	15	26	-4					0	Act 4 Uitem A	2	Act 4 Cpot A	2																										0
-Act 4 Unique B	15	29	-4					0	Act 4 Uitem B	2	Act 4 Cpot B	2																										0
-Act 5 Unique A	15	32	-4					0	Act 5 Uitem A	2	Act 5 Cpot A	2																										0
-Act 5 Unique B	15	34	-4					0	Act 5 Uitem B	2	Act 5 Cpot B	2																										0
-Act 5 Unique C	15	36	-4					0	Act 5 Uitem C	2	Act 5 Cpot C	2																										0
-Act 1 (N) Unique A	15	38	-4					0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																										0
-Act 1 (N) Unique B	15	40	-4					0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																										0
-Act 1 (N) Unique C	15	41	-4					0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																										0
-Act 2 (N) Unique A	15	42	-4					0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																										0
-Act 2 (N) Unique B	15	44	-4					0	Act 2 (N) Uitem B	2	Act 2 (N) Cpot B	2																										0
-Act 2 (N) Unique C	15	45	-4					0	Act 2 (N) Uitem C	2	Act 2 (N) Cpot C	2																										0
-Act 3 (N) Unique A	15	46	-4					0	Act 3 (N) Uitem A	2	Act 3 (N) Cpot A	2																										0
-Act 3 (N) Unique B	15	48	-4					0	Act 3 (N) Uitem B	2	Act 3 (N) Cpot B	2																										0
-Act 3 (N) Unique C	15	50	-4					0	Act 3 (N) Uitem C	2	Act 3 (N) Cpot C	2																										0
-Act 4 (N) Unique A	15	51	-4					0	Act 4 (N) Uitem A	2	Act 4 (N) Cpot A	2																										0
-Act 4 (N) Unique B	15	54	-4					0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																										0
-Act 5 (N) Unique A	15	57	-4					0	Act 5 (N) Uitem A	2	Act 5 (N) Cpot A	2																										0
-Act 5 (N) Unique B	15	60	-4					0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																										0
-Act 5 (N) Unique C	15	62	-4					0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																										0
-Act 1 (H) Unique A	15	63	-4					0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																										0
-Act 1 (H) Unique B	15	66	-4					0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																										0
-Act 1 (H) Unique C	15	68	-4					0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																										0
-Act 2 (H) Unique A	15	69	-4					0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																										0
-Act 2 (H) Unique B	15	71	-4					0	Act 2 (H) Uitem B	2	Act 2 (H) Cpot B	2																										0
-Act 2 (H) Unique C	15	72	-4					0	Act 2 (H) Uitem C	2	Act 2 (H) Cpot C	2																										0
-Act 3 (H) Unique A	15	74	-4					0	Act 3 (H) Uitem A	2	Act 3 (H) Cpot A	2																										0
-Act 3 (H) Unique B	15	75	-4					0	Act 3 (H) Uitem B	2	Act 3 (H) Cpot B	2																										0
-Act 3 (H) Unique C	15	77	-4					0	Act 3 (H) Uitem C	2	Act 3 (H) Cpot C	2																										0
-Act 4 (H) Unique A	15	78	-4					0	Act 4 (H) Uitem A	2	Act 4 (H) Cpot A	2																										0
-Act 4 (H) Unique B	15	80	-4					0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																										0
-Act 5 (H) Unique A	15	81	-4					0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																										0
-Act 5 (H) Unique B	15	83	-4					0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																										0
-Act 5 (H) Unique C	15	85	-4					0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																										0
+Act 1 Unique A	15	0	-3					0	Act 1 Uitem A	2	Act 1 Cpot A	1																										0
+Act 1 Unique B	15	5	-3					0	Act 1 Uitem B	2	Act 1 Cpot B	1																										0
+Act 1 Unique C	15	9	-3					0	Act 1 Uitem C	2	Act 1 Cpot C	1																										0
+Act 2 Unique A	15	12	-3					0	Act 2 Uitem A	2	Act 2 Cpot A	1																										0
+Act 2 Unique B	15	15	-3					0	Act 2 Uitem B	2	Act 2 Cpot B	1																										0
+Act 2 Unique C	15	18	-3					0	Act 2 Uitem C	2	Act 2 Cpot C	1																										0
+Act 3 Unique A	15	20	-3					0	Act 3 Uitem A	2	Act 3 Cpot A	1																										0
+Act 3 Unique B	15	22	-3					0	Act 3 Uitem B	2	Act 3 Cpot B	1																										0
+Act 3 Unique C	15	24	-3					0	Act 3 Uitem C	2	Act 3 Cpot C	1																										0
+Act 4 Unique A	15	26	-3					0	Act 4 Uitem A	2	Act 4 Cpot A	1																										0
+Act 4 Unique B	15	29	-3					0	Act 4 Uitem B	2	Act 4 Cpot B	1																										0
+Act 5 Unique A	15	32	-3					0	Act 5 Uitem A	2	Act 5 Cpot A	1																										0
+Act 5 Unique B	15	34	-3					0	Act 5 Uitem B	2	Act 5 Cpot B	1																										0
+Act 5 Unique C	15	36	-3					0	Act 5 Uitem C	2	Act 5 Cpot C	1																										0
+Act 1 (N) Unique A	15	38	-3					0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	1																										0
+Act 1 (N) Unique B	15	40	-3					0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	1																										0
+Act 1 (N) Unique C	15	41	-3					0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	1																										0
+Act 2 (N) Unique A	15	42	-3					0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	1																										0
+Act 2 (N) Unique B	15	44	-3					0	Act 2 (N) Uitem B	2	Act 2 (N) Cpot B	1																										0
+Act 2 (N) Unique C	15	45	-3					0	Act 2 (N) Uitem C	2	Act 2 (N) Cpot C	1																										0
+Act 3 (N) Unique A	15	46	-3					0	Act 3 (N) Uitem A	2	Act 3 (N) Cpot A	1																										0
+Act 3 (N) Unique B	15	48	-3					0	Act 3 (N) Uitem B	2	Act 3 (N) Cpot B	1																										0
+Act 3 (N) Unique C	15	50	-3					0	Act 3 (N) Uitem C	2	Act 3 (N) Cpot C	1																										0
+Act 4 (N) Unique A	15	51	-3					0	Act 4 (N) Uitem A	2	Act 4 (N) Cpot A	1																										0
+Act 4 (N) Unique B	15	54	-3					0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	1																										0
+Act 5 (N) Unique A	15	57	-3					0	Act 5 (N) Uitem A	2	Act 5 (N) Cpot A	1																										0
+Act 5 (N) Unique B	15	60	-3					0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	1																										0
+Act 5 (N) Unique C	15	62	-3					0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	1																										0
+Act 1 (H) Unique A	15	63	-3					0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	1																										0
+Act 1 (H) Unique B	15	66	-3					0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	1																										0
+Act 1 (H) Unique C	15	68	-3					0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	1																										0
+Act 2 (H) Unique A	15	69	-3					0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	1																										0
+Act 2 (H) Unique B	15	71	-3					0	Act 2 (H) Uitem B	2	Act 2 (H) Cpot B	1																										0
+Act 2 (H) Unique C	15	72	-3					0	Act 2 (H) Uitem C	2	Act 2 (H) Cpot C	1																										0
+Act 3 (H) Unique A	15	74	-3					0	Act 3 (H) Uitem A	2	Act 3 (H) Cpot A	1																										0
+Act 3 (H) Unique B	15	75	-3					0	Act 3 (H) Uitem B	2	Act 3 (H) Cpot B	1																										0
+Act 3 (H) Unique C	15	77	-3					0	Act 3 (H) Uitem C	2	Act 3 (H) Cpot C	1																										0
+Act 4 (H) Unique A	15	78	-3					0	Act 4 (H) Uitem A	2	Act 4 (H) Cpot A	1																										0
+Act 4 (H) Unique B	15	80	-3					0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	1																										0
+Act 5 (H) Unique A	15	81	-3					0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	1																										0
+Act 5 (H) Unique B	15	83	-3					0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	1																										0
+Act 5 (H) Unique C	15	85	-3					0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	1																										0
 Quill 1	16	0	1					125	gld	19	Act 1 Junk	19																										0
 Quill 2	16	4	1					125	gld	19	Act 1 Junk	19																										0
 Quill 3	16	8	1					125	gld	19	Act 1 Junk	19	Act 1 Good	1																								0
@@ -810,23 +810,23 @@ Duriel (H) - Base Desecrated D			7	983	983	983	1024	19	"gld,mul=2048"	11	Act 5 (
 Durielq - Base			7	993	993	1024	1024	19	Act 3 Equip A	19	Act 3 Good	3																										0
 Durielq (N) - Base			7	993	993	1024	1024	19	Act 3 (N) Equip A	19	Act 3 (N) Good	3																										0
 Durielq (H) - Base			7	993	993	1024	1024	19	Act 3 (H) Equip A	19	Act 3 (H) Good	3	tes	2																								0
-Radament			5	900	900	900	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Junk	15	Act 3 Good	3																						0
-Radament Desecrated A	21	19	5	900	900	900	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Junk	15	Act 3 Good	3																						0
-Radament Desecrated B	21	33	5	900	900	900	1024	19	"gld,mul=1280"	11	Act 4 Equip B	19	Act 4 Junk	15	Act 4 Good	3																						0
-Radament Desecrated C	21	48	5	900	900	900	1024	19	"gld,mul=1280"	11	Act 3 (N) Equip A	19	Act 3 (N) Junk	15	Act 3 (N) Good	3																						0
-Radament (N)			5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (N) Equip B	19	Act 3 (N) Junk	15	Act 3 (N) Good	3																						0
-Radament (N) Desecrated A	21	52	5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (N) Equip C	19	Act 3 (N) Junk	15	Act 3 (N) Good	3																						0
-Radament (N) Desecrated B	21	62	5	900	900	900	1024	19	"gld,mul=1536"	11	Act 5 (N) Equip A	19	Act 5 (N) Junk	15	Act 5 (N) Good	3																						0
-Radament (N) Desecrated C	21	73	5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (H) Equip A	19	Act 3 (H) Junk	15	Act 3 (H) Good	3																						0
-Radament (H)			5	900	900	900	1024	19	"gld,mul=2048"	11	Act 3 (H) Equip C	19	Act 3 (H) Junk	15	Act 3 (H) Good	3																						0
+Radament			5	900	900	900	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Junk	15	Act 3 Good	3	Runes 4	3																				0
+Radament Desecrated A	21	19	5	900	900	900	1024	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Junk	15	Act 3 Good	3	Runes 4	3																				0
+Radament Desecrated B	21	33	5	900	900	900	1024	19	"gld,mul=1280"	11	Act 4 Equip B	19	Act 4 Junk	15	Act 4 Good	3	Runes 4	3																				0
+Radament Desecrated C	21	48	5	900	900	900	1024	19	"gld,mul=1280"	11	Act 3 (N) Equip A	19	Act 3 (N) Junk	15	Act 3 (N) Good	3	Runes 4	3																				0
+Radament (N)			5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (N) Equip B	19	Act 3 (N) Junk	15	Act 3 (N) Good	3	Runes 6	3																				0
+Radament (N) Desecrated A	21	52	5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (N) Equip C	19	Act 3 (N) Junk	15	Act 3 (N) Good	3	Runes 6	3																				0
+Radament (N) Desecrated B	21	62	5	900	900	900	1024	19	"gld,mul=1536"	11	Act 5 (N) Equip A	19	Act 5 (N) Junk	15	Act 5 (N) Good	3	Runes 6	3																				0
+Radament (N) Desecrated C	21	73	5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (H) Equip A	19	Act 3 (H) Junk	15	Act 3 (H) Good	3	Runes 6	3																				0
+Radament (H)			5	900	900	900	1024	19	"gld,mul=2048"	11	Act 3 (H) Equip C	19	Act 3 (H) Junk	15	Act 3 (H) Good	3	Runes 6	3																				0
 Radament Item (H) Desecrated A			5	900	900	900	1024	19	"gld,mul=2048"	11	Act 4 (H) Equip B	19	Act 4 (H) Junk	15	Act 4 (H) Good	3																						0
 Radament Item (H) Desecrated B			5	900	900	900	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip A	19	Act 5 (H) Junk	15	Act 5 (H) Good	3																						0
 Radament Item (H) Desecrated C			5	900	900	900	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip B	19	Act 5 (H) Junk	15	Act 5 (H) Good	3																						0
 Radament Item (H) Desecrated D			5	900	900	900	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip C	19	Act 5 (H) Junk	15	Act 5 (H) Good	3																						0
-Radament (H) Desecrated A	21	86	-1					0	Radament Item (H) Desecrated A	1																												0
-Radament (H) Desecrated B	21	90	-1					0	Radament Item (H) Desecrated B	1																												0
-Radament (H) Desecrated C	21	93	-1					0	Radament Item (H) Desecrated C	1																												0
-Radament (H) Desecrated D	21	96	-1					0	Radament Item (H) Desecrated D	1																												0
+Radament (H) Desecrated A	21	86	-2					0	Radament Item (H) Desecrated A	1	Runes 8	1																										0
+Radament (H) Desecrated B	21	90	-2					0	Radament Item (H) Desecrated B	1	Runes 8	1																										0
+Radament (H) Desecrated C	21	93	-2					0	Radament Item (H) Desecrated C	1	Runes 8	1																										0
+Radament (H) Desecrated D	21	96	-2					0	Radament Item (H) Desecrated D	1	Runes 8	1																										0
 Flying Scimitar			1					100	Act 2 Good	3	scm	57																										0
 Flying Scimitar (N)			1					100	Act 2 (N) Good	3	scm	25	9sm	32																								0
 Flying Scimitar (H)			1					100	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32																						0
@@ -865,14 +865,14 @@ Diablo (H) Desecrated B	23	96	-1					0	Diablo Item (H) Desecrated B	1											
 Diabloq			7	993	993	1024	1024	15	Act 5 Equip A	52	Act 5 Good	3																										0
 Diabloq (N)			7	993	993	1024	1024	15	Act 5 (N) Equip A	52	Act 5 (N) Good	3																										0
 Diabloq (H)			7	993	993	1024	1024	15	Act 5 (H) Equip A	52	Act 5 (H) Good	3	bet	1																								0
-Summoner			5	900	900	972	1024	19	"gld,mul=1280"	9	Act 2 Equip C	15	Act 3 Junk	5	Act 2 Good	3	Act 3 Magic A	4																				0
-Summoner Desecrated A	24	18	5	900	900	972	1024	19	"gld,mul=1280"	9	Act 2 Equip C	15	Act 3 Junk	5	Act 2 Good	3	Act 3 Magic A	4																				0
-Summoner Desecrated B	24	32	5	900	900	972	1024	19	"gld,mul=1280"	9	Act 4 Equip B	15	Act 5 Junk	5	Act 4 Good	3	Act 5 Magic A	4																				0
-Summoner Desecrated C	24	48	5	900	900	972	1024	19	"gld,mul=1280"	9	Act 3 (N) Equip C	15	Act 4 (N) Junk	5	Act 3 (N) Good	3	Act 4 (N) Magic A	4																				0
-Summoner (N)			5	900	900	972	1024	19	"gld,mul=1536"	9	Act 2 (N) Equip C	15	Act 3 (N) Junk	5	Act 2 (N) Good	3	Act 3 (N) Magic A	4																				0
-Summoner (N) Desecrated A	24	55	5	900	900	972	1024	19	"gld,mul=1536"	9	Act 4 (N) Equip A	15	Act 5 (N) Junk	5	Act 4 (N) Good	3	Act 5 (N) Magic A	4																				0
-Summoner (N) Desecrated B	24	63	5	900	900	972	1024	19	"gld,mul=1536"	9	Act 5 (N) Equip A	15	Act 1 (H) Junk	5	Act 5 (N) Good	3	Act 1 (H) Magic A	4																				0
-Summoner (N) Desecrated C	24	73	5	900	900	972	1024	19	"gld,mul=1536"	9	Act 3 (H) Equip A	15	Act 3 (H) Junk	5	Act 3 (H) Good	3	Act 3 (H) Magic A	4																				0
+Summoner			5	900	900	972	1024	19	"gld,mul=1280"	9	Act 2 Equip C	15	Act 3 Junk	5	Act 2 Good	3	Act 3 Magic A	4	Runes 3	3																		0
+Summoner Desecrated A	24	18	5	900	900	972	1024	19	"gld,mul=1280"	9	Act 2 Equip C	15	Act 3 Junk	5	Act 2 Good	3	Act 3 Magic A	4	Runes 4	3																		0
+Summoner Desecrated B	24	32	5	900	900	972	1024	19	"gld,mul=1280"	9	Act 4 Equip B	15	Act 5 Junk	5	Act 4 Good	3	Act 5 Magic A	4	Runes 4	3																		0
+Summoner Desecrated C	24	48	5	900	900	972	1024	19	"gld,mul=1280"	9	Act 3 (N) Equip C	15	Act 4 (N) Junk	5	Act 3 (N) Good	3	Act 4 (N) Magic A	4	Runes 4	3																		0
+Summoner (N)			5	900	900	972	1024	19	"gld,mul=1536"	9	Act 2 (N) Equip C	15	Act 3 (N) Junk	5	Act 2 (N) Good	3	Act 3 (N) Magic A	4	Runes 5	3																		0
+Summoner (N) Desecrated A	24	55	5	900	900	972	1024	19	"gld,mul=1536"	9	Act 4 (N) Equip A	15	Act 5 (N) Junk	5	Act 4 (N) Good	3	Act 5 (N) Magic A	4	Runes 7	3																		0
+Summoner (N) Desecrated B	24	63	5	900	900	972	1024	19	"gld,mul=1536"	9	Act 5 (N) Equip A	15	Act 1 (H) Junk	5	Act 5 (N) Good	3	Act 1 (H) Magic A	4	Runes 7	3																		0
+Summoner (N) Desecrated C	24	73	5	900	900	972	1024	19	"gld,mul=1536"	9	Act 3 (H) Equip A	15	Act 3 (H) Junk	5	Act 3 (H) Good	3	Act 3 (H) Magic A	4	Runes 7	3																		0
 Summoner (H)			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 2 (H) Equip C	15	Act 3 (H) Junk	5	Act 2 (H) Good	3	Act 3 (H) Magic A	4	pk2	1																		0
 Summoner Item (H) Desecrated A			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 4 (H) Equip A	15	Act 5 (H) Junk	5	Act 4 (H) Good	3	Act 5 (H) Magic A	4	pk2	1																		0
 Summoner Item (H) Desecrated B			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 4 (H) Equip B	15	Act 5 (H) Junk	5	Act 4 (H) Good	3	Act 5 (H) Magic B	4	pk2	1																		0
@@ -880,12 +880,12 @@ Summoner Item (H) Desecrated C			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 4 (H
 Summoner Item (H) Desecrated D			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 5 (H) Equip A	15	Act 5 (H) Junk	5	Act 5 (H) Good	3	Act 5 (H) Magic C	4	pk2	1																		0
 Summoner Item (H) Desecrated E			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 5 (H) Equip B	15	Act 5 (H) Junk	5	Act 5 (H) Good	3	Act 5 (H) Magic C	4	pk2	1																		0
 Summoner Item (H) Desecrated F			5	900	900	972	1024	19	"gld,mul=2048"	9	Act 5 (H) Equip C	15	Act 5 (H) Junk	5	Act 5 (H) Good	3	Act 5 (H) Magic C	4	pk2	1																		0
-Summoner (H) Desecrated A	24	80	-1					0	Summoner Item (H) Desecrated A	1																												0
-Summoner (H) Desecrated B	24	84	-1					0	Summoner Item (H) Desecrated B	1																												0
-Summoner (H) Desecrated C	24	87	-1					0	Summoner Item (H) Desecrated C	1																												0
-Summoner (H) Desecrated D	24	90	-1					0	Summoner Item (H) Desecrated D	1																												0
-Summoner (H) Desecrated E	24	93	-1					0	Summoner Item (H) Desecrated E	1																												0
-Summoner (H) Desecrated F	24	96	-1					0	Summoner Item (H) Desecrated F	1																												0
+Summoner (H) Desecrated A	24	80	-2					0	Summoner Item (H) Desecrated A	1	Runes 9	1																										0
+Summoner (H) Desecrated B	24	84	-2					0	Summoner Item (H) Desecrated B	1	Runes 9	1																										0
+Summoner (H) Desecrated C	24	87	-2					0	Summoner Item (H) Desecrated C	1	Runes 9	1																										0
+Summoner (H) Desecrated D	24	90	-2					0	Summoner Item (H) Desecrated D	1	Runes 9	1																										0
+Summoner (H) Desecrated E	24	93	-2					0	Summoner Item (H) Desecrated E	1	Runes 9	1																										0
+Summoner (H) Desecrated F	24	96	-2					0	Summoner Item (H) Desecrated F	1	Runes 9	1																										0
 Council			3	650	800	800	1024	19	"gld,mul=1280"	9	Act 4 Equip A	15	Act 4 Junk	5	Act 4 Good	3	Act 4 Magic A	4																				0
 Council Desecrated A	25	28	3	650	800	800	1024	19	"gld,mul=1280"	9	Act 4 Equip B	15	Act 4 Junk	5	Act 4 Good	3	Act 4 Magic B	4																				0
 Council Desecrated B	25	38	3	650	800	800	1024	19	"gld,mul=1280"	9	Act 5 Equip C	15	Act 5 Junk	5	Act 5 Good	3	Act 5 Magic C	4																				0
@@ -905,25 +905,25 @@ Council (H) Desecrated B	25	87	-1					0	Council Item (H) Desecrated B	1									
 Council (H) Desecrated C	25	90	-1					0	Council Item (H) Desecrated C	1																												0
 Council (H) Desecrated D	25	93	-1					0	Council Item (H) Desecrated D	1																												0
 Council (H) Desecrated E	25	96	-1					0	Council Item (H) Desecrated E	1																												0
-Griswold			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																										0
-Griswold Desecrated A	26	8	-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																										0
-Griswold Desecrated B	26	29	-3					0	Act 4 Uitem B	1	Act 4 Melee A	2																										0
-Griswold Desecrated C	26	48	-3					0	Act 3 (N) Uitem A	1	Act 2 (N) Melee B	2																										0
-Griswold (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																										0
-Griswold (N) Desecrated A	26	42	-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																										0
-Griswold (N) Desecrated B	26	57	-3					0	Act 1 (H) Uitem C	1	Act 3 (N) Melee B	2																										0
-Griswold (N) Desecrated C	26	73	-3					0	Act 3 (H) Uitem C	1	Act 3 (H) Melee B	2																										0
-Griswold (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																										0
-Griswold (H) Desecrated A	26	87	-3					0	Act 4 (H) Uitem B	1	Act 4 (H) Melee A	2																										0
-Griswold (H) Desecrated B	26	90	-3					0	Act 5 (H) Uitem A	1	Act 4 (H) Melee B	2																										0
-Griswold (H) Desecrated C	26	93	-3					0	Act 5 (H) Uitem B	1	Act 5 (H) Melee A	2																										0
-Griswold (H) Desecrated D	26	96	-3					0	Act 5 (H) Uitem C	1	Act 5 (H) Melee B	2																										0
-Cow			1					100	gld	19	Act 5 Equip A	19	Act 5 Junk	19	Act 5 Good	3																						0
-Cow (N)			1					100	gld	19	Act 5 (N) Equip A	19	Act 5 (N) Junk	19	Act 5 (N) Good	3																						0
-Cow (H)			1					100	gld	19	Act 5 (H) Equip B	19	Act 5 (H) Junk	19	Act 5 (H) Good	3																						0
-Trapped Soul			1					100	gld	19	Act 4 Equip A	8	Act 4 Junk	33																								0
-Trapped Soul (N)			1					100	gld	19	Act 4 (N) Equip A	8	Act 4 (N) Junk	33																								0
-Trapped Soul (H)			1					100	gld	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33																								0
+Griswold			-4					0	Act 1 Uitem C	1	Act 1 Melee B	2	Runes 2	1																								0
+Griswold Desecrated A	26	8	-4					0	Act 1 Uitem C	1	Act 1 Melee B	2	Runes 3	1																								0
+Griswold Desecrated B	26	29	-4					0	Act 4 Uitem B	1	Act 4 Melee A	2	Runes 3	1																								0
+Griswold Desecrated C	26	48	-4					0	Act 3 (N) Uitem A	1	Act 2 (N) Melee B	2	Runes 3	1																								0
+Griswold (N)			-4					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2	Runes 4	1																								0
+Griswold (N) Desecrated A	26	42	-4					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2	Runes 5	1																								0
+Griswold (N) Desecrated B	26	57	-4					0	Act 1 (H) Uitem C	1	Act 3 (N) Melee B	2	Runes 5	1																								0
+Griswold (N) Desecrated C	26	73	-4					0	Act 3 (H) Uitem C	1	Act 3 (H) Melee B	2	Runes 5	1																								0
+Griswold (H)			-4					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2	Runes 5	1																								0
+Griswold (H) Desecrated A	26	87	-4					0	Act 4 (H) Uitem B	1	Act 4 (H) Melee A	2	Runes 6	1																								0
+Griswold (H) Desecrated B	26	90	-4					0	Act 5 (H) Uitem A	1	Act 4 (H) Melee B	2	Runes 6	1																								0
+Griswold (H) Desecrated C	26	93	-4					0	Act 5 (H) Uitem B	1	Act 5 (H) Melee A	2	Runes 6	1																								0
+Griswold (H) Desecrated D	26	96	-4					0	Act 5 (H) Uitem C	1	Act 5 (H) Melee B	2	Runes 6	1																								0
+Cow			-1					0	"gld,mul=200"	1																												0
+Cow (N)			-1					0	"gld,mul=200"	1																												0
+Cow (H)			-1					0	"gld,mul=200"	1																												0
+Trapped Soul			-1					0	"gld,mul=200"	1																												0
+Trapped Soul (N)			-1					0	"gld,mul=200"	1																												0
+Trapped Soul (H)			-1					0	"gld,mul=200"	1																												0
 Haphesto			5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3																						0
 Haphesto Desecrated A	27	28	5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3																						0
 Haphesto Desecrated B	27	38	5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip C	19	Act 5 Junk	5	Act 5 Good	3																						0
@@ -956,23 +956,23 @@ Baal (H) Desecrated	29	99	-1					0	Baal Item (H) Desecrated	1																			
 Baalq			7	993	993	1024	1024	15	Act 1 (N) Equip A	52	Act 1 (N) Good	3																										0
 Baalq (N)			7	993	993	1024	1024	15	Act 1 (H) Equip A	52	Act 1 (H) Good	3																										0
 Baalq (H)			7	993	993	1024	1024	15	Act 5 (H) Equip B	52	Act 5 (H) Good	3	fed	1																								0
-Blood Raven			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 1 Equip B	19	Act 1 Junk	5	Act 1 Good	3																						0
-Blood Raven Desecrated A	30	10	5	800	800	972	1024	19	"gld,mul=1280"	14	Act 1 Equip C	19	Act 1 Junk	5	Act 1 Good	3																						0
-Blood Raven Desecrated B	30	29	5	800	800	972	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																						0
-Blood Raven Desecrated C	30	48	5	800	800	972	1024	19	"gld,mul=1280"	14	Act 3 (N) Equip A	19	Act 3 (N) Junk	5	Act 3 (N) Good	3																						0
-Blood Raven (N)			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 1 (N) Equip B	19	Act 1 (N) Junk	5	Act 1 (N) Good	3																						0
-Blood Raven (N) Desecrated A	30	43	5	800	800	972	1024	19	"gld,mul=1536"	14	Act 1 (N) Equip C	19	Act 1 (N) Junk	5	Act 1 (N) Good	3																						0
-Blood Raven (N) Desecrated B	30	57	5	800	800	972	1024	19	"gld,mul=1536"	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3																						0
-Blood Raven (N) Desecrated C	30	73	5	800	800	972	1024	19	"gld,mul=1536"	14	Act 3 (H) Equip A	19	Act 3 (H) Junk	5	Act 3 (H) Good	3																						0
+Blood Raven			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 1 Equip B	19	Act 1 Junk	5	Act 1 Good	3	Runes 3	4																				0
+Blood Raven Desecrated A	30	10	5	800	800	972	1024	19	"gld,mul=1280"	14	Act 1 Equip C	19	Act 1 Junk	5	Act 1 Good	3	Runes 3	4																				0
+Blood Raven Desecrated B	30	29	5	800	800	972	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3	Runes 3	4																				0
+Blood Raven Desecrated C	30	48	5	800	800	972	1024	19	"gld,mul=1280"	14	Act 3 (N) Equip A	19	Act 3 (N) Junk	5	Act 3 (N) Good	3	Runes 3	4																				0
+Blood Raven (N)			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 1 (N) Equip B	19	Act 1 (N) Junk	5	Act 1 (N) Good	3	Runes 5	4																				0
+Blood Raven (N) Desecrated A	30	43	5	800	800	972	1024	19	"gld,mul=1536"	14	Act 1 (N) Equip C	19	Act 1 (N) Junk	5	Act 1 (N) Good	3	Runes 5	4																				0
+Blood Raven (N) Desecrated B	30	57	5	800	800	972	1024	19	"gld,mul=1536"	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3	Runes 5	4																				0
+Blood Raven (N) Desecrated C	30	73	5	800	800	972	1024	19	"gld,mul=1536"	14	Act 3 (H) Equip A	19	Act 3 (H) Junk	5	Act 3 (H) Good	3	Runes 5	4																				0
 Blood Raven (H)			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 1 (H) Equip B	19	Act 1 (H) Junk	5	Act 1 (H) Good	3																						0
 Blood Raven Item (H) Desecrated A			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 4 (H) Equip B	19	Act 4 (H) Junk	5	Act 4 (H) Good	3																						0
 Blood Raven Item (H) Desecrated B			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																						0
 Blood Raven Item (H) Desecrated C			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																						0
 Blood Raven Item (H) Desecrated D			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip C	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																						0
-Blood Raven (H) Desecrated A	30	88	-1					0	Blood Raven Item (H) Desecrated A	1																												0
-Blood Raven (H) Desecrated B	30	90	-1					0	Blood Raven Item (H) Desecrated B	1																												0
-Blood Raven (H) Desecrated C	30	93	-1					0	Blood Raven Item (H) Desecrated C	1																												0
-Blood Raven (H) Desecrated D	30	96	-1					0	Blood Raven Item (H) Desecrated D	1																												0
+Blood Raven (H) Desecrated A	30	88	-2					0	Blood Raven Item (H) Desecrated A	1	Runes 7	1																										0
+Blood Raven (H) Desecrated B	30	90	-2					0	Blood Raven Item (H) Desecrated B	1	Runes 7	1																										0
+Blood Raven (H) Desecrated C	30	93	-2					0	Blood Raven Item (H) Desecrated C	1	Runes 7	1																										0
+Blood Raven (H) Desecrated D	30	96	-2					0	Blood Raven Item (H) Desecrated D	1	Runes 7	1																										0
 Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																										0
 Smith Desecrated A	31	13	-3					0	Act 2 Uitem A	1	Act 2 Melee A	2																										0
 Smith Desecrated B	31	32	-3					0	Act 4 Uitem B	1	Act 4 Melee B	2																										0
@@ -1008,96 +1008,96 @@ Izual (H) Desecrated A	32	86	-1					0	Izual Item (H) Desecrated A	1													
 Izual (H) Desecrated B	32	90	-1					0	Izual Item (H) Desecrated B	1																												0
 Izual (H) Desecrated C	32	93	-1					0	Izual Item (H) Desecrated C	1																												0
 Izual (H) Desecrated D	32	96	-1					0	Izual Item (H) Desecrated D	1																												0
-Act 1 Super A	18	0	-5	800	800	972	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	2																										0
-Act 1 Super B	18	5	-5	800	800	972	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	2																										0
-Act 1 Super C	18	9	-5	800	800	972	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	2																										0
-Act 2 Super A	18	12	-5	800	800	972	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	2																										0
-Act 2 Super B	18	15	-5	800	800	972	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	2																										0
-Act 2 Super C	18	18	-5	800	800	972	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	2																										0
-Act 3 Super A	18	20	-5	800	800	972	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	2																										0
-Act 3 Super B	18	22	-5	800	800	972	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	2																										0
-Act 3 Super C	18	24	-5	800	800	972	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	2																										0
-Act 4 Super A	18	26	-5	800	800	972	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	2																										0
-Act 4 Super B	18	29	-5	800	800	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	2																										0
-Act 4 Super C	18	32	-5	800	800	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	2																										0
-Act 5 Super A	18	34	-5	800	800	972	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	2																										0
-Act 5 Super B	18	36	-5	800	800	972	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	2																										0
-Act 5 Super C	18	38	-5	800	800	972	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	2																										0
-Act 1 (N) Super A	18	40	-5	800	800	972	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	2																										0
-Act 1 (N) Super B	18	41	-5	800	800	972	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	2																										0
-Act 1 (N) Super C	18	42	-5	800	800	972	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	2																										0
-Act 2 (N) Super A	18	44	-5	800	800	972	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	2																										0
-Act 2 (N) Super B	18	45	-5	800	800	972	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	2																										0
-Act 2 (N) Super C	18	46	-5	800	800	972	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	2																										0
-Act 3 (N) Super A	18	48	-5	800	800	972	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	2																										0
-Act 3 (N) Super B	18	50	-5	800	800	972	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	2																										0
-Act 3 (N) Super C	18	51	-5	800	800	972	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	2																										0
-Act 4 (N) Super A	18	54	-5	800	800	972	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	2																										0
-Act 4 (N) Super B	18	57	-5	800	800	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	2																										0
-Act 4 (N) Super C	18	60	-5	800	800	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	2																										0
-Act 5 (N) Super A	18	62	-5	800	800	972	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	2																										0
-Act 5 (N) Super B	18	63	-5	800	800	972	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	2																										0
-Act 5 (N) Super C	18	66	-5	800	800	972	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	2																										0
-Act 1 (H) Super A	18	67	-5	800	800	972	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	2																										0
-Act 1 (H) Super B	18	67	-5	800	800	972	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	2																										0
-Act 1 (H) Super C	18	68	-5	800	800	972	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	2																										0
-Act 2 (H) Super A	18	68	-5	800	800	972	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	2																										0
-Act 2 (H) Super B	18	69	-5	800	800	972	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	2																										0
-Act 2 (H) Super C	18	72	-5	800	800	972	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	2																										0
-Act 3 (H) Super A	18	73	-5	800	800	972	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	2																										0
-Act 3 (H) Super B	18	75	-5	800	800	972	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	2																										0
-Act 3 (H) Super C	18	78	-5	800	800	972	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	2																										0
-Act 4 (H) Super A	18	81	-5	800	800	972	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	2																										0
-Act 4 (H) Super B	18	84	-5	800	800	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	2																										0
-Act 4 (H) Super C	18	87	-5	800	800	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	2																										0
-Act 5 (H) Super A	18	90	-5	800	800	972	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	2																										0
-Act 5 (H) Super B	18	93	-5	800	800	972	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	2																										0
-Act 5 (H) Super C	18	96	-5	800	800	972	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	2																										0
-Act 1 Super Ax	19	0	-5	512	654	972	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	2																										0
-Act 1 Super Bx	19	5	-5	512	654	972	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	2																										0
-Act 1 Super Cx	19	9	-5	512	654	972	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	2																										0
-Act 2 Super Ax	19	12	-5	512	654	972	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	2																										0
-Act 2 Super Bx	19	15	-5	512	654	972	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	2																										0
-Act 2 Super Cx	19	18	-5	512	654	972	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	2																										0
-Act 3 Super Ax	19	20	-5	512	654	972	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	2																										0
-Act 3 Super Bx	19	22	-5	512	654	972	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	2																										0
-Act 3 Super Cx	19	24	-5	512	654	972	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	2																										0
-Act 4 Super Ax	19	26	-5	512	654	972	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	2																										0
-Act 4 Super Bx	19	29	-5	512	654	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	2																										0
-Act 4 Super Cx	19	32	-5	512	654	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	2																										0
-Act 5 Super Ax	19	34	-5	512	654	972	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	2																										0
-Act 5 Super Bx	19	36	-5	512	654	972	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	2																										0
-Act 5 Super Cx	19	38	-5	512	654	972	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	2																										0
-Act 1 (N) Super Ax	19	40	-5	512	654	972	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	2																										0
-Act 1 (N) Super Bx	19	41	-5	512	654	972	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	2																										0
-Act 1 (N) Super Cx	19	42	-5	512	654	972	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	2																										0
-Act 2 (N) Super Ax	19	44	-5	512	654	972	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	2																										0
-Act 2 (N) Super Bx	19	45	-5	512	654	972	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	2																										0
-Act 2 (N) Super Cx	19	46	-5	512	654	972	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	2																										0
-Act 3 (N) Super Ax	19	48	-5	512	654	972	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	2																										0
-Act 3 (N) Super Bx	19	50	-5	512	654	972	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	2																										0
-Act 3 (N) Super Cx	19	51	-5	512	654	972	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	2																										0
-Act 4 (N) Super Ax	19	54	-5	512	654	972	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	2																										0
-Act 4 (N) Super Bx	19	57	-5	512	654	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	2																										0
-Act 4 (N) Super Cx	19	60	-5	512	654	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	2																										0
-Act 5 (N) Super Ax	19	62	-5	512	654	972	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	2																										0
-Act 5 (N) Super Bx	19	63	-5	512	654	972	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	2																										0
-Act 5 (N) Super Cx	19	66	-5	512	654	972	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	2																										0
-Act 1 (H) Super Ax	19	67	-5	512	654	972	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	2																										0
-Act 1 (H) Super Bx	19	67	-5	512	654	972	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	2																										0
-Act 1 (H) Super Cx	19	68	-5	512	654	972	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	2																										0
-Act 2 (H) Super Ax	19	68	-5	512	654	972	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	2																										0
-Act 2 (H) Super Bx	19	69	-5	512	654	972	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	2																										0
-Act 2 (H) Super Cx	19	72	-5	512	654	972	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	2																										0
-Act 3 (H) Super Ax	19	73	-5	512	654	972	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	2																										0
-Act 3 (H) Super Bx	19	75	-5	512	654	972	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	2																										0
-Act 3 (H) Super Cx	19	78	-5	512	654	972	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	2																										0
-Act 4 (H) Super Ax	19	81	-5	512	654	972	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	2																										0
-Act 4 (H) Super Bx	19	84	-5	512	654	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	2																										0
-Act 4 (H) Super Cx	19	87	-5	512	654	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	2																										0
-Act 5 (H) Super Ax	19	90	-5	512	654	972	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	2																										0
-Act 5 (H) Super Bx	19	93	-5	512	654	972	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	2																										0
-Act 5 (H) Super Cx	19	96	-5	512	654	972	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	2																										0
+Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	1																										0
+Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	1																										0
+Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	1																										0
+Act 2 Super A	18	12	-4	800	800	972	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	1																										0
+Act 2 Super B	18	15	-4	800	800	972	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	1																										0
+Act 2 Super C	18	18	-4	800	800	972	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	1																										0
+Act 3 Super A	18	20	-4	800	800	972	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	1																										0
+Act 3 Super B	18	22	-4	800	800	972	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	1																										0
+Act 3 Super C	18	24	-4	800	800	972	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	1																										0
+Act 4 Super A	18	26	-4	800	800	972	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	1																										0
+Act 4 Super B	18	29	-4	800	800	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	1																										0
+Act 4 Super C	18	32	-4	800	800	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	1																										0
+Act 5 Super A	18	34	-4	800	800	972	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	1																										0
+Act 5 Super B	18	36	-4	800	800	972	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	1																										0
+Act 5 Super C	18	38	-4	800	800	972	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	1																										0
+Act 1 (N) Super A	18	40	-4	800	800	972	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	1																										0
+Act 1 (N) Super B	18	41	-4	800	800	972	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	1																										0
+Act 1 (N) Super C	18	42	-4	800	800	972	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	1																										0
+Act 2 (N) Super A	18	44	-4	800	800	972	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	1																										0
+Act 2 (N) Super B	18	45	-4	800	800	972	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	1																										0
+Act 2 (N) Super C	18	46	-4	800	800	972	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	1																										0
+Act 3 (N) Super A	18	48	-4	800	800	972	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	1																										0
+Act 3 (N) Super B	18	50	-4	800	800	972	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	1																										0
+Act 3 (N) Super C	18	51	-4	800	800	972	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	1																										0
+Act 4 (N) Super A	18	54	-4	800	800	972	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	1																										0
+Act 4 (N) Super B	18	57	-4	800	800	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	1																										0
+Act 4 (N) Super C	18	60	-4	800	800	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	1																										0
+Act 5 (N) Super A	18	62	-4	800	800	972	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	1																										0
+Act 5 (N) Super B	18	63	-4	800	800	972	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	1																										0
+Act 5 (N) Super C	18	66	-4	800	800	972	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	1																										0
+Act 1 (H) Super A	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	1																										0
+Act 1 (H) Super B	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	1																										0
+Act 1 (H) Super C	18	68	-4	800	800	972	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	1																										0
+Act 2 (H) Super A	18	68	-4	800	800	972	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	1																										0
+Act 2 (H) Super B	18	69	-4	800	800	972	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	1																										0
+Act 2 (H) Super C	18	72	-4	800	800	972	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	1																										0
+Act 3 (H) Super A	18	73	-4	800	800	972	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	1																										0
+Act 3 (H) Super B	18	75	-4	800	800	972	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	1																										0
+Act 3 (H) Super C	18	78	-4	800	800	972	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	1																										0
+Act 4 (H) Super A	18	81	-4	800	800	972	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	1																										0
+Act 4 (H) Super B	18	84	-4	800	800	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	1																										0
+Act 4 (H) Super C	18	87	-4	800	800	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	1																										0
+Act 5 (H) Super A	18	90	-4	800	800	972	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	1																										0
+Act 5 (H) Super B	18	93	-4	800	800	972	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	1																										0
+Act 5 (H) Super C	18	96	-4	800	800	972	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	1																										0
+Act 1 Super Ax	19	0	-4	512	654	972	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	1																										0
+Act 1 Super Bx	19	5	-4	512	654	972	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	1																										0
+Act 1 Super Cx	19	9	-4	512	654	972	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	1																										0
+Act 2 Super Ax	19	12	-4	512	654	972	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	1																										0
+Act 2 Super Bx	19	15	-4	512	654	972	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	1																										0
+Act 2 Super Cx	19	18	-4	512	654	972	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	1																										0
+Act 3 Super Ax	19	20	-4	512	654	972	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	1																										0
+Act 3 Super Bx	19	22	-4	512	654	972	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	1																										0
+Act 3 Super Cx	19	24	-4	512	654	972	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	1																										0
+Act 4 Super Ax	19	26	-4	512	654	972	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	1																										0
+Act 4 Super Bx	19	29	-4	512	654	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	1																										0
+Act 4 Super Cx	19	32	-4	512	654	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	1																										0
+Act 5 Super Ax	19	34	-4	512	654	972	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	1																										0
+Act 5 Super Bx	19	36	-4	512	654	972	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	1																										0
+Act 5 Super Cx	19	38	-4	512	654	972	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	1																										0
+Act 1 (N) Super Ax	19	40	-4	512	654	972	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	1																										0
+Act 1 (N) Super Bx	19	41	-4	512	654	972	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	1																										0
+Act 1 (N) Super Cx	19	42	-4	512	654	972	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	1																										0
+Act 2 (N) Super Ax	19	44	-4	512	654	972	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	1																										0
+Act 2 (N) Super Bx	19	45	-4	512	654	972	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	1																										0
+Act 2 (N) Super Cx	19	46	-4	512	654	972	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	1																										0
+Act 3 (N) Super Ax	19	48	-4	512	654	972	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	1																										0
+Act 3 (N) Super Bx	19	50	-4	512	654	972	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	1																										0
+Act 3 (N) Super Cx	19	51	-4	512	654	972	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	1																										0
+Act 4 (N) Super Ax	19	54	-4	512	654	972	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	1																										0
+Act 4 (N) Super Bx	19	57	-4	512	654	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	1																										0
+Act 4 (N) Super Cx	19	60	-4	512	654	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	1																										0
+Act 5 (N) Super Ax	19	62	-4	512	654	972	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	1																										0
+Act 5 (N) Super Bx	19	63	-4	512	654	972	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	1																										0
+Act 5 (N) Super Cx	19	66	-4	512	654	972	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	1																										0
+Act 1 (H) Super Ax	19	67	-4	512	654	972	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	1																										0
+Act 1 (H) Super Bx	19	67	-4	512	654	972	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	1																										0
+Act 1 (H) Super Cx	19	68	-4	512	654	972	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	1																										0
+Act 2 (H) Super Ax	19	68	-4	512	654	972	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	1																										0
+Act 2 (H) Super Bx	19	69	-4	512	654	972	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	1																										0
+Act 2 (H) Super Cx	19	72	-4	512	654	972	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	1																										0
+Act 3 (H) Super Ax	19	73	-4	512	654	972	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	1																										0
+Act 3 (H) Super Bx	19	75	-4	512	654	972	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	1																										0
+Act 3 (H) Super Cx	19	78	-4	512	654	972	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	1																										0
+Act 4 (H) Super Ax	19	81	-4	512	654	972	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	1																										0
+Act 4 (H) Super Bx	19	84	-4	512	654	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	1																										0
+Act 4 (H) Super Cx	19	87	-4	512	654	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	1																										0
+Act 5 (H) Super Ax	19	90	-4	512	654	972	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	1																										0
+Act 5 (H) Super Bx	19	93	-4	512	654	972	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	1																										0
+Act 5 (H) Super Cx	19	96	-4	512	654	972	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	1																										0
 Cow King			5	850	983	983	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																										0
 Cow King Desecrated A	33	31	5	850	983	983	1024	0	Act 4 Uitem B	1	Act 4 Melee B	2																										0
 Cow King Desecrated B	33	40	5	850	983	983	1024	0	Act 1 (N) Uitem A	1	Act 1 (N) Melee A	2																										0
@@ -1137,9 +1137,9 @@ Durielq (H)			5					0	tsc	1	Durielq (H) - Base	2																										0
 ROP			1	1024				0	Diablo	1																												0
 ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																										0
 ROP (H)			1	1024				0	Annihilus	1																												0
-Countess Rune			3					5	Runes 4	15																												0
-Countess Rune (N)			3					5	Runes 8	15																												0
-Countess Rune (H)			3					5	Runes 12	15																												0
+Countess Rune			3					5	Runes 5	15																												0
+Countess Rune (N)			3					5	Runes 6	15																												0
+Countess Rune (H)			3					5	Runes 13	15																												0
 Countess Item			5					19	"gld,mul=1280"	11	Act 1 Equip C	19	Act 2 Junk	15	Act 2 Good	3																						0
 Countess Item Desecrated A			5					19	"gld,mul=1280"	11	Act 2 Equip A	19	Act 3 Junk	15	Act 3 Good	3																						0
 Countess Item Desecrated B			5					19	"gld,mul=1280"	11	Act 5 Equip A	19	Act 1 (N) Junk	15	Act 1 (N) Good	3																						0
