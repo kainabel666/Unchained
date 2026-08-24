@@ -901,5 +901,10 @@
   { "um4": { "asset": "body_part/fragment_fire"}},
   { "um5": { "asset": "body_part/fragment_physical"}},
   { "um6": { "asset": "body_part/fragment_poison"}},
-  { "cjw": { "asset": "gem/perfect_diamond"}}
+  { "cjw": { "asset": "gem/perfect_diamond"}},
+
+  ////Reliquary and Reroller
+  { "Rrd": { "asset": "unchained/reroller"}},
+  { "Urq": { "asset": "unchained/unique_reliquary"}},
+  { "Srq": { "asset": "unchained/set_reliquary"}}
 ]

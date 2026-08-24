@@ -4,3 +4,4 @@ Unchained.mpq/data/local/lng/strings/D2R_TranslateString.ps1
 *.code-workspace
 /d2rloader/plugins/Disabled
 Unchained.mpq/Launcher Files/launcher_mod_cfg.json
+d2rloader/config/d2rloader.toml
