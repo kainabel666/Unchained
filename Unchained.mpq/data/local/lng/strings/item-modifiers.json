@@ -6322,5 +6322,22 @@
     "ruRU": "Очки реликвария %d/5000",
     "zhCN": "圣物点 %d/5000",
     "zhTW": "聖物點 %d/5000"
+  },
+  {
+    "id": 48001,
+    "Key": "ModStrGoldPickupRadius",
+    "deDE": "Gold-Abholradius: %d",
+    "enUS": "Gold Pickup Radius: +%d",
+    "esES": "Radio de recogida de oro: %d",
+    "esMX": "Radio de recogida de oro: %d",
+    "frFR": "Raggio di raccolta dell'oro: %d",
+    "itIT": "Rayon de collecte de l'or : %d",
+    "jaJP": "ゴールドピックアップ半径: %d",
+    "koKR": "금 픽업 반경: %d",
+    "plPL": "Promień podnoszenia złota: %d",
+    "ptBR": "Raio de coleta de ouro: %d",
+    "ruRU": "Радиус подбора золота: %d",
+    "zhCN": "黄金拾取半径：%d",
+    "zhTW": "黃金拾取半徑：%d"
   }
 ]
