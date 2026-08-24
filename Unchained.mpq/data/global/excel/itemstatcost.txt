@@ -371,3 +371,4 @@ reliquary_points	368		1	32														7	0	32	100		1														132	19		ModSt
 item_goldradius	369			4														7	0	4			1														132	19		ModStrGoldPickupRadius	ModStrGoldPickupRadius									2	0
 item_boost	370		1	4														7	0	4	4		1														133	19		ModStrItemBoost	ModStrItemBoost										0
 max_boost	371			1														7	0	1																	133	19		ModStrMaxBoost	ModStrMaxBoost										0
+item_manaonhit	372		1	16							1				17	102		7	0	15	0												domissiledamage	17	domeleedamage	17	16	19		ModStrManaOnHit	ModStrManaOnHit									2	0

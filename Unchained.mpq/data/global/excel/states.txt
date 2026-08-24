@@ -231,3 +231,4 @@ herald	228																																										herald																						
 apocalypse	229																																																																									0
 missilelimit	230																																																																									0
 primeevil_threat	231																																																																									0
+magicarrow_drain	232																																																																									0
