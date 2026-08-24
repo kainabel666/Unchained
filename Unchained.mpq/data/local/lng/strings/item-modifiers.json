@@ -6339,5 +6339,39 @@
     "ruRU": "Радиус подбора золота: %d",
     "zhCN": "黄金拾取半径：%d",
     "zhTW": "黃金拾取半徑：%d"
+  },
+  {
+    "id": 48002,
+    "Key": "ModStrItemBoost",
+    "deDE": "Artikel verbessert",
+    "enUS": "Item Enhanced",
+    "esES": "Artículo mejorado",
+    "esMX": "Artículo mejorado",
+    "frFR": "Articolo migliorato",
+    "itIT": "Objet amélioré",
+    "jaJP": "アイテム強化",
+    "koKR": "아이템 강화",
+    "plPL": "Przedmiot ulepszony",
+    "ptBR": "Item aprimorado",
+    "ruRU": "Улучшенный предмет",
+    "zhCN": "物品强化",
+    "zhTW": "物品強化"
+  },
+  {
+    "id": 48003,
+    "Key": "ModStrMaxBoost",
+    "deDE": "Entfesselt",
+    "enUS": "Unchained",
+    "esES": "Desencadenado",
+    "esMX": "Desencadenado",
+    "frFR": "Scatenato",
+    "itIT": "Déchaîné",
+    "jaJP": "アンチェインド",
+    "koKR": "사슬에서 풀려난",
+    "plPL": "Nieuwiązany",
+    "ptBR": "Desacorrentado",
+    "ruRU": "освобожденный",
+    "zhCN": "不受束缚",
+    "zhTW": "不受束縛"
   }
 ]

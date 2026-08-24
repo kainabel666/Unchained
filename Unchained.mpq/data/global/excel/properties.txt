@@ -287,3 +287,5 @@ extra-mag	283	1	1	passive_mag_mastery																												+#% to Magic Sk
 mag-min	284	1	1	magicmindam																												+# to Minimum Magic Damage		Min #	Max #		0
 mag-max	285	1	1	magicmaxdam																												+# to Maximum Magic Damage		Min #	Max #		0
 relipts	286	1	1	reliquary_points																																	0
+boost	287	1	1	item_boost																												Item Enhanced					0
+max-boost	288	1	1	max_boost																												Unchained					0
