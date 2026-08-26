@@ -232,3 +232,4 @@ apocalypse	229																																																																		
 missilelimit	230																																																																									0
 primeevil_threat	231																																																																									0
 magicarrow_drain	232																																																																									0
+powering	233																																										energyshieldhit0	energyshieldhit1	energyshieldhit2	energyshieldhit3																												0

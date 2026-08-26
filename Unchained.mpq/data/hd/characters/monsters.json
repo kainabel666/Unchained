@@ -775,5 +775,8 @@
   "achmel": "unraveler1",
   "bartuc": "baalhighpriest",
   "ventar": "venomlord",
-  "lister": "baalminion1"
+  "lister": "baalminion1",
+  "scout1": "roguehire",
+  "scout2": "roguehire",
+  "scout3": "roguehire"
 }
