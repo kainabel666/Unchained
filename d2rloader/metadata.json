@@ -1,12 +1,59 @@
 {
   "schemaVersion": 1,
   "metadata": {
+    "name": "",
     "modVersion": "",
     "author": "",
     "description": "",
     "website": ""
   },
   "d2rloader": {
-    "version": "1.1.0"
+    "version": "1.2.0",
+    "bins": {
+      "schemaVersion": 2,
+      "descriptorSetRevision": 1,
+      "gameVersion": "3.3.0",
+      "gameBuild": "93847",
+      "sources": [
+        "data/global/excel/skills.txt",
+        "data/global/excel/itemtypes.txt",
+        "data/global/excel/pettype.txt",
+        "data/global/excel/itemstatcost.txt",
+        "data/global/excel/properties.txt",
+        "data/global/excel/propertygroups.txt",
+        "data/global/excel/missiles.txt",
+        "data/global/excel/states.txt",
+        "data/global/excel/monstats.txt",
+        "data/global/excel/skilldesc.txt",
+        "data/global/excel/charstats.txt",
+        "data/global/excel/weapons.txt",
+        "data/global/excel/armor.txt",
+        "data/global/excel/misc.txt",
+        "data/global/excel/magicsuffix.txt",
+        "data/global/excel/magicprefix.txt",
+        "data/global/excel/automagic.txt",
+        "data/global/excel/raresuffix.txt",
+        "data/global/excel/rareprefix.txt",
+        "data/global/excel/uniqueitems.txt",
+        "data/global/excel/sets.txt",
+        "data/global/excel/setitems.txt",
+        "data/global/excel/gems.txt",
+        "data/global/excel/qualityitems.txt",
+        "data/global/excel/runes.txt",
+        "data/global/excel/gamble.txt",
+        "data/global/excel/experience.txt",
+        "data/global/excel/treasureclassex.txt",
+        "data/global/excel/monstats2.txt",
+        "data/global/excel/monprop.txt",
+        "data/global/excel/superuniques.txt",
+        "data/global/excel/hireling.txt",
+        "data/global/excel/monequip.txt",
+        "data/global/excel/levels.txt",
+        "data/global/excel/shrines.txt",
+        "data/global/excel/inventory.txt",
+        "data/global/excel/cubemain.txt",
+        "data/global/excel/difficultylevels.txt"
+      ]
+    }
   }
 }
