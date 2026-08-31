@@ -768,5 +768,6 @@
     "heraldmist": "mist",
     "colossal thunderstorm": "lightningbolt_big",
     "icearrowguided": "ice_arrow",
-    "icearrowchain": "ice_arrow"
+    "icearrowchain": "ice_arrow",
+    "roguemultibolt":"safe_arrow"
 }
