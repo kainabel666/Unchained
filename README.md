@@ -89,13 +89,21 @@ Reduce level and level requirement and Boost stats for all unique basic and exce
 
 Reduce level and level requirement and Boost stats for all unique low and mid level rings and amulets
 
+Ability to reroll unique items via Cube
+
+Increase monster density and frequency of champion and unique monsters in Act 1
+
+Reduce Champion and Unique Monster potion drop rate
+
+Unique and Set Reliquaries that can be used to salvage unwanted unique and sets and craft new ones
+
+
 
 ****Planned Future Changes****
 
 New monster types including The Bound and enhanced quest related content
 
 Thematic enemies and environment throughout playthrough
-
 
 Add Energy as synergy to casting and elemental skills
 
@@ -105,15 +113,7 @@ Improve all low and mid level sets and set items
 
 Improve Mercenary skills and behaviour
 
-Increase monster density and frequency of champion and unique monsters in Act 1
-
-Reduce Champion and Unique Monster potion drop rate
-
 Enhanced Class based Cube Item Crafting
-
-Ability to reroll unique items via Cube
-
-Unique and Set Reliquaries that can be used to salvage unwanted unique and sets and craft new ones
 
 Cube item enhancement recipes
 
