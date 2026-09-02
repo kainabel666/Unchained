@@ -234,3 +234,4 @@ primeevil_threat	231																																																												
 magicarrow_drain	232																																																																									0
 powering	233																																										energyshieldhit0	energyshieldhit1	energyshieldhit2	energyshieldhit3																												0
 scoutsight	234																					1																					innersight							armorclass																								0
+askarivelocity	235																																											frenzy						item_fasterattackrate																								0

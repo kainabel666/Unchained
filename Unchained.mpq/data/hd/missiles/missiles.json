@@ -769,5 +769,6 @@
     "colossal thunderstorm": "lightningbolt_big",
     "icearrowguided": "ice_arrow",
     "icearrowchain": "ice_arrow",
-    "roguemultibolt":"safe_arrow"
+    "roguemultibolt":"safe_arrow",
+    "scoutsight":"b_a_yell_shock_wave_01"
 }
