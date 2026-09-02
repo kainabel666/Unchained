@@ -92,16 +92,16 @@ item_lightradius	89		1	5							1				15	51		4	4	4	4																6	19		ModStr3f
 item_lightcolor	90		1	24							1				155	0		5	0	24	0																														0
 item_req_percent	91		1	8											26	-34		8	100	8	100																0	19		ModStr3h	ModStr3h										0
 item_levelreq	92																	6	20	7																															0
-item_fasterattackrate	93	1	1	24											1042	156		7	20	20	100											1					145	19		ModStr4m	ModStr4m									2	0
+item_fasterattackrate	93	1	1	24											1042	156		7	20	20	100											1					145	19		ModStr4m	ModStr4n									2	0
 item_levelreqpct	94			12														7	20	10	100			13			item_levelreq																								0
 lastblockframe	95																	6	20																																0
-item_fastermovevelocity	96	1	1	24											4083	156		7	20	20	100																148	19		ModStr4s	ModStr4s									2	0
+item_fastermovevelocity	96	1	1	24											4083	156		7	20	20	100																148	19		ModStr4s	ModStr4t									2	0
 item_nonclassskill	97		1	16	32						1			1	181	327		7	20	14	0	32															81	28		ItemModifierNonClassSkill	ItemModifierNonClassSkill										0
 state	98	1		1	8						1				415	64		6	20	1		8																													0
-item_fastergethitrate	99	1	1	24											1065	72		7	20	20	100																139	19		ModStr4p	ModStr4p									2	0
+item_fastergethitrate	99	1	1	24											1065	72		7	20	20	100																139	19		ModStr4p	ModStr4q									2	0
 monster_playercount	100																	7	20																																0
 skill_poison_override_length	101			8														6	20																																0
-item_fasterblockrate	102	1	1	24											1484	72		7	20	20	100																136	19		ModStr4y	ModStr4y									2	0
+item_fasterblockrate	102	1	1	24											1484	72		7	20	20	100																136	19		ModStr4y	ModStr4z									2	0
 skill_bypass_undead	103			1														7	20																																0
 skill_bypass_demons	104			1														6	20																																0
 item_fastercastrate	105	1	1	24											3876	156		7	20	20	100																142	19		ModStr4v	ModStr4v									2	0
@@ -160,7 +160,7 @@ item_magicarrow	157		1	7											511	1024		7	0	7	0																131	19		ModS
 item_explosivearrow	158		1	7											492	1536		7	0	7	0																133	19		ModStr6i	ModStr6i										0
 item_throw_mindamage	159		1	6											76	128		6	0	6	0											1																			0
 item_throw_maxdamage	160		1	7											88	128		7	0	7	0											1																			0
-skill_handofathena	161		1	12																																															0
+skill_handofathena	161		1	12																11	400																														0
 skill_staminapercent	162		1	13																				1			maxstamina																								0
 skill_passive_staminapercent	163		1	12																				1			maxstamina																								0
 skill_concentration	164		1	12																																															0
