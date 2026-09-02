@@ -85,8 +85,6 @@ Increased socket count to maximum possible for all items
 
 All items can now reach their maximum socket count on all difficulties
 
-Reduce level and level requirement and Boost stats for all unique basic and exceptional armor
-
 Reduce level and level requirement and Boost stats for all unique low and mid level rings and amulets
 
 Ability to reroll unique items via Cube
