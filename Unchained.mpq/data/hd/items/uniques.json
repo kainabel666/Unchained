@@ -2013,5 +2013,1188 @@
   "normal": "../misc/body_part/fragment_poison",
   "uber": "../misc/body_part/fragment_poison",
   "ultra": "../misc/body_part/fragment_poison"
-} }
+} },
+{
+  "oathbound_aegis": {
+   "normal": "shield/targe",
+   "uber": "shield/targe",
+   "ultra": "shield/targe"
+  }
+ },
+ {
+  "pilgrims_mercy": {
+   "normal": "shield/rondache",
+   "uber": "shield/rondache",
+   "ultra": "shield/rondache"
+  }
+ },
+ {
+  "herald_of_the_first_light": {
+   "normal": "shield/heraldic_shield",
+   "uber": "shield/heraldic_shield",
+   "ultra": "shield/heraldic_shield"
+  }
+ },
+ {
+  "benediction_of_the_pale": {
+   "normal": "shield/aerin_shield",
+   "uber": "shield/aerin_shield",
+   "ultra": "shield/aerin_shield"
+  }
+ },
+ {
+  "the_justicar": {
+   "normal": "shield/crown_shield",
+   "uber": "shield/crown_shield",
+   "ultra": "shield/crown_shield"
+  }
+ },
+ {
+  "the_starless_veil": {
+   "normal": "circlet/circlet",
+   "uber": "circlet/circlet",
+   "ultra": "circlet/circlet"
+  }
+ },
+ {
+  "hidden_classification": {
+   "normal": "circlet/coronet",
+   "uber": "circlet/coronet",
+   "ultra": "circlet/coronet"
+  }
+ },
+ {
+  "the_blackened_leaf": {
+   "normal": "grimoires/old_book",
+   "uber": "grimoires/old_book",
+   "ultra": "grimoires/old_book"
+  }
+ },
+ {
+  "ashen_scripture": {
+   "normal": "grimoires/tome",
+   "uber": "grimoires/tome",
+   "ultra": "grimoires/tome"
+  }
+ },
+ {
+  "chains_of_the_damned": {
+   "normal": "grimoires/codex",
+   "uber": "grimoires/codex",
+   "ultra": "grimoires/codex"
+  }
+ },
+ {
+  "behind_the_veil": {
+   "normal": "grimoires/compendium",
+   "uber": "grimoires/compendium",
+   "ultra": "grimoires/compendium"
+  }
+ },
+ {
+  "the_infernal": {
+   "normal": "grimoires/grimoire",
+   "uber": "grimoires/grimoire",
+   "ultra": "grimoires/grimoire"
+  }
+ },
+ {
+  "the_last_keepsake": {
+   "normal": "voodoo_head/preserved_head",
+   "uber": "voodoo_head/preserved_head",
+   "ultra": "voodoo_head/preserved_head"
+  }
+ },
+ {
+  "rathmas_gravewalker": {
+   "normal": "voodoo_head/zombie_head",
+   "uber": "voodoo_head/zombie_head",
+   "ultra": "voodoo_head/zombie_head"
+  }
+ },
+ {
+  "soulless_kaa": {
+   "normal": "voodoo_head/unraveller_head",
+   "uber": "voodoo_head/unraveller_head",
+   "ultra": "voodoo_head/unraveller_head"
+  }
+ },
+ {
+  "stonewatch": {
+   "normal": "voodoo_head/gargoyle_head",
+   "uber": "voodoo_head/gargoyle_head",
+   "ultra": "voodoo_head/gargoyle_head"
+  }
+ },
+ {
+  "hellflesh_reliquary": {
+   "normal": "voodoo_head/demon_head",
+   "uber": "voodoo_head/demon_head",
+   "ultra": "voodoo_head/demon_head"
+  }
+ },
+ {
+  "fang_of_the_first": {
+   "normal": "pelt/wolf_head",
+   "uber": "pelt/wolf_head",
+   "ultra": "pelt/wolf_head"
+  }
+ },
+ {
+  "eye_of_the_high_wind": {
+   "normal": "pelt/hawk_helm",
+   "uber": "pelt/hawk_helm",
+   "ultra": "pelt/hawk_helm"
+  }
+ },
+ {
+  "hart_of_the_ancient_wood": {
+   "normal": "pelt/antlers",
+   "uber": "pelt/antlers",
+   "ultra": "pelt/antlers"
+  }
+ },
+ {
+  "tur_durlas_roost": {
+   "normal": "pelt/falcon_mask",
+   "uber": "pelt/falcon_mask",
+   "ultra": "pelt/falcon_mask"
+  }
+ },
+ {
+  "wildheart": {
+   "normal": "pelt/spirit_mask",
+   "uber": "pelt/spirit_mask",
+   "ultra": "pelt/spirit_mask"
+  }
+ },
+ {
+  "chieftains_visage": {
+   "normal": "helmet/jawbone_cap",
+   "uber": "helmet/jawbone_cap",
+   "ultra": "helmet/jawbone_cap"
+  }
+ },
+ {
+  "bloodborn": {
+   "normal": "helmet/fanged_helm",
+   "uber": "helmet/fanged_helm",
+   "ultra": "helmet/fanged_helm"
+  }
+ },
+ {
+  "spiked_crest": {
+   "normal": "helmet/horned_helm",
+   "uber": "helmet/horned_helm",
+   "ultra": "helmet/horned_helm"
+  }
+ },
+ {
+  "omen_of_the_warpath": {
+   "normal": "helmet/assault_helmet",
+   "uber": "helmet/assault_helmet",
+   "ultra": "helmet/assault_helmet"
+  }
+ },
+ {
+  "the_vindicator": {
+   "normal": "helmet/avenger_guard",
+   "uber": "helmet/avenger_guard",
+   "ultra": "helmet/avenger_guard"
+  }
+ },
+ {
+  "the_antlered_ones_heart": {
+   "normal": "bow/stag_bow",
+   "uber": "bow/stag_bow",
+   "ultra": "bow/stag_bow"
+  }
+ },
+ {
+  "grace_of_the_huntress": {
+   "normal": "bow/reflex_bow",
+   "uber": "bow/reflex_bow",
+   "ultra": "bow/reflex_bow"
+  }
+ },
+ {
+  "widows_kiss": {
+   "normal": "javelin/maiden_javelin",
+   "uber": "javelin/maiden_javelin",
+   "ultra": "javelin/maiden_javelin"
+  }
+ },
+ {
+  "huntress_choice": {
+   "normal": "spear/maiden_spear",
+   "uber": "spear/maiden_spear",
+   "ultra": "spear/maiden_spear"
+  }
+ },
+ {
+  "voice_of_the_storm": {
+   "normal": "spear/maiden_pike",
+   "uber": "spear/maiden_pike",
+   "ultra": "spear/maiden_pike"
+  }
+ },
+ {
+  "silent_fang": {
+   "normal": "h2h/katar",
+   "uber": "h2h/katar",
+   "ultra": "h2h/katar"
+  }
+ },
+ {
+  "veiled_talon": {
+   "normal": "h2h/wrist_blade",
+   "uber": "h2h/wrist_blade",
+   "ultra": "h2h/wrist_blade"
+  }
+ },
+ {
+  "raptors_grasp": {
+   "normal": "h2h/hatchet_hands",
+   "uber": "h2h/hatchet_hands",
+   "ultra": "h2h/hatchet_hands"
+  }
+ },
+ {
+  "iron_palm": {
+   "normal": "h2h/cestus",
+   "uber": "h2h/cestus",
+   "ultra": "h2h/cestus"
+  }
+ },
+ {
+  "grave_ripper": {
+   "normal": "h2h/claws",
+   "uber": "h2h/claws",
+   "ultra": "h2h/claws"
+  }
+ },
+ {
+  "thrash_fist": {
+   "normal": "h2h/blade_talons",
+   "uber": "h2h/blade_talons",
+   "ultra": "h2h/blade_talons"
+  }
+ },
+ {
+  "shadow_shears": {
+   "normal": "h2h/scissors_katar",
+   "uber": "h2h/scissors_katar",
+   "ultra": "h2h/scissors_katar"
+  }
+ },
+ {
+  "the_hunters_mark": {
+   "normal": "javelin/javelin",
+   "uber": "javelin/javelin",
+   "ultra": "javelin/javelin"
+  }
+ },
+ {
+  "fallen_son": {
+   "normal": "javelin/pilum",
+   "uber": "javelin/pilum",
+   "ultra": "javelin/pilum"
+  }
+ },
+ {
+  "tempest_reach": {
+   "normal": "javelin/short_spear",
+   "uber": "javelin/short_spear",
+   "ultra": "javelin/short_spear"
+  }
+ },
+ {
+  "reaping_gale": {
+   "normal": "javelin/glaive",
+   "uber": "javelin/glaive",
+   "ultra": "javelin/glaive"
+  }
+ },
+ {
+  "tidecaller": {
+   "normal": "javelin/throwing_spear",
+   "uber": "javelin/throwing_spear",
+   "ultra": "javelin/throwing_spear"
+  }
+ },
+ {
+  "predatory_eye": {
+   "normal": "orb/eagle_orb",
+   "uber": "orb/eagle_orb",
+   "ultra": "orb/eagle_orb"
+  }
+ },
+ {
+  "sanctuary_shield": {
+   "normal": "orb/sacred_globe",
+   "uber": "orb/sacred_globe",
+   "ultra": "orb/sacred_globe"
+  }
+ },
+ {
+  "smoldering_eye": {
+   "normal": "orb/smoked_sphere",
+   "uber": "orb/smoked_sphere",
+   "ultra": "orb/smoked_sphere"
+  }
+ },
+ {
+  "oracles_precious": {
+   "normal": "orb/clasped_orb",
+   "uber": "orb/clasped_orb",
+   "ultra": "orb/clasped_orb"
+  }
+ },
+ {
+  "the_magis_heirloom": {
+   "normal": "orb/jareds_stone",
+   "uber": "orb/jareds_stone",
+   "ultra": "orb/jareds_stone"
+  }
+ },
+ {
+  "the_headsmans_due": {
+   "normal": "axe/throwing_axe",
+   "uber": "axe/throwing_axe",
+   "ultra": "axe/throwing_axe"
+  }
+ },
+ {
+  "deadly_measure": {
+   "normal": "axe/balanced_axe",
+   "uber": "axe/balanced_axe",
+   "ultra": "axe/balanced_axe"
+  }
+ },
+ {
+  "whispersteel": {
+   "normal": "knife/throwing_knife",
+   "uber": "knife/throwing_knife",
+   "ultra": "knife/throwing_knife"
+  }
+ },
+ {
+  "the_sure_hand": {
+   "normal": "knife/balanced_knife",
+   "uber": "knife/balanced_knife",
+   "ultra": "knife/balanced_knife"
+  }
+ },
+ {
+  "oath_of_akarat": {
+   "normal": "shield/akaran_targe",
+   "uber": "shield/akaran_targe",
+   "ultra": "shield/akaran_targe"
+  }
+ },
+ {
+  "redeemers_mercy": {
+   "normal": "shield/akaran_rondache",
+   "uber": "shield/akaran_rondache",
+   "ultra": "shield/akaran_rondache"
+  }
+ },
+ {
+  "sworn_guard": {
+   "normal": "shield/protector_shield",
+   "uber": "shield/protector_shield",
+   "ultra": "shield/protector_shield"
+  }
+ },
+ {
+  "patriarchy_sigil": {
+   "normal": "shield/royal_shield",
+   "uber": "shield/royal_shield",
+   "ultra": "shield/royal_shield"
+  }
+ },
+ {
+  "forbidden_flame": {
+   "normal": "grimoires/dark_tome",
+   "uber": "grimoires/dark_tome",
+   "ultra": "grimoires/dark_tome"
+  }
+ },
+ {
+  "secrets_of_the_vizjerei": {
+   "normal": "grimoires/dark_codex",
+   "uber": "grimoires/dark_codex",
+   "ultra": "grimoires/dark_codex"
+  }
+ },
+ {
+  "one_within": {
+   "normal": "grimoires/possessed_compendium",
+   "uber": "grimoires/possessed_compendium",
+   "ultra": "grimoires/possessed_compendium"
+  }
+ },
+ {
+  "grime_tamer": {
+   "normal": "grimoires/possessed_grimoire",
+   "uber": "grimoires/possessed_grimoire",
+   "ultra": "grimoires/possessed_grimoire"
+  }
+ },
+ {
+  "crown_of_the_forgotten_king": {
+   "normal": "voodoo_head/mummified_trophy",
+   "uber": "voodoo_head/mummified_trophy",
+   "ultra": "voodoo_head/mummified_trophy"
+  }
+ },
+ {
+  "endugus_charm": {
+   "normal": "voodoo_head/fetish_trophy",
+   "uber": "voodoo_head/fetish_trophy",
+   "ultra": "voodoo_head/fetish_trophy"
+  }
+ },
+ {
+  "gravekeepers_ledger": {
+   "normal": "voodoo_head/sexton_trophy",
+   "uber": "voodoo_head/sexton_trophy",
+   "ultra": "voodoo_head/sexton_trophy"
+  }
+ },
+ {
+  "healers_heart": {
+   "normal": "voodoo_head/cantor_trophy",
+   "uber": "voodoo_head/cantor_trophy",
+   "ultra": "voodoo_head/cantor_trophy"
+  }
+ },
+ {
+  "pack_leaders": {
+   "normal": "pelt/alpha_helm",
+   "uber": "pelt/alpha_helm",
+   "ultra": "pelt/alpha_helm"
+  }
+ },
+ {
+  "winged_grasp": {
+   "normal": "pelt/griffon_headress",
+   "uber": "pelt/griffon_headress",
+   "ultra": "pelt/griffon_headress"
+  }
+ },
+ {
+  "the_wild_chase": {
+   "normal": "pelt/hunters_guise",
+   "uber": "pelt/hunters_guise",
+   "ultra": "pelt/hunters_guise"
+  }
+ },
+ {
+  "flight_of_the_first_wing": {
+   "normal": "pelt/sacred_feathers",
+   "uber": "pelt/sacred_feathers",
+   "ultra": "pelt/sacred_feathers"
+  }
+ },
+ {
+  "mandible_of_the_ancestor": {
+   "normal": "helmet/jawbone_visor",
+   "uber": "helmet/jawbone_visor",
+   "ultra": "helmet/jawbone_visor"
+  }
+ },
+ {
+  "savana_kings_heart": {
+   "normal": "helmet/lion_helm",
+   "uber": "helmet/lion_helm",
+   "ultra": "helmet/lion_helm"
+  }
+ },
+ {
+  "fury_unbound": {
+   "normal": "helmet/rage_mask",
+   "uber": "helmet/rage_mask",
+   "ultra": "helmet/rage_mask"
+  }
+ },
+ {
+  "crown_of_the_ravaging_king": {
+   "normal": "helmet/savage_helmet",
+   "uber": "helmet/savage_helmet",
+   "ultra": "helmet/savage_helmet"
+  }
+ },
+ {
+  "burned_branch": {
+   "normal": "bow/ashwood_bow",
+   "uber": "bow/ashwood_bow",
+   "ultra": "bow/ashwood_bow"
+  }
+ },
+ {
+  "despair_spike": {
+   "normal": "spear/ceremonial_spear",
+   "uber": "spear/ceremonial_spear",
+   "ultra": "spear/ceremonial_spear"
+  }
+ },
+ {
+  "the_silent_hand": {
+   "normal": "h2h/quhab",
+   "uber": "h2h/quhab",
+   "ultra": "h2h/quhab"
+  }
+ },
+ {
+  "the_vipers_fang": {
+   "normal": "h2h/wrist_spike",
+   "uber": "h2h/wrist_spike",
+   "ultra": "h2h/wrist_spike"
+  }
+ },
+ {
+  "hidden_fang": {
+   "normal": "h2h/fascia",
+   "uber": "h2h/fascia",
+   "ultra": "h2h/fascia"
+  }
+ },
+ {
+  "dusk_reaver": {
+   "normal": "h2h/hand_scythe",
+   "uber": "h2h/hand_scythe",
+   "ultra": "h2h/hand_scythe"
+  }
+ },
+ {
+  "blind_master_slash": {
+   "normal": "h2h/greater_claws",
+   "uber": "h2h/greater_claws",
+   "ultra": "h2h/greater_claws"
+  }
+ },
+ {
+  "magebreaker": {
+   "normal": "h2h/scissors_quhab",
+   "uber": "h2h/scissors_quhab",
+   "ultra": "h2h/scissors_quhab"
+  }
+ },
+ {
+  "tooth_of_the_tempest": {
+   "normal": "javelin/war_javelin",
+   "uber": "javelin/war_javelin",
+   "ultra": "javelin/war_javelin"
+  }
+ },
+ {
+  "conquerors_point": {
+   "normal": "javelin/great_pilum",
+   "uber": "javelin/great_pilum",
+   "ultra": "javelin/great_pilum"
+  }
+ },
+ {
+  "spearborns_legacy": {
+   "normal": "javelin/simbilan",
+   "uber": "javelin/simbilan",
+   "ultra": "javelin/simbilan"
+  }
+ },
+ {
+  "falcon_deep_reach": {
+   "normal": "javelin/spiculum",
+   "uber": "javelin/spiculum",
+   "ultra": "javelin/spiculum"
+  }
+ },
+ {
+  "tidal_takeover": {
+   "normal": "javelin/harpoon",
+   "uber": "javelin/harpoon",
+   "ultra": "javelin/harpoon"
+  }
+ },
+ {
+  "radiance_of_esu": {
+   "normal": "orb/glowing_orb",
+   "uber": "orb/glowing_orb",
+   "ultra": "orb/glowing_orb"
+  }
+ },
+ {
+  "winterglass": {
+   "normal": "orb/crystalline_globe",
+   "uber": "orb/crystalline_globe",
+   "ultra": "orb/crystalline_globe"
+  }
+ },
+ {
+  "the_unseeing_eye": {
+   "normal": "orb/cloudy_sphere",
+   "uber": "orb/cloudy_sphere",
+   "ultra": "orb/cloudy_sphere"
+  }
+ },
+ {
+  "light_reference": {
+   "normal": "orb/sparkling_ball",
+   "uber": "orb/sparkling_ball",
+   "ultra": "orb/sparkling_ball"
+  }
+ },
+ {
+  "the_reavers_return": {
+   "normal": "axe/hurlbat",
+   "uber": "axe/hurlbat",
+   "ultra": "axe/hurlbat"
+  }
+ },
+ {
+  "swiftdeath": {
+   "normal": "knife/war_dart",
+   "uber": "knife/war_dart",
+   "ultra": "knife/war_dart"
+  }
+ },
+ {
+  "akkhans_righteous_crusade": {
+   "normal": "shield/sacred_targe",
+   "uber": "shield/sacred_targe",
+   "ultra": "shield/sacred_targe"
+  }
+ },
+ {
+  "bulwark_beyond": {
+   "normal": "shield/ancient_shield",
+   "uber": "shield/ancient_shield",
+   "ultra": "shield/ancient_shield"
+  }
+ },
+ {
+  "wheel_of_judgment": {
+   "normal": "shield/vortex_shield",
+   "uber": "shield/vortex_shield",
+   "ultra": "shield/vortex_shield"
+  }
+ },
+ {
+  "tightened_titan": {
+   "normal": "belt/colossus_girdle",
+   "uber": "belt/colossus_girdle",
+   "ultra": "belt/colossus_girdle"
+  }
+ },
+ {
+  "underground_dweller": {
+   "normal": "boot/wyrmhide_boots",
+   "uber": "boot/wyrmhide_boots",
+   "ultra": "boot/wyrmhide_boots"
+  }
+ },
+ {
+  "thistle_grip": {
+   "normal": "glove/bramble_mitts",
+   "uber": "glove/bramble_mitts",
+   "ultra": "glove/bramble_mitts"
+  }
+ },
+ {
+  "rakkis_search": {
+   "normal": "glove/crusader_gauntlets",
+   "uber": "glove/crusader_gauntlets",
+   "ultra": "glove/crusader_gauntlets"
+  }
+ },
+ {
+  "the_lost_knowledge": {
+   "normal": "grimoires/forgotten_volume",
+   "uber": "grimoires/forgotten_volume",
+   "ultra": "grimoires/forgotten_volume"
+  }
+ },
+ {
+  "kabraxiss_journal": {
+   "normal": "grimoires/occult_codex",
+   "uber": "grimoires/occult_codex",
+   "ultra": "grimoires/occult_codex"
+  }
+ },
+ {
+  "legion_of_the_dead": {
+   "normal": "voodoo_head/minion_skull",
+   "uber": "voodoo_head/minion_skull",
+   "ultra": "voodoo_head/minion_skull"
+  }
+ },
+ {
+  "shenks_siege": {
+   "normal": "voodoo_head/overseer_skull",
+   "uber": "voodoo_head/overseer_skull",
+   "ultra": "voodoo_head/overseer_skull"
+  }
+ },
+ {
+  "the_beyonds_captive": {
+   "normal": "voodoo_head/hellspawn_skull",
+   "uber": "voodoo_head/hellspawn_skull",
+   "ultra": "voodoo_head/hellspawn_skull"
+  }
+ },
+ {
+  "echoes_from_the_abyss": {
+   "normal": "helmet/giant_conch",
+   "uber": "helmet/giant_conch",
+   "ultra": "helmet/giant_conch"
+  }
+ },
+ {
+  "zanns_sustain": {
+   "normal": "helmet/hydraskull",
+   "uber": "helmet/hydraskull",
+   "ultra": "helmet/hydraskull"
+  }
+ },
+ {
+  "heart_of_the_worldtree": {
+   "normal": "pelt/sun_spirit",
+   "uber": "pelt/sun_spirit",
+   "ultra": "pelt/sun_spirit"
+  }
+ },
+ {
+  "architect_of_slumber": {
+   "normal": "pelt/dream_spirit",
+   "uber": "pelt/dream_spirit",
+   "ultra": "pelt/dream_spirit"
+  }
+ },
+ {
+  "savage_salvage": {
+   "normal": "helmet/carnage_helm",
+   "uber": "helmet/carnage_helm",
+   "ultra": "helmet/carnage_helm"
+  }
+ },
+ {
+  "the_famed_protection": {
+   "normal": "helmet/guardian_crown",
+   "uber": "helmet/guardian_crown",
+   "ultra": "helmet/guardian_crown"
+  }
+ },
+ {
+  "hearthward": {
+   "normal": "shield/heater",
+   "uber": "shield/heater",
+   "ultra": "shield/heater"
+  }
+ },
+ {
+  "kingsguard": {
+   "normal": "shield/hyperion",
+   "uber": "shield/hyperion",
+   "ultra": "shield/hyperion"
+  }
+ },
+ {
+  "the_ossuary_shroud": {
+   "normal": "armor/boneweave",
+   "uber": "armor/boneweave",
+   "ultra": "armor/boneweave"
+  }
+ },
+ {
+  "burrowing_cover": {
+   "normal": "armor/wyrmhide",
+   "uber": "armor/wyrmhide",
+   "ultra": "armor/wyrmhide"
+  }
+ },
+ {
+  "beetlebursts_spark": {
+   "normal": "armor/scarab_husk",
+   "uber": "armor/scarab_husk",
+   "ultra": "armor/scarab_husk"
+  }
+ },
+ {
+  "iced_surface": {
+   "normal": "armor/diamond_mail",
+   "uber": "armor/diamond_mail",
+   "ultra": "armor/diamond_mail"
+  }
+ },
+ {
+  "iron_warmantle": {
+   "normal": "armor/loricated_mail",
+   "uber": "armor/loricated_mail",
+   "ultra": "armor/loricated_mail"
+  }
+ },
+ {
+  "vanguards_honor": {
+   "normal": "armor/great_hauberk",
+   "uber": "armor/great_hauberk",
+   "ultra": "armor/great_hauberk"
+  }
+ },
+ {
+  "hephestos_deliverance": {
+   "normal": "armor/hellforge_plate",
+   "uber": "armor/hellforge_plate",
+   "ultra": "armor/hellforge_plate"
+  }
+ },
+ {
+  "warzone_carapace": {
+   "normal": "armor/lacquered_plate",
+   "uber": "armor/lacquered_plate",
+   "ultra": "armor/lacquered_plate"
+  }
+ },
+ {
+  "enlightened_tangle": {
+   "normal": "armor/archon_plate",
+   "uber": "armor/archon_plate",
+   "ultra": "armor/archon_plate"
+  }
+ },
+ {
+  "askaris_longshot": {
+   "normal": "bow/grand_matron_bow",
+   "uber": "bow/grand_matron_bow",
+   "ultra": "bow/grand_matron_bow"
+  }
+ },
+ {
+  "hefaetrus_fury": {
+   "normal": "spear/matriarchal_pike",
+   "uber": "spear/matriarchal_pike",
+   "ultra": "spear/matriarchal_pike"
+  }
+ },
+ {
+  "wolves_reaction": {
+   "normal": "axe/feral_axe",
+   "uber": "axe/feral_axe",
+   "ultra": "axe/feral_axe"
+  }
+ },
+ {
+  "torn_curve": {
+   "normal": "axe/small_crescent",
+   "uber": "axe/small_crescent",
+   "ultra": "axe/small_crescent"
+  }
+ },
+ {
+  "skilken_takedown": {
+   "normal": "bow/spider_bow",
+   "uber": "bow/spider_bow",
+   "ultra": "bow/spider_bow"
+  }
+ },
+ {
+  "featherfall": {
+   "normal": "bow/blade_bow",
+   "uber": "bow/blade_bow",
+   "ultra": "bow/blade_bow"
+  }
+ },
+ {
+  "cloudfight": {
+   "normal": "bow/shadow_bow",
+   "uber": "bow/shadow_bow",
+   "ultra": "bow/shadow_bow"
+  }
+ },
+ {
+  "frigid_north": {
+   "normal": "bow/great_bow",
+   "uber": "bow/great_bow",
+   "ultra": "bow/great_bow"
+  }
+ },
+ {
+  "shinning_slate": {
+   "normal": "bow/diamond_bow",
+   "uber": "bow/diamond_bow",
+   "ultra": "bow/diamond_bow"
+  }
+ },
+ {
+  "shaded_jade": {
+   "normal": "h2h/suwayyah",
+   "uber": "h2h/suwayyah",
+   "ultra": "h2h/suwayyah"
+  }
+ },
+ {
+  "iron_marks_point": {
+   "normal": "h2h/war_fist",
+   "uber": "h2h/war_fist",
+   "ultra": "h2h/war_fist"
+  }
+ },
+ {
+  "spellbreaker": {
+   "normal": "h2h/runic_talons",
+   "uber": "h2h/runic_talons",
+   "ultra": "h2h/runic_talons"
+  }
+ },
+ {
+  "cloak_and_daggers": {
+   "normal": "h2h/scissors_suwayyah",
+   "uber": "h2h/scissors_suwayyah",
+   "ultra": "h2h/scissors_suwayyah"
+  }
+ },
+ {
+  "storm_surge": {
+   "normal": "javelin/hyperion_javelin",
+   "uber": "javelin/hyperion_javelin",
+   "ultra": "javelin/hyperion_javelin"
+  }
+ },
+ {
+  "underworld_conquest": {
+   "normal": "javelin/stygian_pilum",
+   "uber": "javelin/stygian_pilum",
+   "ultra": "javelin/stygian_pilum"
+  }
+ },
+ {
+  "rebar_and_stone": {
+   "normal": "mace/reinforced_mace",
+   "uber": "mace/reinforced_mace",
+   "ultra": "mace/reinforced_mace"
+  }
+ },
+ {
+  "angiris_blessing": {
+   "normal": "orb/heavenly_stone",
+   "uber": "orb/heavenly_stone",
+   "ultra": "orb/heavenly_stone"
+  }
+ },
+ {
+  "beating_vessel": {
+   "normal": "orb/demon_heart",
+   "uber": "orb/demon_heart",
+   "ultra": "orb/demon_heart"
+  }
+ },
+ {
+  "the_hollow_star": {
+   "normal": "orb/vortex_orb",
+   "uber": "orb/vortex_orb",
+   "ultra": "orb/vortex_orb"
+  }
+ },
+ {
+  "wendigo_blade": {
+   "normal": "polearm/colossus_voulge",
+   "uber": "polearm/colossus_voulge",
+   "ultra": "polearm/colossus_voulge"
+  }
+ },
+ {
+  "relentless_execution": {
+   "normal": "polearm/great_poleaxe",
+   "uber": "polearm/great_poleaxe",
+   "ultra": "polearm/great_poleaxe"
+  }
+ },
+ {
+  "timeless_strike": {
+   "normal": "scepter/seraph_rod",
+   "uber": "scepter/seraph_rod",
+   "ultra": "scepter/seraph_rod"
+  }
+ },
+ {
+  "distant_memory": {
+   "normal": "spear/stygian_pike",
+   "uber": "spear/stygian_pike",
+   "ultra": "spear/stygian_pike"
+  }
+ },
+ {
+  "past_and_present": {
+   "normal": "spear/ghost_spear",
+   "uber": "spear/ghost_spear",
+   "ultra": "spear/ghost_spear"
+  }
+ },
+ {
+  "the_hermits_crook": {
+   "normal": "staff/walking_stick",
+   "uber": "staff/walking_stick",
+   "ultra": "staff/walking_stick"
+  }
+ },
+ {
+  "root_of_the_deep": {
+   "normal": "staff/stalagmite",
+   "uber": "staff/stalagmite",
+   "ultra": "staff/stalagmite"
+  }
+ },
+ {
+  "grovekeeper": {
+   "normal": "staff/shillelagh",
+   "uber": "staff/shillelagh",
+   "ultra": "staff/shillelagh"
+  }
+ },
+ {
+  "the_iron_oath": {
+   "normal": "sword/falcata",
+   "uber": "sword/falcata",
+   "ultra": "sword/falcata"
+  }
+ },
+ {
+  "mountainous_calling": {
+   "normal": "sword/highland_blade",
+   "uber": "sword/highland_blade",
+   "ultra": "sword/highland_blade"
+  }
+ },
+ {
+  "her_clans_testimony": {
+   "normal": "sword/hydra_edge",
+   "uber": "sword/hydra_edge",
+   "ultra": "sword/hydra_edge"
+  }
+ },
+ {
+  "conquerors_will": {
+   "normal": "sword/conquest_sword",
+   "uber": "sword/conquest_sword",
+   "ultra": "sword/conquest_sword"
+  }
+ },
+ {
+  "ruinbringer": {
+   "normal": "sword/colossal_sword",
+   "uber": "sword/colossal_sword",
+   "ultra": "sword/colossal_sword"
+  }
+ },
+ {
+  "relic_of_the_first_age": {
+   "normal": "sword/mythical_sword",
+   "uber": "sword/mythical_sword",
+   "ultra": "sword/mythical_sword"
+  }
+ },
+ {
+  "windcutter": {
+   "normal": "knife/flying_knife",
+   "uber": "knife/flying_knife",
+   "ultra": "knife/flying_knife"
+  }
+ },
+ {
+  "mendlens_grace": {
+   "normal": "wand/polished_wand",
+   "uber": "wand/polished_wand",
+   "ultra": "wand/polished_wand"
+  }
+ },
+ {
+  "hand_of_the_unseen": {
+   "normal": "wand/ghost_wand",
+   "uber": "wand/ghost_wand",
+   "ultra": "wand/ghost_wand"
+  }
+ },
+ {
+  "falcons_snare": {
+   "normal": "bow/pellet_bow",
+   "uber": "bow/pellet_bow",
+   "ultra": "bow/pellet_bow"
+  }
+ },
+ {
+  "slithervenom": {
+   "normal": "bow/gorgon_crossbow",
+   "uber": "bow/gorgon_crossbow",
+   "ultra": "bow/gorgon_crossbow"
+  }
+ },
+ {
+  "plaguefire": {
+   "normal": "misc/bolts",
+   "uber": "misc/bolts",
+   "ultra": "misc/bolts"
+  }
+ },
+ {
+  "ironspike": {
+   "normal": "misc/bolts",
+   "uber": "misc/bolts",
+   "ultra": "misc/bolts"
+  }
+ },
+ {
+  "war_drum": {
+   "normal": "misc/bolts",
+   "uber": "misc/bolts",
+   "ultra": "misc/bolts"
+  }
+ },
+ {
+  "frostsplitter": {
+   "normal": "misc/bolts",
+   "uber": "misc/bolts",
+   "ultra": "misc/bolts"
+  }
+ },
+ {
+  "shardfall": {
+   "normal": "misc/bolts",
+   "uber": "misc/bolts",
+   "ultra": "misc/bolts"
+  }
+ },
+ {
+  "venombrand": {
+   "normal": "misc/arrows",
+   "uber": "misc/arrows",
+   "ultra": "misc/arrows"
+  }
+ },
+ {
+  "battering_point": {
+   "normal": "misc/arrows",
+   "uber": "misc/arrows",
+   "ultra": "misc/arrows"
+  }
+ },
+ {
+  "thundering_heart": {
+   "normal": "misc/arrows",
+   "uber": "misc/arrows",
+   "ultra": "misc/arrows"
+  }
+ },
+ {
+  "manyflame": {
+   "normal": "misc/arrows",
+   "uber": "misc/arrows",
+   "ultra": "misc/arrows"
+  }
+ },
+ {
+  "rain_of_vengence": {
+   "normal": "misc/arrows",
+   "uber": "misc/arrows",
+   "ultra": "misc/arrows"
+  }
+ }
 ]
