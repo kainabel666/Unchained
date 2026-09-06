@@ -451,7 +451,7 @@ Chains of the Damned	447	100							1		16	12	wa3	Codex		3	5000								ease		50	50
 Behind the Veil	448	100							1		20	15	wa4	Compendium		3	5000								ease		50	50																																														0
 The Infernal	449	100							1		24	18	wa5	Grimoire		3	5000								ease		50	50																																														0
 The Last Keepsake	450	100							1		4	3	ne1	Preserved Head		3	5000								ease		50	50																																														0
-Rathmas Gravewalker	451	100							1		8	6	ne2	Zombie Head		3	5000								ease		50	50																																														0
+Rathma's Gravewalker	451	100							1		8	6	ne2	Zombie Head		3	5000								ease		50	50																																														0
 Soulless Kaa	452	100							1		16	12	ne3	Unraveller Head		3	5000								ease		50	50																																														0
 Stonewatch	453	100							1		20	15	ne4	Gargoyle Head		3	5000								ease		50	50																																														0
 Hellflesh Reliquary	454	100							1		24	18	ne5	Demon Head		3	5000								ease		50	50																																														0
@@ -460,24 +460,24 @@ Eye of the High Wind	456	100							1		8	6	dr2	Hawk Helm		3	5000								ease		50	
 Hart of the Ancient Wood	457	100							1		16	12	dr3	Antlers		3	5000								ease		50	50																																														0
 Tur Durla's Roost	458	100							1		20	15	dr4	Falcon Mask		3	5000								ease		50	50																																														0
 Wildheart	459	100							1		24	18	dr5	Spirit Mask		3	5000								ease		50	50																																														0
-Chieftains Visage	460	100							1		4	3	ba1	Jawbone Cap		3	5000								ease		50	50																																														0
+Chieftain's Visage	460	100							1		4	3	ba1	Jawbone Cap		3	5000								ease		50	50																																														0
 Blood-Born	461	100							1		8	6	ba2	Fanged Helm		3	5000								ease		50	50																																														0
 Spiked Crest	462	100							1		16	12	ba3	Horned Helm		3	5000								ease		50	50																																														0
 Omen of the Warpath	463	100							1		20	15	ba4	Assault Helmet		3	5000								ease		50	50																																														0
 The Vindicator	464	100							1		24	18	ba5	Avenger Guard		3	5000								ease		50	50																																														0
 The Antlered One's Heart	465	100							1		18	14	am1	Stag Bow		3	5000								ease		50	50																																														0
 Grace of the Huntress	466	100							1		27	20	am2	Reflex Bow		3	5000								ease		50	50																																														0
-Widows Kiss	467	100							1		23	17	am5	Maiden Javelin		3	5000								ease		50	50																																														0
+Widow's Kiss	467	100							1		23	17	am5	Maiden Javelin		3	5000								ease		50	50																																														0
 Huntress' Choice	468	100							1		18	14	am3	Maiden Spear		3	5000								ease		50	50																																														0
 Voice of the Storm	469	100							1		27	20	am4	Maiden Pike		3	5000								ease		50	50																																														0
 Silent Fang	471	100							1		1	0	ktr	Katar		3	5000								ease		50	50																																														0
 Veiled Talon	472	100							1		9	0	wrb	Wrist Blade		3	5000								ease		50	50																																														0
-Raptors Grasp	473	100							1		12	0	axf	Hatchet Hands		3	5000								ease		50	50																																														0
+Raptor's Grasp	473	100							1		12	0	axf	Hatchet Hands		3	5000								ease		50	50																																														0
 Iron Palm	474	100							1		15	0	ces	Cestus		3	5000								ease		50	50																																														0
 Grave Ripper	475	100							1		18	0	clw	Claws		3	5000								ease		50	50																																														0
 Thrash Fist	476	100							1		21	0	btl	Blade Talons		3	5000								ease		50	50																																														0
 Shadow Shears	477	100							1		24	0	skr	Scissors Katar		3	5000								ease		50	50																																														0
-The Hunters Mark	478	100							1		1	0	jav	Javelin		3	5000								ease		50	50																																														0
+The Hunter's Mark	478	100							1		1	0	jav	Javelin		3	5000								ease		50	50																																														0
 Fallen Son	479	100							1		10	0	pil	Pilum		3	5000								ease		50	50																																														0
 Tempest Reach	480	100							1		15	0	ssp	Short Spear		3	5000								ease		50	50																																														0
 Reaping Gale	481	100							1		23	0	glv	Glaive		3	5000								ease		50	50																																														0
@@ -486,13 +486,13 @@ Predatory Eye	483	100							1		1	0	ob1	Eagle Orb		3	5000								ease		50	50					
 Sanctuary Shield	484	100							1		8	0	ob2	Sacred Globe		3	5000								ease		50	50																																														0
 Smoldering Eye	485	100							1		12	8	ob3	Smoked Sphere		3	5000								ease		50	50																																														0
 Oracle's Precious	486	100							1		17	13	ob4	Clasped Orb		3	5000								ease		50	50																																														0
-The Magis Heirloom	487	100							1		24	18	ob5	Jared's Stone		3	5000								ease		50	50																																														0
+The Magi's Heirloom	487	100							1		24	18	ob5	Jared's Stone		3	5000								ease		50	50																																														0
 The Headsmans Due	488	100							1		7	0	tax	Throwing Axe		3	5000								ease		50	50																																														0
 Deadly Measure	489	100							1		16	0	bal	Balanced Axe		3	5000								ease		50	50																																														0
 Whispersteel	490	100							1		2	0	tkf	Throwing Knife		3	5000								ease		50	50																																														0
 The Sure Hand	491	100							1		13	0	bkf	Balanced Knife		3	5000								ease		50	50																																														0
 Oath of Akarat	492	100							1		35	26	pa6	Akaran Targe		3	5000								ease		33	33																																														0
-Redeemers Mercy	493	100							1		40	30	pa7	Akaran Rondache		3	5000								ease		33	33																																														0
+Redeemer's Mercy	493	100							1		40	30	pa7	Akaran Rondache		3	5000								ease		33	33																																														0
 Sworn Guard	494	100							1		46	34	pa8	Protector Shield		3	5000								ease		33	33																																														0
 Patriarchy Sigil	495	100							1		55	41	paa	Royal Shield		3	5000								ease		33	33																																														0
 Forbidden Flame	496	100							1		39	29	wa7	Dark Tome		3	5000								ease		33	33																																														0
@@ -501,7 +501,7 @@ One Within	498	100							1		49	36	wa9	Possessed Compendium		3	5000								ease		
 Grime Tamer	499	100							1		54	40	waa	Possessed Grimoire		3	5000								ease		33	33																																														0
 Crown of the Forgotten King	500	100							1		33	24	ne6	Mummified Trophy		3	5000								ease		33	33																																														0
 Endugu's Charm	501	100							1		39	29	ne7	Fetish Trophy		3	5000								ease		33	33																																														0
-Gravekeepers Ledger	502	100							1		45	33	ne8	Sexton Trophy		3	5000								ease		33	33																																														0
+Gravekeeper's Ledger	502	100							1		45	33	ne8	Sexton Trophy		3	5000								ease		33	33																																														0
 Healer's Heart	503	100							1		49	36	ne9	Cantor Trophy		3	5000								ease		33	33																																														0
 Pack Leader's	504	100							1		35	26	dr6	Alpha Helm		3	5000								ease		33	33																																														0
 Winged Grasp	505	100							1		40	30	dr7	Griffon Headress		3	5000								ease		33	33																																														0
@@ -520,15 +520,15 @@ Dusk Reaver	517	100							1		41	30	9cs	Hand Scythe		3	5000								ease		33	33			
 Blind Master Slash	518	100							1		45	33	9lw	Greater Claws		3	5000								ease		33	33																																														0
 Magebreaker	519	100							1		54	40	9qr	Scissors Quhab		3	5000								ease		33	33																																														0
 Tooth of the Tempest	520	100							1		30	18	9ja	War Javelin		3	5000								ease		33	33																																														0
-Conquerors Point	521	100							1		37	25	9pi	Great Pilum		3	5000								ease		33	33																																														0
-Spearborns Legacy	522	100							1		40	25	9s9	Simbilan		3	5000								ease		33	33																																														0
+Conqueror's Point	521	100							1		37	25	9pi	Great Pilum		3	5000								ease		33	33																																														0
+Spearborn's Legacy	522	100							1		40	25	9s9	Simbilan		3	5000								ease		33	33																																														0
 Falcon Deep Reach	523	100							1		46	25	9gl	Spiculum		3	5000								ease		33	33																																														0
 Tidal Takeover	524	100							1		51	25	9ts	Harpoon		3	5000								ease		33	33																																														0
 Radiance of Esu	525	100							1		32	24	ob6	Glowing Orb		3	5000								ease		33	33																																														0
 Winterglass	526	100							1		37	27	ob7	Crystalline Globe		3	5000								ease		33	33																																														0
 The Unseeing Eye	527	100							1		41	30	ob8	Cloudy Sphere		3	5000								ease		33	33																																														0
 Light Reference	528	100							1		46	34	ob9	Sparkling Ball		3	5000								ease		33	33																																														0
-The Reavers Return	529	100							1		41	25	9b8	Hurlbat		3	5000								ease		33	33																																														0
+The Reaver's Return	529	100							1		41	25	9b8	Hurlbat		3	5000								ease		33	33																																														0
 Swiftdeath	530	100							1		39	25	9bk	War Dart		3	5000								ease		33	33																																														0
 Akkhan's Righteous Crusade	531	100							1		63	47	pab	Sacred Targe		3	5000								ease		-20	20																																														0
 Bulwark Beyond	532	100							1		74	55	pad	Ancient Shield		3	5000								ease		-20	20																																														0
@@ -555,7 +555,7 @@ Burrowing Cover	552	100							1		67	50	uea	Wyrmhide		3	5000								ease		-20	20	
 Beetleburst's Spark	553	100							1		68	51	ula	Scarab Husk		3	5000								ease		-20	20																																														0
 Iced Surface	554	100							1		72	54	ung	Diamond Mail		3	5000								ease		-20	20																																														0
 Iron War-Mantle	555	100							1		73	55	ucl	Loricated Mail		3	5000								ease		-20	20																																														0
-Vanguards Honor	556	100							1		75	56	urs	Great Hauberk		3	5000								ease		-20	20																																														0
+Vanguard's Honor	556	100							1		75	56	urs	Great Hauberk		3	5000								ease		-20	20																																														0
 Hephesto's Deliverance	557	100							1		78	59	ult	Hellforge Plate		3	5000								ease		-20	20																																														0
 Warzone Carapace	558	100							1		82	62	uth	Lacquered Plate		3	5000								ease		-20	20																																														0
 Enlightened Tangle	559	100							1		84	63	utp	Archon Plate		3	5000								ease		-20	20																																														0
@@ -583,7 +583,7 @@ Relentless Execution	580	100							1		84	63	7h7	Great Poleaxe		3	5000								eas
 Timeless Strike	581	100							1		76	57	7qs	Seraph Rod		3	5000								ease		-20	20																																														0
 Distant Memory	582	100							1		66	49	7tr	Stygian Pike		3	5000								ease		-20	20																																														0
 Past and Present	583	100							1		83	62	7st	Ghost Spear		3	5000								ease		-20	20																																														0
-The Hermits Crook	584	100							1		58	43	6ss	Walking Stick		3	5000								ease		-20	20																																														0
+The Hermit's Crook	584	100							1		58	43	6ss	Walking Stick		3	5000								ease		-20	20																																														0
 Root of the Deep	585	100							1		66	49	6ls	Stalagmite		3	5000								ease		-20	20																																														0
 Grovekeeper	586	100							1		83	62	6bs	Shillelagh		3	5000								ease		-20	20																																														0
 The Iron Oath	587	100							1		56	42	7ss	Falcata		3	5000								ease		-20	20																																														0
@@ -595,7 +595,7 @@ Relic of the First Age	592	100							1		85	66	7wd	Mythical Sword		3	5000								
 Windcutter	593	100							1		64	48	7tk	Flying Knife		3	5000								ease		-20	20																																														0
 Mendlen's Grace	594	100							1		55	41	7wn	Polished Wand		3	5000								ease		-20	20																																														0
 Hand of the Unseen	595	100							1		65	48	7yw	Ghost Wand		3	5000								ease		-20	20																																														0
-Falcons Snare	596	100							1		57	42	6lx	Pellet Bow		3	5000								ease		-20	20																																														0
+Falcon's Snare	596	100							1		57	42	6lx	Pellet Bow		3	5000								ease		-20	20																																														0
 Slithervenom	597	100							1		67	50	6mx	Gorgon Crossbow		3	5000								ease		-20	20																																														0
 Plaguefire	598	100							1		10	10	cqv	Bolts		3	5000																																																									0
 Ironspike	599	100							1		10	10	cqv	Bolts		3	5000																																																									0
