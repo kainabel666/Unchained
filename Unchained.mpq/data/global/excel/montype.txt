@@ -58,3 +58,7 @@ frozenhorror						0
 bloodlord	demon					0
 deathmauler						0
 putriddefiler	demon					0
+thebound						0
+believers	thebound					0
+bspirits	thebound					0
+bound	thebound	lowerunder				0
