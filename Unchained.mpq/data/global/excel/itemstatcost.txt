@@ -314,9 +314,9 @@ item_tohit_vs_monster	311		1																													1																			0
 item_tohit_percent_vs_monster	312		1																													1																			0
 item_ac_vs_monster	313		1																																																0
 item_ac_percent_vs_monster	314		1																																																0
-firelength	315		1	16																																															0
-burningmin	316		1	16																																															0
-burningmax	317		1	16																																															0
+firelength	315		1	16											0	4		8	0	9	0											1																			0
+burningmin	316		1	32											12	28		9	0	30	100											1					92	19		ModStrBurnMin	ModStrBurnMin										0
+burningmax	317		1	32											11	34		9	0	30	100											1					91	19		ModStrBurnMax	ModStrBurnMax										0
 progressive_damage	318		1	3																																															0
 progressive_steal	319		1	3																																															0
 progressive_other	320		1	3																																															0
