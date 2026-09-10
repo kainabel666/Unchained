@@ -13,3 +13,4 @@ quillrat7																															thorns			15	20																										
 quillrat8																															thorns			15	20																										thorns			30	40																										0
 druidhawk	stupidity			1	1																										stupidity			1	1																										stupidity			1	1																										0
 scout	hit-skill		431	100	5																										hit-skill		431	50	10																										hit-skill		431	50	15																										
+chfallen1	death-skill		432	20	5																										death-skill		432	20	5																										death-skill		432	20	5																										
