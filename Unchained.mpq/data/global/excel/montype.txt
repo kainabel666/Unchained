@@ -61,4 +61,4 @@ putriddefiler	demon					0
 thebound						0
 believers	thebound					0
 bspirits	thebound					0
-bound	thebound	lowerunder				0
+bound	thebound	lowundead				0
