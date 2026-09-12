@@ -782,6 +782,7 @@
   "zwalker1": "zombie1",
   "bloodcrow1": "foulcrow1",
   "chfallen1": "fallen1",
+  "chfallen2": "fallen1",
   "chquill1": "quillrat1",
   "boundbreeder1": "crownest1",
   "zwalker2": "zombie1",
@@ -791,5 +792,10 @@
   "boundbeliever1": "cantor1",
   "monhydra1": "hydra1",
   "monhydra2": "hydra2",
-  "monhydra3": "hydra3"
-}
+  "monhydra3": "hydra3",
+  "chfallenshaman1": "fallenshaman1",
+  "chfallenshaman2": "fallenshaman1",
+  "chaincrbow1": "cr_archer1",
+  "hairybeast1": "snowyeti1",
+  "chainrogue1": "corruptrogue1"
+}  

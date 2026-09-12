@@ -826,5 +826,8 @@
     "offfrostnova": "frost_nova",
     "mercbattleorders": "b_a_yell_shock_wave_01",
     "mercexplodingarrowexp_2": "null",
-    "explosionctc": "null"
+    "explosionctc": "null",
+    "carverenchant": "izual_death_particles",
+    "shamanicebolt": "ice_bolt",
+    "monhbhitnova": "mist"
 }

@@ -12,5 +12,8 @@ quillrat6																															thorns			15	20																										
 quillrat7																															thorns			15	20																										thorns			30	40																										0
 quillrat8																															thorns			15	20																										thorns			30	40																										0
 druidhawk	stupidity			1	1																										stupidity			1	1																										stupidity			1	1																										0
-scout	hit-skill		431	100	5																										hit-skill		431	50	10																										hit-skill		431	50	15																										
-chfallen1	death-skill		432	20	5																										death-skill		432	20	5																										death-skill		432	20	5																										
+scout	hit-skill		431	100	5																										hit-skill		431	50	10																										hit-skill		431	50	15																										0
+chfallen1	death-skill		487	10	5																										death-skill		487	20	5																										death-skill		487	20	5																										0
+chfallenshaman2	death-skill		492	100	2																										death-skill		492	40	5																										death-skill		492	60	5																										0
+chfallen2	death-skill		487	10	5																										death-skill		487	20	5																										death-skill		487	20	5																										0
+hairybeast1	hit-skill		493	15	1																										hit-skill		493	25	2																										hit-skill		493	33	6																										0
