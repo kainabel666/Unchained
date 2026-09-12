@@ -8,3 +8,6 @@ d2rloader/config/d2rloader.toml
 /d2rloader/logs
 d2rloader/metadata.json
 *.txtworkspace
+d2rloader/config/ruffneckk-mapsense.toml
+d2rloader/plugins/d2rl-ruffneckk-mapsense.dll
+d2rloader/plugins/RuffnecKkMapSenseMapgen.exe
