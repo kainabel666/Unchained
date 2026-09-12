@@ -6458,5 +6458,990 @@
     "ruRU": "% d урона от ожогов за %d секунд",
     "zhCN": "%d 秒内造成 %d 烧伤",
     "zhTW": "%d 秒內造成 %d 燒傷"
+  },
+  {
+    "id": 48009,
+    "Key": "AddFireBolt",
+    "enUS": "Shoot %+d Fire Bolt(s)",
+    "zhTW": "射出 %+d 道火焰 bolt",
+    "deDE": "Feuerbolzen-Mehrfachschuss freischalten",
+    "esES": "Desbloquear lanzamiento múltiple de bolas de fuego",
+    "frFR": "Débloquer le lancer multiple de boules de feu",
+    "itIT": "Sblocca il lancio multiplo di palle di ghiaccio",
+    "koKR": "냉기 볼트 다중 발사 해제",
+    "plPL": "Odblokuj wielokrotne wyrzucanie lodowych kulek",
+    "esMX": "Desbloquear lanzamiento múltiple de bolas de hielo",
+    "jaJP": "〈冷気〉スキル向上",
+    "ptBR": "Desbloquear lançamento múltiplo de bolas frias",
+    "ruRU": "Разблокировать множественный выстрел ледяных шаров",
+    "zhCN": "解鎖冰霜 bolt 多重射擊"
+  },
+  {
+    "id": 48010,
+    "Key": "AddIceBolt",
+    "enUS": "Shoot %+d Ice Bolt(s)",
+    "zhTW": "射出 %+d 道冰霜 bolt",
+    "deDE": "Eisbolzen-Mehrfachschuss freischalten",
+    "esES": "Desbloquear lanzamiento múltiple de bolas de hielo",
+    "frFR": "Débloquer le lancer multiple de boules de glace",
+    "itIT": "Sblocca il lancio multiplo di palle di ghiaccio",
+    "koKR": "냉기 볼트 다중 발사 해제",
+    "plPL": "Odblokuj wielokrotne wyrzucanie lodowych kulek",
+    "esMX": "Desbloquear lanzamiento múltiple de bolas de hielo",
+    "jaJP": "〈冷気〉スキル向上",
+    "ptBR": "Desbloquear lançamento múltiplo de bolas frias",
+    "ruRU": "Разблокировать множественный выстрел ледяных шаров",
+    "zhCN": "解鎖冰霜 bolt 多重射擊"
+  },
+  {
+    "id": 48011,
+    "Key": "AddHolyBolt",
+    "enUS": "Shoot %+d Holy Bolt(s)",
+    "zhTW": "射出 %+d 道聖光 bolt",
+    "deDE": "Heilige Bolzen-Mehrfachschuss freischalten",
+    "esES": "Desbloquear lanzamiento múltiple de bolas sagradas",
+    "frFR": "Débloquer le lancer multiple de boules sacrées",
+    "itIT": "Sblocca il lancio multiplo di palle di ghiaccio",
+    "koKR": "냉기 볼트 다중 발사 해제",
+    "plPL": "Odblokuj wielokrotne wyrzucanie lodowych kulek",
+    "esMX": "Desbloquear lanzamiento múltiple de bolas de hielo",
+    "jaJP": "〈冷気〉スキル向上",
+    "ptBR": "Desbloquear lançamento múltiplo de bolas frias",
+    "ruRU": "Разблокировать множественный выстрел священных шаров",
+    "zhCN": "解鎖聖光 bolt 多重射擊"
+  },
+  {
+    "id": 48012,
+    "Key": "AddLevelRequirement",
+    "enUS": "Required Level: +%d",
+    "zhTW": "需要等級：+%d",
+    "deDE": "Benötigte Stufe: +%d",
+    "esES": "Nivel necesario: +%d",
+    "frFR": "Niveau nécessaire : +%d",
+    "itIT": "Livello richiesto: +%d",
+    "koKR": "요구 레벨: +%d",
+    "plPL": "Wymagany poziom: +%d",
+    "esMX": "Nivel requerido: +%d",
+    "jaJP": "必要レベル: +%d",
+    "ptBR": "Nível necessário: +%d",
+    "ruRU": "Требуемый уровень: +%d-й",
+    "zhCN": "需要等级: +%d"
+  },
+  {
+    "id": 48013,
+    "Key": "ModStrColdSkill",
+    "enUS": "%+d to Cold Skills",
+    "zhTW": "%+d 冰霜技能",
+    "deDE": "%+d zu Kältefertigkeiten",
+    "esES": "%+d a los hechizos de hielo",
+    "frFR": "%+d aux compétences de Froid",
+    "itIT": "%+d alle abilità di freddo",
+    "koKR": "냉기 기술 %+d",
+    "plPL": "%+d do umiejętności zimna",
+    "esMX": "%+d a las habilidades de Hielo",
+    "jaJP": "〈冷気〉スキル向上（%+d）",
+    "ptBR": "%+d para habilidades glaciais",
+    "ruRU": "%+d к умениям льда",
+    "zhCN": "%+d 冰霜技能"
+  },
+  {
+    "id": 48014,
+    "Key": "ModStrLightSkill",
+    "enUS": "%+d to Lightning Skills",
+    "zhTW": "%+d 雷電技能",
+    "deDE": "%+d zu Blitzfertigkeiten",
+    "esES": "%+d a los hechizos de rayo",
+    "frFR": "%+d aux compétences d'Éclair",
+    "itIT": "%+d alle abilità di fulmine",
+    "koKR": "번개 기술 %+d",
+    "plPL": "%+d do umiejętności błyskawicy",
+    "esMX": "%+d a las habilidades de Rayo",
+    "jaJP": "〈雷〉スキル向上（%+d）",
+    "ptBR": "%+d para habilidades elétricas",
+    "ruRU": "%+d к умениям молнии",
+    "zhCN": "%+d 雷电技能"
+  },
+  {
+    "id": 48015,
+    "Key": "ModStrPoisonSkill",
+    "enUS": "%+d to Poison Skills",
+    "zhTW": "%+d 毒素技能",
+    "deDE": "%+d zu Giftfertigkeiten",
+    "esES": "%+d a los hechizos de veneno",
+    "frFR": "%+d aux compétences de Poison",
+    "itIT": "%+d alle abilità di veleno",
+    "koKR": "독 기술 %+d",
+    "plPL": "%+d do umiejętności trucizny",
+    "esMX": "%+d a las habilidades de Veneno",
+    "jaJP": "〈毒〉スキル向上（%+d）",
+    "ptBR": "%+d para habilidades venenosas",
+    "ruRU": "%+d к умениям яда",
+    "zhCN": "%+d 毒素技能"
+  },
+  {
+    "id": 48016,
+    "Key": "ModStrMagicSkill",
+    "enUS": "%+d to Magic Skills",
+    "zhTW": "%+d 魔法技能",
+    "deDE": "%+d zu Magiefertigkeiten",
+    "esES": "%+d a los hechizos mágicos",
+    "frFR": "%+d aux compétences de Magie",
+    "itIT": "%+d alle abilità di magia",
+    "koKR": "마법 기술 %+d",
+    "plPL": "%+d do umiejętności magii",
+    "esMX": "%+d a las habilidades de Magia",
+    "jaJP": "〈魔法〉スキル向上（%+d）",
+    "ptBR": "%+d para habilidades mágicas",
+    "ruRU": "%+d к умениям магии",
+    "zhCN": "%+d 魔法技能"
+  },
+  {
+    "id": 48017,
+    "Key": "ModStrFireSkill",
+    "enUS": "%+d to Fire Skills",
+    "zhTW": "%+d 火焰技能",
+    "deDE": "%+d zu Feuerfertigkeiten",
+    "esES": "%+d a los hechizos de fuego",
+    "frFR": "%+d aux compétences de Feu",
+    "itIT": "%+d alle abilità di fuoco",
+    "koKR": "화염 기술 %+d",
+    "plPL": "%+d do umiejętności ognia",
+    "esMX": "%+d a las habilidades de Fuego",
+    "jaJP": "〈火炎〉スキル向上（%+d）",
+    "ptBR": "%+d para habilidades ígneas",
+    "ruRU": "%+d к умениям огня",
+    "zhCN": "%+d 火焰技能"
+  },
+  {
+    "id": 48018,
+    "Key": "AddFireArrow",
+    "enUS": "Shoot %+d Fire Arrow(s)",
+    "zhTW": "射出 %+d 道火焰箭",
+    "deDE": "Feuerpfeile freischalten",
+    "esES": "Desbloquear lanzamiento múltiple de flechas de fuego",
+    "frFR": "Débloquer le lancer multiple de flèches de feu",
+    "itIT": "Sblocca il lancio multiplo di frecce di fuoco",
+    "koKR": "화염 화살 다중 발사 해제",
+    "plPL": "Odblokuj wielokrotne wyrzucanie ognistych strzał",
+    "esMX": "Desbloquear lanzamiento múltiple de flechas de fuego",
+    "jaJP": "〈火炎〉スキル向上",
+    "ptBR": "Desbloquear lançamento múltiplo de flechas ígneas",
+    "ruRU": "Разблокировать множественный выстрел огненных стрел",
+    "zhCN": "解鎖火焰箭多重射擊"
+  },
+  {
+    "id": 48019,
+    "Key": "AddColdArrow",
+    "enUS": "Shoot %+d Cold Arrow(s)",
+    "zhTW": "射出 %+d 道冰霜箭",
+    "deDE": "Kältepfeile freischalten",
+    "esES": "Desbloquear lanzamiento múltiple de flechas de hielo",
+    "frFR": "Débloquer le lancer multiple de flèches de glace",
+    "itIT": "Sblocca il lancio multiplo di frecce di ghiaccio",
+    "koKR": "냉기 화살 다중 발사 해제",
+    "plPL": "Odblokuj wielokrotne wyrzucanie lodowych strzał",
+    "esMX": "Desbloquear lanzamiento múltiple de flechas de hielo",
+    "jaJP": "〈冷気〉スキル向上",
+    "ptBR": "Desbloquear lançamento múltiplo de flechas frias",
+    "ruRU": "Разблокировать множественный выстрел ледяных стрел",
+    "zhCN": "解鎖冰霜箭多重射擊"
+  },
+  {
+    "id": 48023,
+    "Key": "BoneAddStat",
+    "deDE": "Knochenrüstung kann %d mehr Schaden absorbieren",
+    "enUS": "Bone Armor Can Absorb %d more damage",
+    "esES": "La armadura ósea puede absorber %d más daño",
+    "esMX": "La armadura ósea puede absorber %d más daño",
+    "frFR": "L'armatura d'osso può assorbire %d danni in più",
+    "itIT": "L'armure osseuse peut absorber %d dégâts supplémentaires",
+    "jaJP": "ボーンアーマーは%d以上のダメージを吸収できます",
+    "koKR": "뼈 갑옷은 %d 더 많은 피해를 흡수할 수 있습니다.",
+    "plPL": "Zbroja z Kości może wchłonąć %d więcej obrażeń",
+    "ptBR": "Armadura Óssea Pode Absorver %d mais dano",
+    "ruRU": "Костяная броня может поглотить на %d больше урона",
+    "zhCN": "骨甲可以多吸收 %d 伤害",
+    "zhTW": "骨甲可以多吸收 %d 傷害"
+  },
+  {
+    "id": 48024,
+    "Key": "ThornsPercent",
+    "deDE": "Der Angreifer erleidet %d%% reflektierten Schaden",
+    "enUS": "Attacker Takes %d%% Reflected Damage",
+    "esES": "El atacante recibe %d%% de daño reflejado",
+    "esMX": "El atacante recibe %d%% de daño reflejado",
+    "frFR": "L'attaccante subisce %d%% danni riflessi",
+    "itIT": "L'attaquant subit %d%% de dégâts réfléchis",
+    "jaJP": "攻撃者は%d%%の反射ダメージを受ける",
+    "koKR": "공격자가 %d%% 반사 피해를 받음",
+    "plPL": "Atakujący otrzymuje %d%% odbitych obrażeń",
+    "ptBR": "Atacante sofre %d%% de dano refletido",
+    "ruRU": "Атакующий получает отраженный урон %d%%",
+    "zhCN": "攻击者受到 %d%% 反射伤害",
+    "zhTW": "攻擊者受到 %d%% 反射傷害"
+  },
+  {
+    "id": 48025,
+    "Key": "ModitemdamElesk",
+    "enUS": "%+d%% to Elemental Skill Damage",
+    "zhTW": "%+d%%  元素技能",
+    "deDE": "%+d%%  zu Elementarfertigkeiten",
+    "esES": "%+d%% a las habilidades elementale damage",
+    "frFR": "%+d%% en élémentaire damage",
+    "itIT": "%+d%% alle Magie elementali",
+    "koKR": "원소 기술 %+d%%",
+    "plPL": "%+d%% do umiejętności Żywiołów",
+    "esMX": "%+d%% a las habilidades Elementales",
+    "jaJP": "〈自然の力〉スキル向上（%+d%%）",
+    "ptBR": "%+d%% para habilidades Elementos",
+    "ruRU": "%+d%% к силам стихий",
+    "zhCN": "%+d%% 元素技能"
+  },
+  {
+    "id": 48026,
+    "Key": "ModitemdamEleskN",
+    "enUS": "%-d%% to Elemental Skill Damage",
+    "zhTW": "%-d%%  元素技能",
+    "deDE": "%-d%%  zu Elementarfertigkeiten",
+    "esES": "%-d%% a las habilidades elementale damage",
+    "frFR": "%-d%% en élémentaire damage",
+    "itIT": "%-d%% alle Magie elementali",
+    "koKR": "원소 기술 %-d%%",
+    "plPL": "%-d%% do umiejętności Żywiołów",
+    "esMX": "%-d%% a las habilidades Elementales",
+    "jaJP": "〈自然の力〉スキル向上（%-d%%）",
+    "ptBR": "%-d%% para habilidades Elementos",
+    "ruRU": "%-d%% к силам стихий",
+    "zhCN": "%-d%% 元素技能"
+  },
+  {
+    "id": 48027,
+    "Key": "ModStrDualLeech",
+    "enUS": "%d%% Life and Mana stolen per hit",
+    "zhTW": "擊中竊取 %d%% 生命和法力",
+    "deDE": "%d%% abgesaugtes Leben und Mana pro Treffer",
+    "esES": "%d%% de vida y maná robados por golpe",
+    "frFR": "%d%% de vie et de mana volés à chaque coup",
+    "itIT": "%d%% vita e mana rubati per colpo",
+    "koKR": "적중당 생명력 %d%% 훔침",
+    "plPL": "%d%% zdrowia i many wykradzione za każde trafienie",
+    "esMX": "%d%% de vida y maná robados por golpe",
+    "jaJP": "攻撃命中でライフを吸収（与ダメージの%d%%）",
+    "ptBR": "%d%% de pontos de vida e mana roubados por acerto",
+    "ruRU": "Похищает %d%% здоровья и маны за удар",
+    "zhCN": "%d%% 击中时偷取生命和法力"
+  },
+  {
+    "id": 48028,
+    "Key": "ModStrColdThorns",
+    "enUS": "Cold Thorns +%d",
+    "zhTW": "攻擊者受到 %d 點冰霜傷害",
+    "deDE": "Angreifer erleidet Eis-Schaden von %d",
+    "esES": "Los atacantes reciben %d p. de daño de hielo",
+    "frFR": "L’adversaire subit des dégâts de Glace de %d",
+    "itIT": "Gli attaccanti subiscono danni da ghiaccio pari a %d",
+    "koKR": "공격자가 얼음 피해를 %d 받음",
+    "plPL": "Atakujący otrzymują %d pkt. obrażeń od lodu",
+    "esMX": "El atacante recibe %d de daño de hielo",
+    "jaJP": "攻撃を受けると氷ダメージ（%d）を反射",
+    "ptBR": "Agressor recebe %d de dano de gelo",
+    "ruRU": "Атакующий получает %d урона от льда",
+    "zhCN": "攻击者受到 %d 点冰霜伤害"
+  },
+  {
+    "id": 48029,
+    "Key": "ModStrFireThorns",
+    "enUS": "Fire Thorns +%d",
+    "zhTW": "攻擊者受到 %d 點火焰傷害",
+    "deDE": "Angreifer erleidet Feuerschaden von %d",
+    "esES": "Los atacantes reciben %d p. de daño de fuego",
+    "frFR": "L’adversaire subit des dégâts de Feu de %d",
+    "itIT": "Gli attaccanti subiscono danni da fulmine pari a %d",
+    "koKR": "공격자가 번개 피해를 %d 받음",
+    "plPL": "Atakujący otrzymują %d pkt. obrażeń od błyskawic",
+    "esMX": "El atacante recibe %d de daño de rayo",
+    "jaJP": "攻撃を受けると電撃ダメージ（%d）を反射",
+    "ptBR": "Agressor recebe %d de dano elétrico",
+    "ruRU": "Атакующий получает %d урона от молнии",
+    "zhCN": "攻击者受到 %d 点闪电伤害"
+  },
+  {
+    "id": 48030,
+    "Key": "ModStrChLen",
+    "enUS": "Skill Chill length Multipler increased by %d",
+    "zhTW": "寒冰",
+    "deDE": "[ms]frostiger[fs]frostige[ns]frostiges[pl]frostige",
+    "esES": "[fs]refrescante[ms]refrescante[fp]refrescantes[mp]refrescantes",
+    "frFR": "[ms]glaçant[fs]glaçante[mp]glaçants[fp]glaçantes",
+    "itIT": "[ms]Gelido[fs]Gelida[mp]Gelidi[fp]Gelide",
+    "koKR": "싸늘한",
+    "plPL": "[fs]Zmrażająca[ms]Zmrażający[nl]Zmrażające",
+    "esMX": "[ms]escalofriante[fs]escalofriante[mp]escalofriantes[fp]escalofriantes",
+    "jaJP": "凍えさせる",
+    "ptBR": "[ms]Gélido[mp]Gélidos[fs]Gélida[fp]Gélidas",
+    "ruRU": "[ms]прохладный[fs]прохладная[ns]прохладное[pl]прохладные",
+    "zhCN": "寒冷"
+  },
+  {
+    "id": 48031,
+    "Key": "ModStrFrzLen",
+    "enUS": "Skill Freeze length Multipler increased by %d",
+    "zhTW": "冰凍",
+    "deDE": "[ms]frostiger[fs]frostige[ns]frostiges[pl]frostige",
+    "esES": "[fs]refrescante[ms]refrescante[fp]refrescantes[mp]refrescantes",
+    "frFR": "[ms]glaçant[fs]glaçante[mp]glaçants[fp]glaçantes",
+    "itIT": "[ms]Gelido[fs]Gelida[mp]Gelidi[fp]Gelide",
+    "koKR": "싸늘한",
+    "plPL": "[fs]Zmrażająca[ms]Zmrażający[nl]Zmrażające",
+    "esMX": "[ms]escalofriante[fs]escalofriante[mp]escalofriantes[fp]escalofriantes",
+    "jaJP": "凍えさせる",
+    "ptBR": "[ms]Gélido[mp]Gélidos[fs]Gélida[fp]Gélidas",
+    "ruRU": "[ms]прохладный[fs]прохладная[ns]прохладное[pl]прохладные",
+    "zhCN": "寒冷"
+  },
+  {
+    "id": 48032,
+    "Key": "ModStrMaxWolves",
+    "enUS": "Increase summon limit of Wolves by %d",
+    "zhTW": "狼群上限：%d",
+    "deDE": "Max. Wölfe: %d",
+    "esES": "Máximo de lobos: %d",
+    "frFR": "Loups max : %d",
+    "itIT": "Lupi massimi: %d",
+    "koKR": "최대 늑대 수: %d마리",
+    "plPL": "Maksymalna liczba wilków: %d",
+    "esMX": "Máximo de lobos: %d",
+    "jaJP": "ウルフ最大数: %d",
+    "ptBR": "Máx. Lobos: %d",
+    "ruRU": "Макс. волков: %d",
+    "zhCN": "群狼数量上限：%d"
+  },
+  {
+    "id": 48033,
+    "Key": "ModStrMaxRavens",
+    "enUS": "Increase summon limit of Ravens by %d",
+    "zhTW": "掠鴉上限：%d",
+    "deDE": "Max. Raben: %d",
+    "esES": "Máximo de cuervos: %d",
+    "frFR": "Corbeaux max : %d",
+    "itIT": "Corvi massimi: %d",
+    "koKR": "최대 큰까마귀 수: %d마리",
+    "plPL": "Maksymalna liczba kruków: %d",
+    "esMX": "Máximo de cuervos: %d",
+    "jaJP": "レイヴン最大数: %d",
+    "ptBR": "Máx. Corvos: %d",
+    "ruRU": "Макс. воронов: %d",
+    "zhCN": "渡鸦数量上限：%d"
+  },
+  {
+    "id": 48034,
+    "Key": "StrSkillMagicarrowDmgPerc",
+    "enUS": "Increase Magic Arrow Damage by %d%%",
+    "zhTW": "魔法箭伤害增加 %d%%"
+  },
+  {
+    "id": 48035,
+    "Key": "StrSkillColdarrowDmgPerc",
+    "enUS": "Increase Cold Arrow Damage by %d%%",
+    "zhTW": "冰箭伤害增加 %d%%"
+  },
+  {
+    "id": 48036,
+    "Key": "StrSkillFirearrowDmgPerc",
+    "enUS": "Increase Fire Arrow Damage by %d%%",
+    "zhTW": "火箭伤害增加 %d%%"
+  },
+  {
+    "id": 48037,
+    "Key": "StrSkillIcearrowDmgPerc",
+    "enUS": "Increase Ice Arrow Damage by %d%%",
+    "zhTW": "冰箭伤害增加 %d%%"
+  },
+  {
+    "id": 48038,
+    "Key": "StrSkillJabDamageConv",
+    "enUS": "Convert %d%% of Jab Damage to Cold",
+    "zhTW": "将%d%%的刺伤害转换为冰霜伤害"
+  },
+  {
+    "id": 48039,
+    "Key": "StrSkillPowerstrikeDamageConv",
+    "enUS": "Convert %d%% of Power Strike Damage to Fire"
+  },
+  {
+    "id": 48040,
+    "Key": "StrSkillImpaleDamageConv",
+    "enUS": "Convert %d%% of Impale Damage to Poison"
+  },
+  {
+    "id": 48041,
+    "Key": "StrSkillChargedstrikeDamageConv",
+    "enUS": "Convert %d%% of Charged Strike Damage to Lightning"
+  },
+  {
+    "id": 48042,
+    "Key": "StrSkillFendDamageConv",
+    "enUS": "Convert %d%% of Fend Damage to Poison"
+  },
+  {
+    "id": 48043,
+    "Key": "StrSkillLightningstrikeDamageConv",
+    "enUS": "Convert %d%% of Lightning Strike Damage to Lightning"
+  },
+  {
+    "id": 48044,
+    "Key": "StrSkillDecoyAddCasterHpPerc",
+    "enUS": "Increase Decoy HP by %d%% of Caster's HP"
+  },
+  {
+    "id": 48045,
+    "Key": "StrSkillFrostnovaMissileVelocity",
+    "enUS": "Increase Frost Nova Missile Velocity by %d m/s"
+  },
+  {
+    "id": 48046,
+    "Key": "StrSkillNovaMissileVelocity",
+    "enUS": "Increase Nova Missile Velocity by %d m/s"
+  },
+  {
+    "id": 48047,
+    "Key": "StrSkillPoisonnovaMissileVelocity",
+    "enUS": "Increase Poison Nova Missile Velocity by %d m/s"
+  },
+  {
+    "id": 48048,
+    "Key": "StrSkillFirewallMaxWalls",
+    "enUS": "Active Max Fire Walls Increased by %d"
+  },
+  {
+    "id": 48049,
+    "Key": "StrSkillPoisondaggerDmgPerc",
+    "enUS": "Increase Poison Dagger Damage by %d%%"
+  },
+  {
+    "id": 48050,
+    "Key": "StrSkillIronmaidenFlatDmg",
+    "enUS": "Add %d Flat Thorns to Iron Maiden"
+  },
+  {
+    "id": 48051,
+    "Key": "StrSkillConfuseChance",
+    "enUS": "Increase Confuse Chance by %d%%"
+  },
+  {
+    "id": 48052,
+    "Key": "StrSkillBloodgolemStealToNecro",
+    "enUS": "Increase Blood Golem Steal Life to Player by %d%%"
+  },
+  {
+    "id": 48053,
+    "Key": "StrSkillBlessedhammerConcBonus",
+    "enUS": "Increase Blessed Hammer Concentration Bonus by %d%%"
+  },
+  {
+    "id": 48054,
+    "Key": "StrSkillConversionAttackRate",
+    "enUS": "Increase Conversion Attack Rate by %d%%"
+  },
+  {
+    "id": 48055,
+    "Key": "StrSkillConversionDamageConv",
+    "enUS": "Convert %d%% of Conversion Damage to Magic"
+  },
+  {
+    "id": 48056,
+    "Key": "StrSkillBashAttackRate",
+    "enUS": "Increase Bash Attack Speed by %d%%"
+  },
+  {
+    "id": 48057,
+    "Key": "StrSkillBashDamageConv",
+    "enUS": "Convert %d%% of Bash Damage to Fire"
+  },
+  {
+    "id": 48058,
+    "Key": "StrSkillDoubleswingFlatDmg",
+    "enUS": "Adds +%d Damage to Double Swing(Additive from both weapons)"
+  },
+  {
+    "id": 48059,
+    "Key": "StrSkillDoubleswingAttackRate",
+    "enUS": "Increase Double Swing Attack Speed by %d%%(Additive from both weapons)"
+  },
+  {
+    "id": 48060,
+    "Key": "StrSkillStunFlatDmg",
+    "enUS": "Adds +%d Damage to Stun"
+  },
+  {
+    "id": 48061,
+    "Key": "StrSkillStunAttackRate",
+    "enUS": "Increase Stun Attack Speed by %d%%"
+  },
+  {
+    "id": 48062,
+    "Key": "StrSkillLeapattackDamageConv",
+    "enUS": "Convert %d%% of Leap Attack Damage to Fire"
+  },
+  {
+    "id": 48063,
+    "Key": "StrSkillConcentrateFlatDmg",
+    "enUS": "Adds +%d Damage to Concentrate"
+  },
+  {
+    "id": 48064,
+    "Key": "StrSkillConcentrateAttackRate",
+    "enUS": "Increase Concentrate Attack Speed by %d%%"
+  },
+  {
+    "id": 48065,
+    "Key": "StrSkillMaulDmgPerc",
+    "enUS": "Increase Maul Damage by %d%%"
+  },
+  {
+    "id": 48066,
+    "Key": "StrSkillMaulDamageConv",
+    "enUS": "Convert %d%% of Maul Damage to Cold"
+  },
+  {
+    "id": 48067,
+    "Key": "StrSkillFeralrageDamageConv",
+    "enUS": "Convert %d%% of Feral Rage Damage to Fire"
+  },
+  {
+    "id": 48068,
+    "Key": "StrSkillRabiesDamageConv",
+    "enUS": "Convert %d%% of Rabies Damage to Poison"
+  },
+  {
+    "id": 48069,
+    "Key": "StrSkillShockwaveMissileTriggers",
+    "enUS": "+%d Shockwave Missile Can Now Trigger On Hit Effects"
+  },
+  {
+    "id": 48070,
+    "Key": "StrSkillVolcanoMissileDelay",
+    "enUS": "Increase Delay Between Volcano Missiles by %d seconds"
+  },
+  {
+    "id": 48071,
+    "Key": "StrSkillTornadoMulti",
+    "enUS": "+%d Tornadoes per cast"
+  },
+  {
+    "id": 48072,
+    "Key": "StrSkillTornadoPeriodicDamageRateDelay",
+    "enUS": "Increase Tornado Periodic Damage Rate by %d seconds"
+  },
+  {
+    "id": 48073,
+    "Key": "StrSkillDragonclawDamageConv",
+    "enUS": "Convert %d%% of Dragon Claw Damage to Fire"
+  },
+  {
+    "id": 48074,
+    "Key": "StrSkillClawsofthunderDamageConv",
+    "enUS": "Convert %d%% of Claws of Thunder Damage to Lightning"
+  },
+  {
+    "id": 48075,
+    "Key": "StrSkillBladesoficeDamageConv",
+    "enUS": "Convert %d%% of Blades of Ice Damage to Cold"
+  },
+  {
+    "id": 48076,
+    "Key": "StrSkillFistsoffireDamageConv",
+    "enUS": "Convert %d%% of Fists of Fire Damage to Fire"
+  },
+  {
+    "id": 48077,
+    "Key": "StrSkillBladewarpDmgPerc",
+    "enUS": "Increase Blade Warp Damage by %d%%"
+  },
+  {
+    "id": 48078,
+    "Key": "StrSkillBladewarpFlatDmg",
+    "enUS": "Adds +%d Damage to Blade Warp"
+  },
+  {
+    "id": 48079,
+    "Key": "StrSkillBladewarpAttackRate",
+    "enUS": "Increase Blade Warp Attack Speed by %d%%"
+  },
+  {
+    "id": 48080,
+    "Key": "StrSkillBladewarpDamageConv",
+    "enUS": "Convert %d%% of Blade Warp Damage to Magic"
+  },
+  {
+    "id": 48081,
+    "Key": "StrSkillCleaveDmgPerc",
+    "enUS": "Increase Cleave Damage by %d%%"
+  },
+  {
+    "id": 48082,
+    "Key": "StrSkillCleaveFlatDmg",
+    "enUS": "Adds +%d Damage to Cleave"
+  },
+  {
+    "id": 48083,
+    "Key": "StrSkillCleaveAttackRate",
+    "enUS": "Increase Cleave Attack Speed by %d%%"
+  },
+  {
+    "id": 48084,
+    "Key": "StrSkillCleaveDamageConv",
+    "enUS": "Convert %d%% of Cleave Damage to Magic"
+  },
+  {
+    "id": 48085,
+    "Key": "StrSkillMirroredbladesDmgPerc",
+    "enUS": "Increase Mirrored Blades Damage by %d%%"
+  },
+  {
+    "id": 48086,
+    "Key": "StrSkillMirroredbladesFlatDmg",
+    "enUS": "Adds +%d Damage to Mirrored Blades"
+  },
+  {
+    "id": 48087,
+    "Key": "StrSkillMirroredbladesAttackRate",
+    "enUS": "Increase Mirrored Blades Attack Speed by %d%%"
+  },
+  {
+    "id": 48088,
+    "Key": "StrSkillMirroredbladesDamageConv",
+    "enUS": "Convert %d%% of Mirrored Blades Damage to Magic"
+  },
+  {
+    "id": 48089,
+    "Key": "StrSkillMirroredbladesSecondaryDmg",
+    "enUS": "Increase Blade Warp's Secondary Strike Damage by %d%%"
+  },
+  {
+    "id": 48090,
+    "Key": "StrSkillRingoffireMissileVelocity",
+    "enUS": "Increase Ring of Fire Missile Velocity by %d m/s"
+  },
+  {
+    "id": 48091,
+    "Key": "StrSkillMagicarrowDmgPercNeg",
+    "enUS": "Reduce Magic Arrow Damage by %d%%"
+  },
+  {
+    "id": 48092,
+    "Key": "StrSkillColdarrowDmgPercNeg",
+    "enUS": "Reduce Cold Arrow Damage by %d%%"
+  },
+  {
+    "id": 48093,
+    "Key": "StrSkillFirearrowDmgPercNeg",
+    "enUS": "Reduce Fire Arrow Damage by %d%%"
+  },
+  
+  {
+    "id": 48094,
+    "Key": "StrSkillFrostnovaMissileVelocityNeg",
+    "enUS": "Reduce Frost Nova Missile Velocity by %d m/s"
+  },
+  {
+    "id": 48095,
+    "Key": "StrSkillNovaMissileVelocityNeg",
+    "enUS": "Reduce Nova Missile Velocity by %d m/s"
+  },
+  {
+    "id": 48096,
+    "Key": "StrSkillPoisonnovaMissileVelocityNeg",
+    "enUS": "Reduce Poison Nova Missile Velocity by %d m/s"
+  },
+ 
+  {
+    "id": 48097,
+    "Key": "StrSkillConfuseChanceNeg",
+    "enUS": "Reduce Confuse Chance by %d%%"
+  },
+  {
+    "id": 48098,
+    "Key": "StrSkillBloodgolemStealToNecroNeg",
+    "enUS": "Reduce Blood Golem Life Steal to Player by %d%%"
+  },
+  {
+    "id": 48099,
+    "Key": "StrSkillBlessedhammerConcBonusNeg",
+    "enUS": "Reduce Blessed Hammer Concentration Bonus by %d%%"
+  },
+  {
+    "id": 48100,
+    "Key": "StrSkillConversionAttackRateNeg",
+    "enUS": "Reduce Conversion Attack Speed by %d%%"
+  },
+
+  {
+    "id": 48101,
+    "Key": "StrSkillBashAttackSpeedNeg",
+    "enUS": "Reduce Bash Attack Speed by %d%%"
+  },
+
+  {
+    "id": 48102,
+    "Key": "StrSkillDoubleswingAttackRateNeg",
+    "enUS": "Reduce Double Swing Attack Speed by %d%%"
+  },
+  {
+    "id": 48103,
+    "Key": "StrSkillStunAttakRateNeg",
+    "enUS": "Reduce Stun Attack Speed by %d%%"
+  },
+
+  {
+    "id": 48104,
+    "Key": "StrSkillConcentrateAttackRateNeg",
+    "enUS": "Reduce Concentrate Attack Speed by %d%%"
+  },
+  {
+    "id": 48105,
+    "Key": "StrSkillMaulDmgPercNeg",
+    "enUS": "Reduce Maul Damage by %d%%"
+  },
+  {
+    "id": 48106,
+    "Key": "StrSkillVolcanoMissileDelayNeg",
+    "enUS": "Reduce Volcano Missile Delay by %d ms"
+  },
+  {
+    "id": 48107,
+    "Key": "StrSkillTornadoMultiNeg",
+    "enUS": "%14 Tornadoes per cast"
+  },
+  {
+    "id": 48108,
+    "Key": "StrSkillTornadoPeriodicDamageRateDelayNeg",
+    "enUS": "Reduce Tornado Periodic Damage Rate by %d seconds"
+  },
+  {
+    "id": 48109,
+    "Key": "StrSkillBladewarpDmgPercNeg",
+    "enUS": "Reduce Blade Warp Damage by %d%%"
+  },
+  {
+    "id": 48110,
+    "Key": "StrSkillBladewarpAttackRateNeg",
+    "enUS": "Reduce Blade Warp Attack Speed by %d%%"
+  },
+
+  {
+    "id": 48111,
+    "Key": "StrSkillCleaveDmgPercNeg",
+    "enUS": "Reduce Cleave Damage by %d%%"
+  },
+
+  {
+    "id": 48112,
+    "Key": "StrSkillCleaveAttackRateNeg",
+    "enUS": "Reduce Cleave Attack Speed by %d%%"
+  },
+
+  {
+    "id": 48113,
+    "Key": "StrSkillMirroredbladesDmgPercNeg",
+    "enUS": "Reduce Mirrored Blades Damage by %d%%"
+  },
+
+  {
+    "id": 48114,
+    "Key": "StrSkillMirroredbladesAttackRateNeg",
+    "enUS": "Reduce Mirrored Blades Attack Speed by %d%%"
+  },
+  {
+    "id": 48115,
+    "Key": "StrSkillMirroredbladesSecondaryDmgNeg",
+    "enUS": "Decrease Blade Warp's Secondary Strike Damage by %d%%"
+  },
+  {
+    "id": 48116,
+    "Key": "StrSkillRingoffireMissileVelocityNeg",
+    "enUS": "Reduce Ring of Fire Missile Velocity by %d m/s"
+  },
+  {
+    "id": 48117,
+    "Key": "StrSkillDoubleswingDmgPerc",
+    "enUS": "Increase Double Swing Damage by %d%%"
+  },
+  {
+    "id": 48118,
+    "Key": "StrSkillDoubleswingDmgPercNeg",
+    "enUS": "Reduce Double Swing Damage by %d%%"
+  },
+  {
+    "id": 48119,
+    "Key": "StrSkillConversionFlatDmg",
+    "enUS": "Adds +%d Damage to Conversion"
+  },
+  {
+    "id": 48120,
+    "Key": "StrSkillEchoingstrikeDmgPercNeg",
+    "enUS": "Reduce Echoing Strike Damage by %d%%"
+  },
+  {
+    "id": 48121,
+    "Key": "StrSkillEchoingstrikeAttackRateNeg",
+    "enUS": "Reduce Echoing Strike Attack Speed by %d%%"
+  },
+  {
+    "id": 48122,
+    "Key": "StrSkillEchoingstrikeDmgPerc",
+    "enUS": "Increase Echoing Strike Damage by %d%%"
+  },
+  {
+    "id": 48123,
+    "Key": "StrSkillEchoingstrikeAttackRate",
+    "enUS": "Increase Echoing Strike Attack Speed by %d%%"
+  },
+  {
+    "id": 48124,
+    "Key": "StrSkillEchoingstrikeFlatDmg",
+    "enUS": "Adds +%d Damage to Echoing Strike"
+  },
+  {
+    "id": 48125,
+    "Key": "StrSkillEchoingstrikeDamageConv",
+    "enUS": "Convert %d%% of Echoing Strike Damage to Magic"
+  },
+  {
+    "id": 48126,
+    "Key": "StrSkillFuryDamageConv",
+    "enUS": "Convert %d%% of Fury Damage to Fire"
+  },
+  {
+    "id": 48127,
+    "Key": "StrSkillRabiesDmgPerc",
+    "enUS": "Increase Rabies Damage by %d%%"
+  },
+  {
+    "id": 48128,
+    "Key": "StrSkillFireclawsDmgPerc",
+    "enUS": "Increase Fire Claws Damage by %d%%"
+  },
+  {
+    "id": 48129,
+    "Key": "StrSkillRabiesDmgPercNeg",
+    "enUS": "Reduce Rabies Damage by %d%%"
+  },
+  {
+    "id": 48130,
+    "Key": "StrSkillFireclawsDmgPercNeg",
+    "enUS": "Reduce Fire Claws Damage by %d%%"
+  },
+  {
+    "id": 48140,
+    "Key": "StrSkillCorpseexplosionDamageConv",
+    "enUS": "Convert %d%% of Corpse Explosion Damage to Fire"
+  },
+  {
+    "id": 48141,
+    "Key": "StrSkillMagiDmgPerc",
+    "enUS": "Increase Skeletal Magi Damage by %d%%"
+  },
+  {
+    "id": 48142,
+    "Key": "StrSkillSacrificeDamageConv",
+    "enUS": "Convert %d%% of Sacrifice Damage to Fire"
+  },
+  {
+    "id": 48143,
+    "Key": "StrSkillSmiteDamageConv",
+    "enUS": "Convert %d%% of Smite Damage to Fire"
+  },
+  {
+    "id": 48144,
+    "Key": "StrSkillZealDamageConv",
+    "enUS": "Convert %d%% of Zeal Damage to Lightning"
+  },
+  {
+    "id": 48145,
+    "Key": "StrSkillChargeDamageConv",
+    "enUS": "Convert %d%% of Charge Damage to Cold"
+  },
+  {
+    "id": 48146,
+    "Key": "StrSkillFrontalassaultDamageConv",
+    "enUS": "Convert %d%% of Frontal Assault Damage to Fire"
+  },
+  {
+    "id": 48147,
+    "Key": "StrSkillConcentrateDamageConv",
+    "enUS": "Convert %d%% of Concentrate Damage to Magic"
+  },
+  {
+    "id": 48148,
+    "Key": "StrSkillFrenzyDamageConv",
+    "enUS": "Convert %d%% of Frenzy Damage to Lightning"
+  },
+  {
+    "id": 48149,
+    "Key": "StrSkillRendDmgPerc",
+    "enUS": "Increase Rend Damage by %d%%"
+  },
+  {
+    "id": 48150,
+    "Key": "StrSkillRendFlatDmg",
+    "enUS": "Adds +%d Damage to Rend"
+  },
+  {
+    "id": 48151,
+    "Key": "StrSkillRendAttackRate",
+    "enUS": "Increase Rend Attack Speed by %d%%"
+  },
+  {
+    "id": 48152,
+    "Key": "StrSkillRendDamageConv",
+    "enUS": "Convert %d%% of Rend Damage to Poison"
+  },
+  {
+    "id": 48153,
+    "Key": "StrSkillRendDmgPercNeg",
+    "enUS": "Reduce Rend Damage by %d%%"
+  },
+  {
+    "id": 48154,
+    "Key": "StrSkillRendAttackRateNeg",
+    "enUS": "Reduce Rend Attack Speed by %d%%"
+  },
+  {
+    "id": 48155,
+    "Key": "StrSkillDevastateDamageConv",
+    "enUS": "Convert %d%% of Devastate Damage to Cold"
+  },
+  {
+    "id": 48156,
+    "Key": "StrSkillIcearrowDmgPercNeg",
+    "enUS": "Reduce Ice Arrow Damage by %d%%",
+    "zhTW": "冰箭伤害减少 %d%%"
+  },
+  {
+    "id": 48157,
+    "Key": "StrSkillPoisondaggerDmgPercNeg",
+    "enUS": "Reduce Poison Dagger Damage by %d%%",
+    "zhTW": "毒匕首伤害减少 %d%%"
+  },
+  {
+    "id": 48158,
+    "Key": "StrSkillDecoyAddCasterHpPercNeg",
+    "enUS": "Reduce Decoy HP by %d%% of Caster's HP"
+  },
+  {
+    "id": 48159,
+    "Key": "StrSkillBashAttackRateNeg",
+    "enUS": "Reduce Bash Attack Speed by %d%%"
+  },
+  {
+    "id": 48160,
+    "Key": "StrSkillStunAttackRateNeg",
+    "enUS": "Reduce Stun Attack Speed by %d%%"
+  },
+  {
+    "id": 48161,
+    "Key": "ItemCorrupted",
+    "enUS": "ÿc8Corruptedÿc3"
   }
 ]
