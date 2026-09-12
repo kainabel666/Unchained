@@ -235,3 +235,15 @@ magicarrow_drain	232																																																												
 powering	233																																										energyshieldhit0	energyshieldhit1	energyshieldhit2	energyshieldhit3																												0
 scoutsight	234																					1																					innersight							armorclass																								0
 askarivelocity	235																																											frenzy						item_fasterattackrate																								0
+mercshout	236					1								1																													shout					shoutstart		skill_armor_percent																								0
+mercbattleorders	237					1																																					battleorders					battleorderscast		maxhp																								0
+mercmight	238					1							1																														aura_might_front	aura_might_back						damagepercent												paladin_aura_might												0
+mercprayer	239					1																																					aura_prayer_front	aura_prayer_back																		paladin_aura_prayer												0
+mercthorns	240					1																																					aura_thorns_front	aura_thorns_back																		paladin_aura_thorns												0
+mercdefiance	241					1								1																													aura_defiance_front	aura_defiance_back						skill_armor_percent												paladin_aura_defiance												0
+mercblessedaim	242					1						1																															blessedaimfront	blessedaimback						item_tohit_percent												paladin_aura_blessedaim												0
+mercenchant	243											1									1																											enchant		skill_enchant					weap	cred																		0
+mercstamina	244					1																																					staminafront	staminaback						item_fastermovevelocity												paladin_aura_stamina												0
+globalfiremastery	245					1									1																												aura_resistfire					cast_resistfire		passive_fire_mastery												paladin_aura_resistfire												0
+globalcoldmastery	246					1											1																										aura_resistcold					cast_resistcold		passive_cold_mastery												paladin_aura_resistcold												0
+globallightmastery	247					1										1																											aura_resistlight					cast_resistlight		passive_ltng_mastery												paladin_aura_resistlightning												0
