@@ -237,3 +237,6 @@ burn-min	234	1	1	burningmin																												+# to Minimum Burn Damage
 burn-max	235	1	1	burningmax																												+# to Maximum Burn Damage		Min #	Max #		0
 burn-len	236	1	1	firelength																														Min #	Max #	# of Frames (25 Frames = 1 Second)	0
 dmg-burn	237	1	15	burningmin			16	burningmax			17	firelength																				Adds #-# Burn Damage Over # Seconds	Length (Frames)	Min #	Max #	# of Frames (25 Frames = 1 Second)	0
+f-multi	238	1	1	firearrow_multi																												+# to Maximum Fire Arrows		Min #	Max #		0
+c-multi	239	1	1	coldarrow_multi																												+# to Maximum Cold Arrows		Min #	Max #		0
+m-multi	240	1	1	multiple_multi																												+# to Maximum Multiple Shot Arrows		Min #	Max #		0
