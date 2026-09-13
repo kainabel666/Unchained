@@ -5221,7 +5221,7 @@
   {
     "id": 4310,
     "Key": "StrSkill56",
-    "enUS": "Range: %d yards",
+    "enUS": "Range: %d meters",
     "zhTW": "射程：%d 碼",
     "deDE": "Reichweite: %d Meter",
     "esES": "Alcance: %d m",
@@ -5229,11 +5229,11 @@
     "itIT": "Portata: %d m",
     "koKR": "범위: %d미터",
     "plPL": "Zasięg: %d m",
-    "esMX": "Alcance: %d yardas",
-    "jaJP": "射程: %dヤード",
+    "esMX": "Alcance: %d metros",
+    "jaJP": "射程: %dメートル",
     "ptBR": "Alcance: %d metros",
     "ruRU": "Дальность: %d м",
-    "zhCN": "范围: %d码"
+    "zhCN": "范围: %d米"
   },
   {
     "id": 4311,
@@ -5255,7 +5255,7 @@
   {
     "id": 4312,
     "Key": "StrSkill58",
-    "enUS": "Monster runs up to %d yards",
+    "enUS": "Monster runs up to %d meters",
     "zhTW": "怪物逃竄最多 %d 碼",
     "deDE": "Gegner flieht bis zu %d Meter",
     "esES": "El monstruo huye hasta %d m",
@@ -5263,11 +5263,11 @@
     "itIT": "Il bersaglio corre per %d m",
     "koKR": "괴물 도망 거리 최대 %d미터",
     "plPL": "Potwory odbiegają na %d m",
-    "esMX": "El monstruo corre hasta %d yardas",
-    "jaJP": "敵の逃走距離: 最大%dヤード",
+    "esMX": "El monstruo corre hasta %d metros",
+    "jaJP": "敵の逃走距離: 最大%dメートル",
     "ptBR": "Monstro corre até %d metros",
     "ruRU": "Монстры убегают на расстояние до %d м",
-    "zhCN": "怪物最多逃离%d码"
+    "zhCN": "怪物最多逃离%d米"
   },
   {
     "id": 4313,
@@ -7431,7 +7431,7 @@
   {
     "id": 4441,
     "Key": "skillname17",
-    "enUS": "Slow Missiles",
+    "enUS": "Slow Opponents",
     "zhTW": "緩箭術",
     "deDE": "Langsame Geschosse",
     "esES": "Misiles lentos",
@@ -7448,7 +7448,7 @@
   {
     "id": 4442,
     "Key": "skillsd17",
-    "enUS": "slows ranged attacks of enemies",
+    "enUS": "slows enemies and their ranged attacks",
     "zhTW": "減慢敵人的遠程攻擊",
     "deDE": "Verlangsamt gegnerische Distanzangriffe.",
     "esES": "Ralentiza los ataques a distancia de los enemigos.",
@@ -7465,7 +7465,7 @@
   {
     "id": 4443,
     "Key": "skillld17",
-    "enUS": "illuminates nearby enemies and slows their ranged attacks",
+    "enUS": "illuminates and slows nearby enemies and slows their ranged attacks",
     "zhTW": "顯現附近的敵人，並減慢他們的遠程攻擊",
     "deDE": "Hebt Gegner in der Nähe hervor und verlangsamt ihre Distanzangriffe.",
     "esES": "Ilumina a los enemigos cercanos\ny ralentiza sus ataques a distancia.",
@@ -7482,7 +7482,7 @@
   {
     "id": 4444,
     "Key": "skillan17",
-    "enUS": "Slow Missiles",
+    "enUS": "Slow Opponents",
     "zhTW": "緩箭術",
     "deDE": "Langsame Geschosse",
     "esES": "Misiles lentos",
@@ -35073,7 +35073,7 @@
   {
     "id": 23054,
     "Key": "StrSkillRadiusSingular",
-    "enUS": "Radius: %d yard",
+    "enUS": "Radius: %d meters",
     "zhTW": "範圍：%d 碼",
     "deDE": "Radius: %d Meter",
     "esES": "Radio: %d m",
@@ -35081,16 +35081,16 @@
     "itIT": "Raggio: %d m",
     "koKR": "반경: %d미터",
     "plPL": "Zasięg: %d m",
-    "esMX": "Radio: %d yarda",
-    "jaJP": "範囲: %dヤード",
-    "ptBR": "Raio: %d metro",
+    "esMX": "Radio: %d metros",
+    "jaJP": "範囲: %dメートル",
+    "ptBR": "Raio: %d metros",
     "ruRU": "Радиус: %d м",
     "zhCN": "半径: %d码"
   },
   {
     "id": 23055,
     "Key": "StrSkillRangeSingular",
-    "enUS": "Range: %d yard",
+    "enUS": "Range: %d meters",
     "zhTW": "範圍：%d 碼",
     "deDE": "Reichweite: %d Meter",
     "esES": "Alcance: %d m",
@@ -35098,9 +35098,9 @@
     "itIT": "Portata: %d m",
     "koKR": "범위: %d미터",
     "plPL": "Zasięg: %d m",
-    "esMX": "Alcance: %d yarda",
-    "jaJP": "射程: %dヤード",
-    "ptBR": "Alcance: %d metro",
+    "esMX": "Alcance: %d metros",
+    "jaJP": "射程: %dメートル",
+    "ptBR": "Alcance: %d metros",
     "ruRU": "Дальность: %d м",
     "zhCN": "射程: %d码"
   },
