@@ -6615,7 +6615,7 @@
   {
     "id": 48018,
     "Key": "AddFireArrow",
-    "enUS": "Shoot %+d Fire Arrow(s)",
+    "enUS": "%+d to Maximum Fire Arrows",
     "zhTW": "射出 %+d 道火焰箭",
     "deDE": "Feuerpfeile freischalten",
     "esES": "Desbloquear lanzamiento múltiple de flechas de fuego",
@@ -6632,7 +6632,7 @@
   {
     "id": 48019,
     "Key": "AddColdArrow",
-    "enUS": "Shoot %+d Cold Arrow(s)",
+    "enUS": "%+d to Maximum Cold Arrows",
     "zhTW": "射出 %+d 道冰霜箭",
     "deDE": "Kältepfeile freischalten",
     "esES": "Desbloquear lanzamiento múltiple de flechas de hielo",
@@ -7443,5 +7443,22 @@
     "id": 48161,
     "Key": "ItemCorrupted",
     "enUS": "ÿc8Corruptedÿc3"
+  },
+  {
+    "id": 48162,
+    "Key": "AddMultiArrow",
+    "enUS": "%+d to Maximum Multiple Shot Arrows",
+    "zhTW": "射出 %+d 道冰霜箭",
+    "deDE": "Kältepfeile freischalten",
+    "esES": "Desbloquear lanzamiento múltiple de flechas de hielo",
+    "frFR": "Débloquer le lancer multiple de flèches de glace",
+    "itIT": "Sblocca il lancio multiplo di frecce di ghiaccio",
+    "koKR": "냉기 화살 다중 발사 해제",
+    "plPL": "Odblokuj wielokrotne wyrzucanie lodowych strzał",
+    "esMX": "Desbloquear lanzamiento múltiple de flechas de hielo",
+    "jaJP": "〈冷気〉スキル向上",
+    "ptBR": "Desbloquear lançamento múltiplo de flechas frias",
+    "ruRU": "Разблокировать множественный выстрел ледяных стрел",
+    "zhCN": "解鎖冰霜箭多重射擊"
   }
 ]
