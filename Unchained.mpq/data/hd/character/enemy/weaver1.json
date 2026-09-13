@@ -166,9 +166,9 @@
                     "type": "TransformDefinitionComponent",
                     "name": "entity_root_TransformDefinition",
                     "scale": {
-                        "x": 0.6,
-                        "y": 0.6,
-                        "z": 0.6
+                        "x": 0.85,
+                        "y": 0.85,
+                        "z": 0.85
                     }
                 }                
             ]

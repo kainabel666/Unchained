@@ -755,7 +755,7 @@
   "infectorofsouls": "megademon1",
   "lorddeseis": "doomknight1",
   "grandvizierofchaos": "fingermage1",
-  "corpsefire": "zombie1",
+  "corpsefire": "corpsefire",
   "shenktheoverseer": "overseer1",
   "axedweller": "bloodlord1",
   "bonesawbreaker": "reanimatedhorde1",
@@ -785,10 +785,10 @@
   "chfallen2": "fallen1",
   "chquill1": "quillrat1",
   "boundbreeder1": "crownest1",
-  "zwalker2": "zombie1",
-  "weaver1": "arach1",
+  "zwalker2": "bound2",
+  "weaver1": "weaver1",
   "spider1": "spider1",
-  "xbat1": "batdemon1",
+  "xbat1": "bloodsiphon1",
   "boundbeliever1": "cantor1",
   "monhydra1": "hydra1",
   "monhydra2": "hydra2",
@@ -796,6 +796,7 @@
   "chfallenshaman1": "fallenshaman1",
   "chfallenshaman2": "fallenshaman1",
   "chaincrbow1": "cr_archer1",
-  "hairybeast1": "snowyeti1",
-  "chainrogue1": "corruptrogue1"
+  "hairybeast1": "hairybeast1",
+  "chainrogue1": "corruptrogue1",
+  "zwalker3": "zombie1"
 }  
