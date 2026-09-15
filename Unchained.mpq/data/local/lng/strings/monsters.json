@@ -9314,5 +9314,39 @@
     "ptBR": "Espírito Prisioneiro",
     "ruRU": "Плененный дух",
     "zhCN": "束缚之灵"
+  },
+  {
+    "id": 50014,
+    "Key": "RockGolem",
+    "enUS": "Rock Golem",
+    "zhTW": "岩石魔像",
+    "deDE": "Stein-Golem",
+    "esES": "Gólem de Roca",
+    "frFR": "Golem de Roche",
+    "itIT": "Golem di Roccia",
+    "koKR": "돌 골렘",
+    "plPL": "Golem z Kamienia",
+    "esMX": "Gólem de Roca",
+    "jaJP": "岩のゴーレム",
+    "ptBR": "Golem de Pedra",
+    "ruRU": "Каменный голем",
+    "zhCN": "岩石魔像"
+  },
+  {
+    "id": 50015,
+    "Key": "DireWolf",
+    "enUS": "Dire Wolf",
+    "zhTW": "幽靈狼",
+    "deDE": "Geisterwolf",
+    "esES": "Lobo espíritu",
+    "frFR": "Esprit du loup",
+    "itIT": "Spirito di Lupo",
+    "koKR": "영혼 늑대",
+    "plPL": "Duch wilka",
+    "esMX": "Lobo espiritual",
+    "jaJP": "スピリット・ウルフ",
+    "ptBR": "[ms]Lobo Espiritual",
+    "ruRU": "Призрачный волк",
+    "zhCN": "灵狼"
   }
 ]

@@ -5,41 +5,45 @@ demon						0
 insect						0
 human						0
 construct						0
+thebound						0
+wildanimal						0
+abomination						0
+spirit						0
 lowundead	undead					0
 highundead	undead					0
 skeleton	lowundead					0
 zombie	lowundead					0
 bighead	demon			Afflicted		0
-foulcrow						0
+foulcrow	abomination					0
 fallen	demon			Fallen		0
-brute				Yeti		0
-sandraider						0
+brute	abomination			Yeti		0
+sandraider	wildanimal					0
 wraith	undead					0
 corruptrogue	demon					0
-baboon						0
+baboon	abomination					0
 goatman	demon					0
-quillrat						0
-sandmaggot						0
+quillrat	wildanimal					0
+sandmaggot	insect					0
 clawviper	demon					0
-sandleaper						0
-pantherwoman						0
+sandleaper	wildanimal					0
+pantherwoman	abomination					0
 swarm	insect			HellSwarm		0
 scarab	insect					0
 mummy	lowundead					0
 unraveler	highundead					0
-vulture						0
+vulture	wildanimal					0
 mosquito	insect					0
-willowisp						0
+willowisp	spirit					0
 arach	insect					0
-thornhulk						0
+thornhulk	abomination					0
 vampire	highundead					0
-batdemon						0
+batdemon	demon					0
 fetish	demon			Fetish		0
 blunderbore	demon					0
 undeadfetish	lowundead	demon		Undead Fetish		0
-zakarum						0
-frogdemon						0
-tentacle						0
+zakarum	human					0
+frogdemon	demon					0
+tentacle	abomination					0
 fingermage	lowundead					0
 golem	construct					0
 vilekind	demon					0
@@ -47,18 +51,19 @@ regurgitator	demon					0
 doomknight	lowundead					0
 councilmember	demon					0
 megademon	demon					0
-bovine						0
-siegebeast						0
-snowyeti				Yeti		0
-minion						0
+bovine	abomination					0
+siegebeast	abomination					0
+snowyeti	abomination			Yeti		0
+minion	demon					0
 succubus	demon					0
 overseer	demon					0
 imp	demon					0
-frozenhorror						0
+frozenhorror	abomination					0
 bloodlord	demon					0
-deathmauler						0
+deathmauler	demon					0
 putriddefiler	demon					0
-thebound						0
-believers	thebound					0
-bspirits	thebound					0
+believers	thebound	human				0
+bspirits	thebound	spirit				0
 bound	thebound	lowundead				0
+enemygolem	construct					0
+wolf	wildanimal					0
