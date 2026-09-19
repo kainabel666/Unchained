@@ -39865,23 +39865,6 @@
     "zhTW": "提高箭和標槍的速度和攻擊速度\n降低命中恢復和格擋速度"
   },
   {
-    "id": 61016,
-    "Key": "StrSkillMissileSpeed",
-    "deDE": "Die Geschwindigkeit von Pfeil- und Speerraketen wurde um %d%% erhöht.",
-    "enUS": "Arrow and Javelin Missile Speed Increased by %d%%",
-    "esES": "Velocidad de los misiles flecha y jabalina aumentada en %d%%",
-    "esMX": "Velocidad de los misiles flecha y jabalina aumentada en %d%%",
-    "frFR": "Velocità dei missili di frecce e giavellotti aumentata del %d%%",
-    "itIT": "Vitesse des missiles flèches et javelots augmentée de %d%%",
-    "jaJP": "アローとジャベリンのミサイル速度が %d%% 増加しました",
-    "koKR": "화살과 자벨린 미사일 속도가 %d%% 증가했습니다.",
-    "plPL": "Szybkość strzał i oszczepów zwiększona o %d%%",
-    "ptBR": "Velocidade dos mísseis de flecha e dardo aumentada em %d%%",
-    "ruRU": "Скорость стрел и копий увеличена на %d%%",
-    "zhCN": "箭和标枪导弹速度增加 %d%%",
-    "zhTW": "箭和標槍飛彈速度增加 %d%%"
-  },
-  {
     "id": 61017,
     "Key": "StrSkillHitRecoveryNeg",
     "deDE": "% d%% Langsamere Trefferwiederherstellung",
@@ -40920,6 +40903,23 @@
   },
   {
     "id": 61078,
+    "Key": "StrSkillMissileSpeed",
+    "deDE": "Die Geschwindigkeit von Pfeil- und Speerraketen wurde um %d%% erhöht.",
+    "enUS": "Arrow and Javelin Missile Speed Increased by %d%%",
+    "esES": "Velocidad de los misiles flecha y jabalina aumentada en %d%%",
+    "esMX": "Velocidad de los misiles flecha y jabalina aumentada en %d%%",
+    "frFR": "Velocità dei missili di frecce e giavellotti aumentata del %d%%",
+    "itIT": "Vitesse des missiles flèches et javelots augmentée de %d%%",
+    "jaJP": "アローとジャベリンのミサイル速度が %d%% 増加しました",
+    "koKR": "화살과 자벨린 미사일 속도가 %d%% 증가했습니다.",
+    "plPL": "Szybkość strzał i oszczepów zwiększona o %d%%",
+    "ptBR": "Velocidade dos mísseis de flecha e dardo aumentada em %d%%",
+    "ruRU": "Скорость стрел и копий увеличена на %d%%",
+    "zhCN": "箭和标枪导弹速度增加 %d%%",
+    "zhTW": "箭和標槍飛彈速度增加 %d%%"
+  },
+  {
+    "id": 61079,
     "Key": "StrSkillManaPenalty",
     "enUS": "Reduced Max Mana: %d%%",
     "zhTW": "法力上限：%+d%%",
