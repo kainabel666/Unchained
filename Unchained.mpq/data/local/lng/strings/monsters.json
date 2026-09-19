@@ -9079,7 +9079,7 @@
   },
   {
     "id": 50000,
-    "Key": "ZWalker",
+    "Key": "ShamblingCorpse",
     "enUS": "Shambling Corpse",
     "zhTW": "殭屍",
     "deDE": "Zombie",
@@ -9147,7 +9147,7 @@
   },
   {
     "id": 50004,
-    "Key": "Bound Breeder",
+    "Key": "BoundBreeder",
     "enUS": "Bound Breeder",
     "zhTW": "汙染飼育者",
     "deDE": "Übelbringer",
@@ -9198,7 +9198,7 @@
   },
   {
     "id": 50007,
-    "Key": "Blood Siphon",
+    "Key": "BloodSiphon",
     "enUS": "Blood Siphon",
     "zhTW": "瘋狂血腥女巫",
     "deDE": "Bluthexe die Wilde",
@@ -9215,7 +9215,7 @@
   },
   {
     "id": 50008,
-    "Key": "Bound Believer",
+    "Key": "BoundBeliever",
     "enUS": "Bound Believer",
     "zhTW": "祭司",
     "deDE": "Hierophant",
@@ -9232,7 +9232,7 @@
   },
   {
     "id": 50009,
-    "Key": "Bound Borne",
+    "Key": "BoundBorne",
     "enUS": "Bound Borne",
     "zhTW": "祭司",
     "deDE": "Hierophant",
@@ -9348,5 +9348,402 @@
     "ptBR": "[ms]Lobo Espiritual",
     "ruRU": "Призрачный волк",
     "zhCN": "灵狼"
-  }
+  },
+  {
+    "id": 50016,
+    "Key": "EnragedGrizzly",
+    "enUS": "Enraged Grizzly",
+    "zhTW": "狂怒的灰熊",
+    "deDE": "Wütender Grizzly",
+    "esES": "Grizzli enojado",
+    "frFR": "Grizzli Enragé",
+    "itIT": "Orso Grizzly Furioso",
+    "koKR": "분노한 그리즐리",
+    "plPL": "Wściekły niedźwiedź grizzly",
+    "esMX": "Oso Grizzly enfurecido",
+    "jaJP": "怒れるグリズリー",
+    "ptBR": "[ms]Grizzly Enfurecido",
+    "ruRU": "Разъяренный гризли",
+    "zhCN": "狂怒灰熊"
+  },
+  {
+    "id": 50017,
+    "Key": "ColdCarver",
+    "enUS": "Cold Carver",
+    "zhTW": "寒冰雕刻者",
+    "deDE": "Kalter Schnitzer",
+    "esES": "Escultor de Hielo",
+    "frFR": "Sculpteur de Givre",
+    "itIT": "Scultore di Ghiaccio",
+    "koKR": "얼음 조각가",
+    "plPL": "Lodowy Rzeźnik",
+    "esMX": "Escultor de Hielo",
+    "jaJP": "コールド・カーバー",
+    "ptBR": "[ms]Escultor Gelado",
+    "ruRU": "Ледяной скульптор",
+    "zhCN": "寒冰雕刻者"
+  },
+  {
+    "id": 50018,
+    "Key": "BoulderClan",
+    "enUS": "Boulder Clan",
+    "zhTW": "巨石部族",
+    "deDE": "Felsenstamm",
+    "esES": "Clan de las Rocas",
+    "frFR": "Clan des Roches",
+    "itIT": "Clan delle Rocce",
+    "koKR": "돌 부족",
+    "plPL": "Klan Kamienia",
+    "esMX": "Clan de las Rocas",
+    "jaJP": "ボルダー・クラン",
+    "ptBR": "[ms]Clã das Rochas",
+    "ruRU": "Клан валунов",
+    "zhCN": "巨石部族"
+  },
+  {
+    "id": 50019,
+    "Key": "BoundArcher",
+    "enUS": "Bound Archer"
+  },
+  {
+    "id": 50020,
+    "Key": "BoundBlessed",
+    "enUS": "Bound Blessed"
+  },
+  {
+    "id": 50021,
+    "Key": "AcidMage",
+    "enUS": "Acid Mage"
+  },
+  {
+    "id": 50022,
+    "Key": "ZapMage",
+    "enUS": "Zap Mage"
+  },
+  {
+    "id": 50023,
+    "Key": "EngulfedMage",
+    "enUS": "Engulfed Mage"
+  },
+  {
+    "id": 50024,
+    "Key": "CrusherBeast",
+    "enUS": "Crusher Beast",
+    "zhTW": "粉碎者",
+    "deDE": "Zermalmer",
+    "esES": "Machacadora",
+    "frFR": "Broyeur",
+    "itIT": "Demolitore",
+    "koKR": "분쇄자",
+    "plPL": "Miażdżyciel",
+    "esMX": "Triturador",
+    "jaJP": "壊滅者",
+    "ptBR": "Esmagador",
+    "ruRU": "Сокрушитель",
+    "zhCN": "暴砸兽"
+  },
+  {
+    "id": 50025,
+    "Key": "BuriedRogue",
+    "enUS":"Buried Rogue"
+  },
+  {
+    "id": 50026,
+    "Key": "BuriedArcher",
+    "enUS":"Buried Archer"
+  },
+  {
+    "id": 50027,
+    "Key": "Khazra",
+    "enUS":"Khazra"
+  },
+  {
+    "id": 50028,
+    "Key": "BrutalBeast",
+    "enUS": "Brutal Beast",
+    "zhTW": "兇蠻毛怪",
+    "deDE": "Untier",
+    "esES": "Bruto",
+    "frFR": "Brute",
+    "itIT": "Bruto",
+    "koKR": "거수",
+    "plPL": "Monstrum",
+    "esMX": "Bruto",
+    "jaJP": "ブルート",
+    "ptBR": "[ms]Bruto",
+    "ruRU": "Изверг",
+    "zhCN": "蛮力兽"
+  },
+  {
+    "id": 50029,
+    "Key": "DegenerativeWing",
+    "enUS":"Degenerative Wing"
+  },
+  {
+    "id": 50030,
+    "Key": "BrokenArcher",
+    "enUS":"Broken Archer"
+  },
+  {
+    "id": 50031,
+    "Key": "BrokenBound",
+    "enUS":"Broken Bound"
+  },
+  {
+    "id": 50032,
+    "Key": "CursedRogue",
+    "enUS":"Cursed Rogue"
+  },
+  {
+    "id": 50033,
+    "Key": "CursedSoldier",
+    "enUS":"Cursed Soldier"
+  },
+  {
+    "id": 50034,
+    "Key": "PestilentSwarm",
+    "enUS":"Pestilent Swarm"
+  },
+  {
+    "id": 50035,
+    "Key": "WaywardFilth",
+    "enUS":"Wayward Filth"
+  },
+  {
+    "id": 50036,
+    "Key": "DarkCommander",
+    "enUS":"Dark Commander"
+  },
+  {
+    "id": 50037,
+    "Key": "BoundRanger",
+    "enUS":"Bound Ranger"
+  },
+  {
+    "id": 50038,
+    "Key": "DarkLancer",
+    "enUS":"Dark Lancer"
+  },
+  {
+    "id": 50039,
+    "Key": "FreezeMage",
+    "enUS":"Freeze Mage"
+  },
+  {
+    "id": 50040,
+    "Key": "ShackledOnes",
+    "enUS":"Shackled Ones"
+  },
+  {
+    "id": 50041,
+    "Key": "TwistedSoul",
+    "enUS":"Twisted Soul"
+  },
+  {
+    "id": 50042,
+    "Key": "BoundGargantuans",
+    "enUS":"Bound Gargantuans"
+  },
+  {
+    "id": 50043,
+    "Key": "BlessedBe",
+    "enUS":"Blessed Be"
+  },
+  {
+    "id": 50044,
+    "Key": "RedeemedChains",
+    "enUS":"Redemeed Chains"
+  },
+  {
+    "id": 50045,
+    "Key": "ProdigalOne",
+    "enUS":"Prodigal One"
+  },
+  {
+    "id": 50046,
+    "Key": "DemonicGrunt",
+    "enUS":"Demonic Grunt"
+  },
+  {
+    "id": 50047,
+    "Key": "PatientPatrol",
+    "enUS":"Patient Patrol"
+  },
+  {
+    "id": 50048,
+    "Key": "Agonized",
+    "enUS":"Agonized"
+  },
+  {
+    "id": 50049,
+    "Key": "BlazeWeb",
+    "enUS":"Blaze Web"
+  },
+  {
+    "id": 50050,
+    "Key": "BoundWarrior",
+    "enUS":"Bound Warrior"
+  },
+  {
+    "id": 50051,
+    "Key": "ShackledGuard",
+    "enUS":"Shackled Guard"
+  },
+  {
+    "id": 50052,
+    "Key": "PurityBound",
+    "enUS":"Purity Bound"
+  },
+  {
+    "id": 50053,
+    "Key": "Reawakened",
+    "enUS":"ReAwakened"
+  },
+  {
+    "id": 50054,
+    "Key": "ShackledHorrr",
+    "enUS":"Shackled Horror"
+  },
+  {
+    "id": 50055,
+    "Key": "Untethered",
+    "enUS":"Untethered"
+  },
+  {
+    "id": 50056,
+    "Key": "Archmage",
+    "enUS":"Archmage"
+  },
+  {
+    "id": 50057,
+    "Key": "ShamelessServant",
+    "enUS":"Shameless Servant"
+  },
+  {
+    "id": 50058,
+    "Key": "Devout",
+    "enUS":"Devout"
+  },
+  {
+    "id": 50059,
+    "Key": "PsychoicOne",
+    "enUS":"Psychotic One"
+  },
+  {
+    "id": 50060,
+    "Key": "ChainedArcher",
+    "enUS":"Chained Archer"
+  },
+  {
+    "id": 50061,
+    "Key": "DesperateSoul",
+    "enUS":"Desperate Soul"
+  },
+  {
+    "id": 50062,
+    "Key": "ChainedPreacher",
+    "enUS":"Chained Preacher"
+  },
+  {
+    "id": 50063,
+    "Key": "BoundBeast",
+    "enUS":"Bound Beast"
+  },
+  {
+    "id": 50064,
+    "Key": "Delivered",
+    "enUS":"Delivered"
+  },
+  {
+    "id": 50065,
+    "Key": "WeaverCommander",
+    "enUS":"Weaver Commander"
+  },
+  {
+    "id": 50066,
+    "Key": "SilkenWeaver",
+    "enUS":"Silken Weaver"
+  },
+  {
+    "id": 50067,
+    "Key": "SilkHatchling",
+    "enUS":"Silk Hatchling"
+  },
+  {
+    "id": 50068,
+    "Key": "LimitlessWanderer",
+    "enUS":"Limitless Wanderer"
+  },
+  {
+    "id": 50069,
+    "Key": "DrainedWanderer",
+    "enUS":"Drained Wanderer"
+  },
+  {
+    "id": 50070,
+    "Key": "DarkSummoner",
+    "enUS":"Dark Summoner"
+  },
+  {
+    "id": 50071,
+    "Key": "DarkOneGrunt",
+    "enUS":"Dark One Grunt"
+  },
+  {
+    "id": 50072,
+    "Key": "AnguishMaiden",
+    "enUS":"Anguish Maiden"
+  },
+  {
+    "id": 50073,
+    "Key": "ColdCarver",
+    "enUS": "Cold Carver",
+    "zhTW": "刨肉沉淪魔",
+    "deDE": "Schlächter",
+    "esES": "Trinchante",
+    "frFR": "Équarrisseur",
+    "itIT": "Incisore",
+    "koKR": "도륙자",
+    "plPL": "Wycinacz",
+    "esMX": "Tajador",
+    "jaJP": "カーヴァー",
+    "ptBR": "[ms]Entalhador",
+    "ruRU": "Плоторез",
+    "zhCN": "利刃魔"
+  },
+{
+  "id": 50074,
+  "Key": "StrippedMaiden",
+  "enUS":"Stripped Maiden"
+},
+{
+  "id":50075,
+  "Key": "DefiledPurity",
+  "enUS": "Defiled Purity"
+},
+{
+  "id":50076,
+"Key":"TrappedInnocence",
+"enUS":"Trapped Innocence"
+},
+{
+  "id":50077,
+  "Key":"LoyalGuard",
+  "enUS":"Loyal Guard"
+},
+{
+  "id":50078,
+  "Key":"BloodGeneral",
+  "enUS":"Blood General"
+},
+{
+  "id":50079,
+  "Key":"SwornSoldier",
+  "enUS":"Sworn Soldier"
+},
+{
+  "id":50080,
+  "Key":"BloodLoose",
+  "enUS":"Blood Looose"
+}
 ]

@@ -17,4 +17,4 @@ chfallen1	death-skill		487	10	5																										death-skill		487	20	5		
 chfallenshaman2	death-skill		492	100	2																										death-skill		492	40	5																										death-skill		492	60	5																										0
 chfallen2	death-skill		487	10	5																										death-skill		487	20	5																										death-skill		487	20	5																										0
 hairybeast1	hit-skill		493	15	1																										hit-skill		493	25	2																										hit-skill		493	33	6																										0
-zwalker3	slow	50		10	20	stupidity	25		1	1																					slow	75		10	20	stupidity	40		1	1																					slow			10	20	stupidity	75		1	1																					0
+zwalker2	slow	50		10	20	stupidity	25		1	1																					slow	75		10	20	stupidity	40		1	1																					slow			10	20	stupidity	75		1	1																					0

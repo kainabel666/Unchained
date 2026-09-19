@@ -9,11 +9,13 @@ thebound						0
 wildanimal						0
 abomination						0
 spirit						0
+bloodsworn						0
+beast						0
 lowundead	undead					0
 highundead	undead					0
 skeleton	lowundead					0
 zombie	lowundead					0
-bighead	demon			Afflicted		0
+bighead	demon	beast		Afflicted		0
 foulcrow	abomination					0
 fallen	demon			Fallen		0
 brute	abomination			Yeti		0
@@ -21,7 +23,7 @@ sandraider	wildanimal					0
 wraith	undead					0
 corruptrogue	demon					0
 baboon	abomination					0
-goatman	demon					0
+khazra	demon					0
 quillrat	wildanimal					0
 sandmaggot	insect					0
 clawviper	demon					0
@@ -65,5 +67,8 @@ putriddefiler	demon					0
 believers	thebound	human				0
 bspirits	thebound	spirit				0
 bound	thebound	lowundead				0
+boundhuman	thebound	human				0
+boundspirit	thebound	spirit				0
+boundbeast	thebound	beast				0
 enemygolem	construct					0
 wolf	wildanimal					0

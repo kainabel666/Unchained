@@ -2552,7 +2552,7 @@
   {
     "id": 5024,
     "Key": "Inner Cloister",
-    "enUS": "Warden's Courtyard",
+    "enUS": "Bound Garden",
     "zhTW": "內側迴廊",
     "deDE": "Inneres Kloster",
     "esES": "Claustro Interior",
@@ -2637,7 +2637,7 @@
   {
     "id": 5029,
     "Key": "Outer Cloister",
-    "enUS": "Bound Garden",
+    "enUS": "Warden's Courtyard",
     "zhTW": "外側迴廊",
     "deDE": "Äußeres Kloster",
     "esES": "Claustro Exterior",
@@ -2977,7 +2977,7 @@
   {
     "id": 5049,
     "Key": "Tamoe Highland",
-    "enUS": "Tamoe Highland",
+    "enUS": "Sanctum's Approach",
     "zhTW": "泰摩高地",
     "deDE": "Tamohochland",
     "esES": "Tierras Altas de Tamoe",
@@ -3198,7 +3198,7 @@
   {
     "id": 5062,
     "Key": "To The Inner Cloister",
-    "enUS": "To The Warden's Courtyard",
+    "enUS": "To The Bound Garden",
     "zhTW": "前往內側迴廊",
     "deDE": "Zum inneren Kloster",
     "esES": "Al Claustro Interior",
@@ -3283,7 +3283,7 @@
   {
     "id": 5067,
     "Key": "To The Outer Cloister",
-    "enUS": "To The The Bound Garden",
+    "enUS": "To The Warden's Courtyard",
     "zhTW": "前往外側迴廊",
     "deDE": "Zum äußeren Kloster",
     "esES": "Al Claustro Exterior",
@@ -3623,7 +3623,7 @@
   {
     "id": 5087,
     "Key": "To The Tamoe Highland",
-    "enUS": "To The Tamoe Highland",
+    "enUS": "To The Sanctum's Approach",
     "zhTW": "前往泰摩高地",
     "deDE": "Zum Tamohochland",
     "esES": "A las Tierras Altas de Tamoe",
@@ -4830,7 +4830,7 @@
   {
     "id": 22771,
     "Key": "EnteringTheTamoeHighland",
-    "enUS": "Entering The Tamoe Highland",
+    "enUS": "Entering The Sanctum's Approach",
     "zhTW": "進入泰摩高地",
     "deDE": "Jetzt: Das Tamohochland",
     "esES": "Entrando en las Tierras Altas de Tamoe",
@@ -5187,7 +5187,7 @@
   {
     "id": 22792,
     "Key": "EnteringTheOuterCloister",
-    "enUS": "Entering The Bound Garden",
+    "enUS": "Entering The Warden's Courtyard",
     "zhTW": "進入外側迴廊",
     "deDE": "Jetzt: Das Äußere Kloster",
     "esES": "Entrando en el Claustro Exterior",
@@ -5272,7 +5272,7 @@
   {
     "id": 22797,
     "Key": "EnteringTheInnerCloister",
-    "enUS": "Entering The Warden's Courtyard",
+    "enUS": "Entering The Bound Garden",
     "zhTW": "進入內側迴廊",
     "deDE": "Jetzt: Das Innere Kloster",
     "esES": "Entrando en el Claustro Interior",
