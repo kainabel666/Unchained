@@ -1022,7 +1022,7 @@
   {
     "id": 60,
     "Key": "RogueSignpostGossip2",
-    "enUS": "46Halt! You should complete Akara's quest before venturing further. Search for the Den in the wilderness closer to camp.",
+    "enUS": "46Halt! You should complete Akara's quest before venturing further. Search for the Enclave in the wilderness closer to camp.",
     "zhTW": "等一下！你應該先完成阿卡拉的任務，才能繼續往前。到營地附近的荒野搜索洞窟的位置。",
     "deDE": "90Halt! Ihr solltet Akaras Aufgabe beenden, ehe Ihr weitergeht. Sucht näher beim Lager in der Wildnis nach der Höhle.",
     "esES": "46¡Alto! Tendrás que completar la petición de Akara antes de aventurarte más lejos. Busca el cubículo en la espesura cerca del campamento.",
@@ -1107,7 +1107,7 @@
   {
     "id": 65,
     "Key": "A1Q1AfterInitAkara",
-    "enUS": "46I should add that many Rogue scouts have died in that horrible place. We cannot afford to lose any more. If you choose to enter that Den of Evil, you must do so alone.",
+    "enUS": "46I should add that many Rogue scouts have died in that horrible place. We cannot afford to lose any more. If you choose to enter that pit of the Bound, you must do so alone.",
     "zhTW": "我必須提醒你，許多派出去的俠盜斥候都死在那個可怕的地方，我們不能再損失更多人手了。如果你真的要進入那座邪惡洞窟，你只能獨自前往。",
     "deDE": "46Ich sollte hinzufügen, dass viele Kundschafter der Jägerinnen an jenem schrecklichen Ort gestorben sind. Wir können es uns nicht leisten, noch mehr zu verlieren. Wenn Ihr beschließt, diese Höhle des Bösen zu betreten, müsst Ihr es allein tun.",
     "esES": "46Tengo que añadir que muchas exploradoras arpías han muerto en ese horrible lugar. No puedo perder a nadie más. Si decides entrar en ese cubil del demonio, tendrás que hacerlo sin compañía.",
@@ -1294,7 +1294,7 @@
   {
     "id": 76,
     "Key": "A1Q1SuccessfulAkara",
-    "enUS": "65You have cleansed the Den of Evil. You've earned my trust and may yet restore my faith in humanity.\n\nYour reward is training in the skill of your choice.",
+    "enUS": "65You have cleansed the Bound Enclave. You've earned my trust and may yet restore my faith in humanity.\n\nYour reward is training in the skill of your choice.",
     "zhTW": "你淨化了邪惡洞窟，也贏得了我的信任，同時恢復了我對人類的信心。\n \n你的報酬是可以自行選擇技能進行訓練。",
     "deDE": "65Ihr habt die Höhle des Bösen gesäubert. Ihr habt mein Vertrauen erlangt und gebt mir möglicherweise den Glauben an die Menschheit wieder.\n\nEuer Lohn ist die Ausbildung in einer Fertigkeit Eurer Wahl.",
     "esES": "65Has limpiado el Cubil del Mal. Te has ganado mi confianza y tal vez me devuelvas la fe en la humanidad.\n\nTu recompensa es un entrenamiento en la especialidad que elijas.",
