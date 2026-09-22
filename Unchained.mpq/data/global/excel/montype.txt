@@ -15,10 +15,10 @@ lowundead	undead					0
 highundead	undead					0
 skeleton	lowundead					0
 zombie	lowundead					0
-bighead	demon	beast		Afflicted		0
+bighead	demon	abomination				0
 foulcrow	abomination					0
-fallen	demon			Fallen		0
-brute	abomination			Yeti		0
+fallen	demon					0
+brute	abomination					0
 sandraider	wildanimal					0
 wraith	undead					0
 corruptrogue	demon					0
@@ -29,7 +29,7 @@ sandmaggot	insect					0
 clawviper	demon					0
 sandleaper	wildanimal					0
 pantherwoman	abomination					0
-swarm	insect			HellSwarm		0
+swarm	insect					0
 scarab	insect					0
 mummy	lowundead					0
 unraveler	highundead					0
@@ -40,9 +40,9 @@ arach	insect					0
 thornhulk	abomination					0
 vampire	highundead					0
 batdemon	demon					0
-fetish	demon			Fetish		0
+fetish	demon					0
 blunderbore	demon					0
-undeadfetish	lowundead	demon		Undead Fetish		0
+undeadfetish	lowundead	demon				0
 zakarum	human					0
 frogdemon	demon					0
 tentacle	abomination					0
@@ -55,7 +55,7 @@ councilmember	demon					0
 megademon	demon					0
 bovine	abomination					0
 siegebeast	abomination					0
-snowyeti	abomination			Yeti		0
+snowyeti	abomination					0
 minion	demon					0
 succubus	demon					0
 overseer	demon					0
@@ -65,10 +65,8 @@ bloodlord	demon					0
 deathmauler	demon					0
 putriddefiler	demon					0
 believers	thebound	human				0
-bspirits	thebound	spirit				0
 bound	thebound	lowundead				0
 boundhuman	thebound	human				0
 boundspirit	thebound	spirit				0
-boundbeast	thebound	beast				0
 enemygolem	construct					0
 wolf	wildanimal					0
