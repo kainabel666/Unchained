@@ -95,7 +95,7 @@ Runeword94	Obsession	1			1	2	D2R Ladder 1	staf									ZodIstLemLumIoNef	r33	r24
 Runeword95	Passion	1					110	weap									DolOrtEldLem	r14	r09	r02	r20			dmg%		160	210	oskill	Zeal	1	1	att%		50	80	oskill	Berserk	1	1	swing2		25	25	charged	Heart of Wolverine	12	3	stupidity		10	10	0
 Runeword96	Patience																																																			0
 Runeword97	Pattern	1			1	2	D2R Ladder 1	h2h									TalOrtThul	r07	r09	r10				att%		10	10	dmg%		40	80	dmg-fire		12	32	res-all		15	15	str		6	6	dex		6	6	block2		30	30	0
-Runeword98	Peace	1					111	tors									ShaelThulAmn	r13	r10	r11				hit-skill	Valkyrie	2	15	gethit-skill	Slow Missiles	4	5	ama		2	2	oskill	Critical Strike	2	2													0
+Runeword98	Peace	1					111	tors									ShaelThulAmn	r13	r10	r11				hit-skill	Valkyrie	2	15	gethit-skill	Slow Opponents	4	5	ama		2	2	oskill	Critical Strike	2	2													0
 Runeword99	Voice of Reason	1					Previously Ladder Only	swor	mace								LemKoElEld	r20	r18	r01	r02			dmg-demon		220	350	dmg-undead		280	300	dmg-cold		100	220	pierce-cold		24	24	hit-skill	Ice Blast	18	20	hit-skill	Frozen Orb	15	13	nofreeze		1	1	0
 Runeword100	Penitence																																																			0
 Runeword101	Peril																																																			0
@@ -119,7 +119,7 @@ Runeword118	Reason																																																			0
 Runeword119	Red																																																			0
 Runeword120	Rhyme	1					109	shld									ShaelEth	r13	r05					block2		20	20	block		20	20	res-all		25	25	nofreeze		1	1	gold%		50	50	mag%		25	25					0
 Runeword121	Rift	1					Previously Ladder Only	pole	scep								HelKoLemGul	r15	r18	r20	r25			dmg-mag		160	250	dmg-fire		60	180	dmg-to-mana		38	38	hit-skill	Tornado	20	16	att-skill	Frozen Orb	16	21	charged	Iron Maiden	40	15	all-stats		5	10	0
-Runeword122	Sanctuary	1					110	shld									KoKoMal	r18	r18	r23				block		20	20	block2		20	20	ac%		130	160	ac-miss		250	250	res-all		50	70	balance2		20	20	charged	Slow Missiles	60	12	0
+Runeword122	Sanctuary	1					110	shld									KoKoMal	r18	r18	r23				block		20	20	block2		20	20	ac%		130	160	ac-miss		250	250	res-all		50	70	balance2		20	20	charged	Slow Opponents	60	12	0
 Runeword123	Serendipity																																																			0
 Runeword124	Shadow																																																			0
 Runeword125	Shadow of Doubt																																																			0
