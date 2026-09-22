@@ -11,3 +11,6 @@ d2rloader/metadata.json
 d2rloader/config/ruffneckk-mapsense.toml
 d2rloader/plugins/d2rl-ruffneckk-mapsense.dll
 d2rloader/plugins/RuffnecKkMapSenseMapgen.exe
+/d2rloader/patches/Disabled
+Unchained.mpq/data/local/MyTranslatedStrings.json
+Unchained.mpq/data/local/D2R_TranslateString.ps1
