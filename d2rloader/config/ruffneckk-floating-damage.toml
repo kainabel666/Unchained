@@ -65,7 +65,7 @@ enable_hit_combining = true
 max_combined_hit_size = 999999
 
 # Hits arriving inside this window, in milliseconds, are combined: 0 to 60000.
-combine_window_ms = 500
+combine_window_ms = 1000
 
 # Extends and pulses the combined number after another hit is added.
 # Extension: 0 to 60 seconds. Pulse size: 0.001 to 16.
