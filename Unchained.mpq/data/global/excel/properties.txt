@@ -178,65 +178,64 @@ crush/lvl	175	1	17	item_crushingblow_perlevel																											1	#% Cha
 wounds/lvl	176	1	17	item_openwounds_perlevel																											1	#% Chance of Open Wounds (Based on Character Level)	#/8 per Level			Currently Not Used	0
 kick/lvl	177	1	17	item_kick_damage_perlevel																											1	+# Kick Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
 deadly/lvl	178	1	17	item_deadlystrike_perlevel																											1	#% Deadly Strike (Based on Character Level)	#/8 per Level				0
-gems%/lvl	179																																				0
-rep-dur	180	1	17	item_replenish_durability																												Repairs 1 durability in # seconds	Repair Speed			Repair 1 Durability every 100/[Repair Speed] seconds	0
-rep-quant	181	1	17	item_replenish_quantity																												Replenishes quantity	Repair Speed			Replenish 1 Quantity every 100/[Repair Speed] seconds	0
-stack	182	1	1	item_extra_stack																												Increased Stack Size		Min #	Max #		0
-pierce-fire	183	1	1	passive_fire_pierce																												-#% to Enemy Fire Resistance		Min %	Max %		0
-pierce-ltng	184	1	1	passive_ltng_pierce																												-#% to Enemy Lightning Resistance		Min %	Max %		0
-pierce-cold	185	1	1	passive_cold_pierce																												-#% to Enemy Cold Resistance		Min %	Max %		0
-pierce-pois	186	1	1	passive_pois_pierce																												-#% to Enemy Poison Resistance		Min %	Max %		0
-indestruct	187	1	20																													Indestructible		1	1		0
-charged	188	1	19	item_charged_skill																											6	Level # [Skill] (#/# Charges)	Skill	# of Max Charges	Skill Level		0
-extra-fire	189	1	1	passive_fire_mastery																												+#% to Fire Skill Damage		Min %	Max %		0
-extra-ltng	190	1	1	passive_ltng_mastery																												+#% to Lightning Skill Damage		Min %	Max %		0
-extra-cold	191	1	1	passive_cold_mastery																												+#% to Cold Skill Damage		Min %	Max %		0
-extra-pois	192	1	1	passive_pois_mastery																												+#% to Poison Skill Damage		Min %	Max %		0
-dmg-elem	193	1	15	firemindam			16	firemaxdam			15	lightmindam			16	lightmaxdam			15	coldmindam			16	coldmaxdam			17	coldlength				Adds #-# Fire/Lightning/Cold Damage		Min #	Max #		0
-dmg-elem-min	194	1	1	firemindam			3	lightmindam			3	coldmindam																				+# to Minimum Fire/Lightning/Cold Damage		Min #	Max #	Currently Not Used	0
-dmg-elem-max	195	1	1	firemaxdam			3	lightmaxdam			3	coldmaxdam			17	coldlength																+# to Maximum Fire/Lightning/Cold Damage		Min #	Max #	Currently Not Used	0
-all-stats	196	1	1	strength			3	energy			3	dexterity			3	vitality																+# to all Attributes		Min #	Max #		0
-addxp	197	1	1	item_addexperience																												+#% to Experience Gained		Min %	Max %		0
-heal-kill	198	1	1	item_healafterkill																												+# Life after each Kill		Min #	Max #		0
-cheap	199	1	1	item_reducedprices																												Reduces all Vendor Prices #%		Min %	Max %		0
-rip	200	1	1	item_restinpeace																												Slain Monsters Rest in Peace		1	1		0
-att-mon%	201	1	24	attack_vs_montype																												#% to Attack Rating versus [Monster Type]	monstats.txt MonType	Min #	Max #	Currently Not Used	0
-dmg-mon%	202	1	24	damage_vs_montype																												#% to Damage versus [Monster Type]	monstats.txt MonType	Min #	Max #	Currently Not Used	0
-kill-skill	203	1	11	item_skillonkill																											7	#% Chance to cast level # [Skill] when you Kill an Enemy	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
-death-skill	204	1	11	item_skillondeath																											7	#% Chance to cast level # [Skill] when you Die	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
-levelup-skill	205	1	11	item_skillonlevelup																											7	#% Chance to cast level # [Skill] when you Level-Up	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
-skill-rand	206	1	12	item_singleskill																											2	+# to [Skill] ([Class] only)	Skill Level	Min Skill ID	Max Skill ID		0
-fade	207	1	17	fade																														Min #	Max #	Visuals Only	0
-levelreq	208	1	1	item_levelreq																												Required Level: #		Min #	Max #		0
-ethereal	209	1	23																													Ethereal		1	1		0
-oskill	210	1	22	item_nonclassskill																											5	+# to [Skill]	Skill	Min #	Max #		0
-state	211	1	24	state																													State	1	1	Applies a State on the unit	0
-randclassskill	212	1	36	item_addclassskills		3																									3	+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
-noconsume	213		1	item_noconsume																												+# to not Consume Quantity		Min %	Max %		0
-pierce-immunity-cold	214	1	1	item_pierce_cold_immunity																												Monster Cold Immunity is Sundered		Min %	Max %		0
-pierce-immunity-fire	215	1	1	item_pierce_fire_immunity																												Monster Fire Immunity is Sundered		Min %	Max %		0
-pierce-immunity-light	216	1	1	item_pierce_light_immunity																												Monster Lightning Immunity is Sundered		Min %	Max %		0
-pierce-immunity-poison	217	1	1	item_pierce_poison_immunity																												Monster Poison Immunity is Sundered		Min %	Max %		0
-pierce-immunity-damage	218	1	1	item_pierce_damage_immunity																												Monster Physical Immunity is Sundered		Min %	Max %		0
-pierce-immunity-magic	219	1	1	item_pierce_magic_immunity																												Monster Magic Immunity is Sundered		Min %	Max %		0
-charge-noconsume	220	1	1	item_charge_noconsume																												+#% chance for finishing moves to not consume charges		Min %	Max %		0
-war	221	1	21	item_addclassskills		7																										+# to Warlock Skill Levels		Min #	Max #		0
-dmg-mag/lvl	222	1	17	item_magic_damagemax_perlevel																												+# to Maximum Cold Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
-pierce-mag	223	1	1	passive_mag_pierce																												-#% to Enemy Fire Resistance		Min %	Max %		0
-pierce-dmg	224	1	1	passive_dmg_pierce																												-#% to Enemy Lightning Resistance		Min %	Max %		0
-affix-rand	225	1	25																													Add random affix from property	Index of property to use	Min Value for affix	Max Value for affix		0
-extra-skill-dmg%-rand	226	1	1	passive_fire_mastery			1	passive_ltng_mastery			1	passive_cold_mastery			1	passive_pois_mastery			1	passive_mag_mastery												used to with affix-rand to roll a random stat					0
-war-tab-rand	227	1	10	item_addskill_tab		21	10	item_addskill_tab		22	10	item_addskill_tab		23																							0
-extra-mag	228	1	1	passive_mag_mastery																												+#% to Magic Skill Damage		Min %	Max %		0
-mag-min	229	1	1	magicmindam																												+# to Minimum Magic Damage		Min #	Max #		0
-mag-max	230	1	1	magicmaxdam																												+# to Maximum Magic Damage		Min #	Max #		0
-relipts	231	1	1	reliquary_points																																	0
-boost	232	1	1	item_boost																												Item Enhanced					0
-max-boost	233	1	1	max_boost																												Unchained					0
-burn-min	234	1	1	burningmin																												+# to Minimum Burn Damage		Min #	Max #		0
-burn-max	235	1	1	burningmax																												+# to Maximum Burn Damage		Min #	Max #		0
-burn-len	236	1	1	firelength																														Min #	Max #	# of Frames (25 Frames = 1 Second)	0
-dmg-burn	237	1	15	burningmin			16	burningmax			17	firelength																				Adds #-# Burn Damage Over # Seconds	Length (Frames)	Min #	Max #	# of Frames (25 Frames = 1 Second)	0
-f-multi	238	1	1	firearrow_multi																												+# to Maximum Fire Arrows		Min #	Max #		0
-c-multi	239	1	1	coldarrow_multi																												+# to Maximum Cold Arrows		Min #	Max #		0
-m-multi	240	1	1	multiple_multi																												+# to Maximum Multiple Shot Arrows		Min #	Max #		0
+rep-dur	179	1	17	item_replenish_durability																												Repairs 1 durability in # seconds	Repair Speed			Repair 1 Durability every 100/[Repair Speed] seconds	0
+rep-quant	180	1	17	item_replenish_quantity																												Replenishes quantity	Repair Speed			Replenish 1 Quantity every 100/[Repair Speed] seconds	0
+stack	181	1	1	item_extra_stack																												Increased Stack Size		Min #	Max #		0
+pierce-fire	182	1	1	passive_fire_pierce																												-#% to Enemy Fire Resistance		Min %	Max %		0
+pierce-ltng	183	1	1	passive_ltng_pierce																												-#% to Enemy Lightning Resistance		Min %	Max %		0
+pierce-cold	184	1	1	passive_cold_pierce																												-#% to Enemy Cold Resistance		Min %	Max %		0
+pierce-pois	185	1	1	passive_pois_pierce																												-#% to Enemy Poison Resistance		Min %	Max %		0
+indestruct	186	1	20																													Indestructible		1	1		0
+charged	187	1	19	item_charged_skill																											6	Level # [Skill] (#/# Charges)	Skill	# of Max Charges	Skill Level		0
+extra-fire	188	1	1	passive_fire_mastery																												+#% to Fire Skill Damage		Min %	Max %		0
+extra-ltng	189	1	1	passive_ltng_mastery																												+#% to Lightning Skill Damage		Min %	Max %		0
+extra-cold	190	1	1	passive_cold_mastery																												+#% to Cold Skill Damage		Min %	Max %		0
+extra-pois	191	1	1	passive_pois_mastery																												+#% to Poison Skill Damage		Min %	Max %		0
+dmg-elem	192	1	15	firemindam			16	firemaxdam			15	lightmindam			16	lightmaxdam			15	coldmindam			16	coldmaxdam			17	coldlength				Adds #-# Fire/Lightning/Cold Damage		Min #	Max #		0
+dmg-elem-min	193	1	1	firemindam			3	lightmindam			3	coldmindam																				+# to Minimum Fire/Lightning/Cold Damage		Min #	Max #	Currently Not Used	0
+dmg-elem-max	194	1	1	firemaxdam			3	lightmaxdam			3	coldmaxdam			17	coldlength																+# to Maximum Fire/Lightning/Cold Damage		Min #	Max #	Currently Not Used	0
+all-stats	195	1	1	strength			3	energy			3	dexterity			3	vitality																+# to all Attributes		Min #	Max #		0
+addxp	196	1	1	item_addexperience																												+#% to Experience Gained		Min %	Max %		0
+heal-kill	197	1	1	item_healafterkill																												+# Life after each Kill		Min #	Max #		0
+cheap	198	1	1	item_reducedprices																												Reduces all Vendor Prices #%		Min %	Max %		0
+rip	199	1	1	item_restinpeace																												Slain Monsters Rest in Peace		1	1		0
+att-mon%	200	1	24	attack_vs_montype																												#% to Attack Rating versus [Monster Type]	monstats.txt MonType	Min #	Max #	Currently Not Used	0
+dmg-mon%	201	1	24	damage_vs_montype																												#% to Damage versus [Monster Type]	monstats.txt MonType	Min #	Max #	Currently Not Used	0
+kill-skill	202	1	11	item_skillonkill																											7	#% Chance to cast level # [Skill] when you Kill an Enemy	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+death-skill	203	1	11	item_skillondeath																											7	#% Chance to cast level # [Skill] when you Die	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+levelup-skill	204	1	11	item_skillonlevelup																											7	#% Chance to cast level # [Skill] when you Level-Up	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+skill-rand	205	1	12	item_singleskill																											2	+# to [Skill] ([Class] only)	Skill Level	Min Skill ID	Max Skill ID		0
+fade	206	1	17	fade																														Min #	Max #	Visuals Only	0
+levelreq	207	1	1	item_levelreq																												Required Level: #		Min #	Max #		0
+ethereal	208	1	23																													Ethereal		1	1		0
+oskill	209	1	22	item_nonclassskill																											5	+# to [Skill]	Skill	Min #	Max #		0
+state	210	1	24	state																													State	1	1	Applies a State on the unit	0
+randclassskill	211	1	36	item_addclassskills		3																									3	+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
+noconsume	212		1	item_noconsume																												+# to not Consume Quantity		Min %	Max %		0
+pierce-immunity-cold	213	1	1	item_pierce_cold_immunity																												Monster Cold Immunity is Sundered		Min %	Max %		0
+pierce-immunity-fire	214	1	1	item_pierce_fire_immunity																												Monster Fire Immunity is Sundered		Min %	Max %		0
+pierce-immunity-light	215	1	1	item_pierce_light_immunity																												Monster Lightning Immunity is Sundered		Min %	Max %		0
+pierce-immunity-poison	216	1	1	item_pierce_poison_immunity																												Monster Poison Immunity is Sundered		Min %	Max %		0
+pierce-immunity-damage	217	1	1	item_pierce_damage_immunity																												Monster Physical Immunity is Sundered		Min %	Max %		0
+pierce-immunity-magic	218	1	1	item_pierce_magic_immunity																												Monster Magic Immunity is Sundered		Min %	Max %		0
+charge-noconsume	219	1	1	item_charge_noconsume																												+#% chance for finishing moves to not consume charges		Min %	Max %		0
+war	220	1	21	item_addclassskills		7																										+# to Warlock Skill Levels		Min #	Max #		0
+dmg-mag/lvl	221	1	17	item_magic_damagemax_perlevel																												+# to Maximum Cold Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
+pierce-mag	222	1	1	passive_mag_pierce																												-#% to Enemy Fire Resistance		Min %	Max %		0
+pierce-dmg	223	1	1	passive_dmg_pierce																												-#% to Enemy Lightning Resistance		Min %	Max %		0
+affix-rand	224	1	25																													Add random affix from property	Index of property to use	Min Value for affix	Max Value for affix		0
+extra-skill-dmg%-rand	225	1	1	passive_fire_mastery			1	passive_ltng_mastery			1	passive_cold_mastery			1	passive_pois_mastery			1	passive_mag_mastery												used to with affix-rand to roll a random stat					0
+war-tab-rand	226	1	10	item_addskill_tab		21	10	item_addskill_tab		22	10	item_addskill_tab		23																							0
+extra-mag	227	1	1	passive_mag_mastery																												+#% to Magic Skill Damage		Min %	Max %		0
+mag-min	228	1	1	magicmindam																												+# to Minimum Magic Damage		Min #	Max #		0
+mag-max	229	1	1	magicmaxdam																												+# to Maximum Magic Damage		Min #	Max #		0
+relipts	230	1	1	reliquary_points																																	0
+boost	231	1	1	item_boost																												Item Enhanced					0
+max-boost	232	1	1	max_boost																												Unchained					0
+burn-min	233	1	1	burningmin																												+# to Minimum Burn Damage		Min #	Max #		0
+burn-max	234	1	1	burningmax																												+# to Maximum Burn Damage		Min #	Max #		0
+burn-len	235	1	1	firelength																														Min #	Max #	# of Frames (25 Frames = 1 Second)	0
+dmg-burn	236	1	15	burningmin			16	burningmax			17	firelength																				Adds #-# Burn Damage Over # Seconds	Length (Frames)	Min #	Max #	# of Frames (25 Frames = 1 Second)	0
+f-multi	237	1	1	firearrow_multi																												+# to Maximum Fire Arrows		Min #	Max #		0
+c-multi	238	1	1	coldarrow_multi																												+# to Maximum Cold Arrows		Min #	Max #		0
+m-multi	239	1	1	multiple_multi																												+# to Maximum Multiple Shot Arrows		Min #	Max #		0
