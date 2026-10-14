@@ -1161,6 +1161,36 @@
             },
             {
                 "path": "data/hd/character/player/sorceress/animation/xbw_walk.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/1hs_skill4_A1.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/2ht_skill4_A1.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/stf_skill4_A1.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/1hs_skill4_A2.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/stf_skill4_A2.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/2ht_skill4_A2.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/1ht_skill4_A1.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/2hs_skill4_A1.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/1ht_skill4_A2.animation"
+            },
+            {
+                "path": "data/hd/character/player/warlock/animation/2hs_skill4_A2.animation"
             }
         ],
         "textures": [],
@@ -3103,6 +3133,56 @@
             "type": "AnimationItem",
             "name": "hth_stop_run",
             "filename": "data/hd/character/player/sorceress/animation/hth_stop_run.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "1hs_skill4_A1",
+            "filename": "data/hd/character/player/warlock/animation/1hs_skill4_A1.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "2ht_skill4_A1",
+            "filename": "data/hd/character/player/warlock/animation/2ht_skill4_A1.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "stf_skill4_A1",
+            "filename": "data/hd/character/player/warlock/animation/stf_skill4_A1.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "1hs_skill4_A2",
+            "filename": "data/hd/character/player/warlock/animation/1hs_skill4_A2.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "stf_skill4_A2",
+            "filename": "data/hd/character/player/warlock/animation/stf_skill4_A2.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "2ht_skill4_A2",
+            "filename": "data/hd/character/player/warlock/animation/2ht_skill4_A2.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "1ht_skill4_A1",
+            "filename": "data/hd/character/player/warlock/animation/1ht_skill4_A1.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "2hs_skill4_A1",
+            "filename": "data/hd/character/player/warlock/animation/2hs_skill4_A1.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "1ht_skill4_A2",
+            "filename": "data/hd/character/player/warlock/animation/1ht_skill4_A2.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "2hs_skill4_A2",
+            "filename": "data/hd/character/player/warlock/animation/2hs_skill4_A2.animation"
         }
     ],
     "states": [
@@ -5403,6 +5483,106 @@
             "enterEvents": [],
             "exitEvents": [],
             "exitBlendType": 0
+        },
+        {
+            "type": "AnimationState",
+            "name": "State_Cleave_0",
+            "_name": "SKILL_CLEAVE",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 52,
+            "enableVfxAttributes": true,
+            "modeId": 18,
+            "skillIndex": 391,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [],
+                "bow": [],
+                "1hs": [
+                    "1hs_skill4_A1"
+                ],
+                "1ht": [
+                    "1ht_skill4_A1",
+                    "1ht_skill4_A2"
+                ],
+                "stf": [
+                    "stf_skill4_A1",
+                    "stf_skill4_A2"
+                ],
+                "2hs": [
+                    "2hs_skill4_A1",
+                    "2hs_skill4_A2"
+                ],
+                "2ht": [
+                    "2ht_skill4_A1",
+                    "2ht_skill4_A2"
+                ],
+                "xbw": [],
+                "1js": [
+                    "1hs_skill4_A1"
+                ],
+                "1jt": [
+                    "1ht_skill4_A1",
+                    "1ht_skill4_A2"
+                ],
+                "1ss": [
+                    "1hs_skill4_A1"
+                ],
+                "1st": [
+                    "1ht_skill4_A1",
+                    "1ht_skill4_A2"
+                ],
+                "ht1": [
+                    "1hs_skill4_A1"
+                ],
+                "ht2": [
+                    "1hs_skill4_A1"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": [],
+            "exitBlendType": 0
+        },
+        {
+            "type": "AnimationState",
+            "name": "State_Cleave_1",
+            "_name": "SKILL_CLEAVE_2",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 53,
+            "enableVfxAttributes": true,
+            "modeId": 18,
+            "skillIndex": 391,
+            "stepIndex": 1,
+            "animationBindings": {
+                "hth": [],
+                "bow": [],
+                "1hs": [
+                    "1hs_skill4_A2"
+                ],
+                "1ht": [],
+                "stf": [],
+                "2hs": [],
+                "2ht": [],
+                "xbw": [],
+                "1js": [
+                    "1hs_skill4_A2"
+                ],
+                "1jt": [],
+                "1ss": [
+                    "1hs_skill4_A2"
+                ],
+                "1st": [],
+                "ht1": [
+                    "1hs_skill4_A2"
+                ],
+                "ht2": [
+                    "1hs_skill4_A2"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": [],
+            "exitBlendType": 0
         }
     ],
     "transitions": [
@@ -5716,6 +5896,18 @@
                     "name": "transitions_from_PMODE_DEATH_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_0_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_0_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -6029,6 +6221,18 @@
                     "name": "transitions_from_PMODE_NEUTRAL_transition030",
                     "crossfadeSeconds": 0.01,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_1_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_1_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -6342,6 +6546,18 @@
                     "name": "transitions_from_PMODE_WALK_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_2_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_2_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -6655,6 +6871,18 @@
                     "name": "transitions_from_PMODE_RUN_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_3_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_3_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -6968,6 +7196,18 @@
                     "name": "transitions_from_PMODE_GETHIT_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_4_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_4_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -7281,6 +7521,18 @@
                     "name": "transitions_from_PMODE_TOWNNEUTRAL_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_5_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_5_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -7594,6 +7846,18 @@
                     "name": "transitions_from_PMODE_TOWNWALK_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_6_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_6_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -7907,6 +8171,18 @@
                     "name": "transitions_from_PMODE_ATTACK1_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_7_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_7_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -8220,6 +8496,18 @@
                     "name": "transitions_from_PMODE_ATTACK2_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_8_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_8_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -8533,6 +8821,18 @@
                     "name": "transitions_from_PMODE_BLOCK_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_9_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_9_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -8846,6 +9146,18 @@
                     "name": "transitions_from_PMODE_CAST_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_10_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_10_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -9159,6 +9471,18 @@
                     "name": "transitions_from_PMODE_THROW_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_11_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_11_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -9472,6 +9796,18 @@
                     "name": "transitions_from_PMODE_KICK_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_12_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_12_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -9785,6 +10121,18 @@
                     "name": "transitions_from_PMODE_SKILL1_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_13_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_13_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -10098,6 +10446,18 @@
                     "name": "transitions_from_PMODE_SKILL2_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_14_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_14_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -10411,6 +10771,18 @@
                     "name": "transitions_from_PMODE_SKILL3_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_15_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_15_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -10724,6 +11096,18 @@
                     "name": "transitions_from_PMODE_SKILL4_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_16_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_16_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -11037,6 +11421,18 @@
                     "name": "transitions_from_PMODE_DEAD_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_17_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_17_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -11350,6 +11746,18 @@
                     "name": "transitions_from_PMODE_KNOCKBACK_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_18_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_18_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -11663,6 +12071,18 @@
                     "name": "transitions_from_PMODE_SEQUENCE__WHIRLWIND_transition030",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_19_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_19_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -11976,6 +12396,18 @@
                     "name": "PMODE_SEQUENCE__LEAP_WINDUP_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_20_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_20_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -12289,6 +12721,18 @@
                     "name": "PMODE_SEQUENCE__LEAP_RISING_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_21_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_21_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -12602,6 +13046,18 @@
                     "name": "PMODE_SEQUENCE__LEAP_LANDING_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_23_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_23_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -12915,6 +13371,18 @@
                     "name": "AnimationState_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_24_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_24_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -13228,6 +13696,18 @@
                     "name": "AnimationState001_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_25_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_25_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -13541,6 +14021,18 @@
                     "name": "AnimationState002_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_26_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_26_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -13854,6 +14346,18 @@
                     "name": "AnimationState003_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_27_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_27_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -14167,6 +14671,18 @@
                     "name": "AnimationState004_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_28_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_28_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -14480,6 +14996,18 @@
                     "name": "AnimationState005_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_29_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_29_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -14793,6 +15321,18 @@
                     "name": "AnimationState006_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_30_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_30_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -15106,6 +15646,18 @@
                     "name": "AnimationState007_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_31_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_31_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -15419,6 +15971,18 @@
                     "name": "AnimationState008_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_32_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_32_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -15732,6 +16296,18 @@
                     "name": "AnimationState009_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_33_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_33_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -16045,6 +16621,18 @@
                     "name": "AnimationState010_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_34_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_34_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -16358,6 +16946,18 @@
                     "name": "AnimationState011_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_35_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_35_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -16671,6 +17271,18 @@
                     "name": "AnimationState012_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_36_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_36_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -16984,6 +17596,18 @@
                     "name": "AnimationState013_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_37_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_37_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -17297,6 +17921,18 @@
                     "name": "AnimationState014_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_38_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_38_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -17610,6 +18246,18 @@
                     "name": "AnimationState015_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_39_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_39_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -17923,6 +18571,18 @@
                     "name": "AnimationState016_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_40_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_40_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -18236,6 +18896,18 @@
                     "name": "AnimationState017_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_41_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_41_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -18549,6 +19221,18 @@
                     "name": "AnimationState018_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_42_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_42_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -18862,6 +19546,18 @@
                     "name": "AnimationState019_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_43_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_43_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -19175,6 +19871,18 @@
                     "name": "AnimationState020_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_44_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_44_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -19488,6 +20196,18 @@
                     "name": "AnimationState021_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_45_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_45_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -19801,6 +20521,18 @@
                     "name": "AnimationState022_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_46_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_46_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -20114,6 +20846,18 @@
                     "name": "AnimationState023_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_47_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_47_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -20427,6 +21171,18 @@
                     "name": "AnimationState024_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_48_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_48_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -20740,6 +21496,18 @@
                     "name": "AnimationState025_transitiongroup_transition050",
                     "crossfadeSeconds": 0.2,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_49_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_49_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -21053,6 +21821,18 @@
                     "name": "AnimationState026_transitiongroup_transition050",
                     "crossfadeSeconds": 0.01,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_50_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_50_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         },
@@ -21366,6 +22146,668 @@
                     "name": "AnimationState027_transitiongroup_transition050",
                     "crossfadeSeconds": 0.01,
                     "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_51_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_51_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
+                }
+            ]
+        },
+        {
+            "type": "AnimationTransitionGroup",
+            "name": "State_Cleave_0_transitions",
+            "from": 52,
+            "settings": [
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_0",
+                    "crossfadeSeconds": 0.2,
+                    "to": 0
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_1",
+                    "crossfadeSeconds": 0.2,
+                    "to": 1
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_2",
+                    "crossfadeSeconds": 0.2,
+                    "to": 2
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_3",
+                    "crossfadeSeconds": 0.2,
+                    "to": 3
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_4",
+                    "crossfadeSeconds": 0.2,
+                    "to": 4
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_5",
+                    "crossfadeSeconds": 0.2,
+                    "to": 5
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_6",
+                    "crossfadeSeconds": 0.2,
+                    "to": 6
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_7",
+                    "crossfadeSeconds": 0.2,
+                    "to": 7
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_8",
+                    "crossfadeSeconds": 0.2,
+                    "to": 8
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_9",
+                    "crossfadeSeconds": 0.2,
+                    "to": 9
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_10",
+                    "crossfadeSeconds": 0.2,
+                    "to": 10
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_11",
+                    "crossfadeSeconds": 0.2,
+                    "to": 11
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_12",
+                    "crossfadeSeconds": 0.2,
+                    "to": 12
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_13",
+                    "crossfadeSeconds": 0.2,
+                    "to": 13
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_14",
+                    "crossfadeSeconds": 0.2,
+                    "to": 14
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_15",
+                    "crossfadeSeconds": 0.2,
+                    "to": 15
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_16",
+                    "crossfadeSeconds": 0.2,
+                    "to": 16
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_17",
+                    "crossfadeSeconds": 0.2,
+                    "to": 17
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_18",
+                    "crossfadeSeconds": 0.2,
+                    "to": 18
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_19",
+                    "crossfadeSeconds": 0.2,
+                    "to": 19
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_20",
+                    "crossfadeSeconds": 0.2,
+                    "to": 20
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_21",
+                    "crossfadeSeconds": 0.2,
+                    "to": 21
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_23",
+                    "crossfadeSeconds": 0.2,
+                    "to": 23
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_24",
+                    "crossfadeSeconds": 0.2,
+                    "to": 24
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_25",
+                    "crossfadeSeconds": 0.2,
+                    "to": 25
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_26",
+                    "crossfadeSeconds": 0.2,
+                    "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_27",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_28",
+                    "crossfadeSeconds": 0.2,
+                    "to": 28
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_29",
+                    "crossfadeSeconds": 0.2,
+                    "to": 29
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_30",
+                    "crossfadeSeconds": 0.2,
+                    "to": 30
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_31",
+                    "crossfadeSeconds": 0.2,
+                    "to": 31
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_32",
+                    "crossfadeSeconds": 0.2,
+                    "to": 32
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_33",
+                    "crossfadeSeconds": 0.2,
+                    "to": 33
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_34",
+                    "crossfadeSeconds": 0.2,
+                    "to": 34
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_35",
+                    "crossfadeSeconds": 0.2,
+                    "to": 35
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_36",
+                    "crossfadeSeconds": 0.2,
+                    "to": 36
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_37",
+                    "crossfadeSeconds": 0.2,
+                    "to": 37
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_38",
+                    "crossfadeSeconds": 0.2,
+                    "to": 38
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_39",
+                    "crossfadeSeconds": 0.2,
+                    "to": 39
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_40",
+                    "crossfadeSeconds": 0.2,
+                    "to": 40
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_41",
+                    "crossfadeSeconds": 0.2,
+                    "to": 41
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_42",
+                    "crossfadeSeconds": 0.2,
+                    "to": 42
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_43",
+                    "crossfadeSeconds": 0.2,
+                    "to": 43
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_44",
+                    "crossfadeSeconds": 0.2,
+                    "to": 44
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_45",
+                    "crossfadeSeconds": 0.2,
+                    "to": 45
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_46",
+                    "crossfadeSeconds": 0.2,
+                    "to": 46
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_47",
+                    "crossfadeSeconds": 0.2,
+                    "to": 47
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_48",
+                    "crossfadeSeconds": 0.2,
+                    "to": 48
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_49",
+                    "crossfadeSeconds": 0.2,
+                    "to": 49
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_50",
+                    "crossfadeSeconds": 0.2,
+                    "to": 50
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_51",
+                    "crossfadeSeconds": 0.2,
+                    "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_52_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
+                }
+            ]
+        },
+        {
+            "type": "AnimationTransitionGroup",
+            "name": "State_Cleave_1_transitions",
+            "from": 53,
+            "settings": [
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_0",
+                    "crossfadeSeconds": 0.2,
+                    "to": 0
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_1",
+                    "crossfadeSeconds": 0.2,
+                    "to": 1
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_2",
+                    "crossfadeSeconds": 0.2,
+                    "to": 2
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_3",
+                    "crossfadeSeconds": 0.2,
+                    "to": 3
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_4",
+                    "crossfadeSeconds": 0.2,
+                    "to": 4
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_5",
+                    "crossfadeSeconds": 0.2,
+                    "to": 5
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_6",
+                    "crossfadeSeconds": 0.2,
+                    "to": 6
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_7",
+                    "crossfadeSeconds": 0.2,
+                    "to": 7
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_8",
+                    "crossfadeSeconds": 0.2,
+                    "to": 8
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_9",
+                    "crossfadeSeconds": 0.2,
+                    "to": 9
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_10",
+                    "crossfadeSeconds": 0.2,
+                    "to": 10
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_11",
+                    "crossfadeSeconds": 0.2,
+                    "to": 11
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_12",
+                    "crossfadeSeconds": 0.2,
+                    "to": 12
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_13",
+                    "crossfadeSeconds": 0.2,
+                    "to": 13
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_14",
+                    "crossfadeSeconds": 0.2,
+                    "to": 14
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_15",
+                    "crossfadeSeconds": 0.2,
+                    "to": 15
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_16",
+                    "crossfadeSeconds": 0.2,
+                    "to": 16
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_17",
+                    "crossfadeSeconds": 0.2,
+                    "to": 17
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_18",
+                    "crossfadeSeconds": 0.2,
+                    "to": 18
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_19",
+                    "crossfadeSeconds": 0.2,
+                    "to": 19
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_20",
+                    "crossfadeSeconds": 0.2,
+                    "to": 20
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_21",
+                    "crossfadeSeconds": 0.2,
+                    "to": 21
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_23",
+                    "crossfadeSeconds": 0.2,
+                    "to": 23
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_24",
+                    "crossfadeSeconds": 0.2,
+                    "to": 24
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_25",
+                    "crossfadeSeconds": 0.2,
+                    "to": 25
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_26",
+                    "crossfadeSeconds": 0.2,
+                    "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_27",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_28",
+                    "crossfadeSeconds": 0.2,
+                    "to": 28
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_29",
+                    "crossfadeSeconds": 0.2,
+                    "to": 29
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_30",
+                    "crossfadeSeconds": 0.2,
+                    "to": 30
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_31",
+                    "crossfadeSeconds": 0.2,
+                    "to": 31
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_32",
+                    "crossfadeSeconds": 0.2,
+                    "to": 32
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_33",
+                    "crossfadeSeconds": 0.2,
+                    "to": 33
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_34",
+                    "crossfadeSeconds": 0.2,
+                    "to": 34
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_35",
+                    "crossfadeSeconds": 0.2,
+                    "to": 35
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_36",
+                    "crossfadeSeconds": 0.2,
+                    "to": 36
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_37",
+                    "crossfadeSeconds": 0.2,
+                    "to": 37
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_38",
+                    "crossfadeSeconds": 0.2,
+                    "to": 38
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_39",
+                    "crossfadeSeconds": 0.2,
+                    "to": 39
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_40",
+                    "crossfadeSeconds": 0.2,
+                    "to": 40
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_41",
+                    "crossfadeSeconds": 0.2,
+                    "to": 41
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_42",
+                    "crossfadeSeconds": 0.2,
+                    "to": 42
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_43",
+                    "crossfadeSeconds": 0.2,
+                    "to": 43
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_44",
+                    "crossfadeSeconds": 0.2,
+                    "to": 44
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_45",
+                    "crossfadeSeconds": 0.2,
+                    "to": 45
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_46",
+                    "crossfadeSeconds": 0.2,
+                    "to": 46
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_47",
+                    "crossfadeSeconds": 0.2,
+                    "to": 47
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_48",
+                    "crossfadeSeconds": 0.2,
+                    "to": 48
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_49",
+                    "crossfadeSeconds": 0.2,
+                    "to": 49
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_50",
+                    "crossfadeSeconds": 0.2,
+                    "to": 50
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_51",
+                    "crossfadeSeconds": 0.2,
+                    "to": 51
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_52",
+                    "crossfadeSeconds": 0.2,
+                    "to": 52
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cleave_transition_53_to_53",
+                    "crossfadeSeconds": 0.2,
+                    "to": 53
                 }
             ]
         }
