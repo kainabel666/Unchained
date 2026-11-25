@@ -1048,7 +1048,7 @@
         "v": "bottom"
       }
     },
-    "text": "@MoviePlaybackHoldToSkip"
+    "text": "@d2r:MoviePlaybackHoldToSkip"
   },
   "HoldToSkipDurationMilliseconds": 500,
   "HoldToSkipTextTimeoutMilliseconds": 5000,

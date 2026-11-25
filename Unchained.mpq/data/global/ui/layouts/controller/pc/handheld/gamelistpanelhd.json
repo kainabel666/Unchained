@@ -8,7 +8,7 @@
         "defaultFilterTextColor": "$LightButtonTextColor",
         "noneFilterTextColor": "$DarkButtonTextColor",
         "defaultWidget": "GamesList",
-        "difficultyLabels": ["@strCreateGameNormalText", "@strCreateGameNightmareText", "@strCreateGameHellText"],
+        "difficultyLabels": ["@d2r:strCreateGameNormalText", "@d2r:strCreateGameNightmareText", "@d2r:strCreateGameHellText"],
         "shiftStatusIconPosition1": { "x": 755, "y": 20 },
         "shiftStatusIconPosition2": { "x": 697, "y": 20 },
         "pingBucket": [ 50, 90, 130, "$INT_MAX" ]
@@ -25,7 +25,7 @@
             "type": "TextBoxWidget", "name": "GameListTitle",
             "fields": { 
                 "rect": { "x": -1300, "y": 332, "width": 670, "height": 75 }, 
-                "text": "@JoinGameTitle",
+                "text": "@d2r:JoinGameTitle",
                 "style": {
                     "fontColor": "$FontColorGold", 
                     "pointSize": "$LargeFontSize",
@@ -38,7 +38,7 @@
             "type": "TextBoxWidget", "name": "GameNameTitle",
             "fields": {
                 "rect": { "x": -1280, "y": 450, "width": 800, "height": 44 },
-                "text": "@strGameName",
+                "text": "@d2r:strGameName",
                 "style": {
                     "fontColor": "$FontColorLightGray",
                     "pointSize": "$SmallFontSize",
@@ -51,7 +51,7 @@
             "type": "TextBoxWidget", "name": "DesecratedTitle",
             "fields": {
                 "rect": { "x": -430, "y": 450, "width": 320, "height": 44 },
-                "text": "@GameListDesecratedColumnTitle",
+                "text": "@d2r:GameListDesecratedColumnTitle",
                 "style": {
                     "fontColor": "$FontColorLightGray",
                     "pointSize": "$SmallFontSize",
@@ -64,7 +64,7 @@
             "type": "TextBoxWidget", "name": "DifficultyTitle",
             "fields": {
                 "rect": { "x": -20, "y": 450, "width": 320, "height": 44 },
-                "text": "@GameListDifficulty",
+                "text": "@d2r:GameListDifficulty",
                 "style": {
                     "fontColor": "$FontColorLightGray",
                     "pointSize": "$SmallFontSize",
@@ -77,7 +77,7 @@
             "type": "TextBoxWidget", "name": "NumPlayersTitle",
             "fields": {
                 "rect": { "x": 300, "y": 450, "width": 250, "height": 44 },
-                "text": "@srostertitle",
+                "text": "@d2r:srostertitle",
                 "style": {
                     "fontColor": "$FontColorLightGray",
                     "pointSize": "$SmallFontSize",
@@ -90,7 +90,7 @@
             "type": "TextBoxWidget", "name": "PingTitle",
             "fields": {
                 "rect": { "x": 550, "y": 450, "width": 160, "height": 44 },
-                "text": "@GameListPing",
+                "text": "@d2r:GameListPing",
                 "style": {
                     "fontColor": "$FontColorLightGray",
                     "pointSize": "$SmallFontSize",
@@ -233,7 +233,7 @@
                 "filename": "Controller/Lobby/GameList/GameList_Tabs",
                 "inactiveFrames": [ 1, 1 ],
                 "activeFrames": [ 0, 0 ],
-                "textStrings": [ "@GameChat", "@GameListFilters" ],
+                "textStrings": [ "@d2r:GameChat", "@d2r:GameListFilters" ],
                 "textStyle": { "pointSize": "$SmallFontSize" },
                 "activeTextColor": "$TabsActiveTextColor",
                 "inactiveTextColor": "$TabsInactiveTextColor",
@@ -257,7 +257,7 @@
                     "type": "TextBoxWidget", "name": "ElapsedTimeLabel",
                     "fields": {
                         "rect": { "x": 0, "y": 4, "width": 546, "height": 56 },
-                        "text": "@ElapsedTime",
+                        "text": "@d2r:ElapsedTime",
                         "style": {
                             "fontColor": "$FontColorLightGray",
                             "pointSize": "$MediumFontSize",
@@ -284,7 +284,7 @@
                     "type": "TextBoxWidget", "name": "LevelRangeLabel",
                     "fields": {
                         "rect": { "x": 0, "y": 92, "width": 546, "height": 56 },
-                        "text": "@LevelRestriction",
+                        "text": "@d2r:LevelRestriction",
                         "style": {
                             "fontColor": "$FontColorLightGray",
                             "pointSize": "$MediumFontSize",
@@ -311,7 +311,7 @@
                     "type": "TextBoxWidget", "name": "PlayersTitle",
                     "fields": {
                         "rect": { "x": 0, "y": 190, "width": 546, "height": 44 },
-                        "text": "@srostertitle",
+                        "text": "@d2r:srostertitle",
                         "style": {
                             "fontColor": "$FontColorLightGray",
                             "pointSize": "$MediumFontSize",
@@ -377,7 +377,7 @@
                     "type": "TextBoxWidget", "name": "DifficultyTitle",
                     "fields": { 
                         "rect": { "x": 80, "y": 20, "width": 372, "height": 60 }, 
-                        "text": "@OptionsMenuGameDifficulty",
+                        "text": "@d2r:OptionsMenuGameDifficulty",
                         "style": {
                             "fontColor": "$FontColorGold", 
                             "pointSize": "$MediumFontSize",
@@ -390,7 +390,7 @@
                     "type": "TextBoxWidget", "name": "NormalDifficultyTitle",
                     "fields": { 
                         "rect": { "x": 80, "y": 86, "width": 320, "height": 54 }, 
-                        "text": "@strCreateGameNormalText",
+                        "text": "@d2r:strCreateGameNormalText",
                         "style": {
                             "fontColor": "$FontColorWhite", 
                             "pointSize": "$SmallFontSize",
@@ -424,7 +424,7 @@
                     "type": "TextBoxWidget", "name": "NightmareDifficultyTitle",
                     "fields": { 
                         "rect": { "x": 80, "y": 166, "width": 320, "height": 54 }, 
-                        "text": "@strCreateGameNightmareText",
+                        "text": "@d2r:strCreateGameNightmareText",
                         "style": {
                             "fontColor": "$FontColorWhite", 
                             "pointSize": "$SmallFontSize",
@@ -459,7 +459,7 @@
                     "type": "TextBoxWidget", "name": "HellDifficultyTitle",
                     "fields": { 
                         "rect": { "x": 80, "y": 246, "width": 320, "height": 54 }, 
-                        "text": "@strCreateGameHellText",
+                        "text": "@d2r:strCreateGameHellText",
                         "style": {
                             "fontColor": "$FontColorWhite", 
                             "pointSize": "$SmallFontSize",
@@ -494,7 +494,7 @@
                     "type": "TextBoxWidget", "name": "DesecratedZonesTitle",
                     "fields": { 
                         "rect": { "x": 80, "y": 340, "width": 372, "height": 60 }, 
-                        "text": "@GameListDesecratedFilterTitle",
+                        "text": "@d2r:GameListDesecratedFilterTitle",
                         "style": {
                             "fontColor": "$FontColorGold", 
                             "pointSize": "$MediumFontSize",
@@ -519,8 +519,8 @@
                         "enabledColor" : "$CarouselEnabledColor",
                         "disabledColor" : "$CarouselDisabledColor",
                         "wrapAround": false,
-                        "tooltipString": "@FindGameTooltipDesecratedCarousel",
-                        "disabledTooltipString": "@TerrorZonesNotAvailable",
+                        "tooltipString": "@d2r:FindGameTooltipDesecratedCarousel",
+                        "disabledTooltipString": "@d2r:TerrorZonesNotAvailable",
                         "tooltipStyle": {
                             "fontStyle": {
                                 "options": { "newlineHandling": "standard" },
@@ -538,7 +538,7 @@
                     "type": "TextBoxWidget", "name": "MinPingTitle",
                     "fields": { 
                         "rect": { "x": 80, "y": 488, "width": 372, "height": 60 }, 
-                        "text": "@FilterPingTitle",
+                        "text": "@d2r:FilterPingTitle",
                         "style": {
                             "fontColor": "$FontColorGold", 
                             "pointSize": "$MediumFontSize",
@@ -563,7 +563,7 @@
                         "enabledColor" : "$CarouselEnabledColor",
                         "disabledColor" : "$CarouselDisabledColor",
                         "wrapAround": false,
-                        "tooltipString": "@FilterPingTooltip",
+                        "tooltipString": "@d2r:FilterPingTooltip",
                         "tooltipStyle": {
                             "fontStyle": {
                                 "options": { "newlineHandling": "standard" },
@@ -581,7 +581,7 @@
                     "type": "TextBoxWidget", "name": "GameNameFilterTitle",
                     "fields": { 
                         "rect": { "x": 10, "y": 828, "width": 520, "height": 60 }, 
-                        "text": "@GameNameFilter",
+                        "text": "@d2r:GameNameFilter",
                         "style": {
                             "fontColor": "$FontColorGold", 
                             "pointSize": "$MediumFontSize",
@@ -611,12 +611,12 @@
                         "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_DifficultyButton",
                         "onClickMessage": "GamesList:ResetFilters",
                         "focusIndicatorFilename": "Controller/HoverImages/MatchmakingDifficulty_Hover",
-                        "textString": "@ResetFilters",
+                        "textString": "@d2r:ResetFilters",
                         "text/style": "$StyleFEButtonText",
                         "textColor": "$LightButtonTextColor",
                         "disabledFrame": 2,
                         "hoveredFrame": 3,
-                        "tooltipString": "@ResetFiltersTooltip",
+                        "tooltipString": "@d2r:ResetFiltersTooltip",
                         "tooltipStyle": {
                             "fontStyle": {
                                 "options": { "newlineHandling": "standard" },
@@ -636,7 +636,7 @@
                         "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_DifficultyButton",
                         "onClickMessage": "PanelManager:OpenPanel:GameNameFilterPanel",
                         "focusIndicatorFilename": "Controller/HoverImages/MatchmakingDifficulty_Hover",
-                        "textString": "@GameNameFilter",
+                        "textString": "@d2r:GameNameFilter",
                         "text/style": "$StyleFEButtonText",
                         "textColor": "$LightButtonTextColor",
                         "disabledFrame": 2,
@@ -744,7 +744,7 @@
 				"filename": "PANEL\\closebtn_4x",
 				"hoveredFrame": 3,
 				"onClickMessage": "PanelManager:ClosePanel:GameListPanel",
-				"tooltipString": "@strClose",
+				"tooltipString": "@d2r:strClose",
 				"sound": "cursor_close_window_hd",
 				"acceptsEscKeyEverywhere": true,
 			},

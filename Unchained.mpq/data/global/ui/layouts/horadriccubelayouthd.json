@@ -30,7 +30,7 @@
             "fields": {
                 "rect": "$InGamePanelTitleRect",
                 "style": "$StyleTitleBlock",
-                "text": "@box",
+                "text": "@d2r:box",
             },
         },
         {
@@ -38,7 +38,7 @@
             "fields": {
                 "rect": { "x": 520, "y": 969 },
                 "filename": "PANEL\\Horadric_Cube\\TransmuteButton",
-                "tooltipString": "@strUiMenu2",
+                "tooltipString": "@d2r:strUiMenu2",
                 "hoveredFrame": 2,
                 "onClickMessage": "HoradricCubePanelMessage:Convert",
             },
@@ -49,7 +49,7 @@
                 "rect": { "x": 1075, "y": 9 },
                 "filename": "PANEL\\closebtn_4x",
                 "hoveredFrame": 3,
-                "tooltipString": "@strClose",
+                "tooltipString": "@d2r:strClose",
                 "sound": "cursor_close_window_hd",
                 "onClickMessage": "HoradricCubePanelMessage:Close",
             },

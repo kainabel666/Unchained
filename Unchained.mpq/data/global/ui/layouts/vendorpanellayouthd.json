@@ -47,7 +47,7 @@
                 "filename": "PANEL\\stash\\Stash_Tabs",
                 "inactiveFrames": [ 0, 0, 0, 0 ],
                 "activeFrames": [ 1, 1, 1, 1 ],
-                "textStrings": [ "@strBSArmor", "@strBSWeapons", "@strBSWeapons", "@strBSMisc" ],
+                "textStrings": [ "@d2r:strBSArmor", "@d2r:strBSWeapons", "@d2r:strBSWeapons", "@d2r:strBSMisc" ],
                 "textStyle": { "pointSize": "$SmallPanelFontSize" },
                 "activeTextColor": "$TabsActiveTextColor",
                 "inactiveTextColor": "$TabsInactiveTextColor",
@@ -58,10 +58,10 @@
         {
             "type": "ButtonWidget", "name": "button_repair",
             "fields": {
-                "rect": { "x": 169, "y": 1277 },
+                "rect": { "x": 100, "y": 1277 },
                 "filename": "PANEL\\Vendors\\Repair_Button",
                 "sound": "pass",
-                "tooltipString": "@NPCRepairItems",
+                "tooltipString": "@d2r:NPCRepairItems",
                 "hoveredFrame": 2,
                 "onClickMessage": "VendorPanelMessage:Repair",
             },
@@ -69,11 +69,11 @@
         {
             "type": "ButtonWidget", "name": "button_repair_all",
             "fields": {
-                "rect": { "x": 877, "y": 1277 },
+                "rect": { "x": 230, "y": 1277 },
                 "filename": "PANEL\\Vendors\\RepairAll_Button",
                 "hoveredFrame": 2,
                 "sound": "pass",
-                "tooltipString": "@strThisShouldBeIn104",
+                "tooltipString": "@d2r:strThisShouldBeIn104",
                 "onClickMessage": "VendorPanelMessage:RepairAll",
             },
         },
@@ -87,7 +87,7 @@
                 "pointSize": "$MediumPanelFontSize",
                 "textColor": { "r": 150, "g": 128, "b": 77, "a": 255 },
                 "onClickMessage": "VendorPanelMessage:RefreshAll",
-                "tooltipString": "@refresh",
+                "tooltipString": "@d2r:refresh",
             },
         },
         {
@@ -96,7 +96,7 @@
                 "rect": { "x": 1075, "y": 9 },
                 "filename": "PANEL\\closebtn_4x",
                 "hoveredFrame": 3,
-                "tooltipString": "@strClose",
+                "tooltipString": "@d2r:strClose",
                 "sound": "cursor_close_window_hd",
                 "onClickMessage": "VendorPanelMessage:Close",
             },

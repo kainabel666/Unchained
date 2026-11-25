@@ -29,7 +29,7 @@
             "fields": {
                 "rect": { "x": 550, "y": -100},
                 "style": "$StyleTitleBlock",
-                "text": "@strpanel4",
+                "text": "@d2r:strpanel4",
             },
         },
         {
@@ -54,7 +54,7 @@
                 "rect": { "x": 329, "y": 1427 },
                 "filename": "PANEL\\GoldButton",
                 "hoveredFrame": 3,
-                "tooltipString": "@strGoldDrop",
+                "tooltipString": "@d2r:strGoldDrop",
                 "onClickMessage": "PlayerInventoryPanelMessage:DropGold",
             },
         },
@@ -64,7 +64,7 @@
                 "rect": { "x": 1075, "y": 9 },
                 "filename": "PANEL\\closebtn_4x",
                 "hoveredFrame": 3,
-                "tooltipString": "@strClose",
+                "tooltipString": "@d2r:strClose",
                 "sound": "cursor_close_window_hd",
                 "onClickMessage": "PlayerInventoryPanelMessage:Close",
             },
@@ -106,7 +106,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_neck",
             "fields": {
-                "rect": { "x": 227, "y": 341, "width": 98, "height": 98 },
+                "rect": { "x": 227, "y": 336, "width": 98, "height": 98 },
                 "cellSize": "$ItemCellSize",
                 "location": "neck",
                 "gemSocketFilename": "PANEL\\gemsocket",
@@ -176,7 +176,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_feet",
             "fields": {
-                "rect": { "x": 180, "y": 1004, "width": 196, "height": 196 },
+                "rect": { "x": 180, "y": 996, "width": 196, "height": 196 },
                 "cellSize": "$ItemCellSize",
                 "location": "feet",
                 "gemSocketFilename": "PANEL\\gemsocket",
@@ -186,7 +186,7 @@
         {
             "type": "InventorySlotWidget", "name": "slot_gloves",
             "fields": {
-                "rect": { "x": -82, "y": 671, "width": 196, "height": 196 },
+                "rect": { "x": -82, "y": 662, "width": 196, "height": 196 },
                 "cellSize": "$ItemCellSize",
                 "location": "gloves",
                 "gemSocketFilename": "PANEL\\gemsocket",

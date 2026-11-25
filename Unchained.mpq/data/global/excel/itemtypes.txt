@@ -112,3 +112,14 @@ Crafted Sunder Charm	csch	char		108	ID1LVL44	0	0					0	0	0	0	1		0	0	0	25	0	40	0	
 Helm	helm	armo	merc	109	ID1LVL45	1	1	head	head			0	0	0	0		1	0	0	4	25	4	40	4	0	3			0							armo	helms	r_hel			0
 Reroll	roll	misc		110	ID0LVL46	0	0					0	0	0	0			1	0	0	25	0	40	0	0	1			0							misc					0
 Reliquary	relq	misc		111	ID0LVL47	0	0					0	0	0	0			1	0	0	25	0	40	0	0	1			0							misc					0
+Smithing Material	smat			112	ID0LVL48	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+Wood Material	smwd	smat		113	ID0LVL49	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+Smithing Blueprint	smbp	smat		114	ID0LVL50	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+Metal Material	smmt	smat		115	ID0LVL51	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+Stone Material	smst	smat		116	ID0LVL52	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+String Material	smsg	smat		117	ID0LVL53	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+Leather Material	smlt	smat		118	ID0LVL54	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+Fur Material	smfr	smat		119	ID0LVL55	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+Material Tier 1	smt1	smat		120	ID0LVL56	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+Material Tier 2	smt2	smat		121	ID0LVL57	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0
+Material Tier 3	smt3	smat		122	ID0LVL58	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc					0

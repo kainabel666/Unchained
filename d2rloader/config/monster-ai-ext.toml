@@ -1,0 +1,32 @@
+# Monster AI Extensions settings
+
+[monster-ai-ext]
+
+# Write every decision (actions, summons, enrage, leash, granted skills) to
+# d2rloader/logs/monster-ai-ext-decisions.txt. Slows big fights a little.
+debug_log = false
+
+# AI monitor: hover panel needs the plugin's hudmonsterhealthhd.json boxes (not in Unchained:
+# its own layouts + monsterdisplay.dll are kept). 'monai watch' toggles it.
+watch = false
+
+# Events + a snapshot per monster every second in d2rloader/logs/monster-ai-ext-watch.txt.
+watch_log = true
+
+# Use monaura.txt for the Aura Enchanted modifier. Needs aura_enchanted_selection = "3.1"
+# in d2rloader.toml ([d2rcore.game_rules]); with "3.2" the loader keeps its own list.
+auras = true
+
+# Use moncurse.txt for the MonCurseCast skill (the random curse some monsters cast).
+curses = true
+
+# Revived monsters follow you like the other pets (false = base game).
+revive_leash = true
+
+# Mercenaries start their aura at once and keep it: after hiring, resurrecting, loading a game, changing act and
+# levelling up, instead of waiting until they pick it. Only auras the merc has at level 1 or more.
+merc_aura_auto = true
+
+# With merc_aura_auto: which skills count as a merc aura. 0 = every skill with the aura flag; another number = only
+# auras whose skills.txt aitype is that number.
+merc_aura_aitype = 0

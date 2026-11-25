@@ -57,7 +57,7 @@
                 "inactiveFrames": [ 4, 5 ],
                 "activeFrames": [ 0, 1 ],
                 "disabledFrames": [ -1, 5 ],
-                "textStrings": [ "@personal", "@shared" ],
+                "textStrings": [ "@d2r:personal", "@d2r:shared" ],
                 "tabSize": { "x": 79, "y": 24 },
                 "tabPadding": { "x": 1, "y": 0 },
                 "onSwitchTabMessage": "BankPanelMessage:SelectTab",
@@ -75,7 +75,7 @@
                         {
                             "type": "TextBoxWidget", "name": "ShowPreviousLadderText",
                             "fields": {
-                                "text": "@oldStash",
+                                "text": "@d2r:oldStash",
                                 "rect": { "x": 35, "y": 16 },
                                 "style": {
                                     "fontColor": "$PanelTitleColor",
@@ -96,7 +96,7 @@
                                 "toggledFrame": 16,
                                 "toggledPressedFrame": 17,
                                 "onClickMessage": "BankPanelMessage:TogglePreviousSeasonTabs",
-                                "tooltipString": "@SharedStashPreviousSeasonToggleTooltip",
+                                "tooltipString": "@d2r:SharedStashPreviousSeasonToggleTooltip",
                             }
                         }
                     ]
@@ -120,7 +120,7 @@
                         {
                             "type": "TextBoxWidget", "name": "CurrentSharedStashText",
                             "fields": {
-                                "text": "@SharedStashPage",
+                                "text": "@d2r:SharedStashPage",
                                 "rect": {  "x": 42, "y": 5, "width": 105, "height": 23 },
                                 "style": {
                                     "fontColor": "$PanelTitleColor",

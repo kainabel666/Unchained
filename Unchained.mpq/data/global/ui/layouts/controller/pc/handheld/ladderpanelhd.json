@@ -22,7 +22,7 @@
                     "type": "TextBoxWidget", "name": "LadderTitle",
                     "fields": {
                         "rect": { "x": -656, "y": -36, "width": 1000, "height": 75 },
-                        "text": "@CharacterSelectPanelLadderCharacter",
+                        "text": "@d2r:CharacterSelectPanelLadderCharacter",
                         "style": {
                             "fontColor": "$FontColorGold", 
                             "pointSize": "$LargeFontSize",
@@ -35,7 +35,7 @@
                         {
                             "type": "FocusableWidget", "name": "LadderRefreshTooltip",
                             "fields": {
-                                "tooltipString": "@LadderLeaderboardRefreshMessage",
+                                "tooltipString": "@d2r:LadderLeaderboardRefreshMessage",
                                 "tooltipStyle": {
                                     "fontStyle": {
                                         "options": { "newlineHandling": "standard" }
@@ -315,7 +315,7 @@
                     "type": "TextBoxWidget", "name": "ClassTitle",
                     "fields": { 
                         "rect": { "x": -740, "y": 415, "width": 200, "height": 40 }, 
-                        "text": "@strClass",
+                        "text": "@d2r:strClass",
                         "style": {
                             "fontColor": "$FontColorLightGray", 
                             "pointSize": "$MediumFontSize",
@@ -368,7 +368,7 @@
                     "type": "TextBoxWidget", "name": "LadderDescription",
                     "fields": {
                         "rect": {"x": -750, "y": 650, "width": 560, "height": 300 },
-                        "text": "@LadderDescription",
+                        "text": "@d2r:LadderDescription",
                         "style": {
                             "fontColor": "$FontColorLightGray",
                             "pointSize": "$LargeFontSize",
@@ -424,7 +424,7 @@
                         "presets": [
                             {
                                 "action": "back",
-                                "description": "@ControllerPromptModalCancel",
+                                "description": "@d2r:ControllerPromptModalCancel",
                             },
                         ]
                     },
@@ -435,7 +435,7 @@
             "type": "TextBoxWidget", "name": "LadderCountdown",
             "fields": {
                 "rect": { "x": 0, "y": 400, "width": 1140, "height": 250 },
-                "text": "@LadderSeasonNotStarted",
+                "text": "@d2r:LadderSeasonNotStarted",
                 "style": {
                     "fontColor": "$FontColorRed",
                     "pointSize": "$HugeFontSize",

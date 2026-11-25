@@ -19,7 +19,7 @@
             "type": "TextBoxWidget", "name": "FriendsListTitle",
             "fields": { 
                 "rect": { "x": -774, "y": 310, "width": 1563, "height": 75 }, 
-                "text": "@FriendsList",
+                "text": "@d2r:FriendsList",
                 "style": {
                     "fontColor": "$FontColorGold", 
                     "pointSize": "$LargeFontSize",
@@ -87,7 +87,7 @@
                                     "type": "TextBoxWidget", "name": "ToggleButtonText",
                                     "fields": {
                                         "rect": { "x": 12, "y": 5, "width": 702, "height": 44 },
-                                        "text": "@FriendsDropdownTitle",
+                                        "text": "@d2r:FriendsDropdownTitle",
                                         "style": {
                                             "fontColor": "$FontColorLightGold",
                                             "pointSize": "$FriendsListMediumFontSize",
@@ -171,7 +171,7 @@
                                                 "rect": { "x": 617, "y": 30 },
                                                 "filename":  "Lobby\\FriendsList\\FriendsList_AcceptInvite_Button",
                                                 "onClickMessage": "FriendsListMessage:AcceptInvite",
-                                                "tooltipString": "@ControllerPromptModalAccept",
+                                                "tooltipString": "@d2r:ControllerPromptModalAccept",
                                                 "hoveredFrame":1
                                             }
                                         },
@@ -181,7 +181,7 @@
                                                 "rect": { "x": 686, "y": 30 },
                                                 "filename":  "Lobby\\FriendsList\\FriendsList_RejectInvite_Button",
                                                 "onClickMessage": "FriendsListMessage:RejectInvite",
-                                                "tooltipString": "@Reject",
+                                                "tooltipString": "@d2r:Reject",
                                                 "hoveredFrame":1
                                             }
                                         }
@@ -241,11 +241,11 @@
                 "presets": [
                     {
                         "action": "select",
-                        "description": "@ControllerPromptModalAccept",
+                        "description": "@d2r:ControllerPromptModalAccept",
                     },
                     {
                         "action": "back",
-                        "description": "@ControllerPromptModalCancel",
+                        "description": "@d2r:ControllerPromptModalCancel",
                     },
                 ]
             },

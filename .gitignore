@@ -19,3 +19,7 @@ Unchained.mpq/data/local/D2R_TranslateString.ps1
 .studio-owner.json
 Unchained.mpq/data/hd/env/preset/Act1/Outdoors/FallCmpBish.json.rle-links.json
 Unchained.mpq/data/hd/env/preset/Act1/Outdoors/FallCmp.json.rle-links.json
+/d2rloader/config/Disabled
+Unchained.mpq/data/hd/texture_desc_cache.json
+d2rloader/plugins/d2rl-assert-tracer.dll
+d2rloader/config/assert-tracer.toml

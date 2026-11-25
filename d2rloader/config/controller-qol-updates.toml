@@ -1,3 +1,6 @@
+# Controller QOL Updates by PyreFly - https://github.com/Pyre-Flies/D2R-Mods/tree/main/plugins/controller-qol
+# Used in Unchained with PyreFly's written permission (Discord, 2026-11-24).
+
 [qol]
 enabled = true
 quick_identify = true
@@ -25,3 +28,6 @@ prioritize_chests = false
 portal_priority_distance = 10
 # Targeted, throttled portal selection diagnostics; separate from general debug.
 portal_diagnostics = false
+
+# Credits: Controller QOL Updates by PyreFly - https://github.com/Pyre-Flies/D2R-Mods/tree/main/plugins/controller-qol
+# Used in Unchained with PyreFly's written permission (Discord, 2026-11-24).

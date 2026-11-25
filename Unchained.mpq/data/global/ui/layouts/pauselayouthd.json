@@ -66,7 +66,7 @@
             "fields": {
                 "anchor": { "x": 0.5 },
                 "rect": { "y": 628 },
-                "text": "@Paused",
+                "text": "@d2r:Paused",
                 "style": {
                     "fontColor": "$PanelTitleColor",
                     "pointSize": "$XExtraLargeFontSize",
@@ -92,7 +92,7 @@
                             "fields": {
                                 "filename": "PauseMenu\\PauseButton",
                                 "hoveredFrame": 3,
-                                "textString": "@OptionsHD",
+                                "textString": "@d2r:OptionsHD",
                                 "onClickMessage": "PanelManager:OpenPanel:SettingsPanel",
                                 "textColor": "$LightButtonTextColor",
                                 "text/style": "$StyleFEButtonText",
@@ -111,7 +111,7 @@
                             "fields": {
                                 "filename": "PauseMenu\\PauseButton",
                                 "hoveredFrame": 3,
-                                "textString": "@SaveAndExit",
+                                "textString": "@d2r:SaveAndExit",
                                 "pressLabelOffset": [ 0, 0 ],
                                 "onClickMessage": "PausePanelMessage:ExitGame",
                                 "textColor": "$LightButtonTextColor",
@@ -131,7 +131,7 @@
                             "fields": {
                                 "filename": "PauseMenu\\PauseButton",
                                 "hoveredFrame": 3,
-                                "textString": "@ReturnToGame",
+                                "textString": "@d2r:ReturnToGame",
                                 "pressLabelOffset": [ 0, 0 ],
                                 "onClickMessage": "PausePanelMessage:Close",
                                 "textColor": "$LightButtonTextColor",

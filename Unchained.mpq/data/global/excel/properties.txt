@@ -239,3 +239,4 @@ dmg-burn	236	1	15	burningmin			16	burningmax			17	firelength																				
 f-multi	237	1	1	firearrow_multi																												+# to Maximum Fire Arrows		Min #	Max #		0
 c-multi	238	1	1	coldarrow_multi																												+# to Maximum Cold Arrows		Min #	Max #		0
 m-multi	239	1	1	multiple_multi																												+# to Maximum Multiple Shot Arrows		Min #	Max #		0
+gold-rad	240	1	1	item_goldradius																												Gold Pickup Radius: +#		Min #	Max #	d2uc-qol gold_pickup: 0..4 -> 10..50% radius	0

@@ -25,7 +25,7 @@
                             "type": "TextBoxWidget", "name": "Title",
                             "fields": {
                                 "rect": { "x": 0, "y": 45, "width": 1950, "height": 103 },
-                                "text": "@ControllerPauseMenuTitle",
+                                "text": "@d2r:ControllerPauseMenuTitle",
                                 "style": {
                                     "fontColor": "$FontColorVeryLightGray",
                                     "pointSize": "$LargeFontSize",
@@ -41,15 +41,15 @@
                                 "presets": [
                                     {
                                         "action": "back",
-                                        "description": "@Return",
+                                        "description": "@d2r:Return",
                                     },
                                     {
                                         "action": "option1",
-                                        "description": "@ControllerSettingsAcceptAll",
+                                        "description": "@d2r:ControllerSettingsAcceptAll",
                                     },
                                     {
                                         "action": "option2",
-                                        "description": "@ControllerSettingsDefault",
+                                        "description": "@d2r:ControllerSettingsDefault",
                                     },
                                 ],
                             },
@@ -61,7 +61,7 @@
                                 "filename": "PANEL\\closebtn_4x",
                                 "hoveredFrame": 3,
                                 "onClickMessage": "SettingsPanelMessage:CheckChanges:Close",
-                                "tooltipString": "@strClose",
+                                "tooltipString": "@d2r:strClose",
                                 "sound": "cursor_close_window_hd",
                                 "acceptsEscKeyEverywhere": true,
                             },
@@ -110,7 +110,7 @@
                             "fields": {
                                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
                                 "onClickMessage": "OptionsPanelMessage:AcceptChanges",
-                                "textString": "@SettingsChangedConfirmationApply",
+                                "textString": "@d2r:SettingsChangedConfirmationApply",
                                 "hoveredFrame": 3,
                                 "sound": "select",
                                 "text/style" : "$StyleFEButtonText",
@@ -124,7 +124,7 @@
                             "fields": {
                                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
                                 "onClickMessage": "OptionsPanelMessage:ResetToDefaults",
-                                "textString": "@CfgDefault",
+                                "textString": "@d2r:CfgDefault",
                                 "hoveredFrame": 3,
                                 "sound": "select",
                                 "text/style" : "$StyleFEButtonText",
@@ -138,7 +138,7 @@
                             "fields": {
                                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
                                 "onClickMessage": "OptionsPanelMessage:CancelChanges",
-                                "textString": "@SettingsChangedConfirmationDiscard",
+                                "textString": "@d2r:SettingsChangedConfirmationDiscard",
                                 "hoveredFrame": 3,
                                 "sound": "select",
                                 "text/style" : "$StyleFEButtonText",

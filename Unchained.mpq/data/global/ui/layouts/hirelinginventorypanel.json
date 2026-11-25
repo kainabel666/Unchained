@@ -122,7 +122,7 @@
             "type": "TextBoxWidget", "name": "HPTitle",
             "fields": {
                 "rect": { "x": 180, "y": 200, "width": 50, "height": 15 },
-                "text": "@strchrlif",
+                "text": "@d2r:strchrlif",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "left", "v": "center" }
@@ -146,7 +146,7 @@
             "type": "TextBoxWidget", "name": "NextLevelXPText",
             "fields": {
                 "rect": { "x": 200, "y": 225, "width": 110, "height": 15 },
-                "text": "@strchrnxtlvl",
+                "text": "@d2r:strchrnxtlvl",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "left", "v": "center" }
@@ -158,7 +158,7 @@
             "type": "TextBoxWidget", "name": "NextLevelXP",
             "fields": {
                 "rect": { "x": 198, "y": "$HirelingInventoryY0", "width": 110, "height": 15 },
-                "text": "@strchrnxtlvl",
+                "text": "@d2r:strchrnxtlvl",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "right" }
@@ -170,7 +170,7 @@
             "type": "TextBoxWidget", "name": "CurrentXPTitle",
             "fields": {
                 "rect": { "x": 15, "y": 225, "width": 110, "height": 15 },
-                "text": "@strchrexp",
+                "text": "@d2r:strchrexp",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "left" }
@@ -182,7 +182,7 @@
             "type": "TextBoxWidget", "name": "CurrentXP",
             "fields": {
                 "rect": { "x": 15, "y": "$HirelingInventoryY0", "width": 110, "height": 15 },
-                "text": "@strchrexp",
+                "text": "@d2r:strchrexp",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "right" }
@@ -195,7 +195,7 @@
             "type": "TextBoxWidget", "name": "LevelTitle",
             "fields": {
                 "rect": { "x": 136, "y": 225, "width": 45, "height": 15 },
-                "text": "@strchrlvl",
+                "text": "@d2r:strchrlvl",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "center" }
@@ -207,7 +207,7 @@
             "type": "TextBoxWidget", "name": "Level",
             "fields": {
                 "rect": { "x": 142, "y": "$HirelingInventoryY0", "width": 40, "height": 15 },
-                "text": "@strchrlvl",
+                "text": "@d2r:strchrlvl",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "right" }
@@ -220,7 +220,7 @@
             "type": "TextBoxWidget", "name": "StrengthTitle",
             "fields": {
                 "rect": { "x": 15, "y": 267, "width": 95, "height": 18 },
-                "text": "@strchrstr",
+                "text": "@d2r:strchrstr",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "left", "v": "center" }
@@ -243,7 +243,7 @@
             "type": "TextBoxWidget", "name": "DexTitle",
             "fields": {
                 "rect": { "x": 15, "y": 291, "width": 95, "height": 18 },
-                "text": "@strchrdex",
+                "text": "@d2r:strchrdex",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "left", "v": "center" }
@@ -266,7 +266,7 @@
             "type": "TextBoxWidget", "name": "DamageTitle",
             "fields": {
                 "rect": { "x": 15, "y": 315, "width": 95, "height": 18 },
-                "text": "@strchrskm",
+                "text": "@d2r:strchrskm",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "left", "v": "center" }
@@ -319,7 +319,7 @@
             "type": "TextBoxWidget", "name": "ArmorClassTitle",
             "fields": {
                 "rect": { "x": 15, "y": 339, "width": 95, "height": 18 },
-                "text": "@strchrdef",
+                "text": "@d2r:strchrdef",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "left", "v": "center" }
@@ -343,7 +343,7 @@
             "type": "TextBoxWidget", "name": "FireTitle",
             "fields": {
                 "rect": {  "x": 165, "y": 267, "width": 95, "height": 18 },
-                "text": "@strchrfir",
+                "text": "@d2r:strchrfir",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "center", "v": "center" },
@@ -367,7 +367,7 @@
         {
             "type": "TextBoxWidget", "name": "ColdTitle",
             "fields": { "rect": {  "x": 165, "y": 291, "width": 95, "height": 18 },
-                "text": "@strchrcol",
+                "text": "@d2r:strchrcol",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "center", "v": "center" },
@@ -392,7 +392,7 @@
             "type": "TextBoxWidget", "name": "LightningTitle",
             "fields": {
                 "rect": { "x": 165, "y": 315, "width": 95, "height": 18 },
-                "text": "@strchrlit",
+                "text": "@d2r:strchrlit",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": { "h": "center", "v": "center" },
@@ -417,7 +417,7 @@
             "type": "TextBoxWidget", "name": "PoisonTitle",
             "fields": {
                 "rect": { "x": 166, "y": 339, "width": 95, "height": 18 },
-                "text": "@strchrpos",
+                "text": "@d2r:strchrpos",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "alignment": {"h": "center", "v": "center" },
@@ -447,7 +447,7 @@
                 "onClickMessage": "HirelingInventoryPanelMessage:Close",
                 "normalFrame": 10,
                 "pressedFrame": 11,
-                "tooltipString": "@strClose",
+                "tooltipString": "@d2r:strClose",
                 "tooltipOffset": { "x": 0, "y": -3 },
             },
         },

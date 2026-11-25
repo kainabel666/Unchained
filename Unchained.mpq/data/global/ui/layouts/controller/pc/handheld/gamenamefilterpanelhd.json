@@ -10,8 +10,8 @@
         "unselectedActFontColor": "$FontColorGold",
         "questButtonFocusIndicatorFilename": "Controller/HoverImages/Quest_Hover",
         "questButtonFocusIndicatorOffset": { "x": 0, "y": -30 },
-        "option1Legend": "@GameNameConfirmPrompt",
-        "option2Legend": "@LobbyJoinGame",
+        "option1Legend": "@d2r:GameNameConfirmPrompt",
+        "option2Legend": "@d2r:LobbyJoinGame",
         "isGameNameFilter": true
     },
     "children": [
@@ -33,7 +33,7 @@
             "type": "TextBoxWidget", "name": "GameNameFilterTitle",
             "fields": { 
                 "rect": { "x": -1240, "y": 332, "width": 670, "height": 75 }, 
-                "text": "@GameNameFilterTitle",
+                "text": "@d2r:GameNameFilterTitle",
                 "style": {
                     "fontColor": "$FontColorGold", 
                     "pointSize": "$LargeFontSize",
@@ -50,7 +50,7 @@
                 "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_ListButton",
                 "focusIndicatorFilename": "Controller/HoverImages/MatchmakingAct_Hover",
                 "onClickMessage": "GameFinder:SelectAct:0",
-                "textString": "@CustomGameName",
+                "textString": "@d2r:CustomGameName",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
                 "navigation": {
@@ -125,7 +125,7 @@
                                             "right": { "name": "JoinGame" },
                                             "down": { "name": "PasswordInput" },
                                         },
-                                        "tooltipString": "@EnterGameName",
+                                        "tooltipString": "@d2r:EnterGameName",
                                         "tooltipStyle": {
                                             "fontStyle": {
                                                 "options": { "newlineHandling": "standard" },
@@ -141,7 +141,7 @@
                                     "type": "TextBoxWidget", "name": "GameNameTitle",
                                     "fields": {
                                         "rect": { "x": 604, "y": 130, "width": 800, "height": 44 },
-                                        "text": "@strGameName",
+                                        "text": "@d2r:strGameName",
                                         "style": {
                                             "fontColor": "$FontColorGold", 
                                             "pointSize": "$XMediumFontSize",
@@ -181,7 +181,7 @@
                                             "left": { "name": "CustomButton" },
                                             "right": { "name": "JoinGame" },
                                         },
-                                        "tooltipString": "@EnterPassword",
+                                        "tooltipString": "@d2r:EnterPassword",
                                         "tooltipStyle": {
                                             "fontStyle": {
                                                 "options": { "newlineHandling": "standard" },
@@ -197,7 +197,7 @@
                                     "type": "TextBoxWidget", "name": "PasswordTitle",
                                     "fields": {
                                         "rect": { "x": 604, "y": 282, "width": 800, "height": 44 },
-                                        "text": "@strPassword",
+                                        "text": "@d2r:strPassword",
                                         "style": {
                                             "fontColor": "$FontColorGold", 
                                             "pointSize": "$XMediumFontSize",
@@ -218,7 +218,7 @@
                  "rect": { "x": -1304, "y": 545 },
                  "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_ListButton",
                  "onClickMessage": "GameFinder:SelectAct:1",
-                 "textString": "@act1",
+                 "textString": "@d2r:act1",
                  "text/style": "$StyleFEButtonText",
                  "textColor": "$LightButtonTextColor",
                  "focusIndicatorFilename": "Controller/HoverImages/MatchmakingAct_Hover",
@@ -336,7 +336,7 @@
                 "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_ListButton",
                 "focusIndicatorFilename": "Controller/HoverImages/MatchmakingAct_Hover",
                 "onClickMessage": "GameFinder:SelectAct:2",
-                "textString": "@act2",
+                "textString": "@d2r:act2",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
                 "navigation": {
@@ -452,7 +452,7 @@
                 "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_ListButton",
                 "focusIndicatorFilename": "Controller/HoverImages/MatchmakingAct_Hover",
                 "onClickMessage": "GameFinder:SelectAct:3",
-                "textString": "@act3",
+                "textString": "@d2r:act3",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
                 "navigation": {
@@ -569,7 +569,7 @@
                 "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_ListButton",
                 "focusIndicatorFilename": "Controller/HoverImages/MatchmakingAct_Hover",
                 "onClickMessage": "GameFinder:SelectAct:4",
-                "textString": "@act4",
+                "textString": "@d2r:act4",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
                 "navigation": {
@@ -638,7 +638,7 @@
                 "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_ListButton",
                 "focusIndicatorFilename": "Controller/HoverImages/MatchmakingAct_Hover",
                 "onClickMessage": "GameFinder:SelectAct:5",
-                "textString": "@act5",
+                "textString": "@d2r:act5",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
                 "navigation": {
@@ -755,7 +755,7 @@
                 "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_ListButton",
                 "focusIndicatorFilename": "Controller/HoverImages/MatchmakingAct_Hover",
                 "onClickMessage": "GameFinder:SelectAct:6",
-                "textString": "@Bosses",
+                "textString": "@d2r:Bosses",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
                 "navigation": {
@@ -872,7 +872,7 @@
                 "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_ListButton",
                 "focusIndicatorFilename": "Controller/HoverImages/MatchmakingAct_Hover",
                 "onClickMessage": "GameFinder:SelectAct:7",
-                "textString": "@Zones",
+                "textString": "@d2r:Zones",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
                 "navigation": {
@@ -989,7 +989,7 @@
                 "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_ListButton",
                 "focusIndicatorFilename": "Controller/HoverImages/MatchmakingAct_Hover",
                 "onClickMessage": "GameFinder:SelectAct:8",
-                "textString": "@other",
+                "textString": "@d2r:other",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
                 "navigation": {
@@ -1084,7 +1084,7 @@
 				"filename": "PANEL\\closebtn_4x",
 				"hoveredFrame": 3,
 				"onClickMessage": "PanelManager:ClosePanel:GameNameFilterPanel",
-				"tooltipString": "@strClose",
+				"tooltipString": "@d2r:strClose",
 				"sound": "cursor_close_window_hd",
 				"acceptsEscKeyEverywhere": true,
 			},
@@ -1095,7 +1095,7 @@
                 "rect": { "x": 710, "y": 560 },
                 "filename": "Controller\\Lobby\\Play\\ConsoleMatchmaking_DifficultyButton",
                 "focusIndicatorFilename": "Controller/HoverImages/MatchmakingDifficulty_Hover",
-                "textString": "@GameNameConfirmPrompt",
+                "textString": "@d2r:GameNameConfirmPrompt",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
 				"hoveredFrame": 3,

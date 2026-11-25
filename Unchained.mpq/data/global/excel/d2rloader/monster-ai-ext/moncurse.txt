@@ -1,0 +1,6 @@
+Curse	Skill	Weight	FromSkill	AnimRate	Filter	Stat1	Value1	Stat2	Value2	Stat3	Value3	Stat4	Value4	Stat5	Value5	Stat6	Value6	Event1	EventFunc1	Event2	EventFunc2	Event3	EventFunc3
+Amplify Damage	66	1	0	0	3	36	-100																
+Weaken	72	1	0	0	3	25	-50																
+Life Tap	82	1	0	0	3													1	5	2	5		
+Decrepify	87	1	0	1	3	67	par7	25	-50	36	-50	68	par7										
+Lower Resist	91	1	0	0	3	37	-res	39	-res	41	-res	43	-res	45	-res								

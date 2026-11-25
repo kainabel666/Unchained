@@ -18,11 +18,7 @@ Increased material storage limit (up to 255)
 
 Mercs do not die in town (from poison or open wounds)
 
-Magic and Rare items automatically ID.
-
-Whirlwind can trigger CTC events.
-
-Monster show up on automap
+Magic, Rare and Crafted items automatically ID.
 
 Access Stash Remotely anywhere on the map
 
@@ -32,25 +28,23 @@ Fixed ED/Dmg bug from off weapon jewels
 
 Indestructible items can now be found as Ethereal as well.
 
-Charm Inventory
-
-Charms with auras will always stay active.
-
 Gold pickup radius can be increase with stats
-
-All summons persist between games - More than one iron golem is allowed to be saved
-
-Durability loss is significantly slowed.
-
-Lazurk Gives more sockets to rares/uniques and sets
-
-Improved Quest rewards that scale with difficulty
-
-Runewords can be made in Magic and Rare items
 
 Vendor Refresh Inventory
 
 Set items can now be found ethreal
+
+Carry up to 100,000 gold per character level, and up to 9,500,000 gold in the stash
+
+Gamble screen shows 32 items, with every armor and weapon base, class items included
+
+Floating damage numbers and a DPS counter
+
+Paladin auras can be used on either mouse button
+
+Your corpse is collected automatically, and dying costs no gold
+
+Ctrl + click spends several stat or skill points at once
 
 
 
@@ -98,6 +92,24 @@ Unique and Set Reliquaries that can be used to salvage unwanted unique and sets 
 
 
 ****Planned Future Changes****
+
+Improved Quest rewards that scale with difficulty (returning in D2UC-Quests)
+
+Whirlwind can trigger CTC events (returning in a future update)
+
+Monsters show up on the automap (returning in a future update)
+
+Charm Inventory (returning when a new D2RLoader version allows more player inventory pages)
+
+All summons persist between games - more than one Iron Golem can be saved (returning after the Skills-ext framework)
+
+Runewords can be made in Magic and Rare items (returning in D2UC-Items)
+
+Charms with auras will always stay active (returning in D2UC-Items)
+
+Durability loss is significantly slowed (returning in D2UC-Items)
+
+Larzuk gives more sockets to rares, uniques and sets (returning in D2UC-Quests)
 
 New monster types including The Bound and enhanced quest related content
 

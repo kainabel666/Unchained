@@ -299,7 +299,7 @@
             "type": "TextBoxWidget", "name": "FireResistanceTitle",
             "fields": {
                 "rect": { "x": 677, "y": 905, "width": 409, "height": 59 },
-                "text": "@strchrfir",
+                "text": "@d2r:strchrfir",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -331,7 +331,7 @@
             "type": "TextBoxWidget", "name": "ColdResistanceTitle",
             "fields": {
                 "rect": { "x": 677, "y": 995, "width": 409, "height": 59 },
-                "text": "@strchrcol",
+                "text": "@d2r:strchrcol",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -363,7 +363,7 @@
             "type": "TextBoxWidget", "name": "LightningResistanceTitle",
             "fields": {
                 "rect": { "x": 677, "y": 1090, "width": 409, "height": 59 },
-                "text": "@strchrlit",
+                "text": "@d2r:strchrlit",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -395,7 +395,7 @@
             "type": "TextBoxWidget", "name": "PoisonResistanceTitle",
             "fields": {
                 "rect": { "x": 677, "y": 1185, "width": 409, "height": 59 },
-                "text": "@strchrpos",
+                "text": "@d2r:strchrpos",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",

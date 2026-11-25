@@ -315,8 +315,8 @@ item_tohit_percent_vs_monster	312		1																													1														
 item_ac_vs_monster	313		1																																																0
 item_ac_percent_vs_monster	314		1																																																0
 firelength	315		1	16											0	4		8	0	9	0											1																			0
-burningmin	316		1	32											12	28		9	0	30	100											1					92	19		ModStrBurnMin	ModStrBurnMin										0
-burningmax	317		1	32											11	34		9	0	30	100											1					91	19		ModStrBurnMax	ModStrBurnMax										0
+burningmin	316		1	32											12	28		9	0	30	100											1					92	19		UC:ModStrBurnMin	UC:ModStrBurnMin										0
+burningmax	317		1	32											11	34		9	0	30	100											1					91	19		UC:ModStrBurnMax	UC:ModStrBurnMax										0
 progressive_damage	318		1	3																																															0
 progressive_steal	319		1	3																																															0
 progressive_other	320		1	3																																															0
@@ -367,12 +367,17 @@ customization_index	364			32																																															0
 item_magic_damagemax_perlevel	365		1	6											49	128		6	0	6	0			2	3	level	magicmaxdam					1					100	19		MaxMagDmgPerLvl	MaxMagDmgPerLvl	increaseswithplaylevelX									0
 passive_dmg_pierce	366		1	16												2812		8	0	15	0																88	19		ModStrDamPierce	ModStrDamPierce									2	0
 heraldtier	367		1	32							1																																								0
-reliquary_points	368		1	32														7	0	32	100		1														132	19		ModStrReliqPts	ModStrReliqPts										0
-item_goldradius	369			4														7	0	4			1														132	19		ModStrGoldPickupRadius	ModStrGoldPickupRadius									2	0
-item_boost	370		1	4														7	0	4	4		1														133	19		ModStrItemBoost	ModStrItemBoost										0
-max_boost	371			1														7	0	1																	133	19		ModStrMaxBoost	ModStrMaxBoost										0
-item_manaonhit	372		1	16							1				17	102		7	0	15	0												domissiledamage	17	domeleedamage	17	16	19		ModStrManaOnHit	ModStrManaOnHit									2	0
-firearrow_multi	373		1	5														7	0	5	3		1														14	19		AddFireArrow	AddFireArrow									2	0
-coldarrow_multi	374		1	5														7	0	5	3		1														14	19		AddColdArrow	AddColdArrow									2	0
-item_chill_len_modifier	375		1	3														7	0	3	0		1														22	19		ModStrChLen	ModStrChLen									2	0
-multiple_multi	376		1	5														7	0	5	3		1														14	19		AddMultiArrow	AddMultiArrow									2	0
+reliquary_points	368		1	32														7	0	32	100		1														132	19		UC:ModStrReliqPts	UC:ModStrReliqPts										0
+item_goldradius	369			4														7	0	4			1														132	19		UC:ModStrGoldPickupRadius	UC:ModStrGoldPickupRadius									2	0
+item_boost	370		1	4														7	0	4	4		1														133	19		UC:ModStrItemBoost	UC:ModStrItemBoost										0
+max_boost	371			1														7	0	1																	133	19		UC:ModStrMaxBoost	UC:ModStrMaxBoost										0
+item_manaonhit	372		1	16							1				17	102		7	0	15	0												domissiledamage	17	domeleedamage	17	16	19		UC:ModStrManaOnHit	UC:ModStrManaOnHit									2	0
+firearrow_multi	373		1	5														7	0	5	3		1														14	19		UC:AddFireArrow	UC:AddFireArrow									2	0
+coldarrow_multi	374		1	5														7	0	5	3		1														14	19		UC:AddColdArrow	UC:AddColdArrow									2	0
+item_chill_len_modifier	375		1	3														7	0	3	0		1														22	19		UC:ModStrChLen	UC:ModStrChLen									2	0
+multiple_multi	376		1	5														7	0	5	3		1														14	19		UC:AddMultiArrow	UC:AddMultiArrow									2	0
+smith_level	377			32			1		7																																										0
+smith_xp	378			32			1		25																																										0
+smith_bought	379																			1																															0
+qol_gamble_discount	380		1	10			0								0	0		9	100	9	100																10	19		UC:QolGambleDiscount	UC:QolGambleDiscount									2	0
+qol_reduced_value	381		1	10			0								0	0		9	100	7	0																10	19		UC:QolReducedValue	UC:QolReducedValue									2	0

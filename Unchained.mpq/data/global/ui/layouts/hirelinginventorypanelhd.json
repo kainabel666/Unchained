@@ -59,7 +59,7 @@
             "fields": {
                 "rect": "$InGamePanelTitleRect",
                 "style": "$StyleTitleBlock",
-                "text": "@MiniPanelHireinv",
+                "text": "@d2r:MiniPanelHireinv",
             },
         },*/
         // Background images for inventory slots
@@ -156,7 +156,7 @@
             "type": "TextBoxWidget", "name": "HPTitle",
             "fields": {
                 "rect": { "x": 108, "y": 1025, "width": 245, "height": 59 },
-                "text": "@strchrlif",
+                "text": "@d2r:strchrlif",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -181,7 +181,7 @@
             "type": "TextBoxWidget", "name": "HireTypeText",
             "fields": {
                 "rect": { "x": 126, "y": 937, "width": 100, "height": 30 },
-                "text": "@strchrlvl",
+                "text": "@d2r:strchrlvl",
                 "style": {
                     "fontColor": "$FontColorWhite",
                     "pointSize": "$XMediumPanelFontSize",
@@ -216,7 +216,7 @@
             "type": "TextBoxWidget", "name": "ConnectorWord",
             "fields": {
                 "rect": { "x": 748, "y": 912, "height": 50 },
-                "text": "@ItemStats1j",
+                "text": "@d2r:ItemStats1j",
                 "style": {
                     "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
                     "pointSize": "$MediumPanelFontSize",
@@ -241,7 +241,7 @@
             "fields":
             {
                 "rect": { "x": 104, "y": 1102, "width": 251, "height": 59 },
-                "text": "@strchrstr",
+                "text": "@d2r:strchrstr",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -265,7 +265,7 @@
             "type": "TextBoxWidget", "name": "DexTitle",
             "fields": {
                 "rect": { "x": 104, "y": 1186, "width": 251, "height": 59 },
-                "text": "@strchrdex",
+                "text": "@d2r:strchrdex",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -289,7 +289,7 @@
             "type": "TextBoxWidget", "name": "DamageTitle",
             "fields": {
                 "rect": { "x": 102, "y": 1268, "width": 251, "height": 59 },
-                "text": "@strchrskm",
+                "text": "@d2r:strchrskm",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -343,7 +343,7 @@
             "type": "TextBoxWidget", "name": "ArmorClassTitle",
             "fields": {
                 "rect": { "x": 104, "y": 1352, "width": 249, "height": 59 },
-                "text": "@strchrdef",
+                "text": "@d2r:strchrdef",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -368,7 +368,7 @@
             "type": "TextBoxWidget", "name": "FireResistanceTitle",
             "fields": {
                 "rect": { "x": 596, "y": 1104, "width": 335, "height": 59 },
-                "text": "@strchrfir",
+                "text": "@d2r:strchrfir",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -392,7 +392,7 @@
             "type": "TextBoxWidget", "name": "ColdResistanceTitle",
             "fields": {
                 "rect": { "x": 596, "y": 1189, "width": 335, "height": 59 },
-                "text": "@strchrcol",
+                "text": "@d2r:strchrcol",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -416,7 +416,7 @@
             "type": "TextBoxWidget", "name": "LightningResistanceTitle",
             "fields": {
                 "rect": { "x": 594, "y": 1272, "width": 335, "height": 59 },
-                "text": "@strchrlit",
+                "text": "@d2r:strchrlit",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -440,7 +440,7 @@
             "type": "TextBoxWidget", "name": "PoisonResistanceTitle",
             "fields": {
                 "rect": { "x": 596, "y": 1358, "width": 335, "height": 59 },
-                "text": "@strchrpos",
+                "text": "@d2r:strchrpos",
                 "style": {
                     "fontColor":"$FontColorWhite",
                     "fontFace": "Formal",
@@ -469,7 +469,7 @@
                 "hoveredFrame": 3,
                 "onClickMessage": "HirelingInventoryPanelMessage:ToggleAdvancedStats",
                 "pressLabelOffset": { "x": 0, "y": 2 },
-                "tooltipString": "@AdvancedStats"
+                "tooltipString": "@d2r:AdvancedStats"
             },
         },
         // Close Panel

@@ -772,3 +772,15 @@ Unique Reliquary (40pt) + Rare Ring = Unique Ring (ilvl 50 max)	1				100	15	368	
 Unique Reliquary (40pt) + Rare Amulet = Unique Amulet  (ilvl 50 max)	1				100	15	368	40		2	Urq	"amul,rar"						useitem				relipts			-40	-40																					"amul,uni"	50																																																									0
 Unique Reliquary (50pt) + 2xRare Ring = Unique Ring (ilv 100 max)	1				100	15	368	50		3	Urq	"ring,rar,qty=2"						useitem				relipts			-50	-50																					"ring,uni"	100																																																									0
 Unique Reliquary (50pt) + 2 x Rare Amulet = Unique Amulet  (ilvl 100 max)	1				100	15	368	50		3	Urq	"amul,rar,qty=2"						useitem				relipts			-50	-50																					"amul,uni"	100																																																									0
+3 Rough Timber -> Seasoned Hardwood	1				0					3	"wd1,qty=3"							wd2																																																																																							0
+3 Seasoned Hardwood -> Heartwood	1				0					3	"wd2,qty=3"							wd3																																																																																							0
+3 Wrought Iron -> Carbon Steel	1				0					3	"mt1,qty=3"							mt2																																																																																							0
+3 Carbon Steel -> Hardened Steel	1				0					3	"mt2,qty=3"							mt3																																																																																							0
+3 Rough Stone -> Dense Granite	1				0					3	"st1,qty=3"							st2																																																																																							0
+3 Dense Granite -> Fine-Grained Basalt	1				0					3	"st2,qty=3"							st3																																																																																							0
+3 Twisted Hemp -> Braided Hemp	1				0					3	"sg1,qty=3"							sg2																																																																																							0
+3 Braided Hemp -> Waxed Cordage	1				0					3	"sg2,qty=3"							sg3																																																																																							0
+3 Rawhide -> Tanned Leather	1				0					3	"lt1,qty=3"							lt2																																																																																							0
+3 Tanned Leather -> Full-Grain Leather	1				0					3	"lt2,qty=3"							lt3																																																																																							0
+3 Coarse Pelt -> Thick Pelt	1				0					3	"fr1,qty=3"							fr2																																																																																							0
+3 Thick Pelt -> Prime Pelt	1				0					3	"fr2,qty=3"							fr3																																																																																							0

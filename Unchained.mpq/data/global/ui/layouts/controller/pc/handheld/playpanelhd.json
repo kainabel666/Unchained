@@ -18,7 +18,7 @@
             "type": "TextBoxWidget", "name": "SoloPlayTitle",
             "fields": {
                 "rect": { "x": 126, "y": 62, "width": 670, "height": 75 },
-                "text": "@PlayPanelSoloPlayTitle",
+                "text": "@d2r:PlayPanelSoloPlayTitle",
                 "style": {
                     "fontColor": "$FontColorGold",
                     "pointSize": "$LargeFontSize",
@@ -44,7 +44,7 @@
             "type": "TextBoxWidget", "name": "SoloPlayDetails",
             "fields": {
                 "rect": { "x": 20, "y": 1246, "width": 890, "height": 110 },
-                "text": "@SoloPlayDetails",
+                "text": "@d2r:SoloPlayDetails",
                 "style": {
                     "fontColor": "$FontColorGold",
                     "pointSize": "$MediumFontSize",
@@ -57,7 +57,7 @@
             "type": "TextBoxWidget", "name": "CreateGameTitle",
             "fields": {
                 "rect": { "x": 1018, "y": 62, "width": 670, "height": 75 },
-                "text": "@GameCreatorTitle",
+                "text": "@d2r:GameCreatorTitle",
                 "style": {
                     "fontColor": "$FontColorGold",
                     "pointSize": "$LargeFontSize",
@@ -84,7 +84,7 @@
             "type": "TextBoxWidget", "name": "CreateGameDetails",
             "fields": {
                 "rect": { "x": 916, "y": 1246, "width": 890, "height": 110 },
-                "text": "@GameCreatorDetails",
+                "text": "@d2r:GameCreatorDetails",
                 "style": {
                     "fontColor": "$FontColorGold",
                     "pointSize": "$MediumFontSize",
@@ -97,7 +97,7 @@
             "type": "TextBoxWidget", "name": "JoinGameTitle",
             "fields": {
                 "rect": { "x": 1918, "y": 62, "width": 670, "height": 75 },
-                "text": "@JoinGameTitle",
+                "text": "@d2r:JoinGameTitle",
                 "style": {
                     "fontColor": "$FontColorGold",
                     "pointSize": "$LargeFontSize",
@@ -123,7 +123,7 @@
             "type": "TextBoxWidget", "name": "JoinGameDetails",
             "fields": {
                 "rect": { "x": 1816, "y": 1246, "width": 890, "height": 110 },
-                "text": "@JoinGameDetails",
+                "text": "@d2r:JoinGameDetails",
                 "style": {
                     "fontColor": "$FontColorGold",
                     "pointSize": "$MediumFontSize",
@@ -140,11 +140,11 @@
                 "presets": [
                     {
                         "action": "select",
-                        "description": "@ControllerPromptSelectCharacter",
+                        "description": "@d2r:ControllerPromptSelectCharacter",
                     },
                     {
                         "action": "back",
-                        "description": "@ControllerPromptModalCancel",
+                        "description": "@d2r:ControllerPromptModalCancel",
                     },
                 ]
             },

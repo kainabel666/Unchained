@@ -118,8 +118,8 @@
                     "fields": {
                         "rect": { "x": 147, "y": 64 },
                         "filename": "PANEL/menubutton",
-                        "closedTooltip": "@panelmini",
-                        "openedTooltip": "@panelcmini",
+                        "closedTooltip": "@d2r:panelmini",
+                        "openedTooltip": "@d2r:panelcmini",
                     }
                 },
                 {
@@ -215,7 +215,7 @@
             "type": "LevelUpButtonWidget", "name": "StatUp",
             "fields": {
                 "type": "stats",
-                "labels": ["@strlvlup", "@strlvlup"],
+                "labels": ["@d2r:strlvlup", "@d2r:strlvlup"],
                 "tooltipOffset": { "y": -12 },
                 "rect": { "x": 206, "y": 66 },
                 "filename": "PANEL/level",
@@ -241,7 +241,7 @@
             "type": "LevelUpButtonWidget", "name": "SkillUp",
             "fields": {
                 "type": "skills",
-                "labels": [ "@strnewskl", "@strnewskl" ],
+                "labels": [ "@d2r:strnewskl", "@d2r:strnewskl" ],
                 "tooltipOffset": { "y": -12 },
                 "rect": { "x": 563, "y": 66 },
                 "filename": "PANEL/level",
@@ -267,7 +267,7 @@
             "type": "LevelUpButtonWidget", "name": "QuestAlert",
             "fields": {
                 "type": "quests",
-                "labels": ["@CfgQuestLog", "@CfgQuestLog"],
+                "labels": ["@d2r:CfgQuestLog", "@d2r:CfgQuestLog"],
                 "isFloating": true,
                 "tooltipOffset": { "y": -12 },
                 "rect": { "x": 43, "y": -95 },

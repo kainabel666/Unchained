@@ -1,0 +1,4393 @@
+﻿[
+  {
+    "Key": "d2r:ItemStats1i",
+    "enUS": "Unlimited",
+    "zhTW": "無限",
+    "deDE": "Unlimitiert",
+    "esES": "Ilimitado",
+    "frFR": "Illimité",
+    "itIT": "Illimitato",
+    "koKR": "무제한",
+    "plPL": "Bez limitu",
+    "esMX": "Ilimitado",
+    "jaJP": "無制限",
+    "ptBR": "Ilimitado",
+    "ruRU": "Без ограничений",
+    "zhCN": "无限"
+  },
+  {
+    "Key": "d2r:ModStr4n",
+    "enUS": "%+d%% Decreased Attack Speed",
+    "zhTW": "% d%% 攻擊速度降低",
+    "deDE": "% d%% Verringerte Angriffsgeschwindigkeit",
+    "esES": "% d%% Velocidad de ataque reducida",
+    "frFR": "% d%% Velocità d'attacco diminuita",
+    "itIT": "% d%% Diminution de la vitesse d'attaque",
+    "koKR": "% d%% 공격 속도 감소",
+    "plPL": "% d%% Zmniejszona prędkość ataku",
+    "esMX": "% d%% Velocidad de ataque reducida",
+    "jaJP": "% d%% 攻撃速度の低下",
+    "ptBR": "% d%% Velocidade de ataque diminuída",
+    "ruRU": "% d%% снижение скорости атаки",
+    "zhCN": "% d%% 攻击速度降低"
+  },
+  {
+    "Key": "d2r:ModStr4q",
+    "enUS": "%+d%% Slower Hit Recovery",
+    "zhTW": "%d%% 命中恢復速度較慢",
+    "deDE": "% d%% Langsamere Trefferwiederherstellung",
+    "esES": "% d%% Recuperación de golpes más lenta",
+    "frFR": "% d%% Recupero dal colpo più lento",
+    "itIT": "% d%% Récupération de coup plus lente",
+    "koKR": "% d%% 적중 회복 속도 저하",
+    "plPL": "% d%% Wolniejsza regeneracja po trafieniu",
+    "esMX": "% d%% Recuperación de golpes más lenta",
+    "jaJP": "% d%% ヒット回復が遅くなる",
+    "ptBR": "% d%% Recuperação de golpe mais lenta",
+    "ruRU": "% d%% более медленное восстановление удара",
+    "zhCN": "%d%% 命中恢复速度较慢"
+  },
+  {
+    "Key": "d2r:ModStr4t",
+    "enUS": "%+d%% Slower Run/Walk",
+    "zhTW": "% d%% 減慢跑步/行走速度",
+    "deDE": "% d%% Langsameres Laufen/Gehen",
+    "esES": "% d%% Correr/caminar más lento",
+    "frFR": "% d%% Corri/Cammina più lentamente",
+    "itIT": "% d%% Course/Marche plus lente",
+    "koKR": "% d%% 더 느린 달리기/걷기",
+    "plPL": "% d%% Wolniejszy bieg/chód",
+    "esMX": "% d%% Correr/caminar más lento",
+    "jaJP": "% d%% 走る/歩くのが遅くなる",
+    "ptBR": "% d%% Corrida/caminhada mais lenta",
+    "ruRU": "% d%% медленнее бега/ходьбы",
+    "zhCN": "% d%% 减慢跑步/行走速度"
+  },
+  {
+    "Key": "d2r:ModStr4w",
+    "enUS": "%+d%% Slower Cast Rate",
+    "zhTW": "% d%% 施法速度減慢",
+    "deDE": "% d%% Langsamere Zauberrate",
+    "esES": "% d%% Tasa de lanzamiento más lenta",
+    "frFR": "% d%% Velocità di lancio più lenta",
+    "itIT": "% d%% Taux d'incantation plus lent",
+    "koKR": "% d%% 느린 시전 속도",
+    "plPL": "% d%% Wolniejsza szybkość rzucania",
+    "esMX": "% d%% Tasa de lanzamiento más lenta",
+    "jaJP": "% d%% キャスト速度が遅くなる",
+    "ptBR": "% d%% Taxa de lançamento mais lenta",
+    "ruRU": "% d%% замедление скорости применения",
+    "zhCN": "% d%% 施法速度减慢"
+  },
+  {
+    "Key": "d2r:ModStr4z",
+    "enUS": "%+d%% Slower Block Rate",
+    "zhTW": "% d%% 阻塞率較慢",
+    "deDE": "% d%% Langsamere Blockrate",
+    "esES": "% d%% Tasa de bloqueo más lenta",
+    "frFR": "% d%% Tasso di blocco più lento",
+    "itIT": "% d%% Taux de blocage plus lent",
+    "koKR": "% d%% 느린 차단 속도",
+    "plPL": "% d%% Wolniejsza szybkość blokowania",
+    "esMX": "% d%% Tasa de bloqueo más lenta",
+    "jaJP": "% d%% 遅いブロック レート",
+    "ptBR": "% d%% Taxa de bloqueio mais lenta",
+    "ruRU": "% d%% более низкая скорость блокировки",
+    "zhCN": "% d%% 阻塞率较慢"
+  },
+  {
+    "Key": "d2r:StrSkillConfuseChance",
+    "enUS": "Increase Confuse Chance by %d%%",
+    "zhTW": "混亂機率提高 %d%%",
+    "deDE": "Verwirrungschance um %d%% erhöht",
+    "esES": "Aumenta la probabilidad de Confusión un %d%%",
+    "frFR": "Augmente les chances de Confusion de %d%%",
+    "itIT": "Aumenta la probabilità di Confusione del %d%%",
+    "koKR": "혼란 확률 %d%% 증가",
+    "plPL": "Zwiększa szansę na Zamęt o %d%%",
+    "esMX": "Aumenta la probabilidad de Confusión en %d%%",
+    "jaJP": "コンフューズの確率が%d%%上昇",
+    "ptBR": "Aumenta a chance de Confusão em %d%%",
+    "ruRU": "Шанс замешательства увеличен на %d%%",
+    "zhCN": "混乱几率提高 %d%%"
+  },
+  {
+    "Key": "d2r:Deadly",
+    "enUS": "Deadly",
+    "zhTW": "奪命",
+    "deDE": "[fs]tödliche[ms]tödlicher[ns]tödliches[pl]tödliche",
+    "esES": "[fs]mortal[ms]mortal[fp]mortales[mp]mortales",
+    "frFR": "[fs]mortelle[ms]mortel[fp]mortelles[mp]mortels",
+    "itIT": "[fs]Letale[ms]Letale[fp]Letali[mp]Letali",
+    "koKR": "치명적인",
+    "plPL": "[fs]Zabójcza[ms]Zabójczy[nl]Zabójcze",
+    "esMX": "[ms]letal[fs]letal[mp]letales[fp]letales",
+    "jaJP": "禍々しい",
+    "ptBR": "[ms]Letal[mp]Letais[fs]Letal[fp]Letais",
+    "ruRU": "[ms]смертоносносный[fs]смертоносносная[ns]смертоносносное[pl]смертоносносные",
+    "zhCN": "破格"
+  },
+  {
+    "Key": "d2r:Slayer's",
+    "enUS": "Slayer's",
+    "zhTW": "屠殺者",
+    "deDE": "Schlitzer -",
+    "esES": "de criminal",
+    "frFR": "de Tueur",
+    "itIT": "del Massacratore",
+    "koKR": "학살자의",
+    "plPL": "[fs]Mordercza[ms]Morderczy[nl]Mordercze",
+    "esMX": "del exterminador",
+    "jaJP": "殺戮者が携えし",
+    "ptBR": "[fs]Homicidária[ms]Homicidário[fp]Homicidárias[mp]Homicidários",
+    "ruRU": "[ms]убийственный[fs]убийственная[ns]убийственное[pl]убийственные",
+    "zhCN": "重煞者的"
+  },
+  {
+    "Key": "d2r:of Piercing",
+    "enUS": "of Piercing",
+    "zhTW": "穿透之",
+    "deDE": "des Durchstoßens",
+    "esES": "de perforación",
+    "frFR": "d’empalement",
+    "itIT": "della Penetrazione",
+    "koKR": "관통의",
+    "plPL": "Przeszycia",
+    "esMX": "de penetración",
+    "jaJP": "貫通の",
+    "ptBR": "da Furação",
+    "ruRU": "пробивания",
+    "zhCN": "刺穿之"
+  },
+  {
+    "Key": "d2r:Corpse",
+    "enUS": "Corpse",
+    "zhTW": "屍體",
+    "deDE": "Kadaver",
+    "esES": "cadáver",
+    "frFR": "[ms]cadavérique[fs]cadavérique[mp]cadavériques[fp]cadavériques",
+    "itIT": "Cadavere",
+    "koKR": "시체의",
+    "plPL": "[fs]Trupia[ms]Trupi[nl]Trupie",
+    "esMX": "Cadáver",
+    "jaJP": "屍の",
+    "ptBR": "Cadáver",
+    "ruRU": "[ms]трупный[fs]трупная[ns]трупное[pl]трупные"
+  },
+  {
+    "Key": "d2r:slayer",
+    "enUS": "Slayer",
+    "zhTW": "屠殺者",
+    "deDE": "Schlitzer",
+    "esES": "[fs]Exterminadora",
+    "frFR": "[fs]Égorgeuse",
+    "itIT": "Massacratore",
+    "koKR": "학살자",
+    "plPL": "[ms]Pogromca",
+    "esMX": "[ms]Exterminador",
+    "jaJP": "殺し",
+    "ptBR": "[ms]Homicida",
+    "ruRU": "[ms]истребитель",
+    "zhCN": "重煞者"
+  },
+  {
+    "Key": "d2r:KillerUM",
+    "enUS": "Killer",
+    "zhTW": "殺手",
+    "deDE": "[ms]Killer",
+    "esES": "[ms]Asesino",
+    "frFR": "[ms]Le Tueur",
+    "itIT": "Carneficina",
+    "koKR": "살해자",
+    "plPL": "[ms]Morderca",
+    "esMX": "[ms]Asesino",
+    "jaJP": "キラー",
+    "ptBR": "[ms]Matador",
+    "ruRU": "[ms]душегуб"
+  },
+  {
+    "Key": "d2r:of Sacrifice",
+    "enUS": "of Sacrifice",
+    "zhTW": "犧牲之",
+    "deDE": "des Opfers",
+    "esES": "de Sacrificio",
+    "frFR": "de sacrifice",
+    "itIT": "del Sacrificio",
+    "koKR": "희생의",
+    "plPL": "Poświęcenia",
+    "esMX": "de sacrificio",
+    "jaJP": "献身の",
+    "ptBR": "do Sacrifício",
+    "ruRU": "жертвы",
+    "zhCN": "牺牲之"
+  },
+  {
+    "Key": "d2r:of the Colossus",
+    "zhTW": "龐然巨物之",
+    "deDE": "der Gargantua",
+    "esES": "del gigante",
+    "frFR": "de la démesure",
+    "itIT": "del Gargantua",
+    "koKR": "덩치의",
+    "plPL": "Gargantui",
+    "esMX": "del jayán",
+    "jaJP": "ガルガンチュアの",
+    "ptBR": "do Gargântua",
+    "ruRU": "исполина",
+    "zhCN": "邪身巨兽之"
+  },
+  {
+    "Key": "d2r:bhm",
+    "enUS": "Bone Helm",
+    "zhTW": "骸骨頭盔",
+    "deDE": "[ms]Knochenhelm",
+    "esES": "[ms]Yelmo de hueso",
+    "frFR": "[ms]Heaume en os",
+    "itIT": "[ms]Elmo d'Ossa",
+    "koKR": "본 헬름",
+    "plPL": "[ms]Kościany Hełm",
+    "esMX": "[ms]Yelmo óseo",
+    "jaJP": "ボーン・ヘルム",
+    "ptBR": "[ms]Elmo Ósseo",
+    "ruRU": "[ms]костяной шлем",
+    "zhCN": "骨盔"
+  },
+  {
+    "Key": "d2r:bsh",
+    "enUS": "Bone Shield",
+    "zhTW": "骨盾",
+    "deDE": "[ms]Knochenschild",
+    "esES": "[ms]Escudo de hueso",
+    "frFR": "[ms]Bouclier en os",
+    "itIT": "[ms]Scudo d'Ossa",
+    "koKR": "본 쉴드",
+    "plPL": "[fs]Kościana Tarcza",
+    "esMX": "[ms]Escudo óseo",
+    "jaJP": "ボーン・シールド",
+    "ptBR": "[ms]Escudo Ósseo",
+    "ruRU": "[ms]костяной щит"
+  },
+  {
+    "Key": "d2r:skc",
+    "enUS": "Chipped Skull",
+    "zhTW": "碎裂骷髏石",
+    "deDE": "lädierter Schädel",
+    "esES": "Cráneo fragmentado",
+    "frFR": "Crâne abîmé",
+    "itIT": "Teschio Spezzato",
+    "koKR": "최하급 해골",
+    "plPL": "Nadkruszona czaszka",
+    "esMX": "Cráneo mellado",
+    "jaJP": "欠けた頭蓋骨",
+    "ptBR": "Caveira Lascada",
+    "ruRU": "Надколотый череп",
+    "zhCN": "碎裂的头骨宝石"
+  },
+  {
+    "Key": "d2r:skf",
+    "enUS": "Flawed Skull",
+    "zhTW": "瑕疵骷髏石",
+    "deDE": "fehlerhafter Schädel",
+    "esES": "Cráneo estropeado",
+    "frFR": "Crâne imparfait",
+    "itIT": "Teschio Incrinato",
+    "koKR": "하급 해골",
+    "plPL": "Czaszka ze skazą",
+    "esMX": "Cráneo imperfecto",
+    "jaJP": "傷のある頭蓋骨",
+    "ptBR": "Caveira Imperfeita",
+    "ruRU": "Поврежденный череп",
+    "zhCN": "有瑕疵的头骨宝石"
+  },
+  {
+    "Key": "d2r:sku",
+    "enUS": "Skull",
+    "zhTW": "骷髏石",
+    "deDE": "Schädel",
+    "esES": "Cráneo",
+    "frFR": "Crâne",
+    "itIT": "Teschio",
+    "koKR": "해골",
+    "plPL": "Czaszka",
+    "esMX": "Cráneo",
+    "jaJP": "頭蓋骨",
+    "ptBR": "Caveira",
+    "ruRU": "Череп",
+    "zhCN": "头骨宝石"
+  },
+  {
+    "Key": "d2r:skl",
+    "enUS": "Flawless Skull",
+    "zhTW": "無瑕骷髏石",
+    "deDE": "makelloser Schädel",
+    "esES": "Cráneo sin defectos",
+    "frFR": "Crâne sans défaut",
+    "itIT": "Teschio Integro",
+    "koKR": "상급 해골",
+    "plPL": "Czaszka bez skazy",
+    "esMX": "Cráneo impecable",
+    "jaJP": "上質な頭蓋骨",
+    "ptBR": "Caveira Impecável",
+    "ruRU": "Безупречный череп",
+    "zhCN": "无瑕疵的头骨宝石"
+  },
+  {
+    "Key": "d2r:skz",
+    "enUS": "Perfect Skull",
+    "zhTW": "完美骷髏石",
+    "deDE": "perfekter Schädel",
+    "esES": "Cráneo perfecto",
+    "frFR": "Crâne parfait",
+    "itIT": "Teschio Perfetto",
+    "koKR": "최상급 해골",
+    "plPL": "Doskonała czaszka",
+    "esMX": "Cráneo perfecto",
+    "jaJP": "完璧な頭蓋骨",
+    "ptBR": "Caveira Perfeita",
+    "ruRU": "Идеальный череп",
+    "zhCN": "完美的头骨宝石"
+  },
+  {
+    "Key": "d2r:Wormskull",
+    "enUS": "Wormskull",
+    "zhTW": "蠕蟲頭骨",
+    "deDE": "Wurmschädel",
+    "esES": "Cráneo de gusano",
+    "frFR": "Crâne de ver",
+    "itIT": "Teschio del Verme",
+    "koKR": "벌레두개골",
+    "plPL": "Robacza Czaszka",
+    "esMX": "Cráneo helminteo",
+    "jaJP": "ワームスカル",
+    "ptBR": "Crânio Verminoso",
+    "ruRU": "Червивый череп",
+    "zhCN": "蛆虫头骨"
+  },
+  {
+    "Key": "d2r:HorazonsJournal",
+    "esES": "Diario de Horazón"
+  },
+  {
+    "Key": "d2r:ne2",
+    "enUS": "Zombie Head",
+    "zhTW": "殭屍頭顱",
+    "deDE": "[ms]Zombiekopf",
+    "esES": "[fs]Cabeza de zombi",
+    "frFR": "[fs]Tête de zombie",
+    "itIT": "[fs]Testa di Zombi",
+    "koKR": "좀비 헤드",
+    "plPL": "[fs]Trupia Głowa",
+    "esMX": "[fs]Cabeza de zombi",
+    "jaJP": "ゾンビ・ヘッド",
+    "ptBR": "[fs]Cabeça Zumbi",
+    "ruRU": "[fs]голова зомби",
+    "zhCN": "邪身头骨"
+  },
+  {
+    "Key": "d2r:uh9",
+    "enUS": "Bone Visage",
+    "zhTW": "骸骨面罩",
+    "deDE": "[fs]Knochenfratze",
+    "esES": "[ms]Semblante de hueso",
+    "frFR": "[ms]Casque en os",
+    "itIT": "[ms]Volto d'Ossa",
+    "koKR": "본 비지즈",
+    "plPL": "[nl]Kościane Oblicze",
+    "esMX": "[ms]Semblante óseo",
+    "jaJP": "ボーン・ビセッジ",
+    "ptBR": "[ms]Semblante Ósseo",
+    "ruRU": "[fs]костяная личина",
+    "zhCN": "白骨面甲"
+  },
+  {
+    "Key": "d2r:baa",
+    "enUS": "Slayer Guard",
+    "zhTW": "殺手護盔",
+    "deDE": "[ms]Schlächterschutz",
+    "esES": "[fs]Protección exterminadora",
+    "frFR": "[ms]Broquel féroce",
+    "itIT": "[fs]Guardia Massacratrice",
+    "koKR": "슬레이어 가드",
+    "plPL": "[fs]Zabójcza Straż",
+    "esMX": "[fs]Guardia del exterminador",
+    "jaJP": "スレイヤー・ガード",
+    "ptBR": "[fs]Proteção Homicida",
+    "ruRU": "[ms]экзекуторский убор",
+    "zhCN": "重煞者头盔"
+  },
+  {
+    "Key": "d2r:ne7",
+    "enUS": "Fetish Trophy",
+    "zhTW": "鬼娃首級",
+    "deDE": "[fs]Fetischtrophäe",
+    "esES": "[ms]Trofeo de fetiche",
+    "frFR": "[ms]Trophée fétiche",
+    "itIT": "[ms]Trofeo del Feticcio",
+    "koKR": "페티쉬 트로피",
+    "plPL": "[nl]Fetyszowe Trofeum",
+    "esMX": "[ms]Trofeo de fetiche",
+    "jaJP": "フェティッシュ・トロフィー",
+    "ptBR": "[ms]Troféu Carranco",
+    "ruRU": "[ms]трофей-фетиш",
+    "zhCN": "鬼娃法器"
+  },
+  {
+    "Key": "d2r:neb",
+    "enUS": "Minion Skull",
+    "zhTW": "僕從顱骨",
+    "deDE": "[ms]Dienerschädel",
+    "esES": "[ms]Cráneo de esbirro",
+    "frFR": "[ms]Crâne de serviteur",
+    "itIT": "[ms]Teschio di Servitore",
+    "koKR": "미니언 스컬",
+    "plPL": "[fs]Czaszka Sługi",
+    "esMX": "[ms]Cráneo de esbirro",
+    "jaJP": "ミニオン・スカル",
+    "ptBR": "[fs]Caveira de Lacaio",
+    "ruRU": "[ms]прислужничий череп",
+    "zhCN": "爪牙颅骨"
+  },
+  {
+    "Key": "d2r:nec",
+    "enUS": "Hellspawn Skull",
+    "zhTW": "地獄爪牙顱骨",
+    "deDE": "[ms]Höllenbrutschädel",
+    "esES": "[ms]Cráneo del averno",
+    "frFR": "[ms]Crâne de l’engeance infernale",
+    "itIT": "[ms]Teschio di Creatura Infernale",
+    "koKR": "헬스폰 스컬",
+    "plPL": "[fs]Czaszka Pomiotu Piekieł",
+    "esMX": "Cráneo de engendro infernal",
+    "jaJP": "ヘルスポーン・スカル",
+    "ptBR": "Caveira de Cria Infernal",
+    "ruRU": "[ms]череп отродья Тьмы",
+    "zhCN": "地狱魔颅骨"
+  },
+  {
+    "Key": "d2r:ned",
+    "enUS": "Overseer Skull",
+    "zhTW": "督軍顱骨",
+    "deDE": "[ms]Aufseherschädel",
+    "esES": "[ms]Cráneo de supervisor",
+    "frFR": "[ms]Crâne de prophète",
+    "itIT": "[ms]Teschio di Sovrintendente",
+    "koKR": "오버시어 스컬",
+    "plPL": "[fs]Nadzorcza Czaszka",
+    "esMX": "[ms]Cráneo de mayoral",
+    "jaJP": "オーバーシアー・スカル",
+    "ptBR": "[fs]Caveira de Capataz",
+    "ruRU": "[ms]надзирательский череп",
+    "zhCN": "督军颅骨"
+  },
+  {
+    "Key": "d2r:nee",
+    "enUS": "Succubus Skull",
+    "zhTW": "魅魔顱骨",
+    "deDE": "Sukkubusschädel",
+    "esES": "[ms]Cráneo de súcubo",
+    "frFR": "[ms]Crâne de succube",
+    "itIT": "[ms]Teschio di Succube",
+    "koKR": "써큐버스 스컬",
+    "plPL": "[fs]Sukkubia Czaszka",
+    "esMX": "[ms]Cráneo de súcubo",
+    "jaJP": "サキュバス・スカル",
+    "ptBR": "[fs]Caveira de Súcubo",
+    "ruRU": "[ms]суккубский череп",
+    "zhCN": "魅魔颅骨"
+  },
+  {
+    "Key": "d2r:nef",
+    "enUS": "Bloodlord Skull",
+    "zhTW": "鮮血之王顱骨",
+    "deDE": "[ms]Blutlordschädel",
+    "esES": "[ms]Cráneo de señor de la sangre",
+    "frFR": "[ms]Crâne de seigneur de sang",
+    "itIT": "[ms]Teschio di Signore del Sangue",
+    "koKR": "블러드로드 스컬",
+    "plPL": "[fs]Demoniczna Czaszka",
+    "esMX": "[ms]Cráneo de señor sangriento",
+    "jaJP": "ブラッドロード・スカル",
+    "ptBR": "[fs]Caveira de Senhor Sangrento",
+    "ruRU": "[ms]владыческий череп",
+    "zhCN": "精华领主颅骨"
+  },
+  {
+    "Key": "d2r:Skullcollector",
+    "enUS": "Skull Collector",
+    "zhTW": "骷髏收集者",
+    "deDE": "Schädelsammler",
+    "esES": "Coleccionista de cráneos",
+    "frFR": "Crâneuse",
+    "itIT": "Collezionista di Teschi",
+    "koKR": "두개골 수집가",
+    "plPL": "Zbieracz Czaszek",
+    "esMX": "Coleccionista de cráneos",
+    "jaJP": "スカル・コレクター",
+    "ptBR": "Colecionador de Caveiras",
+    "ruRU": "Собиратель черепов",
+    "zhCN": "骷髅收集者"
+  },
+  {
+    "Key": "d2r:Rabbit Slayer",
+    "enUS": "Rabbit Slayer",
+    "zhTW": "白兔殺手",
+    "deDE": "Kaninchenschlächter",
+    "esES": "Mataconejos",
+    "frFR": "Tueur de lapin",
+    "itIT": "Massacratore di Conigli",
+    "koKR": "토끼 학살자",
+    "plPL": "Zabójca Królików",
+    "esMX": "Exterminador de conejos",
+    "jaJP": "ラビット・スレイヤー",
+    "ptBR": "Homicida Coelheiro",
+    "ruRU": "Убийца кроликов",
+    "zhCN": "兔子重煞者"
+  },
+  {
+    "Key": "d2r:Verdugo's Hearty Cord",
+    "enUS": "Verdungo's Hearty Cord",
+    "zhTW": "伐頓戈的強韌腰索",
+    "deDE": "Verdungos Herzensband",
+    "esES": "Cordón robusto de Verdungo",
+    "frFR": "Grand cordon de Verdungo",
+    "itIT": "Cinta Cordiale di Verdungo",
+    "koKR": "베르둔고의 튼튼한 노끈",
+    "plPL": "Sznur Verdungo",
+    "esMX": "Cinta saludable de Verdungo",
+    "jaJP": "ヴァダンゴの生気のベルト",
+    "ptBR": "Cinto Robusto de Verdungo",
+    "ruRU": "Крепкий ремень Верданго",
+    "zhCN": "行刑者的绞首绳"
+  },
+  {
+    "Key": "d2r:Horazon's Countenance",
+    "esES": "Semblante de Horazón"
+  },
+  {
+    "Key": "d2r:Horazon's Dominion",
+    "esES": "Dominio de Horazón"
+  },
+  {
+    "Key": "d2r:Horazon's Hold",
+    "esES": "Reducto de Horazón"
+  },
+  {
+    "Key": "d2r:Horazon's Legacy",
+    "esES": "Legado de Horazón"
+  },
+  {
+    "Key": "d2r:Horazon's Secrets",
+    "esES": "Secretos de Horazón"
+  },
+  {
+    "Key": "d2r:Horazon's Splendor",
+    "esES": "Esplendor de Horazón"
+  },
+  {
+    "Key": "d2r:act4",
+    "frFR": "Acte IV"
+  },
+  {
+    "Key": "d2r:Catacombs Level 4",
+    "enUS": "Temple of Anguish",
+    "zhTW": "苦痛神殿",
+    "deDE": "Tempel der Qual",
+    "esES": "Templo de la Angustia",
+    "frFR": "Temple de l’Angoisse",
+    "itIT": "Tempio dell'Angoscia",
+    "koKR": "고뇌의 신전",
+    "plPL": "Świątynia Udręki",
+    "esMX": "Templo de la Angustia",
+    "jaJP": "苦悶の神殿",
+    "ptBR": "Templo da Angústia",
+    "ruRU": "Храм страданий",
+    "zhCN": "苦痛神殿"
+  },
+  {
+    "Key": "d2r:Catacombs Level 2",
+    "enUS": "Catacombs",
+    "zhTW": "地下墓穴",
+    "deDE": "Katakomben",
+    "esES": "Catacumbas",
+    "frFR": "Catacombes",
+    "itIT": "Catacombe",
+    "koKR": "지하 묘지",
+    "plPL": "Katakumby",
+    "esMX": "Catacumbas",
+    "jaJP": "地下墓所",
+    "ptBR": "Catacumbas",
+    "ruRU": "Катакомбы",
+    "zhCN": "地下墓穴"
+  },
+  {
+    "Key": "d2r:Cathedral",
+    "enUS": "Unmoored Chapel",
+    "zhTW": "漂泊禮拜堂",
+    "deDE": "Losgelöste Kapelle",
+    "esES": "Capilla a la Deriva",
+    "frFR": "Chapelle à la dérive",
+    "itIT": "Cappella alla Deriva",
+    "koKR": "정처 없는 예배당",
+    "plPL": "Dryfująca Kaplica",
+    "esMX": "Capilla a la Deriva",
+    "jaJP": "繋がれぬ礼拝堂",
+    "ptBR": "Capela à Deriva",
+    "ruRU": "Сорванная часовня",
+    "zhCN": "漂泊礼拜堂"
+  },
+  {
+    "Key": "d2r:Inner Cloister",
+    "enUS": "Bound Garden",
+    "zhTW": "束縛花園",
+    "deDE": "Gebundener Garten",
+    "esES": "Jardín Vinculado",
+    "frFR": "Jardin lié",
+    "itIT": "Giardino Vincolato",
+    "koKR": "속박된 정원",
+    "plPL": "Związany Ogród",
+    "esMX": "Jardín Vinculado",
+    "jaJP": "束縛された庭園",
+    "ptBR": "Jardim Vinculado",
+    "ruRU": "Связанный сад",
+    "zhCN": "束缚花园"
+  },
+  {
+    "Key": "d2r:Jail Level 3",
+    "enUS": "Sanctum Sanitarium",
+    "zhTW": "聖所療養院",
+    "deDE": "Sanktum-Sanatorium",
+    "esES": "Sanatorio del Santuario",
+    "frFR": "Sanatorium du Sanctuaire",
+    "itIT": "Sanatorio del Santuario",
+    "koKR": "성소 요양원",
+    "plPL": "Sanatorium Sanktuarium",
+    "esMX": "Sanatorio del Santuario",
+    "jaJP": "聖所の療養院",
+    "ptBR": "Sanatório do Santuário",
+    "ruRU": "Санаторий святилища",
+    "zhCN": "圣所疗养院"
+  },
+  {
+    "Key": "d2r:Jail Level 1",
+    "enUS": "Shackled Cells",
+    "zhTW": "鐐銬牢房",
+    "deDE": "Gefesselte Zellen",
+    "esES": "Celdas Encadenadas",
+    "frFR": "Cellules enchaînées",
+    "itIT": "Celle Incatenate",
+    "koKR": "족쇄 감방",
+    "plPL": "Skute Cele",
+    "esMX": "Celdas Encadenadas",
+    "jaJP": "枷の独房",
+    "ptBR": "Celas Agrilhoadas",
+    "ruRU": "Скованные камеры",
+    "zhCN": "镣铐牢房"
+  },
+  {
+    "Key": "d2r:Barracks",
+    "enUS": "Bound One's Workshop",
+    "zhTW": "束縛者的工坊",
+    "deDE": "Werkstatt des Gebundenen",
+    "esES": "Taller del Vinculado",
+    "frFR": "Atelier du Lié",
+    "itIT": "Laboratorio del Vincolato",
+    "koKR": "속박된 자의 작업장",
+    "plPL": "Warsztat Związanego",
+    "esMX": "Taller del Vinculado",
+    "jaJP": "束縛されし者の工房",
+    "ptBR": "Oficina do Vinculado",
+    "ruRU": "Мастерская Связанного",
+    "zhCN": "束缚者的工坊"
+  },
+  {
+    "Key": "d2r:Outer Cloister",
+    "enUS": "Warden's Courtyard",
+    "zhTW": "典獄長的庭院",
+    "deDE": "Hof des Aufsehers",
+    "esES": "Patio del Alcaide",
+    "frFR": "Cour du Gardien",
+    "itIT": "Cortile del Custode",
+    "koKR": "교도관의 안뜰",
+    "plPL": "Dziedziniec Naczelnika",
+    "esMX": "Patio del Alcaide",
+    "jaJP": "監獄長の中庭",
+    "ptBR": "Pátio do Diretor",
+    "ruRU": "Двор надзирателя",
+    "zhCN": "典狱长的庭院"
+  },
+  {
+    "Key": "d2r:Monastery Gate",
+    "enUS": "Sanctum of Chains",
+    "zhTW": "鎖鏈聖所",
+    "deDE": "Sanktum der Ketten",
+    "esES": "Santuario de las Cadenas",
+    "frFR": "Sanctuaire des chaînes",
+    "itIT": "Santuario delle Catene",
+    "koKR": "사슬의 성소",
+    "plPL": "Sanktuarium Łańcuchów",
+    "esMX": "Santuario de las Cadenas",
+    "jaJP": "鎖の聖所",
+    "ptBR": "Santuário das Correntes",
+    "ruRU": "Святилище цепей",
+    "zhCN": "锁链圣所"
+  },
+  {
+    "Key": "d2r:Tower Cellar Level 5",
+    "enUS": "Bloodsworn Throne",
+    "zhTW": "血誓王座",
+    "deDE": "Blutschwur-Thron",
+    "esES": "Trono del Juramento de Sangre",
+    "frFR": "Trône du Serment de sang",
+    "itIT": "Trono del Giuramento di Sangue",
+    "koKR": "피의 맹세 왕좌",
+    "plPL": "Tron Krwawej Przysięgi",
+    "esMX": "Trono del Juramento de Sangre",
+    "jaJP": "血の誓いの玉座",
+    "ptBR": "Trono do Juramento de Sangue",
+    "ruRU": "Трон кровавой клятвы",
+    "zhCN": "血誓王座"
+  },
+  {
+    "Key": "d2r:Tower Cellar Level 4",
+    "enUS": "Pure One's Chamber",
+    "zhTW": "純潔者的寢室",
+    "deDE": "Kammer der Reinen",
+    "esES": "Cámara de la Pura",
+    "frFR": "Chambre de la Pure",
+    "itIT": "Camera della Pura",
+    "koKR": "순결한 자의 방",
+    "plPL": "Komnata Czystej",
+    "esMX": "Cámara de la Pura",
+    "jaJP": "清らかなる者の部屋",
+    "ptBR": "Câmara da Pura",
+    "ruRU": "Покои Чистой",
+    "zhCN": "纯洁者的寝室"
+  },
+  {
+    "Key": "d2r:Forgotten Tower",
+    "enUS": "Crumbling Ruins",
+    "zhTW": "傾頹廢墟",
+    "deDE": "Bröckelnde Ruinen",
+    "esES": "Ruinas Desmoronadas",
+    "frFR": "Ruines croulantes",
+    "itIT": "Rovine Fatiscenti",
+    "koKR": "무너지는 폐허",
+    "plPL": "Kruszące się Ruiny",
+    "esMX": "Ruinas Desmoronadas",
+    "jaJP": "崩れゆく廃墟",
+    "ptBR": "Ruínas Desmoronadas",
+    "ruRU": "Осыпающиеся руины",
+    "zhCN": "倾颓废墟"
+  },
+  {
+    "Key": "d2r:Den of Evil",
+    "enUS": "Bound Enclave",
+    "zhTW": "束縛要塞",
+    "deDE": "Gebundene Enklave",
+    "esES": "Enclave Vinculado",
+    "frFR": "Enclave liée",
+    "itIT": "Enclave Vincolata",
+    "koKR": "속박된 요새",
+    "plPL": "Związana Enklawa",
+    "esMX": "Enclave Vinculado",
+    "jaJP": "束縛された要塞",
+    "ptBR": "Enclave Vinculado",
+    "ruRU": "Связанный анклав",
+    "zhCN": "束缚要塞"
+  },
+  {
+    "Key": "d2r:Tamoe Highland",
+    "enUS": "Sanctum's Approach",
+    "zhTW": "聖所前路",
+    "deDE": "Weg zum Sanktum",
+    "esES": "Acceso al Santuario",
+    "frFR": "Approche du Sanctuaire",
+    "itIT": "Accesso al Santuario",
+    "koKR": "성소로 가는 길",
+    "plPL": "Podejście do Sanktuarium",
+    "esMX": "Acceso al Santuario",
+    "jaJP": "聖所への道",
+    "ptBR": "Acesso ao Santuário",
+    "ruRU": "Подступы к святилищу",
+    "zhCN": "圣所前路"
+  },
+  {
+    "Key": "d2r:Blood Moor",
+    "enUS": "Blood Moor",
+    "zhTW": "鮮血荒地",
+    "deDE": "Blutmoor",
+    "esES": "Landa de Sangre",
+    "frFR": "La Lande sanglante",
+    "itIT": "Lande Insanguinate",
+    "koKR": "핏빛 황무지",
+    "plPL": "Krwawe Wrzosowisko",
+    "esMX": "Páramo Sangriento",
+    "jaJP": "血の荒野",
+    "ptBR": "Charco Sangrento",
+    "ruRU": "Кровавая пустошь",
+    "zhCN": "精华荒地"
+  },
+  {
+    "Key": "d2r:To The Catacombs Level 4",
+    "enUS": "To The Temple of Anguish",
+    "zhTW": "前往苦痛神殿",
+    "deDE": "Zum Tempel der Qual",
+    "esES": "Al Templo de la Angustia",
+    "frFR": "Vers le Temple de l’Angoisse",
+    "itIT": "Per il Tempio dell'Angoscia",
+    "koKR": "고뇌의 신전으로 이동",
+    "plPL": "Świątynia Udręki",
+    "esMX": "Al Templo de la Angustia",
+    "jaJP": "苦悶の神殿へ",
+    "ptBR": "Para o Templo da Angústia",
+    "ruRU": "В Храм страданий",
+    "zhCN": "前往苦痛神殿"
+  },
+  {
+    "Key": "d2r:To The Catacombs Level 2",
+    "enUS": "To The Catacombs",
+    "zhTW": "前往地下墓穴",
+    "deDE": "Zu den Katakomben",
+    "esES": "A las Catacumbas",
+    "frFR": "Vers les Catacombes",
+    "itIT": "Per le Catacombe",
+    "koKR": "지하 묘지로 이동",
+    "plPL": "Katakumby",
+    "esMX": "A las Catacumbas",
+    "jaJP": "地下墓所へ",
+    "ptBR": "Para as Catacumbas",
+    "ruRU": "В Катакомбы",
+    "zhCN": "前往地下墓穴"
+  },
+  {
+    "Key": "d2r:To The Cathedral",
+    "enUS": "To The Unmoored Chapel",
+    "zhTW": "前往漂泊禮拜堂",
+    "deDE": "Zur losgelösten Kapelle",
+    "esES": "A la Capilla a la Deriva",
+    "frFR": "Vers la Chapelle à la dérive",
+    "itIT": "Per la Cappella alla Deriva",
+    "koKR": "정처 없는 예배당으로 이동",
+    "plPL": "Dryfująca Kaplica",
+    "esMX": "A la Capilla a la Deriva",
+    "jaJP": "繋がれぬ礼拝堂へ",
+    "ptBR": "Para a Capela à Deriva",
+    "ruRU": "В Сорванную часовню",
+    "zhCN": "前往漂泊礼拜堂"
+  },
+  {
+    "Key": "d2r:To The Inner Cloister",
+    "enUS": "To The Bound Garden",
+    "zhTW": "前往束縛花園",
+    "deDE": "Zum gebundenen Garten",
+    "esES": "Al Jardín Vinculado",
+    "frFR": "Vers le Jardin lié",
+    "itIT": "Per il Giardino Vincolato",
+    "koKR": "속박된 정원으로 이동",
+    "plPL": "Związany Ogród",
+    "esMX": "Al Jardín Vinculado",
+    "jaJP": "束縛された庭園へ",
+    "ptBR": "Para o Jardim Vinculado",
+    "ruRU": "В Связанный сад",
+    "zhCN": "前往束缚花园"
+  },
+  {
+    "Key": "d2r:To The Jail Level 3",
+    "enUS": "To The Sanctum Sanitarium",
+    "zhTW": "前往聖所療養院",
+    "deDE": "Zum Sanktum-Sanatorium",
+    "esES": "Al Sanatorio del Santuario",
+    "frFR": "Vers le Sanatorium du Sanctuaire",
+    "itIT": "Per il Sanatorio del Santuario",
+    "koKR": "성소 요양원으로 이동",
+    "plPL": "Sanatorium Sanktuarium",
+    "esMX": "Al Sanatorio del Santuario",
+    "jaJP": "聖所の療養院へ",
+    "ptBR": "Para o Sanatório do Santuário",
+    "ruRU": "В Санаторий святилища",
+    "zhCN": "前往圣所疗养院"
+  },
+  {
+    "Key": "d2r:To The Jail Level 1",
+    "enUS": "To The Shackled Cells",
+    "zhTW": "前往鐐銬牢房",
+    "deDE": "Zu den gefesselten Zellen",
+    "esES": "A las Celdas Encadenadas",
+    "frFR": "Vers les Cellules enchaînées",
+    "itIT": "Per le Celle Incatenate",
+    "koKR": "족쇄 감방으로 이동",
+    "plPL": "Skute Cele",
+    "esMX": "A las Celdas Encadenadas",
+    "jaJP": "枷の独房へ",
+    "ptBR": "Para as Celas Agrilhoadas",
+    "ruRU": "В Скованные камеры",
+    "zhCN": "前往镣铐牢房"
+  },
+  {
+    "Key": "d2r:To The Barracks",
+    "enUS": "To The Bound One's Workshop",
+    "zhTW": "前往束縛者的工坊",
+    "deDE": "Zur Werkstatt des Gebundenen",
+    "esES": "Al Taller del Vinculado",
+    "frFR": "Vers l’Atelier du Lié",
+    "itIT": "Per il Laboratorio del Vincolato",
+    "koKR": "속박된 자의 작업장으로 이동",
+    "plPL": "Warsztat Związanego",
+    "esMX": "Al Taller del Vinculado",
+    "jaJP": "束縛されし者の工房へ",
+    "ptBR": "Para a Oficina do Vinculado",
+    "ruRU": "В Мастерскую Связанного",
+    "zhCN": "前往束缚者的工坊"
+  },
+  {
+    "Key": "d2r:To The Outer Cloister",
+    "enUS": "To The Warden's Courtyard",
+    "zhTW": "前往典獄長的庭院",
+    "deDE": "Zum Hof des Aufsehers",
+    "esES": "Al Patio del Alcaide",
+    "frFR": "Vers la Cour du Gardien",
+    "itIT": "Per il Cortile del Custode",
+    "koKR": "교도관의 안뜰로 이동",
+    "plPL": "Dziedziniec Naczelnika",
+    "esMX": "Al Patio del Alcaide",
+    "jaJP": "監獄長の中庭へ",
+    "ptBR": "Para o Pátio do Diretor",
+    "ruRU": "Во Двор надзирателя",
+    "zhCN": "前往典狱长的庭院"
+  },
+  {
+    "Key": "d2r:To The Monastery Gate",
+    "enUS": "To The Sanctum of Chains",
+    "zhTW": "前往鎖鏈聖所",
+    "deDE": "Zum Sanktum der Ketten",
+    "esES": "Al Santuario de las Cadenas",
+    "frFR": "Vers le Sanctuaire des chaînes",
+    "itIT": "Per il Santuario delle Catene",
+    "koKR": "사슬의 성소로 이동",
+    "plPL": "Sanktuarium Łańcuchów",
+    "esMX": "Al Santuario de las Cadenas",
+    "jaJP": "鎖の聖所へ",
+    "ptBR": "Para o Santuário das Correntes",
+    "ruRU": "В Святилище цепей",
+    "zhCN": "前往锁链圣所"
+  },
+  {
+    "Key": "d2r:To The Tower Cellar Level 5",
+    "enUS": "To The Bloodsworn Throne",
+    "zhTW": "前往血誓王座",
+    "deDE": "Zum Blutschwur-Thron",
+    "esES": "Al Trono del Juramento de Sangre",
+    "frFR": "Vers le Trône du Serment de sang",
+    "itIT": "Per il Trono del Giuramento di Sangue",
+    "koKR": "피의 맹세 왕좌로 이동",
+    "plPL": "Tron Krwawej Przysięgi",
+    "esMX": "Al Trono del Juramento de Sangre",
+    "jaJP": "血の誓いの玉座へ",
+    "ptBR": "Para o Trono do Juramento de Sangue",
+    "ruRU": "К Трону кровавой клятвы",
+    "zhCN": "前往血誓王座"
+  },
+  {
+    "Key": "d2r:To The Tower Cellar Level 4",
+    "enUS": "To The Pure One's Chamber",
+    "zhTW": "前往純潔者的寢室",
+    "deDE": "Zur Kammer der Reinen",
+    "esES": "A la Cámara de la Pura",
+    "frFR": "Vers la Chambre de la Pure",
+    "itIT": "Per la Camera della Pura",
+    "koKR": "순결한 자의 방으로 이동",
+    "plPL": "Komnata Czystej",
+    "esMX": "A la Cámara de la Pura",
+    "jaJP": "清らかなる者の部屋へ",
+    "ptBR": "Para a Câmara da Pura",
+    "ruRU": "В Покои Чистой",
+    "zhCN": "前往纯洁者的寝室"
+  },
+  {
+    "Key": "d2r:To The Forgotten Tower",
+    "enUS": "To The Crumbling Ruins",
+    "zhTW": "前往傾頹廢墟",
+    "deDE": "Zu den bröckelnden Ruinen",
+    "esES": "A las Ruinas Desmoronadas",
+    "frFR": "Vers les Ruines croulantes",
+    "itIT": "Per le Rovine Fatiscenti",
+    "koKR": "무너지는 폐허로 이동",
+    "plPL": "Kruszące się Ruiny",
+    "esMX": "A las Ruinas Desmoronadas",
+    "jaJP": "崩れゆく廃墟へ",
+    "ptBR": "Para as Ruínas Desmoronadas",
+    "ruRU": "К Осыпающимся руинам",
+    "zhCN": "前往倾颓废墟"
+  },
+  {
+    "Key": "d2r:To The Den of Evil",
+    "enUS": "To The Bound Enclave",
+    "zhTW": "前往束縛要塞",
+    "deDE": "Zur gebundenen Enklave",
+    "esES": "Al Enclave Vinculado",
+    "frFR": "Vers l'Enclave Liée",
+    "itIT": "Per l'Enclave Vincolata",
+    "koKR": "束縛된 요새로 이동",
+    "plPL": "Związana Enklawa",
+    "esMX": "Al Enclave Vinculado",
+    "jaJP": "束縛された要塞へ",
+    "ptBR": "Para o Enclave Vinculado",
+    "ruRU": "В Связанную enclave",
+    "zhCN": "前往束缚要塞"
+  },
+  {
+    "Key": "d2r:To The Tamoe Highland",
+    "enUS": "To The Sanctum's Approach",
+    "zhTW": "前往聖所前路",
+    "deDE": "Zum Weg zum Sanktum",
+    "esES": "Al Acceso al Santuario",
+    "frFR": "Vers l’Approche du Sanctuaire",
+    "itIT": "Per l'Accesso al Santuario",
+    "koKR": "성소로 가는 길로 이동",
+    "plPL": "Podejście do Sanktuarium",
+    "esMX": "Al Acceso al Santuario",
+    "jaJP": "聖所への道へ",
+    "ptBR": "Para o Acesso ao Santuário",
+    "ruRU": "К Подступам к святилищу",
+    "zhCN": "前往圣所前路"
+  },
+  {
+    "Key": "d2r:To The Blood Moor",
+    "enUS": "To The Blood Moor",
+    "zhTW": "前往鮮血荒地",
+    "deDE": "Zum Blutmoor",
+    "esES": "A la Landa de Sangre",
+    "frFR": "Vers la Lande sanglante",
+    "itIT": "Per le Lande Insanguinate",
+    "koKR": "핏빛 황무지로 이동",
+    "plPL": "Krwawe Wrzosowisko",
+    "esMX": "Al Páramo Sangriento",
+    "jaJP": "血の荒野へ",
+    "ptBR": "Para o Charco Sangrento",
+    "ruRU": "В Кровавую пустошь",
+    "zhCN": "前往精华荒地"
+  },
+  {
+    "Key": "d2r:Bloody Foothills",
+    "enUS": "Bloody Foothills",
+    "zhTW": "血腥丘陵",
+    "deDE": "Blutiges Vorgebirge",
+    "esES": "Estribaciones Sangrientas",
+    "frFR": "Les Collines Sanglantes",
+    "itIT": "Colline Insanguinate",
+    "koKR": "핏빛 언덕",
+    "plPL": "Krwawe Wzgórza",
+    "esMX": "Laderas Sangrientas",
+    "jaJP": "血に塗れし丘陵",
+    "ptBR": "Colinas Sangrentas",
+    "ruRU": "Кровавые предгорья",
+    "zhCN": "嗜战丘陵"
+  },
+  {
+    "Key": "d2r:The Worldstone Keep Level 1",
+    "enUS": "Chamber of the Vanquished",
+    "zhTW": "敗者之室",
+    "deDE": "Kammer der Bezwungenen",
+    "esES": "Cámara de los Vencidos",
+    "frFR": "Chambre des Vaincus",
+    "itIT": "Camera dei Vinti",
+    "koKR": "패배자의 방",
+    "plPL": "Komnata Pokonanych",
+    "esMX": "Cámara de los Vencidos",
+    "jaJP": "敗北者の間",
+    "ptBR": "Câmara dos Vencidos",
+    "ruRU": "Чертог побеждённых",
+    "zhCN": "败者之室"
+  },
+  {
+    "Key": "d2r:The Worldstone Keep Level 2",
+    "enUS": "Worldstone Keep",
+    "zhTW": "世界之石要塞",
+    "deDE": "Weltsteinturm",
+    "esES": "Torre de la Piedra del Mundo",
+    "frFR": "Donjon de la Pierre-Monde",
+    "itIT": "Forte della Pietra del Mondo",
+    "koKR": "세계석 성채",
+    "plPL": "Twierdza Kamienia Świata",
+    "esMX": "Fortaleza de la Piedra Ecuménica",
+    "jaJP": "ワールドストーン城塞",
+    "ptBR": "Forte da Pedra do Mundo",
+    "ruRU": "Цитадель Мироздания",
+    "zhCN": "世界之石要塞"
+  },
+  {
+    "Key": "d2r:To The Bloody Foothills",
+    "enUS": "To The Bloody Foothills",
+    "zhTW": "前往血腥丘陵",
+    "deDE": "Zum Blutigen Vorgebirge",
+    "esES": "A las Estribaciones Sangrientas",
+    "frFR": "Vers les Collines Sanglantes",
+    "itIT": "Per le Colline Insanguinate",
+    "koKR": "핏빛 언덕으로 이동",
+    "plPL": "Krwawe Wzgórza",
+    "esMX": "A las Laderas Sangrientas",
+    "jaJP": "血に塗れし丘陵へ",
+    "ptBR": "Para as Colinas Sangrentas",
+    "ruRU": "В Кровавые предгорья",
+    "zhCN": "前往嗜战丘陵"
+  },
+  {
+    "Key": "d2r:To The Worldstone Keep Level 1",
+    "enUS": "To The Chamber of the Vanquished",
+    "zhTW": "前往敗者之室",
+    "deDE": "Zur Kammer der Bezwungenen",
+    "esES": "A la Cámara de los Vencidos",
+    "frFR": "Vers la Chambre des Vaincus",
+    "itIT": "Per la Camera dei Vinti",
+    "koKR": "패배자의 방으로 이동",
+    "plPL": "Komnata Pokonanych",
+    "esMX": "A la Cámara de los Vencidos",
+    "jaJP": "敗北者の間へ",
+    "ptBR": "Para a Câmara dos Vencidos",
+    "ruRU": "В Чертог побеждённых",
+    "zhCN": "前往败者之室"
+  },
+  {
+    "Key": "d2r:To The Worldstone Keep Level 2",
+    "enUS": "To The Worldstone Keep",
+    "zhTW": "前往世界之石要塞",
+    "deDE": "Zum Weltsteinturm",
+    "esES": "A la Torre de la Piedra del Mundo",
+    "frFR": "Vers le donjon de la Pierre-Monde",
+    "itIT": "Per il Forte della Pietra del Mondo",
+    "koKR": "세계석 성채로 이동",
+    "plPL": "Twierdza Kamienia Świata",
+    "esMX": "A la Fortaleza de la Piedra Ecuménica",
+    "jaJP": "ワールドストーン城塞へ",
+    "ptBR": "Para o Forte da Pedra do Mundo",
+    "ruRU": "В Цитадель Мироздания",
+    "zhCN": "前往世界之石要塞"
+  },
+  {
+    "Key": "d2r:EnteringTheBloodMoor",
+    "enUS": "Entering The Blood Moor",
+    "zhTW": "進入鮮血荒地",
+    "deDE": "Jetzt: Das Blutmoor",
+    "esES": "Entrando en la Landa de Sangre",
+    "frFR": "Entre dans la Lande sanglante",
+    "itIT": "Ingresso nelle Lande Insanguinate",
+    "koKR": "핏빛 황무지에 진입",
+    "plPL": "Wkraczasz na Krwawe Wrzosowisko",
+    "esMX": "Entrando al Páramo Sangriento",
+    "jaJP": "〈血の荒野〉",
+    "ptBR": "Entrando no Charco Sangrento",
+    "ruRU": "Кровавая пустошь",
+    "zhCN": "进入精华荒地"
+  },
+  {
+    "Key": "d2r:EnteringTheTamoeHighland",
+    "enUS": "Entering The Sanctum's Approach",
+    "zhTW": "進入聖所前路",
+    "deDE": "Jetzt: Der Weg zum Sanktum",
+    "esES": "Entrando en el Acceso al Santuario",
+    "frFR": "Entre dans l’Approche du Sanctuaire",
+    "itIT": "Ingresso nell'Accesso al Santuario",
+    "koKR": "성소로 가는 길에 진입",
+    "plPL": "Wkraczasz na Podejście do Sanktuarium",
+    "esMX": "Entrando al Acceso al Santuario",
+    "jaJP": "〈聖所への道〉",
+    "ptBR": "Entrando no Acesso ao Santuário",
+    "ruRU": "Подступы к святилищу",
+    "zhCN": "进入圣所前路"
+  },
+  {
+    "Key": "d2r:EnteringTheDenOfEvilInQuest",
+    "enUS": "Entering The Bound Enclave",
+    "zhTW": "進入束縛要塞",
+    "deDE": "Jetzt: Die gebundene Enklave",
+    "esES": "Entrando en el Enclave Vinculado",
+    "frFR": "Entre dans l'Enclave Liée",
+    "itIT": "Ingresso nell'Enclave Vincolata",
+    "koKR": "束縛된 요새에 진입",
+    "plPL": "Wkraczasz do Związanej Enklawy",
+    "esMX": "Entrando al Enclave Vinculado",
+    "jaJP": "〈束縛された要塞〉",
+    "ptBR": "Entrando no Enclave Vinculado",
+    "ruRU": "В Связанную enclave",
+    "zhCN": "进入束缚要塞"
+  },
+  {
+    "Key": "d2r:EnteringTheDenOfEvilPostQuest",
+    "enUS": "Entering The Bound Enclave",
+    "zhTW": "進入束縛要塞",
+    "deDE": "Jetzt: Die gebundene Enklave",
+    "esES": "Entrando en el Enclave Vinculado",
+    "frFR": "Entre dans l’Enclave liée",
+    "itIT": "Ingresso nell'Enclave Vincolata",
+    "koKR": "속박된 요새에 진입",
+    "plPL": "Wkraczasz do Związanej Enklawy",
+    "esMX": "Entrando al Enclave Vinculado",
+    "jaJP": "〈束縛された要塞〉",
+    "ptBR": "Entrando no Enclave Vinculado",
+    "ruRU": "Связанный анклав",
+    "zhCN": "进入束缚要塞"
+  },
+  {
+    "Key": "d2r:EnteringTheForgottenTower",
+    "enUS": "Entering The Crumbling Ruins",
+    "zhTW": "進入傾頹廢墟",
+    "deDE": "Jetzt: Die Bröckelnden Ruinen",
+    "esES": "Entrando en las Ruinas Desmoronadas",
+    "frFR": "Entre dans les Ruines croulantes",
+    "itIT": "Ingresso nelle Rovine Fatiscenti",
+    "koKR": "무너지는 폐허에 진입",
+    "plPL": "Wkraczasz do Kruszących się Ruin",
+    "esMX": "Entrando a las Ruinas Desmoronadas",
+    "jaJP": "〈崩れゆく廃墟〉",
+    "ptBR": "Entrando nas Ruínas Desmoronadas",
+    "ruRU": "Осыпающиеся руины",
+    "zhCN": "进入倾颓废墟"
+  },
+  {
+    "Key": "d2r:EnteringTheTowerCellarLevel4",
+    "enUS": "Entering The Pure One's Chamber",
+    "zhTW": "進入純潔者的寢室",
+    "deDE": "Jetzt: Die Kammer der Reinen",
+    "esES": "Entrando en la Cámara de la Pura",
+    "frFR": "Entre dans la Chambre de la Pure",
+    "itIT": "Ingresso nella Camera della Pura",
+    "koKR": "순결한 자의 방에 진입",
+    "plPL": "Wkraczasz do Komnaty Czystej",
+    "esMX": "Entrando a la Cámara de la Pura",
+    "jaJP": "〈清らかなる者の部屋〉",
+    "ptBR": "Entrando na Câmara da Pura",
+    "ruRU": "Покои Чистой",
+    "zhCN": "进入纯洁者的寝室"
+  },
+  {
+    "Key": "d2r:EnteringTheTowerCellarLevel5",
+    "enUS": "Entering The Bloodsworn Throne",
+    "zhTW": "進入血誓王座",
+    "deDE": "Jetzt: Der Blutschwur-Thron",
+    "esES": "Entrando en el Trono del Juramento de Sangre",
+    "frFR": "Entre dans le Trône du Serment de sang",
+    "itIT": "Ingresso nel Trono del Giuramento di Sangue",
+    "koKR": "피의 맹세 왕좌에 진입",
+    "plPL": "Wkraczasz do Tronu Krwawej Przysięgi",
+    "esMX": "Entrando al Trono del Juramento de Sangre",
+    "jaJP": "〈血の誓いの玉座〉",
+    "ptBR": "Entrando no Trono do Juramento de Sangue",
+    "ruRU": "Трон кровавой клятвы",
+    "zhCN": "进入血誓王座"
+  },
+  {
+    "Key": "d2r:EnteringTheMonasteryGate",
+    "enUS": "Entering The Sanctum of Chains",
+    "zhTW": "進入鎖鏈聖所",
+    "deDE": "Jetzt: Das Sanktum der Ketten",
+    "esES": "Entrando en el Santuario de las Cadenas",
+    "frFR": "Entre dans le Sanctuaire des chaînes",
+    "itIT": "Ingresso nel Santuario delle Catene",
+    "koKR": "사슬의 성소에 진입",
+    "plPL": "Wkraczasz do Sanktuarium Łańcuchów",
+    "esMX": "Entrando al Santuario de las Cadenas",
+    "jaJP": "〈鎖の聖所〉",
+    "ptBR": "Entrando no Santuário das Correntes",
+    "ruRU": "Святилище цепей",
+    "zhCN": "进入锁链圣所"
+  },
+  {
+    "Key": "d2r:EnteringTheOuterCloister",
+    "enUS": "Entering The Warden's Courtyard",
+    "zhTW": "進入典獄長的庭院",
+    "deDE": "Jetzt: Der Hof des Aufsehers",
+    "esES": "Entrando en el Patio del Alcaide",
+    "frFR": "Entre dans la Cour du Gardien",
+    "itIT": "Ingresso nel Cortile del Custode",
+    "koKR": "교도관의 안뜰에 진입",
+    "plPL": "Wkraczasz na Dziedziniec Naczelnika",
+    "esMX": "Entrando al Patio del Alcaide",
+    "jaJP": "〈監獄長の中庭〉",
+    "ptBR": "Entrando no Pátio do Diretor",
+    "ruRU": "Двор надзирателя",
+    "zhCN": "进入典狱长的庭院"
+  },
+  {
+    "Key": "d2r:EnteringTheBarracks",
+    "enUS": "Entering The Bound One's Workshop",
+    "zhTW": "進入束縛者的工坊",
+    "deDE": "Jetzt: Die Werkstatt des Gebundenen",
+    "esES": "Entrando en el Taller del Vinculado",
+    "frFR": "Entre dans l’Atelier du Lié",
+    "itIT": "Ingresso nel Laboratorio del Vincolato",
+    "koKR": "속박된 자의 작업장에 진입",
+    "plPL": "Wkraczasz do Warsztatu Związanego",
+    "esMX": "Entrando al Taller del Vinculado",
+    "jaJP": "〈束縛されし者の工房〉",
+    "ptBR": "Entrando na Oficina do Vinculado",
+    "ruRU": "Мастерская Связанного",
+    "zhCN": "进入束缚者的工坊"
+  },
+  {
+    "Key": "d2r:EnteringTheJailLevel1",
+    "enUS": "Entering The Shackled Cells",
+    "zhTW": "進入鐐銬牢房",
+    "deDE": "Jetzt: Die Gefesselten Zellen",
+    "esES": "Entrando en las Celdas Encadenadas",
+    "frFR": "Entre dans les Cellules enchaînées",
+    "itIT": "Ingresso nelle Celle Incatenate",
+    "koKR": "족쇄 감방에 진입",
+    "plPL": "Wkraczasz do Skutych Cel",
+    "esMX": "Entrando a las Celdas Encadenadas",
+    "jaJP": "〈枷の独房〉",
+    "ptBR": "Entrando nas Celas Agrilhoadas",
+    "ruRU": "Скованные камеры",
+    "zhCN": "进入镣铐牢房"
+  },
+  {
+    "Key": "d2r:EnteringTheJailLevel3",
+    "enUS": "Entering The Sanctum Sanitarium",
+    "zhTW": "進入聖所療養院",
+    "deDE": "Jetzt: Das Sanktum-Sanatorium",
+    "esES": "Entrando en el Sanatorio del Santuario",
+    "frFR": "Entre dans le Sanatorium du Sanctuaire",
+    "itIT": "Ingresso nel Sanatorio del Santuario",
+    "koKR": "성소 요양원에 진입",
+    "plPL": "Wkraczasz do Sanatorium Sanktuarium",
+    "esMX": "Entrando al Sanatorio del Santuario",
+    "jaJP": "〈聖所の療養院〉",
+    "ptBR": "Entrando no Sanatório do Santuário",
+    "ruRU": "Санаторий святилища",
+    "zhCN": "进入圣所疗养院"
+  },
+  {
+    "Key": "d2r:EnteringTheInnerCloister",
+    "enUS": "Entering The Bound Garden",
+    "zhTW": "進入束縛花園",
+    "deDE": "Jetzt: Der Gebundene Garten",
+    "esES": "Entrando en el Jardín Vinculado",
+    "frFR": "Entre dans le Jardin lié",
+    "itIT": "Ingresso nel Giardino Vincolato",
+    "koKR": "속박된 정원에 진입",
+    "plPL": "Wkraczasz do Związanego Ogrodu",
+    "esMX": "Entrando al Jardín Vinculado",
+    "jaJP": "〈束縛された庭園〉",
+    "ptBR": "Entrando no Jardim Vinculado",
+    "ruRU": "Связанный сад",
+    "zhCN": "进入束缚花园"
+  },
+  {
+    "Key": "d2r:EnteringTheCathedral",
+    "enUS": "Entering The Unmoored Chapel",
+    "zhTW": "進入漂泊禮拜堂",
+    "deDE": "Jetzt: Die Losgelöste Kapelle",
+    "esES": "Entrando en la Capilla a la Deriva",
+    "frFR": "Entre dans la Chapelle à la dérive",
+    "itIT": "Ingresso nella Cappella alla Deriva",
+    "koKR": "정처 없는 예배당에 진입",
+    "plPL": "Wkraczasz do Dryfującej Kaplicy",
+    "esMX": "Entrando a la Capilla a la Deriva",
+    "jaJP": "〈繋がれぬ礼拝堂〉",
+    "ptBR": "Entrando na Capela à Deriva",
+    "ruRU": "Сорванная часовня",
+    "zhCN": "进入漂泊礼拜堂"
+  },
+  {
+    "Key": "d2r:EnteringTheCatacombsLevel2",
+    "enUS": "Entering The Catacombs",
+    "zhTW": "進入地下墓穴",
+    "deDE": "Jetzt: Die Katakomben",
+    "esES": "Entrando en las Catacumbas",
+    "frFR": "Entre dans les Catacombes",
+    "itIT": "Ingresso nelle Catacombe",
+    "koKR": "지하 묘지에 진입",
+    "plPL": "Wkraczasz do Katakumb",
+    "esMX": "Entrando a las Catacumbas",
+    "jaJP": "〈地下墓所〉",
+    "ptBR": "Entrando nas Catacumbas",
+    "ruRU": "Катакомбы",
+    "zhCN": "进入地下墓穴"
+  },
+  {
+    "Key": "d2r:EnteringTheCatacombsLevel4",
+    "enUS": "Entering The Temple of Anguish",
+    "zhTW": "進入苦痛神殿",
+    "deDE": "Jetzt: Der Tempel der Qual",
+    "esES": "Entrando en el Templo de la Angustia",
+    "frFR": "Entre dans le Temple de l’Angoisse",
+    "itIT": "Ingresso nel Tempio dell'Angoscia",
+    "koKR": "고뇌의 신전에 진입",
+    "plPL": "Wkraczasz do Świątyni Udręki",
+    "esMX": "Entrando al Templo de la Angustia",
+    "jaJP": "〈苦悶の神殿〉",
+    "ptBR": "Entrando no Templo da Angústia",
+    "ruRU": "Храм страданий",
+    "zhCN": "进入苦痛神殿"
+  },
+  {
+    "Key": "d2r:EnteringTheBloodyFoothills",
+    "enUS": "Entering The Bloody Foothills",
+    "zhTW": "進入血腥丘陵",
+    "deDE": "Jetzt: Das Blutige Vorgebirge",
+    "esES": "Entrando en las Estribaciones Sangrientas",
+    "frFR": "Entre dans les Collines Sanglantes",
+    "itIT": "Ingresso nelle Colline Insanguinate",
+    "koKR": "핏빛 언덕에 진입",
+    "plPL": "Wkraczasz na Krwawe Wzgórza",
+    "esMX": "Entrando a las Laderas Sangrientas",
+    "jaJP": "〈血に塗れし丘陵〉",
+    "ptBR": "Entrando nas Colinas Sangrentas",
+    "ruRU": "Кровавые предгорья",
+    "zhCN": "进入嗜战丘陵"
+  },
+  {
+    "Key": "d2r:EnteringTheWorldstoneKeepLevel1",
+    "enUS": "Entering The Chamber of the Vanquished",
+    "zhTW": "進入敗者之室",
+    "deDE": "Jetzt: Die Kammer der Bezwungenen",
+    "esES": "Entrando en la Cámara de los Vencidos",
+    "frFR": "Entre dans la Chambre des Vaincus",
+    "itIT": "Ingresso nella Camera dei Vinti",
+    "koKR": "패배자의 방에 진입",
+    "plPL": "Wkraczasz do Komnaty Pokonanych",
+    "esMX": "Entrando a la Cámara de los Vencidos",
+    "jaJP": "〈敗北者の間〉",
+    "ptBR": "Entrando na Câmara dos Vencidos",
+    "ruRU": "Чертог побеждённых",
+    "zhCN": "进入败者之室"
+  },
+  {
+    "Key": "d2r:EnteringTheWorldstoneKeepLevel2",
+    "enUS": "Entering The Worldstone Keep",
+    "zhTW": "進入世界之石要塞",
+    "deDE": "Jetzt: Der Weltsteinturm",
+    "esES": "Entrando en la Torre de la Piedra del Mundo",
+    "frFR": "Entre dans le Donjon de la Pierre-Monde",
+    "itIT": "Ingresso nel Forte della Pietra del Mondo",
+    "koKR": "세계석 성채에 진입",
+    "plPL": "Wkraczasz do Twierdzy Kamienia Świata",
+    "esMX": "Entrando a la Fortaleza de la Piedra Ecuménica",
+    "jaJP": "〈ワールドストーン城塞〉",
+    "ptBR": "Entrando no Forte da Pedra do Mundo",
+    "ruRU": "Цитадель Мироздания",
+    "zhCN": "进入世界之石要塞"
+  },
+  {
+    "Key": "d2r:The Summoner",
+    "enUS": "Jazreth the Summoner",
+    "zhTW": "召喚者賈茲雷斯",
+    "deDE": "Jazreth der Beschwörer",
+    "esES": "Jazreth el Invocador",
+    "frFR": "Jazreth l’Invocateur",
+    "itIT": "Jazreth l'Evocatore",
+    "koKR": "소환술사 재즈레스",
+    "plPL": "Jazreth Przywoływacz",
+    "esMX": "Jazreth el Invocador",
+    "jaJP": "召喚師ジャズレス",
+    "ptBR": "Jazreth, o Evocador",
+    "ruRU": "Джазрет Призыватель",
+    "zhCN": "召唤者贾兹雷斯"
+  },
+  {
+    "Key": "d2r:Fetish",
+    "enUS": "Fetish",
+    "zhTW": "鬼娃",
+    "deDE": "Fetisch",
+    "esES": "Fetiche",
+    "frFR": "Fétiche",
+    "itIT": "Feticcio",
+    "koKR": "우상족",
+    "plPL": "Fetysz",
+    "esMX": "Fetiche",
+    "jaJP": "フェティッシュ",
+    "ptBR": "[ms]Carranco",
+    "ruRU": "Фетиш",
+    "zhCN": "鬼娃"
+  },
+  {
+    "Key": "d2r:Undead Fetish",
+    "enUS": "Undead Fetish",
+    "zhTW": "不死鬼娃",
+    "deDE": "untoter Fetisch",
+    "esES": "Fetiche viviente",
+    "frFR": "Fétiche mort-vivant",
+    "itIT": "Feticcio Non Morto",
+    "koKR": "언데드 우상족",
+    "plPL": "Nieumarły fetysz",
+    "esMX": "Fetiche no muerto",
+    "jaJP": "蘇りしフェティッシュ",
+    "ptBR": "[ms]Carranco Morto-vivo",
+    "ruRU": "Оживленный фетиш",
+    "zhCN": "亡灵鬼娃"
+  },
+  {
+    "Key": "d2r:BloodLord",
+    "enUS": "Blood Lord",
+    "zhTW": "鮮血鬼爵",
+    "deDE": "Blutfürst",
+    "esES": "Señor de la sangre",
+    "frFR": "Seigneur de sang",
+    "itIT": "Signore del Sangue",
+    "koKR": "피의 군주",
+    "plPL": "Władca krwi",
+    "esMX": "Señor sangriento",
+    "jaJP": "血の支配者",
+    "ptBR": "[ms]Lorde Sangrento",
+    "ruRU": "Владыка крови",
+    "zhCN": "精华领主"
+  },
+  {
+    "Key": "d2r:DrownedCarcass",
+    "enUS": "Drowned Carcass",
+    "zhTW": "溺斃死屍",
+    "deDE": "Ertrunkener Kadaver",
+    "esES": "Occiso ahogado",
+    "frFR": "Cadavre noyé",
+    "itIT": "Carcassa di Affogato",
+    "koKR": "물에 빠진 송장",
+    "plPL": "Topielec",
+    "esMX": "Cadáver ahogado",
+    "jaJP": "ドラウンド・カーカス",
+    "ptBR": "[fs]Carcaça Encharcada",
+    "ruRU": "Утопленный труп",
+    "zhCN": "溺物"
+  },
+  {
+    "Key": "d2r:Zombie",
+    "enUS": "Zombie",
+    "zhTW": "殭屍",
+    "deDE": "Zombie",
+    "esES": "Zombi",
+    "frFR": "Zombie",
+    "itIT": "Zombi",
+    "koKR": "좀비",
+    "plPL": "Zombie",
+    "esMX": "Zombi",
+    "jaJP": "ゾンビ",
+    "ptBR": "[ms]Zumbi",
+    "ruRU": "Зомби",
+    "zhCN": "邪身"
+  },
+  {
+    "Key": "d2r:Skeleton",
+    "enUS": "Skeleton",
+    "zhTW": "骷髏",
+    "deDE": "Skelettkrieger",
+    "esES": "Esqueleto",
+    "frFR": "Squelette",
+    "itIT": "Scheletro",
+    "koKR": "해골",
+    "plPL": "Szkielet",
+    "esMX": "Esqueleto",
+    "jaJP": "骸骨",
+    "ptBR": "[ms]Esqueleto",
+    "ruRU": "Скелет",
+    "zhCN": "骷髅"
+  },
+  {
+    "Key": "d2r:BoneWarrior",
+    "enUS": "Bone Warrior",
+    "zhTW": "骸骨戰士",
+    "deDE": "Knochenkrieger",
+    "esES": "Guerrero óseo",
+    "frFR": "Guerrier d’os",
+    "itIT": "Guerriero d'Ossa",
+    "koKR": "뼈 전사",
+    "plPL": "Kościany wojownik",
+    "esMX": "Guerrero óseo",
+    "jaJP": "ボーン・ウォリアー",
+    "ptBR": "[ms]Guerreiro Esquelético",
+    "ruRU": "Костяной воин",
+    "zhCN": "白骨战士"
+  },
+  {
+    "Key": "d2r:Duriel",
+    "enUS": "Horazon",
+    "zhTW": "赫拉森",
+    "deDE": "Horazon",
+    "esES": "Horazon",
+    "frFR": "Horazon",
+    "itIT": "Horazon",
+    "koKR": "호라즌",
+    "plPL": "Horazon",
+    "esMX": "Horazon",
+    "jaJP": "ホラゾン",
+    "ptBR": "Horazon",
+    "ruRU": "Хоразон",
+    "zhCN": "赫拉森"
+  },
+  {
+    "Key": "d2r:BoneArcher",
+    "enUS": "Bone Archer",
+    "zhTW": "骸骨弓箭手",
+    "deDE": "Knochenbogenschütze",
+    "esES": "Arquero óseo",
+    "frFR": "Archer d’os",
+    "itIT": "Arciere d'Ossa",
+    "koKR": "뼈 궁수",
+    "plPL": "Kościany łucznik",
+    "esMX": "Arquero óseo",
+    "jaJP": "ボーン・アーチャー",
+    "ptBR": "[ms]Arqueiro Esquelético",
+    "ruRU": "Костяной лучник",
+    "zhCN": "白骨弓手"
+  },
+  {
+    "Key": "d2r:SkeletonArcher",
+    "enUS": "Skeleton Archer",
+    "zhTW": "骷髏弓箭手",
+    "deDE": "Skelettbogenschütze",
+    "esES": "Arquero esqueleto",
+    "frFR": "Archer squelette",
+    "itIT": "Arciere Scheletrico",
+    "koKR": "해골 궁수",
+    "plPL": "Szkieletowy łucznik",
+    "esMX": "Arquero esquelético",
+    "jaJP": "スケルトン・アーチャー",
+    "ptBR": "[ms]Esqueleto Arqueiro",
+    "ruRU": "Скелет-лучник",
+    "zhCN": "骷髅弓手"
+  },
+  {
+    "Key": "d2r:Summoner",
+    "enUS": "Jazreth the Summoner",
+    "zhTW": "召喚者賈茲雷斯",
+    "deDE": "Jazreth der Beschwörer",
+    "esES": "Jazreth el Invocador",
+    "frFR": "Jazreth l’Invocateur",
+    "itIT": "Jazreth l'Evocatore",
+    "koKR": "소환술사 재즈레스",
+    "plPL": "Jazreth Przywoływacz",
+    "esMX": "Jazreth el Invocador",
+    "jaJP": "召喚師ジャズレス",
+    "ptBR": "Jazreth, o Evocador",
+    "ruRU": "Джазрет Призыватель",
+    "zhCN": "召唤者贾兹雷斯"
+  },
+  {
+    "Key": "d2r:FetishShaman",
+    "enUS": "Fetish Shaman",
+    "zhTW": "鬼娃薩滿",
+    "deDE": "Fetischschamane",
+    "esES": "Chamán fetiche",
+    "frFR": "Chaman féticheur",
+    "itIT": "Sciamano Feticcio",
+    "koKR": "우상족 영매",
+    "plPL": "Szaman fetyszy",
+    "esMX": "Chamán fetiche",
+    "jaJP": "フェティッシュの呪術師",
+    "ptBR": "[ms]Xamã Carranco",
+    "ruRU": "Фетиш-шаман",
+    "zhCN": "鬼娃萨满"
+  },
+  {
+    "Key": "d2r:BoneMage",
+    "enUS": "Bone Mage",
+    "zhTW": "骸骨法師",
+    "deDE": "Knochenmagier",
+    "esES": "Mago óseo",
+    "frFR": "Mage d’os",
+    "itIT": "Mago d'Ossa",
+    "koKR": "뼈 마술사",
+    "plPL": "Kościany mag",
+    "esMX": "Mago óseo",
+    "jaJP": "ボーン・メイジ",
+    "ptBR": "[ms]Mago Esquelético",
+    "ruRU": "Костяной маг",
+    "zhCN": "白骨法师"
+  },
+  {
+    "Key": "d2r:Raises Fetishes",
+    "enUS": "Raises Fetishes",
+    "zhTW": "復活鬼娃",
+    "deDE": "Erweckt Fetische",
+    "esES": "Invoca fetiches",
+    "frFR": "Invoque des fétiches",
+    "itIT": "Rianima Feticci",
+    "koKR": "우상족을 되살림",
+    "plPL": "Ożywia fetyszy",
+    "esMX": "Resucita a los Fetiches",
+    "jaJP": "フェティッシュを復活させる",
+    "ptBR": "Revive carrancos",
+    "ruRU": "Оживляет фетишей",
+    "zhCN": "复活鬼娃"
+  },
+  {
+    "Key": "d2r:raises Fetishes",
+    "enUS": "Raises Fetishes",
+    "zhTW": "復活鬼娃",
+    "deDE": "Erweckt Fetische",
+    "esES": "Invoca fetiches",
+    "frFR": "Invoque des fétiches",
+    "itIT": "Rianima Feticci",
+    "koKR": "우상족을 되살림",
+    "plPL": "Ożywia fetyszy",
+    "esMX": "Resucita a los Fetiches",
+    "jaJP": "フェティッシュを復活させる",
+    "ptBR": "Revive carrancos",
+    "ruRU": "Оживляет фетишей",
+    "zhCN": "复活鬼娃"
+  },
+  {
+    "Key": "d2r:skeleton",
+    "enUS": "Skeleton",
+    "zhTW": "骷髏",
+    "deDE": "Skelettkrieger",
+    "esES": "Esqueleto",
+    "frFR": "Squelette",
+    "itIT": "Scheletro",
+    "koKR": "해골",
+    "plPL": "Szkielet",
+    "esMX": "Esqueleto",
+    "jaJP": "スケルトン",
+    "ptBR": "[ms]Esqueleto",
+    "ruRU": "Скелет",
+    "zhCN": "骷髅"
+  },
+  {
+    "Key": "d2r:UnholyCorpse",
+    "enUS": "Unholy Corpse",
+    "zhTW": "穢邪屍兵",
+    "deDE": "Unheilige Kadaver",
+    "esES": "Cadáver pecaminoso",
+    "frFR": "Cadavre impie",
+    "itIT": "Cadavere Sconsacrato",
+    "koKR": "부정한 시체",
+    "plPL": "Przeklęte zwłoki",
+    "esMX": "Cadáver impío",
+    "jaJP": "アンホーリー・コープス",
+    "ptBR": "[ms]Cadáver Profano",
+    "ruRU": "Оскверненный труп",
+    "zhCN": "不义者残骸"
+  },
+  {
+    "Key": "d2r:Slayerexp",
+    "enUS": "Slayer",
+    "zhTW": "殺戮僕魔",
+    "deDE": "Schlitzer",
+    "esES": "Criminal",
+    "frFR": "Flagelleur",
+    "itIT": "Massacratore",
+    "koKR": "학살자",
+    "plPL": "Pogromca",
+    "esMX": "Exterminador",
+    "jaJP": "スレイヤー",
+    "ptBR": "Homicida",
+    "ruRU": "Истребитель",
+    "zhCN": "重煞者"
+  },
+  {
+    "Key": "d2r:BerserkSlayer",
+    "enUS": "Berserker Slayer",
+    "zhTW": "凶暴殺戮僕魔",
+    "deDE": "Berserkerschlächter",
+    "esES": "Criminal berserker",
+    "frFR": "Flagelleur berserker",
+    "itIT": "Massacratore Berserker",
+    "koKR": "광전사 학살자",
+    "plPL": "Berserker pogromca",
+    "esMX": "Exterminador vesánico",
+    "jaJP": "狂いしスレイヤー",
+    "ptBR": "Homicida Berserker",
+    "ruRU": "Берсерк-палач",
+    "zhCN": "狂暴重煞者"
+  },
+  {
+    "Key": "d2r:Blood Lord3",
+    "enUS": "Blood Lord",
+    "zhTW": "血族統領",
+    "deDE": "Blutfürst",
+    "esES": "Señor de la sangre",
+    "frFR": "Seigneur du Sang",
+    "itIT": "Signore del Sangue",
+    "koKR": "피의 군주",
+    "plPL": "Władca krwi",
+    "esMX": "Señor sangriento",
+    "jaJP": "血の闘将",
+    "ptBR": "[ms]Senhor Sangrento",
+    "ruRU": "Владыка крови",
+    "zhCN": "精华领主"
+  },
+  {
+    "Key": "d2r:Sharp Tooth Sayer",
+    "enUS": "Sharptooth Slayer",
+    "zhTW": "利牙殺手",
+    "deDE": "Scharfzahnschlächter",
+    "esES": "Asesino de Dientes Afilados",
+    "frFR": "Croc-Tueur",
+    "itIT": "Squartatore Acuminato",
+    "koKR": "샤프투스 슬레이어",
+    "plPL": "Ostrozębny Pogromca",
+    "esMX": "Exterminador de Dientes Afilados",
+    "jaJP": "鋭牙のスレイヤー",
+    "ptBR": "Homicida Navalhodonte",
+    "ruRU": "Острозуб Истребитель",
+    "zhCN": "尖牙重煞者"
+  },
+  {
+    "Key": "d2r:corpse",
+    "enUS": "Corpse",
+    "zhTW": "屍體",
+    "deDE": "Kadaver",
+    "esES": "Cadáver",
+    "frFR": "Cadavre",
+    "itIT": "Cadavere",
+    "koKR": "시체",
+    "plPL": "Zwłoki",
+    "esMX": "Cadáver",
+    "jaJP": "死骸",
+    "ptBR": "Cadáver",
+    "ruRU": "Труп",
+    "zhCN": "残骸"
+  },
+  {
+    "Key": "d2r:CorpseOnStick",
+    "enUS": "Dead Rogue",
+    "zhTW": "死掉的俠盜",
+    "deDE": "Tote Jägerin",
+    "esES": "Arpía muerta",
+    "frFR": "Rogue mort",
+    "itIT": "Scolta morta",
+    "koKR": "자매단원 시체",
+    "plPL": "Martwa Łotrzyca",
+    "esMX": "Renegada muerta",
+    "jaJP": "ローグの死体",
+    "ptBR": "Renegada Morta",
+    "ruRU": "Мертвый разбойник",
+    "zhCN": "死去的流亡者"
+  },
+  {
+    "Key": "d2r:GuardCorpse",
+    "enUS": "Guard Corpse",
+    "zhTW": "守衛的屍體",
+    "deDE": "Wächterleiche",
+    "esES": "Cadáver de guardia",
+    "frFR": "Cadavre de garde",
+    "itIT": "Guardia morta",
+    "koKR": "경비병 시체",
+    "plPL": "Zwłoki gwardzisty",
+    "esMX": "Cadáver de guardia",
+    "jaJP": "衛兵の死体",
+    "ptBR": "Cadáver do Guarda",
+    "ruRU": "Тело стражника",
+    "zhCN": "守卫的残骸"
+  },
+  {
+    "Key": "d2r:skullpile",
+    "enUS": "Skullpile",
+    "zhTW": "骷髏堆",
+    "deDE": "Schädelhaufen",
+    "esES": "Montón de cráneos",
+    "frFR": "Pile de crânes",
+    "itIT": "Mucchio di teschi",
+    "koKR": "해골 더미",
+    "plPL": "Stos czaszek",
+    "esMX": "Pila de cráneos",
+    "jaJP": "頭蓋骨の山",
+    "ptBR": "Monte de Caveiras",
+    "ruRU": "Гора черепов",
+    "zhCN": "头骨堆"
+  },
+  {
+    "Key": "d2r:dead body",
+    "enUS": "Dead Body",
+    "zhTW": "屍體",
+    "deDE": "Toter Körper",
+    "esES": "Cuerpo sin vida",
+    "frFR": "Cadavre",
+    "itIT": "Cadavere",
+    "koKR": "시체",
+    "plPL": "Zwłoki",
+    "esMX": "Cadáver",
+    "jaJP": "死体",
+    "ptBR": "Cadáver",
+    "ruRU": "Мертвое тело",
+    "zhCN": "残骸"
+  },
+  {
+    "Key": "d2r:dead guard",
+    "enUS": "Dead Guard",
+    "zhTW": "死亡的守衛",
+    "deDE": "Toter Wächter",
+    "esES": "Guardia muerto",
+    "frFR": "Cadavre de garde",
+    "itIT": "Guardia morta",
+    "koKR": "경비병 시체",
+    "plPL": "Martwy strażnik",
+    "esMX": "Guardia muerto",
+    "jaJP": "衛兵の死体",
+    "ptBR": "Guarda Morto",
+    "ruRU": "Мертвый стражник",
+    "zhCN": "死去的守卫"
+  },
+  {
+    "Key": "d2r:BoneChest",
+    "enUS": "Bone Chest",
+    "zhTW": "骨箱",
+    "deDE": "Knochentruhe",
+    "esES": "Arcón de huesos",
+    "frFR": "Coffre en os",
+    "itIT": "Forziere osseo",
+    "koKR": "유골함",
+    "plPL": "Kościany schowek",
+    "esMX": "Cofre de hueso",
+    "jaJP": "骨の宝箱",
+    "ptBR": "Baú de Ossos",
+    "ruRU": "Костяной сундук",
+    "zhCN": "骨箱"
+  },
+  {
+    "Key": "d2r:HungSkeleton",
+    "enUS": "Hung Skeleton",
+    "zhTW": "吊掛的骷髏",
+    "deDE": "aufgehängtes Skelett",
+    "esES": "Esqueleto colgado",
+    "frFR": "Squelette pendu",
+    "itIT": "Scheletro appeso",
+    "koKR": "매달린 해골",
+    "plPL": "Powieszony szkielet",
+    "esMX": "Esqueleto colgado",
+    "jaJP": "吊るされた骸骨",
+    "ptBR": "Esqueleto Enforcado",
+    "ruRU": "Подвешенный скелет",
+    "zhCN": "被绞死的骷髅"
+  },
+  {
+    "Key": "d2r:burialchestL",
+    "enUS": "Burial Chest",
+    "zhTW": "陪葬品",
+    "deDE": "Begräbnistruhe",
+    "esES": "Arcón funerario",
+    "frFR": "Coffre funéraire",
+    "itIT": "Cassa sepolcrale",
+    "koKR": "매장용 궤짝",
+    "plPL": "Trumna",
+    "esMX": "Cofre de entierro",
+    "jaJP": "棺の宝箱",
+    "ptBR": "Arca Funerária",
+    "ruRU": "Погребальный сундук",
+    "zhCN": "残骸掩埋箱"
+  },
+  {
+    "Key": "d2r:burialchestR",
+    "enUS": "Burial Chest",
+    "zhTW": "陪葬品",
+    "deDE": "Begräbnistruhe",
+    "esES": "Arcón funerario",
+    "frFR": "Coffre funéraire",
+    "itIT": "Cassa sepolcrale",
+    "koKR": "매장용 궤짝",
+    "plPL": "Trumna",
+    "esMX": "Cofre de entierro",
+    "jaJP": "棺の宝箱",
+    "ptBR": "Arca Funerária",
+    "ruRU": "Погребальный сундук",
+    "zhCN": "残骸掩埋箱"
+  },
+  {
+    "Key": "d2r:animatedskullsandrocks",
+    "enUS": "Skulls and Rocks",
+    "zhTW": "骷髏和石塊",
+    "deDE": "Schädel und Felsen",
+    "esES": "Cráneos y rocas",
+    "frFR": "Crânes et pierres",
+    "itIT": "Teschi e rocce",
+    "koKR": "해골과 바위",
+    "plPL": "Czaszki na kamieniach",
+    "esMX": "Cráneos y rocas",
+    "jaJP": "岩石とドクロの山",
+    "ptBR": "Caveiras e Pedras",
+    "ruRU": "Черепа и камни",
+    "zhCN": "头骨与石块"
+  },
+  {
+    "Key": "d2r:pileofskullsandrocks",
+    "enUS": "Skulls and Rocks",
+    "zhTW": "骷髏和石塊",
+    "deDE": "Schädel und Felsen",
+    "esES": "Cráneos y rocas",
+    "frFR": "Crânes et pierres",
+    "itIT": "Teschi e rocce",
+    "koKR": "해골과 바위",
+    "plPL": "Czaszki na kamieniach",
+    "esMX": "Cráneos y rocas",
+    "jaJP": "岩石とドクロの山",
+    "ptBR": "Caveiras e Pedras",
+    "ruRU": "Черепа и камни",
+    "zhCN": "头骨与石块"
+  },
+  {
+    "Key": "d2r:animated skulland rockpile",
+    "enUS": "Skulls and Rocks",
+    "zhTW": "骷髏和石塊",
+    "deDE": "Schädel und Felsen",
+    "esES": "Cráneos y rocas",
+    "frFR": "Crânes et pierres",
+    "itIT": "Teschi e rocce",
+    "koKR": "해골과 바위",
+    "plPL": "Czaszki na kamieniach",
+    "esMX": "Cráneos y rocas",
+    "jaJP": "岩石とドクロの山",
+    "ptBR": "Caveiras e Pedras",
+    "ruRU": "Черепа и камни",
+    "zhCN": "头骨与石块"
+  },
+  {
+    "Key": "d2r:deadperson",
+    "enUS": "Corpse",
+    "zhTW": "屍體",
+    "deDE": "Kadaver",
+    "esES": "Cadáver",
+    "frFR": "Cadavre",
+    "itIT": "Cadavere",
+    "koKR": "시체",
+    "plPL": "Zwłoki",
+    "esMX": "Cadáver",
+    "jaJP": "死骸",
+    "ptBR": "Cadáver",
+    "ruRU": "Труп",
+    "zhCN": "残骸"
+  },
+  {
+    "Key": "d2r:deadperson2",
+    "enUS": "Corpse",
+    "zhTW": "屍體",
+    "deDE": "Kadaver",
+    "esES": "Cadáver",
+    "frFR": "Cadavre",
+    "itIT": "Cadavere",
+    "koKR": "시체",
+    "plPL": "Zwłoki",
+    "esMX": "Cadáver",
+    "jaJP": "死骸",
+    "ptBR": "Cadáver",
+    "ruRU": "Труп",
+    "zhCN": "残骸"
+  },
+  {
+    "Key": "d2r:qstsa1q1",
+    "enUS": "Bound Encampment",
+    "zhTW": "束縛營地",
+    "deDE": "Gebundenes Lager",
+    "esES": "Campamento Vinculado",
+    "frFR": "Campement lié",
+    "itIT": "Accampamento Vincolato",
+    "koKR": "속박된 야영지",
+    "plPL": "Związany Obóz",
+    "esMX": "Campamento Vinculado",
+    "jaJP": "束縛された野営地",
+    "ptBR": "Acampamento Vinculado",
+    "ruRU": "Связанный лагерь",
+    "zhCN": "束缚营地"
+  },
+  {
+    "Key": "d2r:qstsa1q11",
+    "enUS": "Look for the Enclave in the wilderness outside the Rogues' Camp.",
+    "zhTW": "在俠盜營地外面的荒野中，找到要塞。",
+    "deDE": "Findet die Enklave in der Wildnis außerhalb des Lagers der Jägerinnen.",
+    "esES": "Busca el Enclave en el yermo de las afueras del Campamento de las Arpías.",
+    "frFR": "Recherchez l’Enclave dans les terres sauvages en dehors du Camp des Rogues.",
+    "itIT": "Cerca l'Enclave nei territori circostanti il Campo delle Scolte.",
+    "koKR": "자매단 야영지 밖의 황야에서 요새를 찾으십시오.",
+    "plPL": "Odszukaj Enklawę w dziczy poza Obozowiskiem Łotrzyc.",
+    "esMX": "Busca el Enclave en la espesura fuera del Campamento de Renegadas.",
+    "jaJP": "〈ローグの野営地〉の外で〈束縛された要塞〉の入口を探す。",
+    "ptBR": "Procure pelo Enclave na floresta fora do Acampamento Renegado.",
+    "ruRU": "Поищите анклав в пустошах вокруг лагеря разбойниц.",
+    "zhCN": "在流亡者营地外的荒野中寻找要塞。"
+  },
+  {
+    "Key": "d2r:qsta5q11",
+    "enUS": "Stop the Siege by killing Shenk the Overseer in the Bloody Foothills.",
+    "zhTW": "殺死在血腥丘陵的督軍山克，以阻止這場圍城戰。",
+    "deDE": "Beendet die Belagerung, indem Ihr Schenk den Aufseher im Blutigen Vorgebirge besiegt.",
+    "esES": "Para detener el asedio, elimina a Shenk, el que todo lo ve, en las Estribaciones Sangrientas.",
+    "frFR": "Mettez fin au siège en éliminant Shenk le surveillant dans les Collines Sanglantes.",
+    "itIT": "Spezza l'assedio uccidendo Shenk il Sovrintendente nelle Colline Insanguinate.",
+    "koKR": "핏빛 언덕에서 감독관 쉔크를 처치하여 공격을 저지하십시오.",
+    "plPL": "Przerwij oblężenie, zabijając Shenka Nadzorcę na Krwawych Wzgórzach.",
+    "esMX": "Mata a Shenk el Mayoral en las Laderas Sangrientas para detener el asedio.",
+    "jaJP": "〈血に塗れし丘陵〉で〈監視者シェンク〉を倒して包囲を終わらせる。",
+    "ptBR": "Mate Shenk, o Capataz para acabar com o cerco nas Colinas Sangrentas.",
+    "ruRU": "Прекратите осаду, убив Шенка Надзирателя в Кровавых предгорьях.",
+    "zhCN": "消灭嗜战丘陵的督军山克，解除围城。"
+  },
+  {
+    "Key": "d2r:BloodGolem",
+    "enUS": "Blood Golem",
+    "zhTW": "鮮血魔像",
+    "deDE": "Blutgolem",
+    "esES": "Gólem sangriento",
+    "frFR": "Golem de sang",
+    "itIT": "Golem di Sangue",
+    "koKR": "피 골렘",
+    "plPL": "Krwawy Golem",
+    "esMX": "Gólem sangriento",
+    "jaJP": "ブラッドゴーレム",
+    "ptBR": "Golem de Sangue",
+    "ruRU": "Кровяной голем",
+    "zhCN": "精华傀儡"
+  },
+  {
+    "Key": "d2r:skilldesc3",
+    "frFR": "Niveau requis: %d"
+  },
+  {
+    "Key": "d2r:StrSkill2",
+    "frFR": "Niv. de compétence actuel: %d"
+  },
+  {
+    "Key": "d2r:StrSkill3",
+    "frFR": "Coût en mana: %d"
+  },
+  {
+    "Key": "d2r:StrSkill4",
+    "frFR": "Dégâts: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkill6",
+    "frFR": "Dégâts de Froid: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkill7",
+    "frFR": "Dégâts de Foudre: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkill8",
+    "frFR": "Dégâts de Poison: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkill10",
+    "frFR": "Au score d’attaque: "
+  },
+  {
+    "Key": "d2r:StrSkill13",
+    "frFR": "Durée du Froid: %d secondes"
+  },
+  {
+    "Key": "d2r:StrSkill14",
+    "frFR": "Durée du poison: "
+  },
+  {
+    "Key": "d2r:StrSkill18",
+    "frFR": "Portée: %d mètres"
+  },
+  {
+    "Key": "d2r:StrSkill20",
+    "frFR": "Durée: %ds"
+  },
+  {
+    "Key": "d2r:StrSkill21",
+    "frFR": "Défense: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill22",
+    "frFR": "Score d’attaque: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill25",
+    "frFR": "Défense ennemie: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill29",
+    "frFR": "Durée d’immobilisation: %d secondes"
+  },
+  {
+    "Key": "d2r:StrSkill30",
+    "frFR": "Bonus d’attaque: "
+  },
+  {
+    "Key": "d2r:StrSkill31",
+    "frFR": "Bonus de défense: "
+  },
+  {
+    "Key": "d2r:StrSkill32",
+    "frFR": "Dégâts de Feu: "
+  },
+  {
+    "Key": "d2r:StrSkill34",
+    "frFR": "Coût en mana: %d par seconde"
+  },
+  {
+    "Key": "d2r:StrSkill35",
+    "frFR": "Dégâts de Feu (en continu): "
+  },
+  {
+    "Key": "d2r:StrSkill37",
+    "frFR": "Dégâts subis: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill38",
+    "frFR": "Dégâts ennemis: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill39",
+    "frFR": "Dégâts magiques: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkill42",
+    "frFR": "Vie: %d"
+  },
+  {
+    "Key": "d2r:StrSkill43",
+    "zhTW": "法師：加強遠程傷害",
+    "deDE": "Magier: Verbesserter Geschossschaden",
+    "esES": "Magos: daño de misiles mejorado",
+    "frFR": "Mages: dégâts des projectiles améliorés",
+    "itIT": "Maghi: danni a distanza migliorati",
+    "koKR": "마법학자: 투사체 공격력 증가",
+    "plPL": "Zwiększone obrażenia od pocisków magów",
+    "esMX": "Magos esqueléticos: Daño de proyectiles mejorado",
+    "jaJP": "メイジ: 魔法弾の威力が増加",
+    "ptBR": "Magos: Dano de projéteis aprimorado",
+    "ruRU": "Маги: бонус к урону от снарядов",
+    "zhCN": "骷髅法师: 提高远程伤害"
+  },
+  {
+    "Key": "d2r:StrSkill44",
+    "zhTW": "骷髏總數：%d",
+    "deDE": "%d Skelette insgesamt",
+    "esES": "%d esqueletos",
+    "frFR": "%d squelettes au total",
+    "itIT": "%d scheletri",
+    "koKR": "해골 총 %d마리",
+    "plPL": "Liczba szkieletów: %d",
+    "esMX": "%d esqueletos en total",
+    "jaJP": "スケルトン%d体",
+    "ptBR": "%d esqueletos no total",
+    "ruRU": "Всего скелетов: %d",
+    "zhCN": "总计%d个骷髅"
+  },
+  {
+    "Key": "d2r:StrSkill45",
+    "frFR": "Niveau de golem: "
+  },
+  {
+    "Key": "d2r:StrSkill46",
+    "frFR": "Dégâts: %d-%d%% de Vie du cadavre"
+  },
+  {
+    "Key": "d2r:StrSkill48",
+    "frFR": "Durée d’étourdissement: %ds"
+  },
+  {
+    "Key": "d2r:StrSkill50",
+    "frFR": "Soins: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkill51",
+    "frFR": "Résistance au Feu: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill52",
+    "frFR": "Résistance au Froid: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill53",
+    "frFR": "Résistance à la Foudre: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill54",
+    "frFR": "Résistances: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill56",
+    "enUS": "Range: %d meters",
+    "zhTW": "射程：%d 公尺",
+    "frFR": "Portée: %d mètres",
+    "esMX": "Alcance: %d metros",
+    "jaJP": "射程: %dメートル",
+    "zhCN": "范围: %d米"
+  },
+  {
+    "Key": "d2r:StrSkill57",
+    "frFR": "Score d’attaque de la cible: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill58",
+    "enUS": "Monster runs up to %d meters",
+    "zhTW": "怪物逃竄最多 %d 公尺",
+    "esMX": "El monstruo corre hasta %d metros",
+    "jaJP": "敵の逃走距離: 最大%dメートル",
+    "zhCN": "怪物最多逃离%d米"
+  },
+  {
+    "Key": "d2r:StrSkill63",
+    "frFR": "en %ds"
+  },
+  {
+    "Key": "d2r:StrSkill65",
+    "frFR": "Chances de perte de durabilité: %d%%"
+  },
+  {
+    "Key": "d2r:StrSkill69",
+    "frFR": "Taux de récupération d’endurance: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill70",
+    "frFR": "Rapidité: "
+  },
+  {
+    "Key": "d2r:StrSkill71",
+    "frFR": "Bonus d’endurance: "
+  },
+  {
+    "Key": "d2r:StrSkill74",
+    "frFR": "Durée réduite de: %d%%"
+  },
+  {
+    "Key": "d2r:StrSkill75",
+    "frFR": "Dégâts élémentaires: "
+  },
+  {
+    "Key": "d2r:StrSkill76",
+    "frFR": "Chances de ne pas être interrompu: %d%%"
+  },
+  {
+    "Key": "d2r:StrSkill79",
+    "frFR": "Soins: %d%% des dégâts d’attaque"
+  },
+  {
+    "Key": "d2r:StrSkill82",
+    "frFR": "Durée du feu: %d secondes"
+  },
+  {
+    "Key": "d2r:StrSkill83",
+    "frFR": "Dégâts d’explosion de Feu: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkill84",
+    "frFR": "Dégâts de Feu Foudroyant: "
+  },
+  {
+    "Key": "d2r:StrSkill88",
+    "frFR": "Taux de récupération de mana: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill89",
+    "frFR": "Vitesse de marche/course: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill90",
+    "frFR": "Résistances: "
+  },
+  {
+    "Key": "d2r:StrSkill91",
+    "frFR": "Dégâts de Trait sacré: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkill94",
+    "zhTW": "骷髏總數：%d",
+    "deDE": "%d Skelette insgesamt",
+    "esES": "%d esqueleto",
+    "frFR": "%d squelette au total",
+    "itIT": "%d scheletro",
+    "koKR": "해골 총 %d마리",
+    "plPL": "Liczba szkieletów: %d",
+    "esMX": "%d esqueleto en total",
+    "jaJP": "スケルトン%d体",
+    "ptBR": "%d esqueleto no total",
+    "ruRU": "Всего скелетов: %d",
+    "zhCN": "总计%d个骷髅"
+  },
+  {
+    "Key": "d2r:StrSkill95",
+    "zhTW": "骷髏 - 生命值：%+d",
+    "deDE": "Skelette: Leben: %+d",
+    "esES": "Esqueletos: vida: %+d p.",
+    "frFR": "Vie des squelettes: %+d",
+    "itIT": "Vita scheletri: %+d",
+    "koKR": "해골: 생명력: %+d",
+    "plPL": "Zdrowie szkieletów: %+d",
+    "esMX": "Esqueletos: Vida: %+d",
+    "jaJP": "スケルトンのライフ: %+d",
+    "ptBR": "Esqueletos: Pontos de vida: %+d",
+    "ruRU": "Здоровье скелетов: %+d",
+    "zhCN": "骷髅: 生命: %+d"
+  },
+  {
+    "Key": "d2r:StrSkill96",
+    "zhTW": "法師 - 生命值：%+d",
+    "deDE": "Magier: Leben: %+d",
+    "esES": "Magos: vida: %+d p.",
+    "frFR": "Vie des mages: %+d",
+    "itIT": "Vita maghi: %+d",
+    "koKR": "마법학자: 생명력: %+d",
+    "plPL": "Zdrowie magów: %+d",
+    "esMX": "Magos esqueléticos: Vida: %+d",
+    "jaJP": "メイジのライフ: %+d",
+    "ptBR": "Magos: Pontos de vida: %+d",
+    "ruRU": "Здоровье магов: %+d",
+    "zhCN": "骷髅法师: 生命: %+d"
+  },
+  {
+    "Key": "d2r:StrSkill97",
+    "frFR": "Vie des monstres: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill99",
+    "frFR": "Chances de conversion: %d%%"
+  },
+  {
+    "Key": "d2r:StrSkill100",
+    "frFR": "Vie max.: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill101",
+    "frFR": "Mana max.: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill102",
+    "frFR": "Endurance max.: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill106",
+    "frFR": "Vitesse d’attaque: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill107",
+    "frFR": "Vie/mana récupéré: %d"
+  },
+  {
+    "Key": "d2r:StrSkill109",
+    "frFR": "Chances de sauver une âme: %d%%"
+  },
+  {
+    "Key": "d2r:StrSkill110",
+    "frFR": "Blocage réussi: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkill113",
+    "frFR": "Dégâts de Feu de l’Hydre: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkill114",
+    "frFR": "Résistance aux dégâts élémentaires: "
+  },
+  {
+    "Key": "d2r:StrSkill115",
+    "frFR": "Mana min. requis pour lancer: %d"
+  },
+  {
+    "Key": "d2r:StrSkill117",
+    "frFR": "Niv. de compétence actuel: %d (objet)"
+  },
+  {
+    "Key": "d2r:skillsd6",
+    "enUS": "creates a magical arrow that steals mana",
+    "zhTW": "造出可吸取法力的魔法箭矢",
+    "deDE": "Erschafft einen magischen Pfeil, der Mana entzieht.",
+    "esES": "Crea una flecha mágica que roba maná.",
+    "frFR": "crée une flèche magique qui vole du mana",
+    "itIT": "Crea una freccia magica che ruba mana",
+    "koKR": "마나를 훔치는 마법 화살 생성",
+    "plPL": "Tworzy magiczną strzałę, która wykrada manę",
+    "esMX": "Crea una flecha mágica que roba maná",
+    "jaJP": "マナを奪う魔法の矢を作り出す",
+    "ptBR": "cria uma flecha mágica que rouba mana",
+    "ruRU": "Создает магическую стрелу, похищающую ману.",
+    "zhCN": "创造可吸取法力的魔法箭矢"
+  },
+  {
+    "Key": "d2r:skillld6",
+    "enUS": "creates a magical arrow or bolt that does extra damage \nand steals mana on hit",
+    "zhTW": "造出魔法箭矢或弩箭，可造成額外的傷害\n並在擊中時吸取法力",
+    "deDE": "Erschafft einen magischen Pfeil oder Bolzen, der zusätzlichen Schaden verursacht\nund bei einem Treffer Mana entzieht.",
+    "esES": "Crea una flecha o saeta mágica que inflige daño adicional\ny roba maná al impactar.",
+    "frFR": "crée une flèche ou un trait magiques qui infligent des dégâts supplémentaires\net volent du mana à l’impact",
+    "itIT": "Crea una freccia o un dardo magico che infligge danni aggiuntivi\ne ruba mana quando colpisce",
+    "koKR": "추가 피해를 주는 마법 화살을 생성하며\n적중 시 마나를 훔칩니다.",
+    "plPL": "Tworzy magiczną strzałę lub bełt, który zadaje dodatkowe obrażenia\ni wykrada manę przy trafieniu",
+    "esMX": "Crea una flecha o saeta mágica que inflige daño adicional\ny roba maná al impactar",
+    "jaJP": "追加ダメージを与える魔法の矢またはボルトを作り出し、\n命中時にマナを奪う",
+    "ptBR": "cria uma flecha ou seta mágica que causa dano adicional\ne rouba mana ao acertar",
+    "ruRU": "Создает магический снаряд, который наносит дополнительный урон\nи похищает ману при попадании.",
+    "zhCN": "创造出魔法箭矢或弩矢, 造成额外的伤害\n并在击中时吸取法力"
+  },
+  {
+    "Key": "d2r:skillld7",
+    "enUS": "magically enhances your arrows\nor bolts with fire",
+    "zhTW": "以魔法火焰強化你的箭矢\n或弩箭",
+    "deDE": "Verzaubert Eure Pfeile\noder Bolzen mit Feuer.",
+    "esES": "Mejora tus flechas o saetas\ncon magia de fuego.",
+    "frFR": "la magie améliore vos flèches\nou vos traits par le Feu",
+    "itIT": "Incanta frecce e dardi\ncon la magia del fuoco",
+    "koKR": "마법으로 화살을 강화하여\n화염 피해를 줍니다.",
+    "plPL": "Magicznie zaklina twoje strzały\nlub bełty ogniem",
+    "esMX": "Potencia mágicamente tus flechas\no saetas con fuego",
+    "jaJP": "魔法で矢またはボルトに\n炎を付与する",
+    "ptBR": "aprimora magicamente suas flechas\nou setas com fogo",
+    "ruRU": "Стрелы или болты\nнаносят урон от огня.",
+    "zhCN": "用火焰强化你的箭矢\n或弩矢"
+  },
+  {
+    "Key": "d2r:skillname9",
+    "enUS": "Critical Strike",
+    "zhTW": "致命攻勢",
+    "deDE": "Kritischer Schlag",
+    "esES": "Azote crítico",
+    "frFR": "Coup critique",
+    "itIT": "Colpo Critico",
+    "koKR": "치명타",
+    "plPL": "Uderzenie Krytyczne",
+    "esMX": "Golpe crítico",
+    "jaJP": "致命の一撃",
+    "ptBR": "Golpe Crítico",
+    "ruRU": "Критический удар",
+    "zhCN": "致命攻击"
+  },
+  {
+    "Key": "d2r:skillan9",
+    "enUS": "Critical Strike",
+    "zhTW": "致命攻勢",
+    "deDE": "Kritischer Schlag",
+    "esES": "Azote crítico",
+    "frFR": "C. critique",
+    "itIT": "Colpo Critico",
+    "koKR": "치명타",
+    "plPL": "Uderzenie Krytyczne",
+    "esMX": "Golpe crítico",
+    "jaJP": "致命の一撃",
+    "ptBR": "Golpe Crítico",
+    "ruRU": "Критический удар",
+    "zhCN": "致命攻击"
+  },
+  {
+    "Key": "d2r:skillsd10",
+    "enUS": "rapid attacks with a thrusting weapon \nand poisons the target",
+    "zhTW": "使用突刺武器快速連擊\n並使目標中毒",
+    "deDE": "Greift mehrmals schnell mit einer Stoßwaffe an\nund vergiftet das Ziel.",
+    "esES": "Ataques rápidos con un arma de estocada\nque envenenan al objetivo.",
+    "frFR": "attaques rapides à l’arme d’estoc\nqui empoisonnent la cible",
+    "itIT": "Sferra attacchi rapidi con un'arma a punta\ne avvelena il bersaglio",
+    "koKR": "찌르기 무기를 이용한 빠른 공격으로\n대상을 중독시킵니다",
+    "plPL": "Szybkie ataki bronią kłującą,\nktóre zatruwają cel",
+    "esMX": "Ataques rápidos con armas de estocada\nque envenenan al objetivo",
+    "jaJP": "刺突武器で連続攻撃を行い、\nターゲットを毒に侵す",
+    "ptBR": "ataques rápidos com uma arma perfurante\nque envenenam o alvo",
+    "ruRU": "Быстро атакует колющим оружием\nи отравляет цель.",
+    "zhCN": "使用戳刺武器进行快速攻击\n并使目标中毒"
+  },
+  {
+    "Key": "d2r:skillld10",
+    "enUS": "attacks with a series of rapid thrusts\nthat poison the target",
+    "zhTW": "快速連續刺擊敵人\n並使目標中毒",
+    "deDE": "Greift mit einer Reihe schneller Stöße an,\ndie das Ziel vergiften.",
+    "esES": "Ataca con una serie de estocadas rápidas\nque envenenan al objetivo.",
+    "frFR": "attaque par une série de coups rapides\nqui empoisonnent la cible",
+    "itIT": "Attacca con una serie di rapidi colpi\nche avvelenano il bersaglio",
+    "koKR": "빠르게 연속으로 찔러\n대상을 중독시킵니다.",
+    "plPL": "Atak serią szybkich pchnięć,\nktóre zatruwają cel",
+    "esMX": "Ataca en una serie de estocadas rápidas\nque envenenan al objetivo",
+    "jaJP": "素早い突きを連続で繰り出し、\nターゲットを毒に侵す",
+    "ptBR": "ataca com uma série de golpes rápidos\nque envenenam o alvo",
+    "ruRU": "Проводит серию быстрых ударов,\nкоторые отравляют цель.",
+    "zhCN": "迅速地发动一系列猛刺\n使目标中毒"
+  },
+  {
+    "Key": "d2r:skillld11",
+    "enUS": "magically enhances your arrows or bolts\nby adding cold damage and a slowing effect",
+    "zhTW": "以魔法強化你的箭矢或弩箭\n附加冰寒傷害與緩速效果",
+    "deDE": "Verzaubert Eure Pfeile oder Bolzen, sodass\nsie zusätzlich Kälteschaden verursachen und verlangsamen.",
+    "esES": "Mejora tus flechas o saetas con magia para\nañadirles daño de frío y un efecto ralentizador.",
+    "frFR": "la magie améliore vos flèches ou traits en y\najoutant des dégâts de Froid et un effet ralentissant",
+    "itIT": "Incanta frecce e dardi\nper aggiungere danni da freddo e un effetto rallentante",
+    "koKR": "마법으로 화살을 강화하여\n냉기 피해와 감속 효과를 추가합니다.",
+    "plPL": "Magicznie zaklina strzały lub bełty, by zadawały\nobrażenia od zimna i spowalniały cel",
+    "esMX": "Potencia mágicamente tus flechas o saetas\ncon daño de frío y un efecto de ralentización",
+    "jaJP": "魔法で矢またはボルトに冷気を付与し、\n敵に冷気ダメージを与えて動きを鈍らせる",
+    "ptBR": "aprimora magicamente suas flechas ou setas\ncom dano gélido e um efeito de lentidão",
+    "ruRU": "Стрелы или болты наносят\nурон от льда и замедляют врагов.",
+    "zhCN": "用魔法强化你的箭矢或弩矢\n附加冰霜伤害并具有减速效果"
+  },
+  {
+    "Key": "d2r:skillsd13",
+    "enUS": "passive - chance to dodges attacks",
+    "zhTW": "被動 - 有機率閃避攻擊",
+    "deDE": "Passiv - Chance, Angriffen auszuweichen.",
+    "esES": "Pasiva: Probabilidad de esquivar ataques.",
+    "frFR": "passif - chance d’esquiver les attaques",
+    "itIT": "Passiva: probabilità di evitare gli attacchi",
+    "koKR": "지속 효과 - 확률적으로 공격 회피",
+    "plPL": "Działanie pasywne – szansa na uniknięcie ataków",
+    "esMX": "Pasiva: probabilidad de esquivar ataques",
+    "jaJP": "常時発動: 一定確率で攻撃を回避する",
+    "ptBR": "passivo - chance de se esquivar de ataques",
+    "ruRU": "Пассивное умение. Дает шанс уклониться от атак.",
+    "zhCN": "被动 - 有几率躲避攻击"
+  },
+  {
+    "Key": "d2r:skillld13",
+    "enUS": "passive - you have a chance to dodge attacks",
+    "zhTW": "被動 - 你有機會躲避攻擊",
+    "deDE": "passiv – Sie haben die Möglichkeit, Angriffen auszuweichen",
+    "esES": "pasivo: tienes la posibilidad de esquivar ataques",
+    "frFR": "passivo: hai la possibilità di schivare gli attacchi",
+    "itIT": "passif - vous avez une chance d'esquiver les attaques",
+    "koKR": "패시브 - 공격을 피할 기회가 있습니다",
+    "plPL": "pasywny - masz szansę na uniknięcie ataków",
+    "esMX": "pasivo: tienes la posibilidad de esquivar ataques",
+    "jaJP": "パッシブ - 攻撃を回避するチャンスがあります",
+    "ptBR": "passivo - você tem a chance de evitar ataques",
+    "ruRU": "пассивный — у вас есть шанс уклониться от атак",
+    "zhCN": "被动 - 你有机会躲避攻击"
+  },
+  {
+    "Key": "d2r:skillname14",
+    "enUS": "Powering Strike",
+    "zhTW": "強力打擊",
+    "deDE": "Kraftschlag",
+    "esES": "Golpe potenciador",
+    "frFR": "Frappe énergisante",
+    "itIT": "Colpo Potenziante",
+    "koKR": "강화의 일격",
+    "plPL": "Wzmacniające Uderzenie",
+    "esMX": "Golpe potenciador",
+    "jaJP": "パワリングストライク",
+    "ptBR": "Golpe Fortalecedor",
+    "ruRU": "Усиливающий удар",
+    "zhCN": "强力打击"
+  },
+  {
+    "Key": "d2r:skillsd14",
+    "enUS": "adds lightning damage and recovers mana on hit",
+    "zhTW": "增加閃電傷害並增加法力恢復",
+    "deDE": "Fügt Blitzschaden hinzu und erhöht die Manaregeneration",
+    "esES": "Agrega daño por rayo y aumenta la recuperación de maná.",
+    "frFR": "aggiunge danni da fulmine e aumenta il recupero del mana",
+    "itIT": "ajoute des dégâts de foudre et augmente la récupération de mana",
+    "koKR": "번개 피해를 추가하고 마나 회복을 증가시킵니다.",
+    "plPL": "dodaje obrażenia od błyskawic i zwiększa regenerację many",
+    "esMX": "Agrega daño por rayo y aumenta la recuperación de maná.",
+    "jaJP": "雷ダメージを追加し、マナ回復量を増加します",
+    "ptBR": "adiciona dano elétrico e aumenta a recuperação de mana",
+    "ruRU": "добавляет урон от молнии и увеличивает восстановление маны",
+    "zhCN": "增加闪电伤害并增加法力恢复"
+  },
+  {
+    "Key": "d2r:skillld14",
+    "enUS": "adds lightning damage to attacks\nand saps mana on hit\nwith javelin and spear class weapons",
+    "zhTW": "增加標槍和矛類武器的攻擊\n閃電傷害並提高法力恢復\n",
+    "deDE": "Fügt Angriffen Blitzschaden hinzu\nund erhöht die Manaregeneration\nmit Speer- und Speerwaffen",
+    "esES": "agrega daño de rayo a los ataques\ny aumenta la recuperación de maná\ncon armas de clase jabalina y lanza",
+    "frFR": "aggiunge danni da fulmine agli attacchi\ne aumenta il recupero di mana\ncon armi di classe giavellotto e lancia",
+    "itIT": "ajoute des dégâts de foudre aux attaques\net augmente la récupération de mana\navec les armes de classe javelot et lance",
+    "koKR": "공격에 번개 피해를 추가하고\n자벨린 및 창 클래스 무기로 마나 회복을\n증가시킵니다.",
+    "plPL": "dodaje obrażenia od błyskawic do ataków\ni zwiększa regenerację many\nw przypadku broni klasy javelin i włócznia",
+    "esMX": "agrega daño de rayo a los ataques\ny aumenta la recuperación de maná\ncon armas de clase jabalina y lanza",
+    "jaJP": "攻撃に雷のダメージを追加し、\nジャベリンと槍クラスの武器でマナ回復を増加させます",
+    "ptBR": "adiciona dano elétrico aos ataques\ne aumenta a recuperação de mana\ncom armas da classe dardo e lança",
+    "ruRU": "добавляет урон от молнии к атакам\nи увеличивает восстановление маны\nс помощью оружия класса дротик и копье",
+    "zhCN": "增加标枪和矛类武器的攻击\n闪电伤害并提高法力恢复\n"
+  },
+  {
+    "Key": "d2r:skillan14",
+    "enUS": "Powering Strike",
+    "zhTW": "強力打擊",
+    "deDE": "Kraftschlag",
+    "esES": "Golpe potenciador",
+    "frFR": "Coup foudroyant",
+    "itIT": "Colpo Potenziante",
+    "koKR": "강화의 일격",
+    "plPL": "Wzmacniające Uderzenie",
+    "esMX": "Golpe potenciador",
+    "jaJP": "パワリングストライク",
+    "ptBR": "Golpe Fortalecedor",
+    "ruRU": "Усиливающий удар",
+    "zhCN": "强力打击"
+  },
+  {
+    "Key": "d2r:skillld16",
+    "enUS": "enchants an arrow or bolt that explodes on\ncontact, damaging all nearby enemies",
+    "zhTW": "在箭矢或弩箭上附魔，使其擊中時\n爆炸，傷害所有附近的敵人",
+    "deDE": "Verzaubert einen Pfeil oder Bolzen, der beim\nAuftreffen explodiert und allen Gegnern in der Nähe Schaden zufügt.",
+    "esES": "Encanta una flecha o saeta que explota al\nimpactar e inflige daño a todos los enemigos cercanos.",
+    "frFR": "enchante une flèche ou un trait qui explose\nau contact, blessant tous les ennemis proches",
+    "itIT": "Incanta una freccia o un dardo che esplode\nal contatto, danneggiando tutti i nemici vicini",
+    "koKR": "화살을 강화하여 접촉 시\n폭발을 일으키고 주위의 모든 적에게 피해를 줍니다.",
+    "plPL": "Zaklina strzałę lub bełt, który wybucha\nprzy trafieniu, raniąc wszystkich pobliskich wrogów",
+    "esMX": "Encanta una flecha o saeta que explota al\nimpactar y daña a todos los enemigos cercanos",
+    "jaJP": "魔力を込めた矢またはボルトが命中時に\n爆発し、周囲にいる敵全員にダメージを与える",
+    "ptBR": "encanta uma flecha ou seta que explode após o\nimpacto, causando dano a todos os inimigos próximos",
+    "ruRU": "Стрела или болт взрывается\nпри попадании, нанося урон врагам рядом.",
+    "zhCN": "强化箭矢或弩矢, 使其触击时\n爆炸, 对附近的所有敌人造成伤害"
+  },
+  {
+    "Key": "d2r:skillname17",
+    "enUS": "Slow Opponents",
+    "zhTW": "緩敵術",
+    "deDE": "Gegner verlangsamen",
+    "esES": "Ralentizar oponentes",
+    "frFR": "Ralentir les adversaires",
+    "itIT": "Rallentamento Avversari",
+    "koKR": "적 감속",
+    "plPL": "Spowolnienie Przeciwników",
+    "esMX": "Ralentizar oponentes",
+    "jaJP": "敵の減速",
+    "ptBR": "Desacelerar Oponentes",
+    "ruRU": "Замедление противников",
+    "zhCN": "敌人减速"
+  },
+  {
+    "Key": "d2r:skillsd17",
+    "enUS": "slows enemies and their ranged attacks",
+    "zhTW": "減慢敵人及其遠程攻擊",
+    "deDE": "Verlangsamt Gegner und ihre Distanzangriffe.",
+    "esES": "Ralentiza a los enemigos y sus ataques a distancia.",
+    "frFR": "ralentit les adversaires et leurs attaques à distance",
+    "itIT": "Rallenta i nemici e i loro attacchi a distanza",
+    "koKR": "적과 적의 원거리 공격을 감속시킵니다",
+    "plPL": "Spowalnia wrogów i ich ataki z dystansu",
+    "esMX": "Ralentiza a los enemigos y sus ataques de rango",
+    "jaJP": "敵とその魔法弾や矢の速度を遅くする",
+    "ptBR": "desacelera inimigos e seus ataques de longo alcance",
+    "ruRU": "Замедляет врагов и их атаки дальнего боя.",
+    "zhCN": "减速敌人及其远程攻击"
+  },
+  {
+    "Key": "d2r:skillld17",
+    "enUS": "illuminates and slows nearby enemies and slows their ranged attacks",
+    "zhTW": "顯現並減慢附近的敵人，並減慢他們的遠程攻擊",
+    "deDE": "Hebt Gegner in der Nähe hervor, verlangsamt sie und verlangsamt ihre Distanzangriffe.",
+    "esES": "Ilumina y ralentiza a los enemigos cercanos y ralentiza sus ataques a distancia.",
+    "frFR": "illumine et ralentit les ennemis proches et ralentit leurs attaques à distance",
+    "itIT": "Evidenzia e rallenta i nemici vicini e rallenta i loro attacchi a distanza",
+    "koKR": "주위의 적에게 빛을 비추고 감속시키며 투사체 속도를 감소시킵니다.",
+    "plPL": "Podświetla i spowalnia pobliskich wrogów oraz spowalnia ich ataki z dystansu",
+    "esMX": "Ilumina y ralentiza a los enemigos cercanos y ralentiza sus ataques a distancia",
+    "jaJP": "近くの敵を照らし出して動きを鈍らせ、敵が放つ魔法弾や矢の速度を遅らせる",
+    "ptBR": "ilumina e desacelera inimigos próximos e desacelera os ataques de longo alcance deles",
+    "ruRU": "Подсвечивает и замедляет врагов рядом, а также замедляет их атаки дальнего боя.",
+    "zhCN": "照亮并减速附近的敌人, 并减慢它们的远程攻击"
+  },
+  {
+    "Key": "d2r:skillan17",
+    "enUS": "Slow Opponents",
+    "zhTW": "緩敵術",
+    "deDE": "Gegner verlangsamen",
+    "esES": "Ralentizar oponentes",
+    "frFR": "Ralentir adversaires",
+    "itIT": "Rallent. Avversari",
+    "koKR": "적 감속",
+    "plPL": "Spowolnienie Przeciwników",
+    "esMX": "Ralentizar oponentes",
+    "jaJP": "敵の減速",
+    "ptBR": "Desacelerar Oponentes",
+    "ruRU": "Замедление противников",
+    "zhCN": "敌人减速"
+  },
+  {
+    "Key": "d2r:skillsd19",
+    "enUS": "increases damage and causes open wounds",
+    "zhTW": "增加傷害並造成開放性傷口",
+    "deDE": "erhöht den Schaden und verursacht offene Wunden",
+    "esES": "aumenta el daño y causa heridas abiertas",
+    "frFR": "aumenta i danni e provoca ferite aperte",
+    "itIT": "augmente les dégâts et provoque des blessures ouvertes",
+    "koKR": "손상을 증가시키고 열린 상처를 유발합니다.",
+    "plPL": "zwiększa obrażenia i powoduje otwarte rany",
+    "esMX": "aumenta el daño y causa heridas abiertas",
+    "jaJP": "ダメージが増加し、開いた傷を引き起こす",
+    "ptBR": "aumenta o dano e causa feridas abertas",
+    "ruRU": "увеличивает урон и вызывает открытые раны",
+    "zhCN": "增加伤害并造成开放性伤口"
+  },
+  {
+    "Key": "d2r:skillld19",
+    "enUS": "increases attack damage and tears at enemies\ncausing open wounds",
+    "zhTW": "增加對敵人的攻擊傷害和撕裂\n造成開放性傷口",
+    "deDE": "Erhöht den Angriffsschaden und verursacht bei Feinden offene Wunden",
+    "esES": "aumenta el daño de ataque y desgarra a los enemigos, causando heridas abiertas",
+    "frFR": "aumenta il danno da attacco e gli strappi ai nemici\ncausando ferite aperte",
+    "itIT": "augmente les dégâts d'attaque et déchire les ennemis\ncausant des blessures ouvertes",
+    "koKR": "공격 피해를 증가시키고 적에게 상처를 입히고\n열린 상처를 유발합니다.",
+    "plPL": "zwiększa obrażenia od ataku i łzy u wrogów,\nzadając otwarte rany",
+    "esMX": "aumenta el daño de ataque y desgarra a los enemigos, causando heridas abiertas",
+    "jaJP": "攻撃ダメージが増加し、敵に引き裂かれます\n開いた傷を引き起こします",
+    "ptBR": "aumenta o dano de ataque e rasga os inimigos\ncausando feridas abertas",
+    "ruRU": "увеличивает урон от атак и разрывает врагов\nнанося открытые раны",
+    "zhCN": "增加对敌人的攻击伤害和撕裂\n造成开放性伤口"
+  },
+  {
+    "Key": "d2r:skillname23",
+    "enUS": "Penetrate",
+    "zhTW": "精準攻勢",
+    "deDE": "Durchschlagen",
+    "esES": "Penetración",
+    "frFR": "Pénétrer",
+    "itIT": "Penetrazione",
+    "koKR": "간파",
+    "plPL": "Penetracja",
+    "esMX": "Penetración",
+    "jaJP": "炯眼",
+    "ptBR": "Transpassar",
+    "ruRU": "Пронзание",
+    "zhCN": "刺穿"
+  },
+  {
+    "Key": "d2r:skillan23",
+    "enUS": "Penetrate",
+    "zhTW": "精準攻勢",
+    "deDE": "Durchschlagen",
+    "esES": "Penetración",
+    "frFR": "Pénétrer",
+    "itIT": "Penetrazione",
+    "koKR": "간파",
+    "plPL": "Penetracja",
+    "esMX": "Penetración",
+    "jaJP": "炯眼",
+    "ptBR": "Transpassar",
+    "ruRU": "Пронзание",
+    "zhCN": "刺穿"
+  },
+  {
+    "Key": "d2r:skillsd38",
+    "enUS": "creates multiple deadly sparks",
+    "zhTW": "散射出多個致命的電能火花",
+    "deDE": "Erschafft mehrere tödliche Funken.",
+    "esES": "Crea varias chispas letales.",
+    "frFR": "crée de multiples étincelles mortelles",
+    "itIT": "Crea molteplici scintille mortali",
+    "koKR": "치명적인 번개 줄기 다수 생성",
+    "plPL": "Tworzy wiele zabójczych wyładowań",
+    "esMX": "Crea múltiples chispas letales",
+    "jaJP": "複数の電撃を放つ",
+    "ptBR": "cria várias faíscas letais",
+    "ruRU": "Создает несколько смертоносных искр.",
+    "zhCN": "制造出多个致命的火花"
+  },
+  {
+    "Key": "d2r:skillsd42",
+    "enUS": "creates a field of deadly sparks",
+    "zhTW": "造出一個充滿致命靜電火花的力場",
+    "deDE": "Erschafft ein Feld aus tödlichen Funken.",
+    "esES": "Crea un campo de chispas letales.",
+    "frFR": "crée un champ d’étincelles mortelles",
+    "itIT": "Crea un campo di scintille mortali",
+    "koKR": "치명적인 전기장 생성",
+    "plPL": "Tworzy pole zabójczych wyładowań",
+    "esMX": "Crea un campo de chispas letales",
+    "jaJP": "強烈な放電を発生させる",
+    "ptBR": "cria um campo de faíscas letais",
+    "ruRU": "Создает поле смертоносных искр.",
+    "zhCN": "制造一个致命的火花力场"
+  },
+  {
+    "Key": "d2r:skillld57",
+    "enUS": "summons a deadly thunderstorm that strikes\nyour enemies with bolts of lightning",
+    "zhTW": "召喚致命的雷電風暴，以閃電連續攻擊你的敵人",
+    "deDE": "Ruft einen todbringenden Sturm herbei,\nder Euren Gegner mit Blitzen zusetzt.",
+    "esES": "Invoca una tormenta mortal que azota\na tus enemigos con descargas de rayos.",
+    "frFR": "invoque une tempête mortelle qui frappe\nvos ennemis avec des traits de Foudre",
+    "itIT": "Evoca una tempesta mortale che colpisce\ni tuoi nemici con una serie di fulmini",
+    "koKR": "치명적인 뇌우를 소환하여\n적에게 벼락을 내리칩니다.",
+    "plPL": "Wywołuje zabójczą burzę z piorunami,\nktóre rażą twoich wrogów",
+    "esMX": "Invoca una tormenta eléctrica mortífera que lanza\nrayos a los enemigos",
+    "jaJP": "強力な雷雲を召喚し、\n近くの敵を落雷で攻撃する",
+    "ptBR": "evoca uma tempestade mortal que atinge\nos inimigos com raios",
+    "ruRU": "Призывает грозу, поражающую\nврагов разрядами молний.",
+    "zhCN": "召唤出致命的雷云风暴\n用闪电攻击你的敌人"
+  },
+  {
+    "Key": "d2r:skillname68",
+    "enUS": "Bone Armor",
+    "zhTW": "骸骨護甲",
+    "deDE": "Knochenrüstung",
+    "esES": "Armadura de hueso",
+    "frFR": "Armure d’os",
+    "itIT": "Armatura d'Ossa",
+    "koKR": "뼈 갑옷",
+    "plPL": "Zbroja z Kości",
+    "esMX": "Armadura ósea",
+    "jaJP": "ボーンアーマー",
+    "ptBR": "Armadura de Ossos",
+    "ruRU": "Костяной доспех",
+    "zhCN": "骨甲"
+  },
+  {
+    "Key": "d2r:skillld68",
+    "enUS": "creates an orbiting shield of bone\nthat absorbs melee damage",
+    "zhTW": "召喚骸骨護盾環繞在身旁，吸收近戰傷害",
+    "deDE": "Erschafft einen kreisenden Schild\naus Knochen, der physischen\nSchaden absorbiert.",
+    "esES": "Crea un escudo giratorio de hueso\nque absorbe el daño cuerpo a cuerpo.",
+    "frFR": "crée un bouclier d’os tournoyant\nqui absorbe les dégâts de mêlée",
+    "itIT": "Crea uno scudo d'ossa orbitante\nche assorbe i danni in mischia",
+    "koKR": "자신의 주위를 도는 뼈의 방패를 만들어\n근접 피해를 흡수합니다.",
+    "plPL": "Tworzy orbitującą tarczę z kości,\nktóra pochłania obrażenia w walce wręcz",
+    "esMX": "Crea un escudo de hueso que gira a tu alrededor\ny absorbe daño de melé",
+    "jaJP": "体の周囲を飛び回る骨を召喚して\n近接攻撃のダメージを受け止める",
+    "ptBR": "cria um escudo de ossos circulante\nque absorve dano corpo a corpo",
+    "ruRU": "Создает вращающийся вокруг вас костяной щит,\nпоглощающий урон в ближнем бою.",
+    "zhCN": "制造出盘旋的白骨盾牌\n吸收近战伤害"
+  },
+  {
+    "Key": "d2r:skillan68",
+    "enUS": "Bone Armor",
+    "zhTW": "骸骨護甲",
+    "deDE": "Knochenrüstung",
+    "esES": "Armadura de hueso",
+    "frFR": "Armure d’os",
+    "itIT": "Armatura d'Ossa",
+    "koKR": "뼈 갑옷",
+    "plPL": "Zbroja z Kości",
+    "esMX": "Armadura ósea",
+    "jaJP": "ボーンアーマー",
+    "ptBR": "Armadura de Ossos",
+    "ruRU": "Костяной доспех",
+    "zhCN": "骨甲"
+  },
+  {
+    "Key": "d2r:skillname69",
+    "enUS": "Skeleton Mastery",
+    "zhTW": "骷髏專精",
+    "deDE": "Skelettbeherrschung",
+    "esES": "Dominio de los esqueletos",
+    "frFR": "Maîtrise des squelettes",
+    "itIT": "Dominio degli Scheletri",
+    "koKR": "해골 숙련",
+    "plPL": "Mistrzostwo we Władaniu Szkieletami",
+    "esMX": "Dominio de esqueletos",
+    "jaJP": "スケルトンマスター",
+    "ptBR": "Maestria do Esqueleto",
+    "ruRU": "Мастер скелетов",
+    "zhCN": "骷髅精通"
+  },
+  {
+    "Key": "d2r:skillsd69",
+    "enUS": "passive - better skeletons and revived creatures",
+    "zhTW": "被動 - 強化骷髏和重生的生物",
+    "deDE": "Passiv - Verbessert Skelette und reanimierte Kreaturen.",
+    "esES": "Pasiva: Mejora los esqueletos y las criaturas resucitadas.",
+    "frFR": "passif - améliore les squelettes et les créatures ranimées",
+    "itIT": "Passiva: potenzia gli scheletri e le creature rianimate",
+    "koKR": "지속 효과 - 해골과 되살아난 생물 강화",
+    "plPL": "Działanie pasywne – wzmacnia szkielety i inne wskrzeszone istoty",
+    "esMX": "Pasiva: mejores esqueletos y criaturas reanimadas",
+    "jaJP": "常時発動: 召喚したスケルトンや蘇らせた屍の能力が向上する",
+    "ptBR": "passivo - melhores esqueletos e criaturas revividas",
+    "ruRU": "Пассивно усиливает скелетов и оживленных существ.",
+    "zhCN": "被动 - 骷髅和复活的生物变得更强"
+  },
+  {
+    "Key": "d2r:skillld69",
+    "enUS": "passive - increases life and damage\nof raised skeletons and revived creatures",
+    "zhTW": "被動 - 提高你復生的骷髏和重生的生物的生命值與造成的傷害",
+    "deDE": "Passiv - Erhöht Leben und Schaden\nvon erweckten Skeletten und\nreanimierten Kreaturen.",
+    "esES": "Pasiva: Aumenta la vida y el daño\nde los esqueletos y de las criaturas resucitadas.",
+    "frFR": "passif - augmente la vie et les dégâts\ninfligés par les squelettes et les ranimés",
+    "itIT": "Passiva: aumenta vita e danni\ndegli scheletri evocati e delle creature rianimate",
+    "koKR": "지속 효과 - 되살린 해골과 생물의\n생명력과 공격력이 증가합니다.",
+    "plPL": "Działanie pasywne – zwiększa ilość zdrowia i obrażenia\nzadawane przez ożywione szkielety i inne istoty",
+    "esMX": "Pasiva: aumenta la vida y el daño de\nlos esqueletos resucitados y las criaturas reanimadas",
+    "jaJP": "常時発動: 召喚したスケルトンや蘇らせた屍の\nライフと攻撃力が増加する",
+    "ptBR": "passivo - aumenta os pontos de vida e o dano causado\nde criaturas e esqueletos revividos",
+    "ruRU": "Пассивно увеличивает здоровье и урон\nподнятых скелетов и оживленных существ.",
+    "zhCN": "被动 - 你复活的骷髅和怪物\n具有更高的生命和伤害"
+  },
+  {
+    "Key": "d2r:skillan69",
+    "enUS": "Skeleton Mastery",
+    "zhTW": "骷髏專精",
+    "deDE": "Skelettbeherrschung",
+    "esES": "Dominio de los esqueletos",
+    "frFR": "Maîtr. des squelettes",
+    "itIT": "Dom. Scheletri",
+    "koKR": "해골 숙련",
+    "plPL": "Mistrzostwo we Władaniu Szkieletami",
+    "esMX": "Dominio de esqueletos",
+    "jaJP": "スケルトンマスター",
+    "ptBR": "Maestria do Esqueleto",
+    "ruRU": "Мастер скелетов",
+    "zhCN": "骷髅精通"
+  },
+  {
+    "Key": "d2r:skillname70",
+    "enUS": "Raise Skeleton",
+    "zhTW": "復生骷髏",
+    "deDE": "Skelett erwecken",
+    "esES": "Resurrección de esqueletos",
+    "frFR": "Ressusciter un squelette",
+    "itIT": "Scheletri Risorti",
+    "koKR": "해골 되살리기",
+    "plPL": "Ożywienie Szkieletu",
+    "esMX": "Resurrección de esqueletos",
+    "jaJP": "スケルトン召喚",
+    "ptBR": "Reviver Esqueleto",
+    "ruRU": "Скелет",
+    "zhCN": "复生骷髅"
+  },
+  {
+    "Key": "d2r:skillld70",
+    "enUS": "cast on the corpse of a slain monster,\nthis raises a skeleton warrior that\nfights for you",
+    "zhTW": "對怪物的屍體施放，將其復生為骷髏戰士為你而戰",
+    "deDE": "Erweckt aus der Leiche eines\ngetöteten Gegners einen Skelettkrieger,\nder für Euch kämpft.",
+    "esES": "Se lanza sobre el cadáver de un monstruo\npara resucitar a un guerrero esqueleto\nque lucha a tu lado.",
+    "frFR": "lance un sort sur le cadavre d’un monstre\npour faire naître un guerrier squelette qui\ncombat pour vous",
+    "itIT": "Evoca un guerriero scheletrico che combatte\nper te dal cadavere di un mostro",
+    "koKR": "처치한 괴물의 시체에 시전하여\n해골 전사로 되살리고\n전투를 돕게 합니다.",
+    "plPL": "Rzuca zaklęcie na szczątki zabitego potwora,\naby wskrzesić szkielet, który będzie walczył po twojej stronie",
+    "esMX": "Al usarla sobre el cadáver de un monstruo,\nresucita un guerrero esquelético\nque pelea por ti",
+    "jaJP": "倒した敵の死体に呪文をかけて\nスケルトンの戦士を作り出し、戦わせる",
+    "ptBR": "quando lançado no cadáver de um monstro,\nrevive um guerreiro esqueleto que\nluta por você",
+    "ruRU": "Применяется к трупу убитого монстра.\nПризывает скелета-воина.",
+    "zhCN": "对死去怪物的残骸施放\n复活一个骷髅战士\n为你而战"
+  },
+  {
+    "Key": "d2r:skillan70",
+    "enUS": "Raise Skeleton",
+    "zhTW": "復生骷髏",
+    "deDE": "Skelett erwecken",
+    "esES": "Res. de esqueletos",
+    "frFR": "Lever squelette",
+    "itIT": "Schel. Risorti",
+    "koKR": "해골 되살리기",
+    "plPL": "Ożywienie Szkieletu",
+    "esMX": "Res. de esqueletos",
+    "jaJP": "スケルトン召喚",
+    "ptBR": "Reviver Esqueleto",
+    "ruRU": "Скелет",
+    "zhCN": "复生骷髅"
+  },
+  {
+    "Key": "d2r:skillname78",
+    "enUS": "Bone Wall",
+    "zhTW": "骨牆",
+    "deDE": "Knochenwand",
+    "esES": "Muro de hueso",
+    "frFR": "Mur d’os",
+    "itIT": "Muro d'Ossa",
+    "koKR": "뼈의 벽",
+    "plPL": "Ściana z Kości",
+    "esMX": "Muro óseo",
+    "jaJP": "ボーンウォール",
+    "ptBR": "Parede de Ossos",
+    "ruRU": "Костяная стена",
+    "zhCN": "骨墙"
+  },
+  {
+    "Key": "d2r:skillld78",
+    "enUS": "creates an impassable barrier\nof bone and debris",
+    "zhTW": "用骸骨和土石造出一道無法穿越的障礙",
+    "deDE": "Erschafft eine undurchdringliche\nBarriere aus Knochen und\nTrümmern.",
+    "esES": "Crea una barrera infranqueable\nde hueso y escombros.",
+    "frFR": "crée une barrière infranchissable\nd’os et de débris",
+    "itIT": "Crea una barriera invalicabile\ndi ossa e detriti",
+    "koKR": "뼈와 잔해로 지나갈 수 없는\n방벽을 생성합니다.",
+    "plPL": "Tworzy nieprzekraczalną barierę z kości i gruzu",
+    "esMX": "Crea una barrera impenetrable\nde hueso y escombros",
+    "jaJP": "骨と瓦礫の壁を作って道をふさぐ",
+    "ptBR": "cria uma barreira intransponível\nde ossos e destroços",
+    "ruRU": "Создает непреодолимую преграду\nиз костей и обломков.",
+    "zhCN": "用白骨和碎片制造\n一道无法越过的屏障"
+  },
+  {
+    "Key": "d2r:skillan78",
+    "enUS": "Bone Wall",
+    "zhTW": "骨牆",
+    "deDE": "Knochenwand",
+    "esES": "Muro de hueso",
+    "frFR": "Mur d’os",
+    "itIT": "Muro d'Ossa",
+    "koKR": "뼈의 벽",
+    "plPL": "Ściana z Kości",
+    "esMX": "Muro óseo",
+    "jaJP": "ボーンウォール",
+    "ptBR": "Parede de Ossos",
+    "ruRU": "Костяная стена",
+    "zhCN": "骨墙"
+  },
+  {
+    "Key": "d2r:skillname80",
+    "enUS": "Raise Skeletal Mage",
+    "zhTW": "復生骷髏法師",
+    "deDE": "Skelettmagier erwecken",
+    "esES": "Resurrección de magos esqueléticos",
+    "frFR": "Ressusciter un mage squelette",
+    "itIT": "Maghi Risorti",
+    "koKR": "해골 마법학자 되살리기",
+    "plPL": "Ożywienie Szkieletowego Maga",
+    "esMX": "Mago esquelético",
+    "jaJP": "スケルトンメイジ召喚",
+    "ptBR": "Reviver Mago Esqueleto",
+    "ruRU": "Скелет-маг",
+    "zhCN": "复生骷髅法师"
+  },
+  {
+    "Key": "d2r:skillsd80",
+    "enUS": "reanimate skeletal mage from target corpse",
+    "zhTW": "將目標屍體復生為骷髏法師",
+    "deDE": "Erweckt einen Skelettmagier aus der Leiche eines Gegners.",
+    "esES": "Reanima al cadáver seleccionado como mago esquelético.",
+    "frFR": "ranimer un mage squelette à partir d’un corps",
+    "itIT": "Rianima un mago scheletrico dal cadavere bersaglio",
+    "koKR": "대상 시체에서 해골 마법학자를 되살림",
+    "plPL": "Tworzy szkieletowego maga ze zwłok",
+    "esMX": "Reanima a un mago esquelético de un cadáver objetivo",
+    "jaJP": "敵の死体からスケルトンの魔術師を作り出す",
+    "ptBR": "reanima o cadáver selecionado como mago esqueleto",
+    "ruRU": "Призывает скелета-мага из указанного трупа.",
+    "zhCN": "从目标残骸中复活骷髅法师"
+  },
+  {
+    "Key": "d2r:skillld80",
+    "enUS": "cast on the corpse of a slain monster,\nthis raises a skeleton mage that\nfights for you",
+    "zhTW": "對怪物的屍體施放，將其復生為骷髏法師為你而戰",
+    "deDE": "Erweckt aus der Leiche eines\ngetöteten Gegners einen Skelettmagier,\nder für Euch kämpft.",
+    "esES": "Se lanza sobre el cadáver de un monstruo\npara resucitar a un mago esqueleto\nque lucha a tu lado.",
+    "frFR": "lance un sort sur le cadavre d’un monstre\npour faire naître un mage squelette qui\ncombat pour vous",
+    "itIT": "Evoca un mago scheletrico che combatte\nper te dal cadavere di un mostro",
+    "koKR": "처치한 괴물의 시체에 시전하여\n해골 마법학자로 되살리고\n전투를 돕게 합니다.",
+    "plPL": "Rzuca zaklęcie na szczątki zabitego potwora,\naby wskrzesić szkieletowego maga, który będzie walczył\npo twojej stronie",
+    "esMX": "Al usarla sobre el cadáver de un monstruo,\nresucita un mago esquelético\nque pelea por ti",
+    "jaJP": "倒した敵の死体に呪文をかけて\nスケルトンの魔術師を作り出し、\n戦わせる",
+    "ptBR": "quando lançado no cadáver de um monstro,\nrevive um mago esqueleto que\nluta por você",
+    "ruRU": "Применяется к трупу убитого монстра.\nПризывает скелета-мага.",
+    "zhCN": "对死去怪物的残骸施放\n复活一个骷髅法师\n为你而战"
+  },
+  {
+    "Key": "d2r:skillan80",
+    "enUS": "Skeletal Mage",
+    "zhTW": "骷髏法師",
+    "deDE": "Skelettmagier",
+    "esES": "Mago esquelético",
+    "frFR": "Mage squelette",
+    "itIT": "Maghi Risorti",
+    "koKR": "해골 마법학자",
+    "plPL": "Szkieletowy Mag",
+    "esMX": "Mago esquelético",
+    "jaJP": "スケルトンメイジ…",
+    "ptBR": "Mago Esqueleto",
+    "ruRU": "Скелет-маг",
+    "zhCN": "骷髅法师"
+  },
+  {
+    "Key": "d2r:skillsd84",
+    "enUS": "summons a deadly spike of bone",
+    "zhTW": "召喚致命的骸骨長矛",
+    "deDE": "Erschafft einen tödlichen Stachel aus Knochen.",
+    "esES": "Invoca un pincho de hueso mortal.",
+    "frFR": "invoque une pointe d’os mortelle",
+    "itIT": "Evoca una mortale lancia ossea",
+    "koKR": "치명적인 뼈 쐐기를 소환",
+    "plPL": "Przywołuje zabójczy kościany kolec",
+    "esMX": "Invoca una púa de hueso mortífera",
+    "jaJP": "鋭い骨の槍を召喚する",
+    "ptBR": "evoca um espeto de osso mortal",
+    "ruRU": "Призывает смертоносный костяной шип.",
+    "zhCN": "召唤一根致命的白骨尖刺"
+  },
+  {
+    "Key": "d2r:skillld84",
+    "enUS": "summons a deadly spike of bone to impale your enemies",
+    "zhTW": "召喚致命的骸骨長矛刺穿你的敵人",
+    "deDE": "Erschafft einen tödlichen Stachel aus Knochen, der Eure Gegner aufspießt.",
+    "esES": "Invoca un pincho de hueso mortal\nque empala a tus enemigos.",
+    "frFR": "invoque une pointe d’os mortelle pour empaler vos ennemis",
+    "itIT": "Evoca una mortale lancia ossea che impala i nemici",
+    "koKR": "치명적인 뼈 쐐기를 소환하여 적을 관통합니다.",
+    "plPL": "Przywołuje zabójczą kościaną włócznię,\nktóra przebija twoich wrogów",
+    "esMX": "Invoca una púa de hueso mortífera para empalar a los enemigos",
+    "jaJP": "敵を貫く鋭い骨の槍を召喚する",
+    "ptBR": "evoca um espeto de osso mortal para empalar os inimigos",
+    "ruRU": "Призывает костяной шип,\nпронзающий врагов.",
+    "zhCN": "召唤致命的白骨尖刺, 刺穿你的敌人"
+  },
+  {
+    "Key": "d2r:skillname85",
+    "enUS": "Blood Golem",
+    "zhTW": "鮮血魔像",
+    "deDE": "Blutgolem",
+    "esES": "Gólem sangriento",
+    "frFR": "Golem de sang",
+    "itIT": "Golem di Sangue",
+    "koKR": "피 골렘",
+    "plPL": "Krwawy Golem",
+    "esMX": "Gólem sangriento",
+    "jaJP": "ブラッドゴーレム",
+    "ptBR": "Golem de Sangue",
+    "ruRU": "Кровяной голем",
+    "zhCN": "精华傀儡"
+  },
+  {
+    "Key": "d2r:skillan85",
+    "enUS": "Blood Golem",
+    "zhTW": "鮮血魔像",
+    "deDE": "Blutgolem",
+    "esES": "Gólem sangriento",
+    "frFR": "Golem sang",
+    "itIT": "Golem di Sangue",
+    "koKR": "피 골렘",
+    "plPL": "Krwawy Golem",
+    "esMX": "Gólem sangriento",
+    "jaJP": "ブラッドゴーレム",
+    "ptBR": "Golem de Sangue",
+    "ruRU": "Кровяной голем",
+    "zhCN": "精华傀儡"
+  },
+  {
+    "Key": "d2r:skillname88",
+    "enUS": "Bone Prison",
+    "zhTW": "骨牢",
+    "deDE": "Knochengefängnis",
+    "esES": "Prisión de huesos",
+    "frFR": "Cage thoracique",
+    "itIT": "Prigione d'Ossa",
+    "koKR": "뼈 감옥",
+    "plPL": "Więzienie z Kości",
+    "esMX": "Prisión de huesos",
+    "jaJP": "ボーンプリズン",
+    "ptBR": "Prisão de Ossos",
+    "ruRU": "Костяная клетка",
+    "zhCN": "骨牢"
+  },
+  {
+    "Key": "d2r:skillsd88",
+    "enUS": "creates a barrier of bone around target",
+    "zhTW": "以骸骨形成的障礙困住目標",
+    "deDE": "Erschafft eine Knochenbarriere um das Ziel.",
+    "esES": "Crea una barrera de huesos alrededor del objetivo.",
+    "frFR": "crée une barrière d’os autour d’une cible",
+    "itIT": "Crea una barriera d'ossa intorno al bersaglio",
+    "koKR": "대상 주위에 화석화된 뼈의 방벽 생성",
+    "plPL": "Tworzy wokół celu barierę z kości",
+    "esMX": "Crea una barrera de hueso alrededor del objetivo",
+    "jaJP": "ターゲットを骨の壁で囲う",
+    "ptBR": "cria uma barreira de ossos em volta do alvo",
+    "ruRU": "Создает вокруг цели преграду из костей.",
+    "zhCN": "在目标周围制造出白骨屏障"
+  },
+  {
+    "Key": "d2r:skillld88",
+    "enUS": "creates a barrier of fossilized bone around your target",
+    "zhTW": "在目標四周造出石化的骸骨屏障將其困住",
+    "deDE": "Erschafft eine Barriere aus versteinerten Knochen rund um Euer Ziel.",
+    "esES": "Crea una barrera de huesos fosilizados\nalrededor de tu objetivo.",
+    "frFR": "crée une barrière d’os fossilisés autour de votre cible",
+    "itIT": "Crea una barriera d'ossa intorno al bersaglio",
+    "koKR": "대상 주위에 화석화된 뼈의 방벽을 생성합니다.",
+    "plPL": "Tworzy wokół celu barierę ze skamieniałych kości",
+    "esMX": "Crea una barrera de hueso fosilizado alrededor de tu objetivo",
+    "jaJP": "ターゲットの周囲に化石化した骨の壁を作り出す",
+    "ptBR": "cria uma barreira de ossos fossilizados em volta do alvo",
+    "ruRU": "Создает вокруг цели преграду\nиз окаменевших костей.",
+    "zhCN": "在目标周围制造出石化白骨屏障"
+  },
+  {
+    "Key": "d2r:skillan88",
+    "enUS": "Bone Prison",
+    "zhTW": "骨牢",
+    "deDE": "Knochengefängnis",
+    "esES": "Prisión de huesos",
+    "frFR": "Cage thoracique",
+    "itIT": "Prigione d'Ossa",
+    "koKR": "뼈 감옥",
+    "plPL": "Więzienie z Kości",
+    "esMX": "Prisión de huesos",
+    "jaJP": "ボーンプリズン",
+    "ptBR": "Prisão de Ossos",
+    "ruRU": "Костяная клетка",
+    "zhCN": "骨牢"
+  },
+  {
+    "Key": "d2r:skillname96",
+    "enUS": "Sacrifice",
+    "zhTW": "犧牲打擊",
+    "deDE": "Opfer",
+    "esES": "Sacrificio",
+    "frFR": "Sacrifice",
+    "itIT": "Sacrificio",
+    "koKR": "희생",
+    "plPL": "Poświęcenie",
+    "esMX": "Sacrificio",
+    "jaJP": "献身",
+    "ptBR": "Sacrifício",
+    "ruRU": "Жертва",
+    "zhCN": "牺牲"
+  },
+  {
+    "Key": "d2r:skillan96",
+    "enUS": "Sacrifice",
+    "zhTW": "犧牲打擊",
+    "deDE": "Opfer",
+    "esES": "Sacrificio",
+    "frFR": "Sacrifice",
+    "itIT": "Sacrificio",
+    "koKR": "희생",
+    "plPL": "Poświęcenie",
+    "esMX": "Sacrificio",
+    "jaJP": "献身",
+    "ptBR": "Sacrifício",
+    "ruRU": "Жертва",
+    "zhCN": "牺牲"
+  },
+  {
+    "Key": "d2r:strEskilllighttoattack",
+    "frFR": "Dégâts de Foudre: %d-%d à votre attaque"
+  },
+  {
+    "Key": "d2r:skillxld8",
+    "enUS": "magically enhances your arrows or bolts\nby adding cold damage and a slowing effect",
+    "zhTW": "以魔法強化你的箭矢或弩箭\n附加冰寒傷害與緩速效果",
+    "deDE": "Verzaubert Eure Pfeile oder Bolzen, sodass\nsie zusätzlich Kälteschaden verursachen und verlangsamen.",
+    "esES": "Mejora tus flechas o saetas con magia para\nañadirles daño de frío y un efecto ralentizador.",
+    "frFR": "la magie améliore vos flèches ou traits en y\najoutant des dégâts de Froid et un effet ralentissant",
+    "itIT": "Incanta frecce e dardi\nper aggiungere danni da freddo e un effetto rallentante",
+    "koKR": "마법으로 화살을 강화하여\n냉기 피해와 감속 효과를 추가합니다.",
+    "plPL": "Magicznie zaklina strzały lub bełty, by zadawały\nobrażenia od zimna i spowalniały cel",
+    "esMX": "Potencia mágicamente tus flechas o saetas\ncon daño de frío y un efecto de ralentización",
+    "jaJP": "魔法で矢またはボルトに冷気を付与し、\n敵に冷気ダメージを与えて動きを鈍らせる",
+    "ptBR": "aprimora magicamente suas flechas ou setas\ncom dano gélido e um efeito de lentidão",
+    "ruRU": "Стрелы или болты наносят\nурон от льда и замедляют врагов.",
+    "zhCN": "用魔法强化你的箭矢或弩矢\n附加冰霜伤害并具有减速效果"
+  },
+  {
+    "Key": "d2r:skillxld11",
+    "enUS": "magically enhances your arrows or bolts\nby adding cold damage and a slowing effect",
+    "zhTW": "以魔法強化你的箭矢或弩箭\n附加冰寒傷害與緩速效果",
+    "deDE": "Verzaubert Eure Pfeile oder Bolzen, sodass\nsie zusätzlich Kälteschaden verursachen und verlangsamen.",
+    "esES": "Mejora tus flechas o saetas con magia para\nañadirles daño de frío y un efecto ralentizador.",
+    "frFR": "la magie améliore vos flèches ou traits en y\najoutant des dégâts de Froid et un effet ralentissant",
+    "itIT": "Incanta frecce e dardi\nper aggiungere danni da freddo e un effetto rallentante",
+    "koKR": "마법으로 화살을 강화하여\n냉기 피해와 감속 효과를 추가합니다.",
+    "plPL": "Magicznie zaklina strzały lub bełty, by zadawały\nobrażenia od zimna i spowalniały cel",
+    "esMX": "Potencia mágicamente tus flechas o saetas\ncon daño de frío y un efecto de ralentización",
+    "jaJP": "魔法で矢またはボルトに冷気を付与し、\n敵に冷気ダメージを与えて動きを鈍らせる",
+    "ptBR": "aprimora magicamente suas flechas ou setas\ncom dano gélido e um efeito de lentidão",
+    "ruRU": "Стрелы или болты наносят\nурон от льда и замедляют врагов.",
+    "zhCN": "用魔法强化你的箭矢或弩矢\n附加冰霜伤害并具有减速效果"
+  },
+  {
+    "Key": "d2r:Sksyn",
+    "frFR": "%s reçoit du bonus de:"
+  },
+  {
+    "Key": "d2r:Damplev",
+    "frFR": "%s: %+d%% de dégâts par niveau"
+  },
+  {
+    "Key": "d2r:ElemDampLev",
+    "frFR": "%s: %+d%% de dégâts élémentaires par niveau"
+  },
+  {
+    "Key": "d2r:Firedplev",
+    "frFR": "%s: %+d%% de dégâts de Feu par niveau"
+  },
+  {
+    "Key": "d2r:Colddplev",
+    "frFR": "%s: %+d%% de dégâts de Froid par niveau"
+  },
+  {
+    "Key": "d2r:Ltngdplev",
+    "frFR": "%s: %+d%% de dégâts de Foudre par niveau"
+  },
+  {
+    "Key": "d2r:Poisdplev",
+    "frFR": "%s: %+d%% de dégâts de Poison par niveau"
+  },
+  {
+    "Key": "d2r:Magdplev",
+    "frFR": "%s: %+d%% de dégâts magiques par niveau"
+  },
+  {
+    "Key": "d2r:Rangplev",
+    "frFR": "%s: %+d.%d mètres par niveau"
+  },
+  {
+    "Key": "d2r:AttRateplev",
+    "frFR": "%s: %+d%% au score d’attaque par niveau"
+  },
+  {
+    "Key": "d2r:Defplev",
+    "frFR": "%s: %+d%% de Défense par niveau"
+  },
+  {
+    "Key": "d2r:Missplev3",
+    "frFR": "%s: %+dpointe(s) tous les %dniveaux"
+  },
+  {
+    "Key": "d2r:Boltplev3",
+    "frFR": "%s: %+déclair(s) tous les %dniveaux"
+  },
+  {
+    "Key": "d2r:Shotplev3",
+    "frFR": "%s: %+dtir(s) tous les %dniveaux"
+  },
+  {
+    "Key": "d2r:Hpplev",
+    "frFR": "%s: %+d%% de Vie par niveau"
+  },
+  {
+    "Key": "d2r:Durateplev",
+    "frFR": "%s: %+d%% à la durée par niveau"
+  },
+  {
+    "Key": "d2r:FrezLenplev",
+    "frFR": "%s: %+d%% à la durée de gel par niveau"
+  },
+  {
+    "Key": "d2r:Secplev2",
+    "frFR": "%s: %+d s par niveau"
+  },
+  {
+    "Key": "d2r:Damabsplev",
+    "frFR": "%s: %+d pts de dégâts absorbés par niveau"
+  },
+  {
+    "Key": "d2r:Hbdplev",
+    "frFR": "%s: %+d%% de dégâts de Trait sacré par niveau"
+  },
+  {
+    "Key": "d2r:Healplev",
+    "frFR": "%s: %+d%% de PV rendus par niveau"
+  },
+  {
+    "Key": "d2r:Healplev2",
+    "frFR": "%s: %+d pts de vie rendus toutes les 2 s"
+  },
+  {
+    "Key": "d2r:FanYDam",
+    "frFR": "Vos dégâts: %+d%%"
+  },
+  {
+    "Key": "d2r:PartDam",
+    "frFR": "Dégâts du groupe: %+d%%"
+  },
+  {
+    "Key": "d2r:AFDImm",
+    "frFR": "%s: %+d%% de dégâts de Feu par s et par niv. en moyenne"
+  },
+  {
+    "Key": "d2r:Cgslow",
+    "frFR": "Ralentit les ennemis: %d%%"
+  },
+  {
+    "Key": "d2r:Corexpdam",
+    "frFR": "Dégâts d’Explosion macabre: %d-%d%% de Vie du cadavre"
+  },
+  {
+    "Key": "d2r:StrSkill43a",
+    "enUS": "%d skeleton mage",
+    "zhTW": "骷髏法師：%d",
+    "deDE": "%d Skelettmagier",
+    "esES": "%d mago esqueleto",
+    "frFR": "%d mage squelette",
+    "itIT": "%d mago scheletro",
+    "koKR": "해골 마법학자 %d마리",
+    "plPL": "Liczba magów: %d",
+    "esMX": "%d mago esquelético",
+    "jaJP": "スケルトン・メイジ%d体",
+    "ptBR": "%d mago esqueleto",
+    "ruRU": "Всего скелетов-магов: %d",
+    "zhCN": "%d个骷髅法师"
+  },
+  {
+    "Key": "d2r:StrSkill44a",
+    "enUS": "%d skeleton magi",
+    "zhTW": "骷髏法師：%d",
+    "deDE": "%d Skelettmagier",
+    "esES": "%d magos esqueletos",
+    "frFR": "%d mages squelette",
+    "itIT": "%d maghi scheletri",
+    "koKR": "해골 마법학자 %d마리",
+    "plPL": "Liczba magów: %d",
+    "esMX": "%d magos esqueléticos",
+    "jaJP": "スケルトン・メイジ%d体",
+    "ptBR": "%d magos esqueletos",
+    "ruRU": "Всего скелетов-магов: %d",
+    "zhCN": "%d个骷髅法师"
+  },
+  {
+    "Key": "d2r:EskillPetLife",
+    "frFR": "Vie du familier: "
+  },
+  {
+    "Key": "d2r:EskillWolfDef",
+    "frFR": "Défense du loup: "
+  },
+  {
+    "Key": "d2r:Eskillincaseraven",
+    "frFR": "Coût en mana par corbeau: %d"
+  },
+  {
+    "Key": "d2r:Eskillkickdamage",
+    "frFR": "Dégâts de Coup de pied: %+d%%"
+  },
+  {
+    "Key": "d2r:EskillPerBlade",
+    "frFR": "Coût en mana: %d par lame"
+  },
+  {
+    "Key": "d2r:Eskillelementaldmg",
+    "frFR": "Dégâts de concentration élém.: "
+  },
+  {
+    "Key": "d2r:ESkillHawk",
+    "frFR": "Corbeaux max: %d"
+  },
+  {
+    "Key": "d2r:ESkillSpikes",
+    "frFR": "Piques: %d"
+  },
+  {
+    "Key": "d2r:ESkillStars",
+    "frFR": "Étoiles: "
+  },
+  {
+    "Key": "d2r:ESkillWolf",
+    "frFR": "Loup: "
+  },
+  {
+    "Key": "d2r:ESkillWolves",
+    "frFR": "Loups max: %d"
+  },
+  {
+    "Key": "d2r:EskillLifeSteal",
+    "frFR": "Vol de vie: %+d%%"
+  },
+  {
+    "Key": "d2r:Eskillchancetostun",
+    "frFR": "Chances d’étourdir: "
+  },
+  {
+    "Key": "d2r:Eskillchancetoafflict",
+    "frFR": "Chances d’infecter la cible: "
+  },
+  {
+    "Key": "d2r:Eskillpudburning",
+    "frFR": "dégâts par brûlure: "
+  },
+  {
+    "Key": "d2r:EskillManaSteal",
+    "frFR": "Vol de mana: %+d%%"
+  },
+  {
+    "Key": "d2r:Eskillferalpets",
+    "frFR": "Animaux sauvages: "
+  },
+  {
+    "Key": "d2r:Eskillmanarecov",
+    "frFR": "Mana récuperé: "
+  },
+  {
+    "Key": "d2r:Eskillphoenix1",
+    "frFR": "Charge 1 - Dégâts de Météore: %d-%d"
+  },
+  {
+    "Key": "d2r:Eskillphoenix2",
+    "frFR": "Charge 2 - Dégâts de Chaîne d’éclairs: %d-%d"
+  },
+  {
+    "Key": "d2r:Eskillphoenix3",
+    "frFR": "Charge 3 - Dégâts des traits de glace: %d-%d"
+  },
+  {
+    "Key": "d2r:Eskillthunder1",
+    "frFR": "Charge 1 - Dégâts de Foudre: %d-%d"
+  },
+  {
+    "Key": "d2r:Eskillthunder2",
+    "frFR": "Charge 2 - Dégâts de Nova: %d-%d"
+  },
+  {
+    "Key": "d2r:Eskillthunder3",
+    "frFR": "Charge 3 - Dégâts des trait de Foudre: %d-%d"
+  },
+  {
+    "Key": "d2r:Eskillfistsoffire1",
+    "frFR": "Charge 1 - Dégâts de Feu: %d-%d"
+  },
+  {
+    "Key": "d2r:Eskillfistsoffire2",
+    "frFR": "Charge 2 - Rayon des dégâts de Feu: %d mètres"
+  },
+  {
+    "Key": "d2r:Eskillfistsoffire3",
+    "frFR": "Charge 3 - Moy. des dégâts de Feu: %d-%d par sec."
+  },
+  {
+    "Key": "d2r:Eskillbladesofice1",
+    "frFR": "Charge 1 - Dégâts de Froid: %d-%d"
+  },
+  {
+    "Key": "d2r:Eskillbladesofice2",
+    "frFR": "Charge2 - Rayon des dégâts de Froid: %dmètres"
+  },
+  {
+    "Key": "d2r:StrSkillAttackRating",
+    "frFR": "Score d’attaque: %d"
+  },
+  {
+    "Key": "d2r:StrSkillDamageToUndead",
+    "frFR": "Dégâts aux Morts-vivants: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillDefense",
+    "frFR": "Défense: %d"
+  },
+  {
+    "Key": "d2r:StrSkillRunWalkRange",
+    "frFR": "Vitesse de marche/course: %+d-%d%%"
+  },
+  {
+    "Key": "d2r:StrSkillAttackSpeedRange",
+    "frFR": "Vitesse d’attaque: %+d-%d%%"
+  },
+  {
+    "Key": "d2r:StrSkillDamagePercent",
+    "frFR": "Dégâts: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillFireDamagePercent",
+    "frFR": "Dégâts de Feu: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillColdDamagePercent",
+    "frFR": "Dégâts de Froid: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillLightningDamagePercent",
+    "frFR": "Dégâts de Foudre: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillMagicDamagePercent",
+    "frFR": "Dégâts magiques: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillAssassinCobraStrikeCharge1",
+    "frFR": "Charge 1 - Vol de vie: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillLifeStealRange",
+    "frFR": "Vol de vie: %+d-%d%%"
+  },
+  {
+    "Key": "d2r:StrSkillHealPercent",
+    "frFR": "Soins: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillHealFlat",
+    "frFR": "Soins: %+d"
+  },
+  {
+    "Key": "d2r:StrSkillManaCostPerSecond",
+    "frFR": "Coût en mana: %d par seconde"
+  },
+  {
+    "Key": "d2r:StrSkillDamageFlat",
+    "frFR": "Dégâts: %+d"
+  },
+  {
+    "Key": "d2r:StrSkillDamagePercentRange",
+    "frFR": "Dégâts: %+d-%d%%"
+  },
+  {
+    "Key": "d2r:StrSkillLifePercent",
+    "frFR": "Vie: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillMonstersCount",
+    "frFR": "Monstres: %d"
+  },
+  {
+    "Key": "d2r:StrSkillFireDamageToYourAttack",
+    "frFR": "Dégâts de Feu: %d-%d à votre attaque"
+  },
+  {
+    "Key": "d2r:StrSkillColdDamageToYourAttack",
+    "frFR": "Dégâts de Froid: %d-%d à votre attaque"
+  },
+  {
+    "Key": "d2r:StrSkillSmiteDamage",
+    "frFR": "Dégâts d’Expiation: %+d-%d"
+  },
+  {
+    "Key": "d2r:StrSkillFireDamageAveragePerSecond",
+    "frFR": "Dégâts de Feu: %d-%d par seconde"
+  },
+  {
+    "Key": "d2r:StrSkillColdDamageAveragePerSecond",
+    "frFR": "Dégâts de Froid: %d-%d par seconde"
+  },
+  {
+    "Key": "d2r:StrSkillLightningDamageAveragePerSecond",
+    "frFR": "Dégâts de Foudre: %d-%d par seconde"
+  },
+  {
+    "Key": "d2r:StrSkillAttackRatingPerLevelFlat",
+    "frFR": "%s: %+d au score d’attaque par niveau"
+  },
+  {
+    "Key": "d2r:StrSkillDefensePerLevelFlat",
+    "frFR": "%s: %+d pts de défense par niveau"
+  },
+  {
+    "Key": "d2r:StrSkillAssassinTigerStrikeCharge1",
+    "frFR": "Charge 1 - Dégâts: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillAssassinTigerStrikeCharge2",
+    "frFR": "Charge 2 - Dégâts: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillAssassinTigerStrikeCharge3",
+    "frFR": "Charge 3 - Dégâts: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillHolyFireDamageRange",
+    "frFR": "Feu sacré: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkillSleketonMasterySkeletonDamage",
+    "zhTW": "骷髏 - 傷害：%+d",
+    "deDE": "Skelette: Schaden: %+d",
+    "esES": "Esqueletos: daño: %+d p.",
+    "frFR": "Dégâts des squelettes: %+d",
+    "itIT": "Danni scheletri: %+d",
+    "koKR": "해골: 공격력: %+d",
+    "plPL": "Obrażenia szkieletów: %+d",
+    "esMX": "Esqueletos: Daño: %+d",
+    "jaJP": "スケルトンのダメージ: %+d",
+    "ptBR": "Esqueletos: Dano: %+d",
+    "ruRU": "Урон скелетов: %+d",
+    "zhCN": "骷髅: 伤害: %+d"
+  },
+  {
+    "Key": "d2r:StrSkillSleketonMasteryMonsterDamage",
+    "frFR": "Dégâts des monstres: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillDurationRange",
+    "frFR": "Durée: %d-%d secondes"
+  },
+  {
+    "Key": "d2r:StrSkillRadiusSingular",
+    "enUS": "Radius: %d meters",
+    "zhTW": "範圍：%d 公尺",
+    "frFR": "Portée: %d mètre",
+    "esMX": "Radio: %d metros",
+    "jaJP": "範囲: %dメートル",
+    "ptBR": "Raio: %d metros",
+    "zhCN": "半径: %d米"
+  },
+  {
+    "Key": "d2r:StrSkillRangeSingular",
+    "enUS": "Range: %d meters",
+    "zhTW": "範圍：%d 公尺",
+    "frFR": "Portée: %d mètre",
+    "esMX": "Alcance: %d metros",
+    "jaJP": "射程: %dメートル",
+    "ptBR": "Alcance: %d metros",
+    "zhCN": "射程: %d米"
+  },
+  {
+    "Key": "d2r:StrSkillDurationSingular",
+    "frFR": "Durée: %d seconde"
+  },
+  {
+    "Key": "d2r:StrSkillColdLengthSingular",
+    "frFR": "Durée du Froid: %d seconde"
+  },
+  {
+    "Key": "d2r:StrSkillFireDurationSingular",
+    "frFR": "Durée du feu: %dseconde"
+  },
+  {
+    "Key": "d2r:StrSkillStunLengthSingular",
+    "frFR": "Durée d’étourdissement: %dseconde"
+  },
+  {
+    "Key": "d2r:StrSkillDurationPlus",
+    "frFR": "Durée: %+ds"
+  },
+  {
+    "Key": "d2r:StrSkillDefenseFlatBonus",
+    "frFR": "Défense: %+d"
+  },
+  {
+    "Key": "d2r:StrSkillAttackRatingFlatBonus",
+    "frFR": "Score d’attaque: %+d"
+  },
+  {
+    "Key": "d2r:TooltipSkillLevelBonus",
+    "frFR": "Niv. de compétence actuel: %d (de base: %d)"
+  },
+  {
+    "Key": "d2r:StrSkillEnemyDefenseFlatBonus",
+    "frFR": "Défense de l’ennemi: %+d"
+  },
+  {
+    "Key": "d2r:StrSkillRangeRadius",
+    "frFR": "Rayon de la portée: %dmètres"
+  },
+  {
+    "Key": "d2r:StrSkillKnockbackRadius",
+    "frFR": "Rayon du renversement: %dmètres"
+  },
+  {
+    "Key": "d2r:StrSkillMaxResistFireActive",
+    "frFR": "Résistance au Feu maximum: +%d%% (active)"
+  },
+  {
+    "Key": "d2r:StrSkillMaxResistFirePassive",
+    "frFR": "Résistance au Feu maximum: +%d%% (passive)"
+  },
+  {
+    "Key": "d2r:StrSkillMaxResistColdActive",
+    "frFR": "Résistance au Froid maximum: +%d%% (active)"
+  },
+  {
+    "Key": "d2r:StrSkillMaxResistColdPassive",
+    "frFR": "Résistance au Froid maximum: +%d%% (passive)"
+  },
+  {
+    "Key": "d2r:StrSkillMaxResistLightningActive",
+    "frFR": "Résistance à la Foudre maximum: +%d%% (active)"
+  },
+  {
+    "Key": "d2r:StrSkillMaxResistLightningPassive",
+    "frFR": "Résistance à la Foudre maximum: +%d%% (passive)"
+  },
+  {
+    "Key": "d2r:StrSkillHydraMax",
+    "frFR": "Hydres max.: %d"
+  },
+  {
+    "Key": "d2r:StrSkillCastingDelaySingular",
+    "frFR": "Délai d’incantation: %dseconde"
+  },
+  {
+    "Key": "d2r:StrSkillCastingDelayPlural",
+    "frFR": "Délai d’incantation: %ds"
+  },
+  {
+    "Key": "d2r:StrSkillManaConsumedRatio",
+    "frFR": "Mana consommé par dégâts: %d%%"
+  },
+  {
+    "Key": "d2r:StrSkillManaConsumedSynergy",
+    "frFR": "%s: %d%% de mana consommé par niveau"
+  },
+  {
+    "Key": "d2r:StrSkillBlazeDuration",
+    "frFR": "Durée de Flamboiement: %dsecondes"
+  },
+  {
+    "Key": "d2r:StrSkillSynergySecondsDecimal",
+    "frFR": "%s: %+d,%dsec. par niveau"
+  },
+  {
+    "Key": "d2r:StrSkillAttackRatingActive",
+    "frFR": "Score d’attaque: +%d%% (active)"
+  },
+  {
+    "Key": "d2r:StrSkillAttackRatingPassive",
+    "frFR": "Score d’attaque: +%d%% (passive)"
+  },
+  {
+    "Key": "d2r:StrSkillDamageTakenPerLevel",
+    "frFR": "%s: %+d%% de dégâts subis par niveau"
+  },
+  {
+    "Key": "d2r:StrSkillEnemyDamageTaken",
+    "frFR": "Dégâts ennemis subis: %+d%"
+  },
+  {
+    "Key": "d2r:SkillItemMetamorphosisBear",
+    "frFR": "\n%s \n%s\nMarque de l’ours:\nLes frappes de l’ursoïde accordent la marque pendant%s."
+  },
+  {
+    "Key": "d2r:SkillItemMetamorphosisWolf",
+    "frFR": "\n%s \n%s\nMarque du loup:\nLes frappes du loup-garou accordent la marque pendant%s."
+  },
+  {
+    "Key": "d2r:LethargySigilName",
+    "frFR": "Sceau: Léthargie"
+  },
+  {
+    "Key": "d2r:LethargySigilAN",
+    "frFR": "Sceau: Léthargie"
+  },
+  {
+    "Key": "d2r:RancorSigilName",
+    "frFR": "Sceau: Rancœur"
+  },
+  {
+    "Key": "d2r:RancorSigilAN",
+    "frFR": "Sceau: Rancœur"
+  },
+  {
+    "Key": "d2r:EnhancedEntropyShortDesc",
+    "deDE": "Passiv– Verbessert Eure Beherrschung der entropischen Kräfte\nder Schattenmagie."
+  },
+  {
+    "Key": "d2r:EnhancedEntropyLongDesc",
+    "deDE": "Passiv– Verbessert Eure Beherrschung der entropischen Kräfte\nder Schattenmagie."
+  },
+  {
+    "Key": "d2r:DeathSigilName",
+    "frFR": "Sceau: Mort"
+  },
+  {
+    "Key": "d2r:DeathSigilAN",
+    "frFR": "Sceau: Mort"
+  },
+  {
+    "Key": "d2r:AbyssShortDesc",
+    "plPL": "Tworzysz wyrwę wosnowie rzeczywistości, która przyciąga wrogów,\n a następnie gwałtownie się zapada"
+  },
+  {
+    "Key": "d2r:AbyssLongDesc",
+    "plPL": "Tworzysz wyrwę wosnowie rzeczywistości, która przyciąga wrogów,\n a następnie gwałtownie się zapada"
+  },
+  {
+    "Key": "d2r:LevitateShortDesc",
+    "deDE": "Passiv– Verbessert Eure Fähigkeit, Eure ausgerüstete Waffe\nmit Eurem Geist schweben zu lassen."
+  },
+  {
+    "Key": "d2r:LevitateLongDesc",
+    "deDE": "Passiv– Verbessert Eure Fähigkeit, Eure ausgerüstete Waffe\nmit Eurem Geist schweben zu lassen."
+  },
+  {
+    "Key": "d2r:PsychicWardName",
+    "koKR": "정신결계"
+  },
+  {
+    "Key": "d2r:PsychicWardAN",
+    "koKR": "정신결계"
+  },
+  {
+    "Key": "d2r:BaneHexName",
+    "frFR": "Maléfice: Fléau"
+  },
+  {
+    "Key": "d2r:BaneHexAN",
+    "frFR": "Maléfice: Fléau"
+  },
+  {
+    "Key": "d2r:SiphonHexName",
+    "frFR": "Maléfice: Siphon"
+  },
+  {
+    "Key": "d2r:SiphonHexAN",
+    "frFR": "Maléfice: Siphon"
+  },
+  {
+    "Key": "d2r:PurgeHexName",
+    "frFR": "Maléfice: Purge"
+  },
+  {
+    "Key": "d2r:PurgeHexAN",
+    "frFR": "Maléfice: Purge"
+  },
+  {
+    "Key": "d2r:DemonicMasteryShortDesc",
+    "deDE": "Passiv– Verstärkt Eure beschworenen und gebundenen Dämonen."
+  },
+  {
+    "Key": "d2r:DemonicMasteryLongDesc",
+    "deDE": "Passiv– Verstärkt Eure beschworenen und gebundenen Dämonen."
+  },
+  {
+    "Key": "d2r:BloodOathLongDesc",
+    "deDE": "Passiv– Bindet die Lebensenergie Eures Dämons,\num Euch vor gegnerischen Angriffen zu schützen."
+  },
+  {
+    "Key": "d2r:StrSkillDemonAllResist",
+    "frFR": "Résistances de votre démon: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillMagicDamageAveragePerSecond",
+    "frFR": "Dégâts magiques: %d-%d par seconde"
+  },
+  {
+    "Key": "d2r:StrSkillBonusSkillStun",
+    "frFR": "Durée d’étourdissement: %d"
+  },
+  {
+    "Key": "d2r:StrSkillLifeAfterKill",
+    "frFR": "Points de vie après chaque victime: %+d"
+  },
+  {
+    "Key": "d2r:StrSkillBindSouls",
+    "frFR": "Nombre d’âmes liées max.: %d"
+  },
+  {
+    "Key": "d2r:StrSkillSlayEnemies",
+    "frFR": "Tue les ennemis avec moins de %d%%points de vie"
+  },
+  {
+    "Key": "d2r:StrSkillDemonDamage",
+    "frFR": "Dégâts: %d-%d"
+  },
+  {
+    "Key": "d2r:StrSkillLifeCostDemon",
+    "frFR": "Coût en points de vie du démon: %d%%"
+  },
+  {
+    "Key": "d2r:StrSkillChanceToSucceed",
+    "frFR": "Chances de lier: %d%%"
+  },
+  {
+    "Key": "d2r:StrSkillDemonicMasteryDemonDamage",
+    "frFR": "Dégâts: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillDemonicMasteryDemonLife",
+    "frFR": "Points de vie de votre démon: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillMagicResist",
+    "frFR": "Résistance à la magie: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillManaAfterKill",
+    "frFR": "Points de mana après chaque victime: %+d"
+  },
+  {
+    "Key": "d2r:StrSkillCritChance",
+    "frFR": "Chances d’infliger un coup critique: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillHealPercentDemon",
+    "frFR": "Soigne les points de vie du démon: %+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillRequirements",
+    "frFR": "Prérequis d’armes: %+d%%",
+    "jaJP": "武器の必要ステータス:%+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillEnemyAttackRating",
+    "jaJP": "敵の命中率:%+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillEnemyDefense",
+    "jaJP": "敵の防御力:%+d%%"
+  },
+  {
+    "Key": "d2r:StrSkillEffectWidth",
+    "frFR": "Largeur: %dmètres"
+  },
+  {
+    "Key": "d2r:StrSkillEffectWidthSingular",
+    "frFR": "Largeur: %dmètre"
+  },
+  {
+    "Key": "d2r:StrSkillExplodeChance",
+    "frFR": "Chances d’exploser: %+d%%"
+  },
+  {
+    "Key": "d2r:HexPurgeMagicExplosionDamage",
+    "frFR": "Dégâts d’explosion magique: %d-%d"
+  },
+  {
+    "Key": "d2r:SigilDeathExplosionDamage",
+    "frFR": "Dégâts d’explosion de feu: %d-%d%% des points de vie des ennemis tués"
+  },
+  {
+    "Key": "d2r:ShadowMasteryMiasmaDurationIncrease",
+    "frFR": "+%ds à la durée des miasmes"
+  },
+  {
+    "Key": "d2r:ShadowMasteryMiasmaRangeIncrease",
+    "frFR": "Rayon des miasmes: %dmètres"
+  },
+  {
+    "Key": "d2r:ShadowMasteryAbyssRangeIncrease",
+    "frFR": "Rayon d’Abîme bonus: +%dmètres"
+  },
+  {
+    "Key": "d2r:AMDImm",
+    "frFR": "%s: %+d%% de dégâts magiques par seconde et par niveau en moyenne"
+  },
+  {
+    "Key": "d2r:SynHealthRegenPerLvl",
+    "frFR": "%s: +%d de récupération de vie par niveau"
+  },
+  {
+    "Key": "d2r:SynEnemyHexDuration",
+    "frFR": "%s: +%d à la durée de maléfice par niveau"
+  },
+  {
+    "Key": "d2r:HexEnemyDuration",
+    "frFR": "Durée de maléfice: %ds"
+  },
+  {
+    "Key": "d2r:SynHexSiphonLifeManaSteal",
+    "frFR": "%s: +%dpoints de mana et de vie après chaque victime par niveau"
+  },
+  {
+    "Key": "d2r:SynHexPurgeChanceToErupt",
+    "frFR": "%s: %+d%% de chances d’exploser par niveau"
+  },
+  {
+    "Key": "d2r:MirroredBladesDamagePercent",
+    "frFR": "Dégâts de Lames miroir: %d%%"
+  },
+  {
+    "Key": "d2r:SynGoatmanCrushingBlowPerLevel",
+    "frFR": "%s: %+d%% de chances de coups écrasants par niveau"
+  },
+  {
+    "Key": "d2r:StrSkillDemonicMasteryDemonAC",
+    "frFR": "Défense: %+d"
+  },
+  {
+    "Key": "d2r:SynDefenseFlatPerLevel",
+    "frFR": "%s: %+d points de défense par niveau"
+  },
+  {
+    "Key": "d2r:SynChanceToBindPerLevel",
+    "frFR": "%s: +%d%% de lier un démon par niveau"
+  },
+  {
+    "Key": "d2r:StrSkillHealthLinkDamageSharePercent",
+    "frFR": "Dégâts partagés entre les cibles liées: %d%%"
+  },
+  {
+    "Key": "d2r:StrSkillConsumePetBonus",
+    "frFR": "Bonus de %s:"
+  },
+  {
+    "Key": "d2r:StrSkillMiasmaCloudRadius",
+    "frFR": "Rayon des miasmes: %d"
+  },
+  {
+    "Key": "d2r:StrSkillMirroredBladesDuplicates",
+    "frFR": "Armes miroir créées: %d"
+  },
+  {
+    "Key": "d2r:SynEchoingStrikeDuplicates",
+    "frFR": "%s: échos supplémentaires crées tous les cinq niveaux - %d"
+  },
+  {
+    "Key": "d2r:SynCleaveArcRadius",
+    "frFR": "%s: augmentation de l’arc de Fendoir tous les cinq niveaux - %ddegrés"
+  },
+  {
+    "Key": "d2r:StrSkillCleaveArcRadius",
+    "frFR": "Arc de Fendoir: %ddegrés"
+  },
+  {
+    "Key": "d2r:StrSkillHexPurgeExplosionCount",
+    "frFR": "Maléfice supprimé après %dexplosions"
+  },
+  {
+    "Key": "d2r:StrSkillDamagePercentage",
+    "frFR": "Dégâts: +%d%%"
+  },
+  {
+    "Key": "d2r:SynBladeWarpDuplicates",
+    "frFR": "%s: armes astrales supplémentaires créées tous les cinq niveaux - %d"
+  },
+  {
+    "Key": "d2r:StrSkillRingOfFireDamagePerFrameBonus",
+    "frFR": "+%d%%dégâts de Feu par mètre"
+  },
+  {
+    "Key": "d2r:StrSkillHexPurgeExplosionCountSingular",
+    "frFR": "Maléfice supprimé après %dexplosion"
+  },
+  {
+    "Key": "d2r:StrSkillDemonMaxCount",
+    "frFR": "Nombre de démons max.: %d"
+  },
+  {
+    "Key": "d2r:StrSkillChainMaxCount",
+    "zhTW": "鎖鏈上限：%d",
+    "deDE": "Max. Ketten: %d",
+    "esES": "Máximo de cadenas: %d",
+    "frFR": "Chaînes max.: %d",
+    "itIT": "Catene massime: %d",
+    "koKR": "사슬 최대 수: %d",
+    "plPL": "Maksymalna liczba łańcuchów: %d",
+    "esMX": "Máximo de cadenas: %d",
+    "jaJP": "最大連鎖: %d",
+    "ptBR": "Máximo de cadeias: %d",
+    "ruRU": "Максимум цепей: %d",
+    "zhCN": "最大锁链数: %d"
+  },
+  {
+    "Key": "d2r:PlayStationActivityHintRiteOfPassageDescription",
+    "enUS": "Madawc’s double throw can stun you long enough for the others to land fatal blows. Try targeting him first.",
+    "zhTW": "馬道克的雙手投擲技能會使你昏迷，讓另外兩人能趁機對你造成致命傷害。盡量優先打敗他。",
+    "deDE": "Madawcs Doppelwurf kann Euch lang genug betäuben, dass die anderen beiden tödliche Treffer landen können. Versucht, ihn zuerst auszuschalten.",
+    "esES": "El lanzamiento doble de Madawc puede aturdirte el tiempo suficiente para que los demás acaben contigo. Empieza atacándolo a él.",
+    "frFR": "Le double lancer de Madawc peut vous étourdir assez longtemps pour que les autres vous assènent des coups mortels. Tâchez de le viser en premier.",
+    "itIT": "Il Doppio Lancio di Madawc può stordirti abbastanza a lungo da permettere agli altri Antichi di finirti. Prova a eliminarlo per primo.",
+    "koKR": "마도크의 이중 투척에 적중당하면 기절하여 다른 고대인의 공격에 무방비로 노출될 수 있으므로, 마도크를 먼저 노리십시오.",
+    "plPL": "Podwójny Rzut Madoka może cię ogłuszyć na tyle długo, by pozostali Starożytni zadali ci śmiertelny cios. Spróbuj wyeliminować go jako pierwszego.",
+    "esMX": "El lanzamiento doble de Madawc puede aturdirte lo suficiente para que otros den golpes fatales. Intenta tenerlo a él como objetivo primero.",
+    "jaJP": "マドウクのダブルスローをくらうと、スタンして敵から集中攻撃を浴びてしまう可能性がある。マドウクを最初に狙おう。",
+    "ptBR": "O arremesso duplo de Madawc pode atordoar por tempo o bastante para que outros inimigos desfiram golpes fatais. Tente atacá-lo primeiro.",
+    "ruRU": "Мадавк может оглушить вас двойным броском и позволить своим соратникам нанести смертельный урон. Постарайтесь атаковать его первым.",
+    "zhCN": "马道克的双手投掷会击晕你，让你无法躲避其他先祖的致命打击。最好先解决他。"
+  },
+  {
+    "Key": "d2r:MagicFormat",
+    "esES": "a0n1:%0 %1 %2"
+  },
+  {
+    "Key": "d2r:StrUI1",
+    "zhTW": "骷髏",
+    "deDE": "Skelettkrieger",
+    "esES": "Esqueleto",
+    "frFR": "Squelette",
+    "itIT": "Scheletro",
+    "koKR": "해골",
+    "plPL": "Szkielet",
+    "esMX": "Esqueleto",
+    "jaJP": "スケルトン",
+    "ptBR": "Esqueleto",
+    "ruRU": "Скелет",
+    "zhCN": "骷髅"
+  },
+  {
+    "Key": "d2r:strAssDesc",
+    "enUS": "Schooled in the Martial Arts, her mind and body are deadly weapons.",
+    "zhTW": "武藝高超，身心都是致命性的武器。",
+    "deDE": "Da sie in den Kampfkünsten geschult ist, sind ihr Geist und ihr Körper tödliche Waffen.",
+    "esES": "El cuerpo y la mente de esta aprendiz de artes marciales son armas letales.",
+    "frFR": "Experte en arts martiaux, son esprit et son corps sont des armes mortelles.",
+    "itIT": "Esperta nelle arti marziali, la sua mente e il suo corpo sono delle armi letali.",
+    "koKR": "무도를 수련하여 몸과 마음 모두가\n치명적인 무기입니다.",
+    "plPL": "Jest wyszkolona w sztukach walki,\na jej umysł i ciało stanowią zabójczą broń.",
+    "esMX": "Gracias a su entrenamiento en artes marciales, su mente y su cuerpo son armas mortales.",
+    "jaJP": "体術を磨き上げ、強靭な肉体と精神を\n手に入れた暗殺者。",
+    "ptBR": "Treinada nas Artes Marciais, a mente e o corpo dela são armas mortais.",
+    "ruRU": "Ее ум и тело, отточенные боевыми искусствами, несут смерть врагам.",
+    "zhCN": "受过武术训练的她，身心都是致命的武器。"
+  },
+  {
+    "Key": "d2r:GoOnlineNotification",
+    "zhTW": "你已 30 天沒有上線。請在上線時開啟遊戲以認證產品授權。",
+    "deDE": "Du warst in den letzten 30 Tagen nicht online. Bitte starte das Spiel im Onlinemodus, um die Produktlizenz zu bestätigen.",
+    "esES": "No has iniciado sesión en los últimos 30 días. Abre el juego con conexión a internet para verificar la licencia del producto.",
+    "frFR": "Vous n’avez pas été en ligne au cours des 30 derniers jours. Veuillez lancer le jeu tout en étant en ligne afin de vérifier la licence du produit.",
+    "itIT": "Non sei online da più di 30 giorni. Gioca online per verificare la licenza del prodotto.",
+    "koKR": "지난 30일간 온라인 상태로 접속하지 않았습니다. 온라인 상태로 게임을 실행하여 제품 라이선스를 확인하십시오.",
+    "plPL": "To konto nie łączyło się z siecią od ponad 30 dni. Rozpocznij rozgrywkę w sieci, żeby zweryfikować licencję produktu.",
+    "esMX": "No te has conectado en los últimos 30 días. Inicia el juego mientras estás en línea para verificar la licencia del producto.",
+    "jaJP": "過去30日間、オンライン状態になっていません。オンライン状態でゲームを起動して製品ライセンスの有効性を検証してください。",
+    "ptBR": "Você não ficou online nenhuma vez nos últimos 30 dias. Abra o jogo enquanto estiver online para verificar a licença do produto.",
+    "ruRU": "Вы не заходили в сеть в течение 30 дней. Запустите игру, подключившись к сети, чтобы подтвердить подлинность продукта.",
+    "zhCN": "你已经30天没有在线了。请在线开始游戏以验证产品许可。"
+  },
+  {
+    "Key": "d2r:DeadPlayerCorpseName",
+    "enUS": "Corpse",
+    "zhTW": "屍體",
+    "deDE": "Leiche",
+    "esES": "Cadáver",
+    "frFR": "Cadavre",
+    "itIT": "Cadavere",
+    "koKR": "시체",
+    "plPL": "Zwłoki",
+    "esMX": "Cadáver",
+    "jaJP": "遺体",
+    "ptBR": "Cadáver",
+    "ruRU": "Труп",
+    "zhCN": "残骸"
+  },
+  {
+    "Key": "d2r:RogueSignpostGossip2",
+    "enUS": "46Halt! You should complete Akara's quest before venturing further. Search for the Enclave in the wilderness closer to camp.",
+    "zhTW": "等一下！你應該先完成阿卡拉的任務，才能繼續往前。到營地附近的荒野搜索要塞的位置。",
+    "deDE": "90Halt! Ihr solltet Akaras Aufgabe beenden, ehe Ihr weitergeht. Sucht näher beim Lager in der Wildnis nach der Enklave.",
+    "esES": "46¡Alto! Tendrás que completar la petición de Akara antes de aventurarte más lejos. Busca el Enclave en la espesura cerca del campamento.",
+    "frFR": "46Halte ! Vous devez achever la quête d’Akara avant de poursuivre votre périple. Recherchez l’Enclave dans les terres sauvages près du camp.",
+    "itIT": "46Alt! Devi compiere la missione di Akara, prima di proseguire. Cerca l'Enclave nei territori nei pressi dell'accampamento.",
+    "koKR": "멈추십시오! 더 나아가기 전에 아카라 님의 임무를 완수해야 합니다. 야영지 근처의 황야에서 요새를 찾으십시오.",
+    "plPL": "46Stój! Zanim ruszysz dalej, musisz wykonać polecenia Akary. Szukaj Enklawy w dziczy, bliżej obozowiska.",
+    "esMX": "¡Alto! Debes completar la gesta de Akara antes de seguir avanzando. Busca el Enclave en la espesura, cerca del campamento.",
+    "jaJP": "止まれ！ アカラの依頼を達成せずにこの先には進めないぞ。野営地に近い荒野で要塞を探せ。",
+    "ptBR": "Alto! Você deve concluir a missão de Akara antes de seguir em frente. Busque o Enclave na floresta perto do Acampamento Renegado.",
+    "ruRU": "Стой! Если хочешь пройти дальше, сначала выполни задание Акары. Найди анклав в пустошах рядом с лагерем.",
+    "zhCN": "停下！你必须完成阿卡拉交给你的任务，才能继续前进。到营地周围的荒原里去找那个要塞吧。"
+  },
+  {
+    "Key": "d2r:A1Q1AfterInitAkara",
+    "enUS": "46I should add that many Rogue scouts have died in that horrible place. We cannot afford to lose any more. If you choose to enter that pit of the Bound, you must do so alone.",
+    "zhTW": "我必須提醒你，許多派出去的俠盜斥候都死在那個可怕的地方，我們不能再損失更多人手了。如果你真的要進入那個束縛者的巢穴，你只能獨自前往。",
+    "deDE": "46Ich sollte hinzufügen, dass viele Kundschafter der Jägerinnen an jenem schrecklichen Ort gestorben sind. Wir können es uns nicht leisten, noch mehr zu verlieren. Wenn Ihr beschließt, diese Grube der Gebundenen zu betreten, müsst Ihr es allein tun.",
+    "esES": "46Tengo que añadir que muchas exploradoras arpías han muerto en ese horrible lugar. No puedo perder a nadie más. Si decides entrar en ese foso de los Vinculados, tendrás que hacerlo sin compañía.",
+    "frFR": "46Presque toutes nos unités d’éclaireurs rogues ont péri en cet horrible endroit. Nous ne pouvons pas nous permettre d’en perdre d’autres. Si vous décidez de pénétrer dans cette fosse des Liés, vous serez seul.",
+    "itIT": "46Molte nostre Scolte hanno trovato la morte in quel luogo. Non possiamo sostenere altre perdite. Se decidi di entrare nella fossa dei Vincolati, dovrai farlo per conto tuo.",
+    "koKR": "이미 많은 자매단 정찰대가 그곳에서 목숨을 잃었소. 더 이상의 희생은 감당할 수 없소. 정녕 속박된 자들의 구덩이에 들어가고자 한다면 혼자 가도록 하시오.",
+    "plPL": "36Muszę jeszcze dodać, że wiele z naszych sióstr, które wyruszyły na zwiady do tego okropnego miejsca, spotkała śmierć. Nie możemy pozwolić na to, żeby ten los spotkał także inne. Jeżeli zdecydujesz się zagłębić w tę jamę Związanych, to pamiętaj, że nikt ci tam nie pomoże.",
+    "esMX": "Ten cuidado, muchas exploradoras renegadas han muerto en ese horrible lugar. No podemos perder a nadie más. Si decides entrar en ese foso de los Vinculados, deberás hacerlo por tu cuenta.",
+    "jaJP": "すでにあの場所では偵察に向った姉妹が大勢命を落としています。もうこれ以上の犠牲は出せません。挑むと言うなら、束縛されし者たちの穴にはあなた一人で行くしかないでしょう。",
+    "ptBR": "Devo acrescentar que muitas batedoras Renegadas morreram naquele lugar horrível. Não podemos perder mais nenhuma. Se optar por entrar naquele fosso dos Vinculados, terá de ir sem companhia.",
+    "ruRU": "Полагаю, стоит добавить, что многие разбойницы уже погибли, пытаясь исследовать это ужасное место. Мы не можем потерять еще кого-то. Если решишься войти в эту яму Связанных, тебе придется действовать в одиночку.",
+    "zhCN": "我必须告诉你，很多流亡者的斥候都死在了那个可怕的地方。我们已经无法接受更多伤亡了。如果你选择踏进那个束缚者的巢穴，就只能孤军奋战了。"
+  },
+  {
+    "Key": "d2r:A1Q1SuccessfulAkara",
+    "enUS": "65You have cleansed the Bound Enclave. You've earned my trust and may yet restore my faith in humanity.\n\nYour reward is training in the skill of your choice.",
+    "zhTW": "你淨化了束縛要塞，也贏得了我的信任，同時恢復了我對人類的信心。\n\n你的報酬是可以自行選擇技能進行訓練。",
+    "deDE": "65Ihr habt die gebundene Enklave gesäubert. Ihr habt mein Vertrauen erlangt und gebt mir möglicherweise den Glauben an die Menschheit wieder.\n\nEuer Lohn ist die Ausbildung in einer Fertigkeit Eurer Wahl.",
+    "esES": "65Has limpiado el Enclave Vinculado. Te has ganado mi confianza y tal vez me devuelvas la fe en la humanidad.\n\nTu recompensa es un entrenamiento en la especialidad que elijas.",
+    "frFR": "65Vous avez purifié l’Enclave liée. Vous avez ma confiance et vous m’avez redonné foi en l’humanité.\n\nEn guise de récompense, nous vous permettons d’améliorer la compétence de votre choix.",
+    "itIT": "65Hai purificato l'Enclave Vincolata. Mi hai ridato fiducia nella razza umana.\n\nPer ricompensarti, ti addestrerò in un'abilità di tua scelta.",
+    "koKR": "그대는 속박된 요새를 정화했소. 덕분에 그대에 대한 신뢰와 더불어, 인간에 대한 믿음까지도 되찾을 수 있었소.\n\n그 보답으로 원하는 기술을 전수해 주겠소.",
+    "plPL": "51Udało ci się oczyścić Związaną Enklawę. Może dzięki tobie zdołam odzyskać wiarę w ludzi.\n\nTwoją nagrodą będzie trening umiejętności, którą sobie wybierzesz.",
+    "esMX": "Has purificado el Enclave Vinculado. Te has ganado mi confianza y quizá logres restaurar mi fe en la humanidad.\n\nTu recompensa es entrenar una habilidad a elección.",
+    "jaJP": "〈束縛された要塞〉を浄化したのですね。見込んだ通りです。私もこれでまた人を信じられるかもしれません…\n\nお礼として、望みの技を伝授しましょう。",
+    "ptBR": "Você purificou o Enclave Vinculado. Conquistou minha confiança e, talvez, ainda restaure minha fé na humanidade.\n\nComo prêmio, receberá treinamento em uma habilidade de sua escolha.",
+    "ruRU": "Связанный анклав очищен. Тебе удалось заслужить мое доверие... и даже немного вернуть мне веру в человечество.\n\nВ награду я помогу тебе освоить или улучшить какое-нибудь умение.",
+    "zhCN": "束缚要塞得到了净化。你赢得了我的信任，也让我重拾了对人类获胜的希望。\n\n作为奖赏，你可以选择一项技能进行训练。"
+  },
+  {
+    "Key": "d2r:A1Q5InitQuestTome",
+    "zhTW": "…那位女伯爵曾經以上百名年輕處女的鮮血入浴，最後的下場是被人活埋…她的城堡在發生過這麼多殘忍暴行之後，很快就變成了廢墟。最後只剩下一座孤塔聳立於重重地牢之上，座落於陰森淒涼的荒野之中，猶如某種邪惡的紀念碑。\n\n據說女伯爵的財富被教士們所瓜分，不過有人認為還有更多財寶尚未被找到，依然靜靜地埋藏在腐朽的骷髏身邊，這些骸骨無聲見證著人類的殘忍行為。",
+    "deDE": "25Und so geschah es, dass die Gräfin, die einst im verjüngenden Blut von hundert Jungfrauen badete, lebendig begraben wurde. Und ihr Schloss, das so viele Gräueltaten gesehen hatte, zerfiel zur Ruine. Nur noch ein einziger Turm überragt die unterirdischen Verliese in der gottverlassenen Wildnis wie ein Monument des Bösen.\n\nMan glaubt, dass das Vermögen der Gräfin unter dem Klerus aufgeteilt wurde, doch viele sagen, das meiste sei nie gefunden worden und noch bei den verrottenden Schädeln begraben, die stummes Zeugnis von der Unmenschlichkeit der menschlichen Kreatur ablegen.",
+    "esES": "36Y así, la Condesa que se había bañado en la sangre rejuvenecedora de cientos de vírgenes fue enterrada viva. Y su castillo, en el que tantos sucesos crueles tuvieron lugar, se derrumbó rápidamente, convirtiéndose en ruinas. Todo lo que queda es una torre solitaria en la espesura olvidada por la mano de Dios, que se levanta sobre las mazmorras enterradas.\n\nSe cree que la fortuna de la Condesa fue dividida entre el clero, aunque algunos dicen que parte sigue sin encontrarse y está enterrada todavía junto a las calaveras podridas, testigos mudos de la deshumanización de la criatura humana.",
+    "frFR": "36Or donc il advint que la comtesse, qui se baigna dans le sang revigorant d’une centaine de vierges, fut enterrée vive. Son château, théâtre de tant de cruautés, tomba rapidement en ruines. Tout ce qu’il en reste est une tour solitaire, s’élevant au-dessus des donjons enfouis, dans une région sauvage abandonnée de Dieu, tel un monument à la gloire du Mal.\n\nLa fortune de la comtesse aurait été distribuée au clergé, mais certains prétendent qu’il reste des trésors enfouis au milieu des crânes pourrissants, témoins muets de l’inhumanité des créatures humaines.",
+    "itIT": "36E così la contessa che un tempo si era immersa nel sangue di cento vergini per ringiovanire, venne sepolta viva. E il suo castello, nel quale erano stati consumati atti di grande crudeltà, cadde rapidamente in rovina. Sopra i suoi resti anneriti, nel cuore di una terra dimenticata dal cielo, rimane solo una torre, monumento alla malvagità.\n\nSi dice che le ricchezze della contessa furono spartite tra il clero, anche se per alcuni esse sono ancora nascoste sotto la torre, in mezzo a cadaveri decomposti, testimonianza eterna dell'inumanità degli esseri umani.",
+    "koKR": "...회춘을 위해 수백 명의 처녀의 피로 목욕을 했던 백작은 산채로 매장되었고... 수많은 만행이 자행된 백작의 성채는 금세 폐허로 전락했다. 신조차 포기한 황야 속 파묻힌 폐허 위에, 고독한 탑만이 마치 악을 기념이라도 하듯 우뚝 솟은 채 남아있을 뿐이다.\n\n백작의 재산은 성직자들이 나누어 가졌다고 전해지나, 혹자는 더 많은 재산이 어딘가에 묻혀있을 거라 말한다. 이루 형용할 수 없을 정도로 비인간적인 행태를 목도한 채 썩어가는 해골들과 함께 말이다.",
+    "plPL": "15I przyszedł czas, że żywcem pogrzebana została hrabina, która niegdyś kąpała się w odmładzającej krwi setek dziewic. A jej zamek, gdzie dokonano wielu strasznych czynów, szybko obrócił się w ruinę. Nad podziemiami zagrzebanymi w zapomnianej przez Boga głuszy, niczym monument zła wznosi się samotna wieża. To jedyne co pozostało.\n\nFortuna hrabiny została podzielona pomiędzy kler, chociaż niektórzy powiadają, że większa jego część nie została odnaleziona.\n\nWciąż spoczywa pogrzebana obok murszejących czaszek, milczących świadków tego, jak nieludzki potrafi być człowiek.",
+    "esMX": "... Y así fue como la Condesa, que solía bañarse en la sangre rejuvenecedora de cien vírgenes, fue enterrada viva... Y su castillo, en el que ocurrieron tantos actos de crueldad, quedó en ruinas. Lo único que queda es una torre solitaria, que se alza sobre los calabozos sepultados en esa espesura maldita, como un monumento al mal.\n\nSe cree que la fortuna de la Condesa se dividió entre el clero, aunque algunos dicen que aún hay más fortuna por encontrar, enterrada junto a las calaveras podridas que son testigos mudos de la crueldad del ser humano.",
+    "jaJP": "…そうして永遠の美を得ようと大勢の処女から搾り取った生き血を浴びた伯爵夫人は、生き埋めの刑に処せられた… 数々の残虐な行為の舞台となったその居城は、たちまち廃墟と化した。人里離れた荒野には今も城の塔が残り、埋もれた地下牢の上に邪悪な石碑のごとく佇んでいる。\n\n伯爵夫人の財産は聖職者によってすべて分配されたとされているが、一説によると今も隠された財宝が残虐なる人の性を物語る朽ち果てた骨と共に大地に埋もれていると言う者もいる。",
+    "ptBR": "...E foi assim que a Condessa, que um dia se banhara no sangue rejuvenescedor de cem virgens, foi enterrada viva... Seu castelo, lugar de tantas crueldades, logo se desfez em ruínas. Erguendo-se sobre as masmorras debaixo daquela floresta abandonada, uma torre solitária, quase um monumento ao Mal, é tudo que restou.\n\nAcredita-se que a fortuna da Condessa foi dividida entre o clero, mas alguns dizem que ainda há riquezas ocultas, enterradas junto aos crânios podres, que, em silêncio, atestam a desumanidade do ser humano.",
+    "ruRU": "...И тогда Графиню, которая для сохранения молодости купалась в крови сотни девственниц, похоронили заживо... А от замка, где она творила свои злодеяния, вскоре остались одни руины. Лишь последняя башня одиноко высится над безлюдными пустошами и глубокими подземельями, как своеобразный памятник Злу.\n\nБогатства Графини передали в храмы, хотя кое-кто говорит, что отыскать удалось лишь часть ее сокровищ – остальное все еще зарыто среди гниющих черепов, безмолвно повествующих о том, какими бесчеловечными могут быть люди."
+  },
+  {
+    "Key": "d2r:countesstaunt1",
+    "zhTW": "想沐浴在鮮血之中嗎？",
+    "deDE": "Das gibt ein Blutbad!",
+    "esES": "¿Has venido por un baño de sangre?",
+    "frFR": "Vous venez pour un bain de sang ?",
+    "itIT": "Sarà un bagno di sangue! Ah ah ah!",
+    "koKR": "피를 바치러 왔나?",
+    "plPL": "Przychodzisz tu jak na rzeź, hahaha!",
+    "esMX": "¿Quieres que te desangre?",
+    "jaJP": "わたくしに血を捧げに来たのかな？ ハハハ",
+    "ptBR": "Está aqui para o banho de sangue?",
+    "ruRU": "Я искупаю тебя в крови.",
+    "zhCN": "来洗精华浴吗？"
+  },
+  {
+    "Key": "d2r:countesstaunt2",
+    "zhTW": "我會讓你的血沸騰。",
+    "deDE": "Dein Blut wird kochen.",
+    "esES": "Tu sangre hervirá.",
+    "frFR": "Votre sang va bouillir !",
+    "itIT": "Mi bagnerò col tuo sangue.",
+    "koKR": "피가 끓게 해 주마.",
+    "plPL": "Twoja krew zawrze!",
+    "esMX": "Tu sangre hervirá.",
+    "jaJP": "お前の血をすべて浴びてやる。",
+    "ptBR": "Farei seu sangue borbulhar.",
+    "ruRU": "Твоя кровь закипит.",
+    "zhCN": "你的精华会沸腾。"
+  },
+  {
+    "Key": "d2r:DarkLancer",
+    "zhTW": "黑暗槍騎兵",
+    "deDE": "Dunkler Lanzenträger",
+    "esES": "Lancero oscuro",
+    "frFR": "Lancier sombre",
+    "itIT": "Lanciere Oscuro",
+    "koKR": "어둠의 창기병",
+    "plPL": "Mroczny lansjer",
+    "esMX": "Lancero oscuro",
+    "ptBR": "[ms]Lanceiro Sombrio",
+    "ruRU": "Темный копейщик",
+    "zhCN": "黑暗枪骑兵"
+  }
+]

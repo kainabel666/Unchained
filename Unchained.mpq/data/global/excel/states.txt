@@ -247,3 +247,7 @@ mercstamina	244					1																																					staminafront	staminaba
 globalfiremastery	245					1									1																												aura_resistfire					cast_resistfire		passive_fire_mastery												paladin_aura_resistfire												0
 globalcoldmastery	246					1											1																										aura_resistcold					cast_resistcold		passive_cold_mastery												paladin_aura_resistcold												0
 globallightmastery	247					1										1																											aura_resistlight					cast_resistlight		passive_ltng_mastery												paladin_aura_resistlightning												0
+ascendburst	248																																															fire_cast_2																										0
+clericascend	249																																															healing																										0
+horazonfollower	250					1																																																																				0
+horazoncommand	251					1																																																																				0

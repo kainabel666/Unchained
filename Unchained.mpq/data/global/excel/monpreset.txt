@@ -46,6 +46,10 @@ Act	Place
 1	The Smith
 1	The Cow King
 1	Corpsefire
+1	Shallow Soul
+1	Carbon Giant
+1	Pit Viper
+1	Sunken One
 2	warriv2
 2	atma
 2	drognan
@@ -105,6 +109,12 @@ Act	Place
 2	sarcophagus
 2	tyrael1
 2	skeleton5
+2	durielcanyon
+2	remotecleric
+2	obscurecleric
+2	removedcleric
+2	secludedcleric
+2	detachedcleric
 3	cain3
 3	place_champion
 3	act3male
@@ -229,3 +239,6 @@ Act	Place
 5	place_nothing
 5	place_nothing
 5	horse
+5	spiritwell
+5	vanqbarb
+5	lostspirit

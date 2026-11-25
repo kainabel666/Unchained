@@ -1,0 +1,7212 @@
+*D2R UNCHAINED
+
+-autosplit:false
+*Created by
+Kain_abel_666
+
+*Built on D2RLoader by
+Dimentio
+ChuChu
+
+*Plugins and features by
+RuffnecKk
+CelestialRayOne
+PyreFly
+yinyin333333
+
+*Full credits and licences
+CREDITS.txt in the mod folder
+
+-autosplit:true
+
+*DIABLO II: RESURRECTED - REIGN OF THE WARLOCK
+
+*BLIZZARD ENTERTAINMENT
+
+*GAME DESIGN
+
+Blizzard Entertainment
+
+*LEADERSHIP	
+
+*Executive Producer & Vice President
+Gavian Whishaw
+
+*Game Director
+Brent Gibson
+
+*Production Director
+Chris Wilson
+
+*Associate Technical Director
+Rylan Dolan
+
+*Lead Producer
+Matthew Cederquist
+
+*General Franchise Manager
+Rod Fergusson
+
+*ART
+
+*Outsource Supervisor, Characters
+Trevor Powell Hennington
+
+*Additional Art
+Fernando Forero Pinilla
+Jeff Fugelsang
+Eric Grimenstein
+Ben Murto
+Curtis Lyle Orr
+
+*DESIGN
+
+*Game Designer
+Tim Vasconcellos
+
+*Additional Design
+Andre Abrahamian
+
+*ENGINEERING
+
+*Associate Lead Engineers
+Shelly Choi
+Paul Ewing
+Christopher Plummer
+
+*Software Engineers
+Chris Andelin
+Guillaume Breuil
+Michael Center
+Michael Clavell
+Chris Holland
+Armin Malekjahani
+Anton Te
+
+*Tools Engineers
+John Manard
+Jonathan Simpson
+
+*PRODUCTION
+
+*Game Producers
+Sherissa Cheng
+Elhora Davis
+
+*SOUND DESIGN
+
+*Audio Designer
+Christian Portwine
+
+*QUALITY ASSURANCE
+
+*Quality Manager
+Nicholas Merritt
+
+*Quality Lead
+Noah Thomas Woo
+
+*Quality Analysts
+Garrett Elmendorf
+Jedd Kim
+Laura Rampey Weerasinghe
+
+*FINANCE
+
+*Senior Director, Finance
+Sean Tan
+
+*Associate Director, Finance
+Taylor Barrington
+
+*Financial Analyst
+Marcos Martin Perez
+
+*Finance Manager
+Nicholas Deng
+
+*FRANCHISE LEADERSHIP
+
+*Senior Technical Director
+Jason Regier
+
+*Director of Operations
+Joe Fisher
+
+*Quality Director
+Kevin Hoiland
+
+*Vice President & CFO, Finance
+Hazar Orhon
+
+*Vice President, Product Management
+Enrico Bongo
+
+*GLOBAL INSIGHTS
+
+*Analytics Director
+Kevin Wang
+
+*Analytics Manager
+Zach Boyer
+
+*Analytics Team
+Melanie Follett
+Melissa Lee
+Max Evert Lindblad
+Will Pope
+
+*Consumer Insights Manager
+Hasan Elsadig
+
+*Games User Research Manager
+Megan Brodsky
+
+*Games User Researchers
+Amanda Cullen
+Jaguar Jung
+David Kingsbury
+
+*Additional Global Insights
+Ken Pfeifer
+
+*GLOBAL LOCALIZATION
+
+*Senior Director, Localization
+Jordi Macias
+
+*Localization Producers
+Manu Aguayo
+Arthur Chang
+Christina Cho
+
+*Management
+Akira Kato
+Jaeyang Kwak
+Jessie Lin
+Achraf Oumghar
+Yvonne Shi
+Jason Shirley
+Olena Velykanova
+Yannie Zhang
+
+*Regional Management
+John Chen
+Byungwoo Kwon
+Yian Lee
+Sherry Shen
+Chen Si
+
+*Localization Audio
+Monbaza Chang
+Sarah Lu
+Huiyin Luo
+Leandro Pereira
+Eunho Shon
+Yu-Hsien Wei
+Zac Zheng
+
+*Localization Engineering
+Julian Liu
+
+*Localization Language Leads
+Julio Calle Arpón
+Aude Callens
+Nanthawan Chalitapanukul
+Ricardo Duran
+Manuel Germain Kedi
+Radoslaw Hankiewicz
+Hank Hsu
+June Kim
+Alexandra Kudryavtseva
+Nozomi Oshima
+Francesca Sfulcini
+Debora Trevizo Rovira
+Mahir Yıldız
+Yanbin Zhang
+
+*Localization Language Specialists
+Calvin Chu
+Ting Hao
+Horus Huang
+Shin Imamura
+Hui Kyung
+Ross Lai
+Bo Li
+Janet Tsai
+Kenneth Tung
+Wango Wang
+Tianqi Yang
+Jimmy Zhang
+
+*Localization Production Team
+Ryan Cai
+Menghan Chen
+Dale Chou
+Daniel Huang
+DongHo Jeong
+June Jiang
+Jung Hwan Kim
+Shenshen Liu
+Stephen Middleton
+Tim Najmolhoda
+Anastasiia Nalyvaiko
+Seoyeon Park
+Alexey Pyatikhatka
+Carlos García Renta
+Won Jin Ro
+Takayuki Shimbo
+Laura Taylor
+Haiting Wang
+Laura Woodward
+Qiannan Zhang
+
+*Localization Quality Assurance
+Jiro Cai
+Adriana Cervantes
+Mili Chang
+Jenneth Chaovisutikul
+Martin Chung
+Zihciao Fu
+Jack Guo
+Daniel Im
+Dorothy Kang
+Dokyu Kim
+Hyunjin Lee
+Kyungjoon Lee
+Rocket Lee
+Zhiqiang Li
+Michael Ma
+Lily Niu
+Heeyoung Park
+Emily Qiao
+Vincent Tsai
+Gemma Yang
+Bumsuk Youn
+
+*MARKETING
+
+*Senior Director, Product Marketing
+Josh Kerwin
+
+*Associate Director, Product Marketing
+Rachel Siteman
+
+*Product Marketing Team
+Melissa Smith
+
+*Brand Marketing
+Kevin Carmona
+Aryan Mohsenzadeh
+Deuta Sulprizio
+
+*Director, Social & Content Marketing
+Adam Fletcher
+
+*Associate Director, Digital Marketing
+Krystha Dart
+
+*Digital Marketing Team
+Emily Crosby
+
+*Community Team
+CW Jung
+Marcus Kretz
+Lisa Rankin
+
+*Director, Public Relations
+Nick Jones-Liang
+
+*Public Relations
+David Michael Gredell
+
+*Marketing Creative Services
+Michael Carrillo
+Laura Miller
+Ty Stevens
+
+*Additional Marketing
+Tyler Andreala
+Hannah Fathi
+Kacey Keel
+Taylor Lim
+Daniela Rodriguez
+
+*PRODUCT MANAGEMENT
+
+*Senior Director, Product Management
+Adam Plushner
+
+*Lead Product Managers
+Rafi Ferrer
+Jonathan Mann
+Cristabelle Elizabeth Ormiston
+
+*Product Managers
+Z Bo
+Harrison Froeschke
+
+*Additional Product Management
+Demetrius Taylor
+
+*SUPPORT
+
+*Department Operations Manager, Art
+Melissa Coons
+
+*Department Operations Manager, Engineering
+Benjamin Boswell
+
+*Department Operations Manager, Design
+Jillian Stiles
+
+*Department Operations Manager, Production
+Christian Rafael
+
+*Operations and Administrative Support
+Christian Feuker
+Joshua Freeman
+Kahlen Ryder
+Laura Stearns
+Jess Tobey
+
+*Atlassian Support
+Sam Carlier
+Shelli Kleman
+
+*Human Resources
+Matthew Elia
+Aurore Ollivier
+
+*EXECUTIVE TEAM
+
+*BLIZZARD LEADERSHIP
+Monica Austin
+Lydia Bottegoni
+Robby Forbes
+Andrew Guerrero
+Dan Hay
+Ismet Kartal
+Martin Keely
+Walter Kong
+Eric Kou
+Kasey Kramer
+Holly Longdale
+Vesna Penava
+Andrew Reynolds
+Mary Tuck
+
+*Executive Support
+Kinjal Dave
+
+*TECHNOLOGY DEVELOPMENT AND PRODUCT SUPPORTS
+
+*GLOBAL COMMUNICATIONS
+
+*VP, Global Communications
+Andrew Reynolds
+
+*Senior Director, Global Public Relations
+Christy Mina Um
+
+*Senior Director, Internal Communications
+Lynda Benoit
+
+*Director, Public Relations, Overwatch
+Kevin Scarpati
+
+*Director, Public Relations, Warcraft
+Andrew Meyer
+
+*Global Communications Team
+Terence Calacsan
+Claudia Camp
+Caitlin Dodson
+Eric Elliott
+Tobias Garsten
+Aaron Genove
+Zeshan Kazmi
+Chelsea Leah
+Fabio Lo Zito
+Aramis Ramirez
+Amelia Savery
+
+*Global Communications Executive Support
+Shablis Kline
+
+*Global Communications Additional Support
+Debore J.C. Chang
+Dan Chiappini
+Sayuri Koga
+Nicholas Ng
+Kyounghwa Park
+Jieun Ryu
+Shawn Sabeti
+Mika Sun
+Stevenson Xiang
+Beta Yen
+
+*FINANCE
+
+*CFO, Finance
+Ismet Kartal
+
+*Vice Presidents, Finance
+Ilgi Calik
+Simon Flax
+Mike Lai
+Duke Wong
+
+*Finance Directors
+Ahmad Bani Hani
+Bryan Clark
+Tynesha Dorsey
+Ogul Eryasar
+Jeff Gleischman
+Ellen Helbig
+Benjamin Lee
+Christina Lynn Luu
+Paul Mikschl
+Chris Nguyen
+Ganesh Raj
+Tracy Schapira
+Kristine So
+Lisa Twu
+Nick VanBenschoten
+Flora Wu
+Vince Xiao
+Julia Yang
+
+-autosplit:false
+*Finance, Accounting, & Administration Team
+Wen Juin Ang, Lauren Armanino, Ryan Bennett, Krista Bilderbach, Warren Chen
+Marc Chinnow, Woohyuk Choi, Faustine Chow, Paul Colbert, Philippe Corbeil
+Allen Corona, Ivan Luiz Lopes de Almeida, Kurt Diwa, Erika Gleim, Tom Grant
+Marie Guillard, Andy Harris, Michelle He, Diego Henning, Eric O Hernandez
+Victoria Hernandez, Evelyn Hsu, Minkyung Jang, TJ Jantanangkool, Aleeha Kalam
+Josh Kang, Linda Kebaili, Hilary Lam, Kevin Lefebvre, Christina Li, Grace Li
+Marie Lin, Ta-Han Lin, Gizem Madali, Daniella Mainolfi, Gino Manderino
+Justin McNaughton, Antonio Mixquitl, John Nahra, Michelle Ng, Chris Ontiveros
+Hyejin Park, Jinwoo Park, Andrea Rachelle, Dawn Recor, Sharla Ruland
+Waleed Saeed, Thomas Schinlever, Mac Seder, Lindsay Sherwin, Lena Shin
+Sarah Soskin, Alexander Spaeth, Wendy Sun, Eric Tamanaha, Willis Tan, Starry Tao
+Brian Tran, My Tran, Zeynep Ulgur, Ethan Wang, Susan Wu, Li Xu, Nathan Yik
+
+*GAMING SECURITY
+
+*Gaming Security Team
+Shalom OLASUBOMI Abebefe, Jeffrey Agnitsch, Jim Applegate, Mustafa Avci
+Matt Batten, Neus Boix, Justin Brister, Brenda Burget, David Cañizares Ariza
+Michael Caron, David Carrasco, Gracie Chi, Jackson Choy, Matt Clapham, Lisa Cobb
+Andrea Coll Campomanes, Jason Collins, Robert Cooper, Ryan Corcoran, Steve Crist
+Marc Del Valle, James Donnelly, Abiade Dosunmu, Srikanth Eddla, Jennifer Farrar
+Nick Finco, Bradley Fong, Karl Fuhlbrugge, Thomas Gadola, Angel Gallegos
+César García, Juan Garcia Rodriguez, Brent Gensemer, Sean Heaton
+Joshua Hillmann, Jake Hisel, Hyunjung Hong, Ambrosia Iwugo, Zana Jasarevic
+Brayden Johnson, Jochen Juncal, Diego Jurado, Kevin Kaminski, Alex Kim
+Benjamin Kurtz, Sara Lakhani, SeungHwan Ethan Lee, Jason Lee, Trace Liggett
+Michael Lyles, Hannah Manning, Michael Maslanka, Scott Miller, Nat Mokry
+Jodi Moore, Albert Morris, Piotr Musial, Jeff Nation, Laurent Nguyen, James Nix
+Jorge Noyola, Samuel Nuñez Garcia, Rahul Pattnaik, Bill Preston, Brae Priesing
+Leo Ramirez, Anthony Rey Redendo, Rick C. Reischman, Ash Rhodes, Brandon Roland
+Shawn Routhier, Tamia Russell, Santiago Saenz, Stephen Sampana, Michael Sawyer
+Melissa Scallen, Jeremy Scarbro, Mike Sconzo, Geoff Scott, Kendall Sliwa
+Brett Springe, Micheal Stephenson, Jennie Steshenko, Derek Stiles, Chris Sumner
+Ian Trentshire, Craig Twellmann, Tom Weber III, Dave Weinstein, Bill Weiss
+Kevin Wells, Ryan Wilson
+
+*HUMAN RESOURCES
+
+-autosplit:true
+*Blizzard Chief People Officer
+Vesna Penava
+
+*Blizzard DE&I Officer
+Pamela Burga
+
+*Vice President, Human Resources
+Dina Folkman
+
+-autosplit:false
+*Human Resources Team
+Cynthia Alarcón, Ale Alvarez, Eunice An (Eunyoung), Jackie Barnes
+Michael Beaudoin, Thanh-Nha Brigle, Jessie Brown, Scott A Campbell, Dani Chang
+Vidhu Chilumula, Lexie Cole, Jasmine Coppin, Marie Cossigny, Jean-Pierre Cuadra
+Taylor Daeley, Felicia Downing, Vivian Enos, Thomas Fico, Kristin Finnsson
+Arin Goldsmith, Traci Goodwin, May Gu, Tamara Harrigan, Bryan Hines, Sonya Hoag
+Olivia Hooper, Anita Huang, Andaru Iman, Emily Keaveny, Bohee Kim, Ryan Kim
+Nick Kleinert, Amy Larkin, Cindy Lee, Hoomin Lee, Matthew Lee, Sangchan Lee
+Steven Lemmeyer, Abby Lin, Jessica Lin, Cassidy Liz, Debbie Lopez, Rex Luther
+Dakota Mahut, Kirstin Maier, Claire Mankey, Hannah Mathieu, John Matthews
+Alisia Mendoza, Justin Meng, Jeana Mervine, Julie Montes, Crystal Mora
+Tamara Munster, Spencer William Noack, Joshua Nuckolls, Louis Nunez
+Gillian O'Shea, Claire Pak, Rocky Polito, Sandra Prates, Holly Rowe
+Brandon (Sarge) Sargent, Stephane Seigneurie, Radhika Shah, Akemya Shields
+Jaime Silva, Pek Nan Tan, Ed Tien, David Tiscareno, Lesley Turner, Tom Twedell
+Angie Vazquez, Laurent Verret, Charlene Xing, Mary Yamanaka, James Yan
+Jessie Yu, AJ Zuttah
+
+-autosplit:true
+*Human Resources Additional Support
+Ellen Bittner
+
+*GLOBAL INSIGHTS
+
+*Vice President, Global Insights & Product Management
+Andrew Guerrero
+
+*GI Executive Assistant
+Missy Hall
+
+*Commercial Strategy
+Alex Shook
+Christopher Taylor
+
+*GI Research & Consumer Insights Team
+Elwyn Buan
+Randy Flores
+Linus Kuo
+Pavel Mamaev
+Brooke Sikkema
+Mike Swiontkowski
+Patrick Vietri
+
+*GI Central Analytics
+Rakshita .
+Matt Andersen
+David Calica
+Chris Cantrell
+Rich Couchon
+Joe Czop
+Chris Densmore
+Greg Desloge
+Yuliia Fenoshyn
+Aaron Nicholas Fryman
+Amy Ho
+Tony Jones
+Brian Kan
+Dabin Lee
+June Leung
+Shiqing Li
+Winston (Wendi) Li
+Cloudy Liu
+Alex Lowe
+Jennifer Mallett
+Jonathan Oberto
+Thong Phan
+Brandon Polson
+David Rivera
+Ken Shrivastava
+Robb Steel
+Ben Trautman
+Vicky White
+Jocelynn Williams
+Liz Work
+Kyle Yan
+Carol Yin
+
+*GI Engineering
+Steve Ahn
+Nova Ayres
+Don Conley
+Jens Fischer
+Sam Hausmann
+Shawn Jonghyuck Jung
+Alex Makximenko
+Evan Murray
+Dennis Nguyen
+Sean Pfeifer
+Joshua Proffitt
+Ryan Richmond
+Taichi Sano
+Sam Segan
+Suzanne Su
+Ashley Vo
+
+*GI Machine Learning & AI
+Ming Cong
+Chet Gray
+Andy Hierl
+Dailin Hu
+Shirley Jiang
+Alexander Langley
+Niema Moshiri
+Ehsan Sayyad
+Sasha Volokh
+Ye Yuan
+Zhen Zhai
+Richard Zhao
+
+*GI Program Management
+Muyuan Li
+Austin Taylor
+Tuan Trinh
+
+*GI Games User Research
+Nikki Crenshaw
+Bryan Da Silva
+Brady Do
+Francis Downing
+Christopher Fishman
+Mark Frazer
+Lila Gonzalez
+Sarah Jackson
+Dan Jenrette
+Josh Koen
+Je Seok Lee
+Drake Levere
+Ian Livingston
+Adam Lobel
+Zeke Turner
+Katie Westbrook
+T'awna Williams
+
+*GLOBAL IT
+
+*BLIZZARD STUDIO IT
+
+*Vice President, Blizzard Studio IT
+Eric Kou
+
+*Senior Director, Cloud & Production IT
+Matt Eagleson
+
+*Cloud Leadership
+Abdel Kamel
+Marcin Karpik
+Kevin Musser
+James Zhu
+
+*Cloud Team
+Tyler Adams
+Tom Anderson
+Ryan Chan
+Galen Dove
+Spencer Harmon
+Ian Hopkins
+Dominic Lavezzoli
+Andre Olivo
+Matthew K Rader
+Flavio de Sousa Ramalho
+Kevin Stewart
+Christopher Stone
+Mauricio Teixeira
+Daniel Xu
+Tony Yu
+
+*Network Engineering / Data Center Leadership
+Catalina Cicioiu
+
+*Data Center Engineering
+I-Ming Chen
+Seunghwan Lee
+Christopher Towne
+Josep Vilar
+
+*Production Network Engineering
+Yunhwan Ahn
+Yonggu Cho
+Minh Dang
+Miranda Ortiz
+Florian Wang
+
+*Senior Director, Infrastructure & Database Engineering
+Andy Barcinski
+
+*Database Engineering Leadership
+David Ashman
+Kristine Kirchhoff Ashman
+Marcus Klemp
+
+*Database Engineering
+Armando Abanilla
+Sarat Bezawada
+Jean Nicolas Cadet de Fontenay
+Will Gunty
+Ryan Helring
+Rafael Kansy
+Mike Murphy
+Hari Krishna Bhaswanth Turaka
+Will Wang
+Rick Wells
+Brian Wong
+Jaime Wood
+
+*Infrastructure Engineering Leadership
+James Long
+Xander Niega
+
+*Infrastructure Engineering
+David Alfano
+Arthur Corliss
+Ray Denison
+Alexander Eagleson
+Bean He
+Edward Herman Kalk
+Jiwon Kim
+Sean Kim
+Eric Peng
+Alex Tan
+
+*Director, IT Operations Center
+Matthew McEligot
+
+*Operations Center Leadership
+Bianca Constantinescu
+Jason Houle
+Matthew McCormack
+Chip Pascoe
+
+*Operations Center
+Anna K Brewer
+Tom Corcoran
+Emily Darke
+Stefan Gale
+Andres Ideus
+Jeremy Jackson
+Dan Jeffers
+Sid Joshi
+Nathaniel Kelley
+Jon Larraburu
+Brian Linggadjaja
+Aaron Mooney
+Gareth Morgan
+Cian O'Brien
+Rodrigo Salvador
+Jonathan Stracker
+Mason Tavenner
+Michela Tigli
+Gunnar Voss
+Calvin Wu
+
+*Monitoring & Automation Engineering
+Timothy Hanson
+Kshitij Kawatra
+
+*Service Operations
+William Cooper
+Cameron Pierce
+
+*Associate Director, Studio IT PMO / Ops & Strategy
+Mark Bhataravidhya
+
+*IT Business Operations & Strategy
+Thi K Nguyen
+
+*IT Purchasing / Asset Management
+Mike Anderson
+Byron Black
+
+*Studio IT PMO
+David Brown
+Edgar Flores
+Andy Russell
+Tim Wren
+
+*Senior Director, Studio IT Services
+Mike Pearce
+
+*Studio IT Client Services Leadership
+Adam Brown
+Rick Kennedy
+Mike Moneymaker
+Bill Tubbs
+
+*Studio IT Client Services
+Mehdi Ait Taichat
+Ernesto Amaya
+Lionel Baek (Seunghyun)
+Donghao Bie
+Justin Chen
+Andrew Clisson
+Jamal Davis
+Aurelio Espinoza
+Lino Farias
+Ramiro Galindo
+Aaron Clay Gayet
+Mia Hallmark
+Jason Hinh
+Nicholas Ho
+Edward Kwon
+Daeho Lee
+Sara McMunn
+Elliot Pham
+Dan Puckett
+Gerard Robles
+Nick Schober
+Joshua Sheridan
+Devin Slayton
+My-Van Tran
+Jimmy Truong
+Aaron Uesugi
+James Wong
+Jennifer Yohn
+
+*Studio IT Infrastructure Leadership
+Nick Cunningham
+Louis Meunier
+Chris Scoggins
+
+*Studio IT Infrastructure Engineering
+Jason Abbey
+Ryan Baker
+Juan Garcia
+Jake Millette
+Daniel Morris
+Andy Peeples
+Richard Placek
+Shaun Rutherford
+Megan Skrypek
+Cody Russell Smith
+Jamie Stone
+Brandon Wolslegel
+
+*Director, IT Regional Management
+Kangho Lee
+
+*GAMING CORE IT (GCIT)
+
+*Vice President, IT Enterprise Applications
+Eduardo Martin
+
+*Vice President, IT Operations and Strategy
+Bass Shibl
+
+*IT Operations & Strategy
+Nicolette Ciresi
+
+*Executive Assistant, IT
+Kiki Butler
+Angelica Herrera
+
+*Enterprise Applications Management
+Damien Bouvier
+Quentin Giraud
+
+*Enterprise Applications Engineering
+Wynston Francis
+Dylan Hasselquist
+Andrew Newcomb
+Corey Phipps
+Alex Poling
+Amber Robertson
+Jennifer Sambuco
+Jay Uttanoor
+Ben Yessayian
+
+*Foundational Infrastructure Management
+Derek Carpenter
+George Fedoseyev
+Brian Hill
+Changkoo Lee
+
+*Foundational Infrastructure Engineering
+Weonseok Choi
+Dan Cicioiu
+Andy Hendrawan
+Brian Hicks
+Alex Hunter
+EJ Eunjoong Kim
+Nick Kuras
+Dominic Langrios
+Ba Mai
+Patrick Rigby
+Adam Rudy
+Mathew Smiley
+Tim Sun
+Jose Tadeo
+Chao Wang
+
+*Technology Success
+Grant Hogan
+Max Perconti
+Bethany Protzmann
+Benjamin Yamada
+
+*Global Information Technology Additional Support
+Michael Blake
+Kevin Browning
+Alex Carder
+Jay Cisneros
+Phil Cleveland
+Aaron Evans
+Anthony Gilmartin
+Dane Harrigan
+Niru Inaganti
+Clay Kloppenborg
+Aristotle Limjuco
+Ian Manzanero
+Cameron Pettie
+Jacob Rehder
+David Rutledge
+Navjot Saini
+Mustafa Salman
+Zachary Schmidt
+Mitchell Talana
+Simon Todorut
+Danny Tran
+Luke Whitcraft
+
+*INTERNATIONAL
+
+*EMEA Regional Support
+Emma Daniel
+Harry William Miles Daniell
+Matthew Evans
+Lauren Ashling Hill
+Meg Keeley
+Nelly Kutzbora
+Thomas Losilla
+Loic Olichon
+Dan Peverett
+Aga Slobodzian
+Andrea Spaziani
+Ben Tilston
+Léa Vellutini
+Lorenzo Verrecchia
+Stéphanie Yath
+Varya Zakharova
+
+*LEGAL
+
+*Legal Team
+JeongYeon Ahn
+Jeff Albertson
+Jack Anderson
+Amy Cairns
+Amy Chang
+Donna Cooper
+Vanessa Cordova
+Allison D'Amour
+Willy Duhen
+Emanuele Fava
+Lorin Herzfeldt
+Jussi Honkasalo
+Laura Horwich
+SungAe Kim
+Woojeong Kim
+Vincent Law
+Juhui Lee
+Christine Nguyen
+Claudia Okada
+Yan Perng
+Edris Rodriguez Ritchie
+Nick Rowe
+Tracy Sargent
+Charlotte Shen
+Jeonghwan Shim
+Collette Tesauro
+Mary Tuck
+Jay Wang
+Shonine Wijayanayake
+Seong Hee Yoon
+Xianxian (Juno) Yuan
+Vivian Zhang
+Clio Zhao
+
+*Legal Additional Support
+Kevin Crook
+Mavis Feasel
+Diona Fu
+Jihyun Kim
+
+*BLIZZARD MARKETING
+
+*Senior Vice President and Chief Marketing Officer
+Monica Austin
+
+*Vice President, Brand & Creative Marketing
+Kevin Bjelajac
+
+*Vice President, Product Marketing & Strategy
+Kim Centeno
+
+*Vice President, Social & Content Marketing
+Max Mills
+
+*Vice President, International Marketing Strategy
+Rafael Tello-Fournier
+
+*Vice President, Blizzard International Marketing
+Alexis Boulton
+
+*Marketing Creative & Production Leads
+Natalie Baldini
+Hector Bolanos
+Kiersten Crissman
+Jessica Mary Harber
+Erik Jensen
+Mike Norys
+Brandy Stratton
+
+*Marketing Creative & Production Team
+Jason Agajanian
+Shelly Amine
+Adrian Archer-Lock
+Alida Bray Barden
+Sophie Bertrand
+Michael Bryant
+Dillon Chance
+Sharon Chow
+Levi Garrett
+Kim Hein
+Thordis Rychelle Howard
+Dan Joyce
+Julie Kimura
+Margaret Lee
+Jason Lim
+Matt MacNeil
+Justin Marcus
+Eric Matos
+Hannah Mattison
+Rachel Newman
+Sean Ngo
+Dana Nuber
+Joshua Owyang
+Benjamin Scanlon
+HB Straw
+Chhun Tang
+Ryan Tretter
+
+*Marketing Directors
+Guido Alves
+Sam Barcellos
+Christopher Barnett
+Blair Brzeski
+Katie Bucher
+Ashley Casey
+Chelsea Delbridge
+Colin Fairley
+Anna Ficek-Madej
+Alex Hong
+Paul Huang
+Doruk Kadioglu
+Florence Kamhi
+Luke Karam
+Josie Kavadoy
+Adam King
+Jenn Lim
+Cathy Magnien-Ledesma
+Alexander Mangold
+Everson Marsh
+David Moynihan
+Steve Perkins
+Monica Philpott
+Lucy Pozniak
+Kester Robison
+Vanessa Rouhani
+Alexandre Scribs Scriabine
+David Silverman
+Jens Sjöbergh
+Anthony Suh
+Chase Thomas
+Danika Wilkinson
+Shannon Lynn Williams
+Nicholas Wong
+Ping Yu
+Andrew Zakim
+Sina Zand
+Marcella Ziccarelli
+Rafa Zuana
+
+-autosplit:false
+*Marketing Team
+Harry Abbott, Alex Ackerman, Alessandro Adrián Alessio, Dana lynne Anderson
+Nicole Bandoquillo, Rich Bantegui, Rea Bell, Ed Berry, Jordan Blitzstein
+Otis Blum, Rena Boti, Miles Bretall, Hanane Brouki, Parker Butynski, David Chang
+Jason Chen, Nora Cheng, Scott Conway, Jason Cox, Pat Coyle, Day Cris
+Madeline Demas, Koosha Diba, Dannah Dawn Dionisio, Denise Do, Janine Dong
+Jessica Downey, Drew Elliott, Vaclav Filip, Kirsten Franklin, Geo Garcia
+Boris Gojic, Eliana Gori, Sonja Susanna Sigrid Hammes, Antony Han (Jonghoon)
+Daniel Hawkins, Lingtian He, Sam Heckman, Jake Heintz, Justin Hixson
+Cassie Hoglund, Deirdre Hollis-Kempa, Bethany Hudson, Owen Hughes, Vivi Jiang
+Randy Jordan, Andrew Kim, Brian H. Kim, Patrick Kim, Hyungoo Kim (Michael)
+Miroslav Kyurkchiev, Eddie Lee, Jongwon Lee, OReum (Alex) Lee, Seungbok Lee
+Unju Lee, Vanessa Lee, Alexander Lin, Jenny Lin, Megan Ling, Alyssa Long
+Hugo López Gómez, Edna Lopez-Rodriguez, Makoto Masutani, Jodie Grace McKaughan
+Al Miranda, Asa Murata, Jiyoun (Maya) Namkoong, Syless Necole, Anthony Neshewat
+Chris Newman, Nik Notthoff, Kurt Ocher, Yunis Osman, Lindsay Pai, Cathy Prowde
+Tony Ramos, Ajay Ravi, Tom Read, Megan Reardon, Jordan Renslow, Holly Ryborz
+Oscar Antonio Salazar, Elaine Shen, Jessi Sosnovskaya, Nayara Sylvestre
+Juliana Takagi, Britain Taylor, Hannah Thomas, Bryant Trevino, Jenny Tsang
+Catherine Tu, Aline Tunes, Sheila Valente, Danielle L Vanderlip
+Anja Christina Voelker, Benjamin Vogt, Michael Vousden, Clara Wang
+Helena Saffron Watson, Nicholas Weiss, Brittany Wille Brown, Dorothy Wong
+Stella Wu, Nick Yu, Nicole Zhou
+
+-autosplit:true
+*Blizzard Marketing Executive Support
+Taylor Fusco
+Joni Rank
+
+*Additional Support
+Jenny Dang
+Chris De La Fuente
+Mai Hoang
+Grace Luu
+Jon Murphy
+Matthew Pier
+Hamid Qaasim
+Jackson Salzman
+Nikki Scoggins
+Amit Sharma Thongatabam
+Sofia Somoza Walan
+Elena Suherman
+Melissa Wang
+
+*GLOBAL PHYSICAL SECURITY & SAFETY
+
+*Senior Director, Global Physical Security & Safety
+Chad Shade
+
+*Director, Global Health & Safety Program
+Matt Dowson
+
+*Director, Global Physical Security & Safety Operations
+Erin Cox
+
+*Associate Director, Global Physical Security Program
+Christian Tomas
+
+*Physical Security & Safety Management
+Danny Abarca
+William Carroll
+Lucas Eckroad
+Sarah Lamee
+Louie Li
+Aaron Olsen
+Austin Pruitt
+Ruben Regalado Moreno
+Allen Yi
+
+*Global Emergency Response Operations Center
+Mohammad Asion
+Micheal Biggerstaff
+Oleksandr Cherneha
+Jason Dinh
+Jimmy Dinh
+Robert Cameron Dowell
+Allan Feliciano
+Brandon Flemming
+Andres Ibarra
+Kinga Virginia Makai
+Stephen Marlow
+Raymond Morales
+Rey Moreno
+Jasmin Nazario
+Jose Ontiveros
+Damian Posyniak
+Dan Tran
+Thomas Tran
+Reginald Turner
+
+*PLATFORM & TECHNOLOGY
+*Senior Vice President, Battle.net & Technology Services
+Martin Keely
+
+*BATTLE.NET & ONLINE PRODUCTS
+*VP, Product
+Rance Piatt
+
+*VP, Engineering
+John Yaney
+
+*Senior Director, Platform Operations
+Melissa Meyer
+
+*Senior Director, Design
+Diana Hubbard
+
+*Design
+Kit Bell
+Abigail Bentz
+Christina Brooks
+Monique Calducchi
+Michelle Chen
+Kyle Conrad
+Guillaume Cournoyer
+Aaron Crapo
+Krystina Yitong Diao
+Tammy Ding
+Chris Guimarin
+Jason Hastings
+Hao Yang He
+Thomas Heger
+Laney Hughes
+Stacey Jae Hee Jang
+Leticia Jones
+Katherine Joplin
+Belle Lee
+Eddie Lee
+Kathy Ma
+Kamil Markowski
+Alix Nguyen
+Zac Pfaff
+Irma Gabriela Rodriguez
+Samantha Sayson
+Joe Smiley
+Arturo Vargas
+Hansa Wahla
+April Yoo
+Ricky Yu
+Katie Weilin Zhao
+
+*Senior Director, Engineering
+Joe Sanchez
+Ali Vatani
+
+-autosplit:false
+*Engineering
+Lance Ahmu, Tae Hyoung Ahn, Hanna Alam, Steven Alfisi, Tony Allain
+Francisco Almonte, Harshal Anant Kalay, Omar Asadi, Neha Balki
+Nathaniel Ballinger, Cord Bartlett, James Bean, Keith Bennett, Edward Beranek
+Daniel Berman, Juan Sebastian Bernal, Chris Bisbee, Todd Blank, Benjamin Brown
+Joe Broxterman, James Burroughs, Joao 'Noonz' Calhandro, Adam Capone
+Ace Cardenas, Sean Catchpole, Megan Chang, Austin Chau, Firahs Chebbo
+Justin Chen, Qi Ming Chen, Seungki Choi, Phil Clay, Ciprian Csordas, Andrea Curo
+Michaela Danner, Jai'Mir Darby, Austin Davis, Roz de la Cruz-Ramos
+Jennifer Decker, Sarah E Doebler, Doug Dowdy, Randal Droher, David Eckel
+Abdu Elbakry, Joe Fessler, Christopher Lee Fields, Mitchel Fieri, Rusty Fleming
+Matthew Follett, Bryan Frederick, Catherine Fu, Carson Garner, Jed Gentry
+Marlon Gerson, Russell Glasser, Jason Goodrich, Stephen Gordon, Megan Grodowitz
+Jason Hannanto, Adam Harris, Tyler Hartzheim, Claire Henderson, Byron Henze
+Kelly Ho, Bill Hoffmann, James Hugard, Jasmine Hurst, James Ives, Pat Jacobs
+Gary James, Gareth Jensen, Jenny Jin, Wonhee Jung, Tomas Karban, Karn Kaul
+Nick Kerns, Dennis Kim, Yongbae Kim, Julie Ko, Megan Koh, Brian (Bone Seung) Koo
+David Koontz, Filip Koperwas, Michael Kremer, Zachary Lark, Donald Lawrenz III
+Shawn Le, Daesup Lee, Eunyang Lee, Ockkyoung Leem, Chaoren Li, Spenser Li
+Ben Lilley, Lulu Liu, Sanxing Liu, Mitchell Loftus, Brendan Loyot
+Zachary Lumpkins, Laura Luo, J.C. Maddox, Michael C. Maggio, Pascha Maisenovich
+Jonathan Manger, John Matzen, John McCormick, Dan McFerren, Nick McKinnon
+Mike McWilliams, Bradford Medeiros, Vladislav Melnikov, Levi Michaels
+Brian Miyamoto, Eric Mumau, Chris Myles, David Nguyen, Khoa Nguyen
+Michael Nguyen, Andrew Nolan, Justin O'Dell, Eli Ofenstein, Sunanda Omkaram
+Dahmian Owen, Sangyong Park, John Pella, Nicholas Pennock, Jennifer Peterson
+Josh Petite, Antoine Pickett, James Pool, Mike Powell, Carson Powers
+Jerrod Putman, Faiz Rahman, Matthew Reddick, Oscar Reyes de la Cruz, Kyle Riccio
+Nick Richman, Blake Robbins, Omar Rodriguez, Brik Royster, Joshua R. Sanders
+Stephen Santoro, Dane Savot, Dave Schless, Michael Schwartz, Vlad Semenov
+Hugh Shin, Vasu Hwachul Shin, Travis Smith, Yoseph Solomon, Shashank Soni
+Jeff Steele, Brian Stein, Dan Stromberg, Taylor Sturtz, Justin Su, Fanny Suh
+Jeremy Tebangin, Bhumika Thakker, Annie Tiet, Ed Tischofer, Andrew Tomlinson
+Tosho Toshev, Brandon Treadway, Elsa Tseng, Patrick Turley
+Andrew van Bindsbergen, Ryan Vance, Heather Waters, Daniel A. Weltz
+Scott White Jr, Stephen Whiting, Rick Wildes, Tyler Wilson, Michael Wolfe
+Chris Wright, Eric Wu, Leo Wu, Kristen Xia, Allyson Yamasaki, Ashley Yang
+Jason Yata, Casey Yelland, Danny Yessayian, Mark Young, Serena Young, Andrew Yu
+Caroline Yu, Gleb Zemskoi, Arturo Zendrera, Jack Zhang, Fanny Zhou
+
+-autosplit:true
+*Platform Operations
+Bill Bernhard
+Sirena Chiang
+Matilde Controzorzi
+Shannon R. Cooper
+Robbie Fenoglio
+Caroline Fisher
+Martin Frost
+Jason Garcia
+James Gifford
+Amsel Glenn
+Jeremy Hammer
+Courtney Hynes
+XiaBing (Michelle) Jiang
+Dan Lee
+Marianne Manalang
+Lais Mussarra
+Michael Paglione
+Courtney Parker
+Carrie Ren
+Anthony Sierra
+Ryan Thompson
+Terri Wellman
+Liz Won
+
+*Directors, Product Management
+Joaquin Bolbrugge
+David Howe
+
+-autosplit:false
+*Product Management
+Samantha Adams, Jeff Allison, Harry Beyel, James Cabel-Neil, Alex Calfo
+Shane Cargilo, Michelle Caron, Heather Chen, Brian Chung, Caldwell Clarke
+Spenser Davis, Renuka Dixit, Madison Fichtner, Grant Garfield, Karisa Goodell
+Jade Hutchinson, Raj Jenveja, Troy Jones, Kirill Kashcheev, Kolja Kristek
+Scott Lantz, Naveen Lather, Dan Laurence, Wesley Lewis, David Liang, Erik Lim
+Karin Magedanz Haubenthal, Jeff Magliola, Ali Mastan, David Mertz, Paul Munn
+Jennifer Nguyen, Alycia Potter, Christian Reynolds, Matt Shah, PJ Singh
+Marvin Solomon, Brian Starkey, Nam Tran, Howl Valentine, Stephanie Valle
+Sherry Weng, Brinton Williams, Josh Wing, Joe Zhou
+
+-autosplit:true
+*Battle.net Administrative Support
+Claudine C Mabini
+
+*GLOBAL CUSTOMER SUPPORT AND LOCALIZATION
+
+*Senior Director, Customer Support and Localization
+Jordi Macias
+
+*Directors, Customer Support
+Shonda Kenter
+Andy Maindelle
+
+*Management, Customer Support
+Neil Anderson
+Charlie Areson
+Steven Chu
+Byungkwan Chung
+Angelo Concepcion
+James Drosche
+Sébastien Gouaux
+Wonjae Jeong (Paul)
+Blair Kuschel
+Jinsu Lee
+Julia Leitner
+Roger Lin
+Erik Lindberg
+Pete Mai
+Blade Marcantel
+Iñigo Moleres
+Jasmine Monteith
+Jennifer Ni
+Christopher Purvis
+Jessica Stone
+
+-autosplit:false
+*Customer Support Team
+Daniel Ahern, Jaehyun Ahn (Jason), Yuber Alter, Jonathan Bach, Elif Bagci
+Dimitrios Bampanaras, Robert Band, David Barney, Howard Bishop, Lorenzo Borgini
+Ulises Brage, Brian Brennan, John Buik, HeeWoong Byun, Allan Campbell
+Daniel Carpenter, Minjung Chae, Harry Chang, Roxin Chang, Wayne Chang
+Preston Cheeks, Issac Chen, Roy Chen, Sammy Chiang, Allen Chiou, HyoJu Cho
+Seongyoon Cho, Ryan Chu, Justine Colson, Cody Cubbage, Jason Davenport
+Stuart Davis, Juan De Luna, Rafael Del Rio Ravassa, Jens Duever, Sungho Eom
+Daniel Errington, Welington Fernandes, Maider Ferradas, Allison Glass
+Alex Golds, Manuel Gonzalez Santome, Jonathan Hall, David Hammer, Jason Harriett
+Michael Hart, Kyle Hawkins, Daniel Healy, Caleb Henderson, Yeji Heo
+Heidi Høibråten, Seungguk Hong, Jinpyo Hong (Rudy), Guus Hoogendoorn, Evan Hsieh
+Frank Hsieh, Mark Hsu, Jami Hurst, Sung Hwang, Yongcheol Hwang, Nataliya James
+Pat Jennings, David Jeong, Stephanie Jeong, Ben Johnson, Ryan D. Johnston
+Azad Kdro, Susanne Kendziora, Kirill Khranilov, Haewon (Hailey) Kim
+Hyewon (Carotin) Kim, Jaeyeon Kim, Minwoo Kim, Seunghee Kim
+Leokadiya Konstantinova, Andreas Kordes, Crystal Kruger, Verena Labitzke
+Aaron Langan, Daniel Lee, John Lee, Junhee Lee, Kyueun Lee, Soyeon Lee
+Jua Lee (Gylfi), Areum Lee (Luna), Gabriel Li, Lyn Li, Jerry Liao, Teddy Lin
+Adrián Llamas Estévez, Johnny Lo, Louis Lu, Edward Ma, Adrienne Maines
+Guillaume Maze, Aaron McCorcle, Dmitry Melnikov, Douglas Midgley, Björn Miller
+Frederick Nassar, Anna Naumova, Clement Nicolas, Dima Nikitenko, Sean Nowlin
+André Nunes, Yongtaek Oh, Kyle J Otsu, Lorenzo Pagliacci, Chaeeun Park
+Jonghyeon Park, Nolan Patterson, David Ribeiro, Julie Røst, Iain Rowland
+Valeria Sadilova, Marco Salemi, Oscar Sandstrom, Junseok Seo
+Zachary Settle-Craig, Melody Shih, Casey Shipp, Missy Smith, Becca Smucker
+Jihyen Soh (Natalie), Mijung Song (Darin), Nils Spehr, Déarbhla Stapley
+Tricia Steensma, Michael Stokely, Sarah Thomas Hamm, Ryan Triner, Sam Tsang
+Mike Tucker, Ryan Vowler, Arcy Ward, Elias Warren, Caroline Wu, Patrick Wu
+Lori Yang, Seobin Yoon, Terry Youngkin, Kenny Yu, Miseon Yu, Dylan Zhao
+
+*Customer Support Additional Support
+Alaa Abdelmegid, Ana Alfageme, Romney Anderson Dixon, Carolay Apari Quezada
+Elena Chan, David Chang, Kat Chang, Noi Chang, Vick Chang, Chara Chen, Ken Chen
+Kenny Chen, Yang-sheng Chen, Ming-Hsien Chiang, Chimin Choi, Vicky Chou
+Jerry Chu, John Chuang, Elaine Chueh, Ahmed Emad, Emily Fetherstone, David Fu
+Wade Hou, Josh Hu, Rath Hu, Christopher Huang, Tim Huang, Bomi Hwang, Lefay Jen
+Jaeyoung Jeon, Ahmed Khaled, Mangi Kim, Seolah Kim, Seulki Kim, Joonbin Lee
+Youngki Lee, Sungwon Lee (Iris), Pululu Liu, Yukee Liu, Pamela Lopez
+Itanaã Machado de Oliveira, Juliana Nabil, Demi Shen, Minsung Song (Aven)
+Michaël Stahmer, Arthur Su, Jadis Sun, Ben Tai, Felix Trejos, Daniel Tseng
+Salisa Tseng, Terry Wang, Rohan Yan, Kelsi Yang, Stark Yang, Jason Young
+Ricky Zeng, Adam Zheng, Dio Zheng
+
+-autosplit:true
+*Directors, Localization
+Jaeyang Kwak
+Jessie Lin
+
+*Management, Localization
+Won Jin Ro
+
+*Localization Team
+Benoit Cattiaut
+Adriana Cervantes
+Arthur Chang
+Mili Chang
+Anita Chen
+Chi Dau Thi
+Michele Fantoni
+Thomas Flöter
+Katkanok Hengchamrat
+Christopher Hodum
+Daniel Im
+Ryan Kang
+Yeri Lee
+Crystal Leung
+Angela Liu
+Sarah Lu
+Yitong Su
+Tracy Wang
+Feng Xueyang
+
+*Localization Administrative Support
+Madison Clark
+
+*Localization Additional Support
+Aki Ando
+Marcos Guilherme Araujo
+Vinicius Balzana
+Danny Bard
+Alan Belmont
+Kurtis Brash
+Otto Breski-Thompson
+Judith Brustlein
+Marlys Cañada
+Adrián Carbaja
+Saoussen Chaabani
+José Antonio Delgado Rodríguez
+Marie-cécile Delrieu
+Mohamed Dinia
+Umut Dönmezoğlu
+Marcos Ferreira
+Gastón García Holtzman
+Miku Hibino
+Hannah Hua
+Ji Jeon
+Emily Jia
+Yuparet Jongsuk
+Pattadon Kamolsereerat
+Mikan Kang
+Dennis Kraus
+Adina Kuanysheva
+Sheena Lalicon
+Songju Lee
+Elsa Li
+Chang Liu
+Jiangling Liu
+Oscar Liu
+George McGill
+Aleksandr Menshikov
+Tenesse Moraes de Lima
+Nicolas Oliver
+Jin Ryoo
+
+*PLATFORM SECURITY
+
+*Vice President, Platform Security
+Matt Wheeler
+
+*Platform Security Leadership
+James Chao
+Nicholas Ciuffo
+Keith Floresca
+Kurt Kaufmann
+Nick Lamb
+Eric Luxa
+Natasha Miller
+Zach Nelson
+Peter Ty
+Andreas Unger
+Sebastiaan Van Doornspeek
+Attila Veres
+Ismael Villeger
+
+-autosplit:false
+*Platform Security
+Tyler Baetz, Ariana Barcenas Kanemoto, David Barrick, Mark Barrios
+Kameron Bettridge, Rafael Calvo, Jaejin Choi, Wesley Clark, Joel Davidson
+Brett Davis, Fred Dietrich, Ray Franklin, Andy Harazin, Marc Hertogh
+Manuel Hofer, David R. Holt IV, Rolando Hurtado, Saif Imtiaz, Jacob T Joyce
+Matt Kerr, Dongwook Kim, Lance Kimberlin, Skye Knighton, Alex Kohn
+Steph Krepcio, Mathieu Lacourciere, Tiffany Layton, Sirius Lu, Michelle Josie Ma
+Joseph Mars, Dylan McCann, Brad Moshenko, Jacob Ortmann, Stephanie Lyon Peters
+Tina Pham, Clint Rice, Matthew Rice, Michael Rodriguez, Becca Russell
+Billy Scott, Matt Spence, Josh Summitt, Peter Sutarjo, J.R. Swendseid
+Timothy Tash, John Toterhi, Idris Abdigafar Wardere, Sarah Westerhoff
+Drew Wilson, Micah L Wilson, Zhuangyou Xu, Jack Yang, Mathew Young
+
+-autosplit:true
+*Platform Security Administrative Support
+Chanelle Veltre
+
+*PRODUCTION TECHNOLOGY
+
+*Senior Director, Production Technology
+Clint Schrader
+
+*Production Technology Leadership
+Justin Talbott
+Luke Wilson
+
+*Director, Technology Strategy & Operations
+Galina Tucker
+
+*Technical Program Management and Production Leadership
+Violet Klorer
+Lynn Li
+
+*Technical Program Management and Production
+Cait Davey
+Chiemi Ishikawa
+Nicholas Louie
+Brandon Shephard
+
+*Director, Game Lifecycle Engineering
+Zackery Nunez
+
+*Game Lifecycle Engineering Leadership
+Alexander Amerine
+Matt Boveri
+Kellan Carr
+Riley Cherry
+E.G. Hornbostel
+Josh Kierpiec
+Mike Smullin
+
+*Game Lifecycle Engineering
+Adam Arredondo
+Doug Baggett
+Nick Bumgardner
+Brian Cheldelin
+Larry Eby
+Robert Esser
+Shrèyas Gunè
+Michael Hampton
+Marius Jivan
+Ryan Kohler
+Eva Kollarova
+Chris Lee
+Isaac Llamas Torralba
+Greg Marquez
+Mike Mulen
+Jerry Royster
+Steven Sandoval
+Andy Schott
+Scott Shamansky
+Joshua Slater
+Jim Tario
+Paul Walters
+Matt Wenham
+
+*Platform Foundations and Engineering Leadership
+Chadwick Banning
+Tom Butkiewicz
+Mike Carlson
+Benjamin Williams
+
+*Platform Foundations and Engineering
+Ryan Atkins
+Jason DeVora
+Rebecca Doukas
+Tom George
+Josh Grancell
+Ben Johnson
+Angel Moctezuma
+Ashley Mogensen
+Ann Moon
+Mason Sedlik
+Leah Smith
+Tylen Wells
+
+*Server Engineering
+Aaron Doukas
+Hyungjic Lee
+Vanessa Rose Reyes
+Gerard Paul Liang-Ren Shen
+
+*Data Platform Leadership
+Jaynika Barot
+Brian Leung
+Victoria Rose Lopiparo
+Chris Santiago
+
+*Data Platform Engineering
+Siddharth Reddy Aerva
+Armel Bourgon
+Jesse Chisholm
+Tianyi Deng
+Penghao Duan
+Joonyong Jang
+Kenneth Logan
+AnhQuan Nguyen
+Darren Norton
+Vinayak Ponangi
+Abishek Rengarajan
+Philip Smith
+Jared Stark
+Ronald Tice
+Nicholas Urrea
+
+*Director, Service Technologies
+Brian Anger
+
+*Service Technologies Leadership
+Karim Adala
+Michael Billman
+Jim Butcher
+Josh Gunder
+Ryan Karg
+Steven Mitcham
+Gilbert Samuelian
+Greg Taylor
+Sofia Zelenova
+
+*Service Technologies Team
+Brian Abenes
+Marcos Araujo
+Trevor Atherton
+Sandra Barajas-Norris
+Jeremiah Barndt
+Sarah Bolger
+Jesse Bowden
+Clifford Chinn
+Austin Cornell
+David Decker
+Yuvika Dube
+Tony Duson
+Lucas Goes
+A. Scarlett Goolsby
+Jarvis Hawkins
+Izzy Imrich
+Daniel MacLeod, Jr.
+Sammy Mahmoudi
+Chris Nunn
+Teddy Pao
+Steven Pereyda
+Dylan Phelps
+Michael Quintana
+Donald Rawlings
+Brian Rose
+Brian Smith
+Steven Thacker
+
+*Production Technology Additional Support
+Remco Merkestijn
+Mohammed Mohiuddin
+Sarah Pieper
+
+*QUALITY ASSURANCE
+
+*Vice President, Global Quality Assurance
+Wladia Summers
+
+*Senior Director, Quality Assurance
+Chris Clark
+
+*Associate Quality Director
+Manijeh Mehdizadeh Namini
+
+*Technical Directors, Engineering
+Branka Billante
+Sharif Gaines
+Ken Macalino
+
+*Data Team Management
+Douglas Hill
+
+*Data Team
+Mark Bergman
+Joanne Geng
+Qin Hu
+David Keh
+Brandon Molander
+Christine Schaper
+
+*Operations Management
+Heidi Dozier
+James Gilbertson
+Luis Rivas
+Leonard Rodriguez
+Chad Shoemaker
+Kristina Wong
+Albert Yao
+
+*Operations Team
+Surlah Ahn
+David Amargo
+Daniel Baron
+Ricky Chiu
+Alex Crast
+Nathaniel Dao
+Charles Davila
+Allan Gallardo
+Anton Hsin
+Tim Johnson
+Russel Koh
+Dexter Manglicmot
+Kaitlyn McCollum
+Stevie Michel
+Christopher J. Mountain
+Christian Nguyen
+Danny H. Nguyen
+Rob Rivera
+Anthony Edward Roybal
+Mariela Suarez
+Andrew Thacker
+Ryan Van Natter
+Paxton Wright
+Jose Zamora
+
+*Quality Software Engineering Management
+Terrence Adams
+Raj Asapu
+Josh Corneil
+Elí De la Rosa
+Reece Holzhauser
+Kyle Hoy
+Nathan Kilker
+Amandeep Singh
+Bryce Sturrock
+Jessica Zhang
+
+*Quality Software Engineering Team
+Leticia Allain
+Will Burton
+Damien Chow
+Jonathan Bernabe Dabu
+Akshat Dagaria
+Vasily Filinov
+Ryan Cory Finnegan
+Chris Godsey
+Lucas Goodman
+Kevin Hewitt
+Shaun Jackson
+Dae Kang
+Alexander Keiter
+Illia Kuznietsov
+Adam Lahey
+Asher Litwin
+Nic Ming
+Nathan Mitson
+Dean Nevins
+Chet Raghunath
+Chase Reisinger
+Shaunna Roche
+Matthew Salow
+Paul Scaccianoce
+Kathan Shah
+Alex Sparks
+Nicholas Stallings
+Connor Swanson
+Colton Swartwoudt
+Aric Tetley
+Alex Trest
+Von Trinks
+Bobby White
+Xinyi Xu
+Jay Yang
+
+*Quality Assurance Management
+Waqas Afzal
+Todd Attaway
+Bryan Chice
+Vincent Correa
+Ed Hanley
+Sidvita Hegde
+Hemant Jain
+Ali Kholafaei
+Lakshmi Mahareddy
+Travis Rudisill
+Bharat Thummala
+Yevheniia Vinichenko
+Jason Whitney
+Devin Wilson
+
+*Quality Assurance Team
+Steven Alvarez
+Zachary Askins
+Patrick Banta
+Timothy Biley
+Jerome Bonoan
+Felipe Cabral
+Ben Choi
+Christian Decomain
+Timothy Evans
+Panyia Fang
+Cody Griffith
+Anitha Kamalabaskaran
+Dennis William Lukowski
+Zachary McCann
+Tony Misgen
+James S. Nelson
+Stan Nepohodin
+Katia Oliveira
+Ken Onyeabor
+Allie Petrequin
+Long Phan
+Albert Portillo
+Dana Pull
+Scott Rofé
+Alonso Rojas
+Anna Savostianova
+Kanwal Singh
+James Smith
+Janne Tapio
+Kevin Tea
+Nadi Tsoy
+Saar Yaffe
+
+*Quality Assurance Administrative Support
+Roxy Segovia
+Skylar Sustaita
+
+*STRATEGY & OPERATIONS
+
+*Vice President, Head of Strategy and Operations
+Kasey Kramer
+
+*Strategy & Operations Team
+Ranj Chander
+Marco Koegler
+Jennifer Lew
+
+*Administrative Support
+Alexandra Wieting-Lukowski
+
+*STORY & FRANCHISE DEVELOPMENT
+
+*Executive Vice President, Story and Franchise Development
+Lydia Bottegoni
+
+*Executive Creative Leadership
+Jeff Chamberlain
+Chris Metzen
+
+-autosplit:false
+*Blizzard Animation
+Nataliia Alekseieva, Chris Allen, Iciar Andreu Angulo, Brett Angelillis
+Ricky Antonelli, Kayla Arendts, Chris Armsden, Jen Avery, Jongha Baik
+Becca Baldwin, Michael Beal, Marc H Berrouet, Ricardo Biriba, Jamir Blanco
+Nicholas Bolden, Chris Bostjanick, Nathan Boyd, Dennis Bredow, Jeffrey Brodsky
+Ashley Brown, David Bui, Jud Bumpas, Erich Burchfield, Rafael Campos
+Brendan Casey, Ethan Casper, Angelique Cecere, Alan Chan, Lih Chang
+Robert Chapman, HungChieh Chen, James Chen, Steven Chen, Charles Chi
+Raymond Chih, Kit Chinatiworn, Christine Cho, Craig Chun, Daniel Clark
+Josh Clos, Tom Craigen, James Crowson, Ben Cunningham, Graham Cunningham
+Alexander Curtis, Desi Desario, Cynthia Dickson, Stuart Dobbs, Drew Dobernecker
+Gath Dorsainville, Hartwell Durfor, Anthony Eftekhari, Fabian Elmers
+Leon Enriquez, Edwin Fabros, Jake Fenske, Jason Fleming, Joe Frayne
+Shuntaro Furukawa, Christopher Garcia, Robin George, Jamie German
+Ashraf Ghoniem, John Giarratana, Joseph Gilbreath, Natalie Greenhill
+Seraphin Guery, Jason Michael Hall, John Han, Laura H. Han, Tomo Harashima
+Joshua Harrison, Steeg Haskell, Mohanned Hassan, Parag Havaldar, Madison Healy
+Tyler Helton, Meg Higginbotham, Seth Hippen, Andrew Hodgson, Justin Holt
+Eike Hoppmann, Darren Hou, Shih-Hao Jason Huang, Jingtao Huang
+Shih Chiang Kenny Huang, Amanda Hui, Kathryn Husted, Willy Hwang
+Atsushi Ikarashi, Joe Jackman, Gareth Jensen, Jim Jiang, Mike Jiang, Sheng Jin
+Glory Hayoung Jo, Jessica Dru Johnson, Sungbae Jung, Mike Kelleher, Alex Keller
+Wayne Kennedy, Peter Kerkvliet, Julia Kernan, Robin Khamsi, Paul Kilgo
+Eddie Yonghyun Kim, William Kime-Hunt, Krissie King, Claver Knovick
+Piotrek Krawczyk, Alexandre Fornari Kümpel, Olivia Kuo, Bill La Barge, Brian Lac
+Mark Lai, Adrien Lambert, Scott Lange, Robert Lanning, Robert Lazzarini, Hung Le
+Yeon-Ho Lee, Shawn Liang, Eric Lin, Bryan Locantore, Chris Luce, Jackson Lukas
+Jennifer Luu, James Ma, Sean Mack, Nick MacLeod, MaryAnn Malcomb, Jake Martinez
+Chris McCormick, Garrick McLaughlin, Matthew Mead, Pete Megow, Vinod Melapudi
+Abby Mercante, David Michaels, Jacqueline Molina, Catalina Montelongo
+Meg Morris, Sada Namiki, Aniket Dilip Natekar, Eric Neill, Jeremy Nelligan
+Maia Neubig, Brittany Nguyen, Kevin Nguyen, Jake Nichols, Jeremy Oborn, Steve Oh
+Sherman Ohms, Andrew Paules, Corey Pelton, Chris Perez, Jason Petrocelli
+Belden Pham, Corbin Phillips, Jamie Pilgrim, Navin Martin Pinto, Chris Radcliffe
+John Rader, Renae Radford, Grace Hori Reaves, Sam Rickles, Kathryn Rieser
+Felipe Ruiz Reyes, Kathryn Rumohr, Solhee Ryu, Davy Sabbe, Krystal Sae Eua
+Christopher Sanchez, Christian Santori, Ryan Schmidt, Dorothy Sheng, Kaz Shimada
+Peter Shinners, FunShing Sin, Sharmishtha Sohoni, Rudy Solorzano III
+Kevin Spencer, Allen Stetson, Barry Strum, Jonathan Styles, Blake Sullivan
+Brett Taggart, Mark Tan, Raio Tarunanon, Jon Teer, Joey Tobiska, Scott Trosclair
+Anthony Tso, Peppi Tsui, Erich Turner, Michelle Uvodich, Kat VanderJagt
+Kiersten Vannest, Colleen Wei, Greg White, Tyler White, Mikey Wong, Chris Yang
+Yuyan Yao, Ryan Zale, Anthony Zalinka, Daniel Zamora, Fabio Zungrone
+
+-autosplit:true
+*Blizzard Archives
+Virginia Allison-Reinhardt
+Bridgette Balderson
+Dana Bishop
+Kenneth Blossom
+Nat Cooper
+Leah Newman
+Jessica Taylor
+Melissa Ward
+
+*Blizzard Audio
+Anastasia Barbato
+Amanda Billingsley
+Adam Burgess
+Kristin Ysabel Cercado
+Dennis Crabtree
+Derek Duke
+Kashif Ejaz
+Aaron Fink
+Kerri French
+Tim Friesen
+Robby Glade
+Josh Ra Goodman
+Saundra Hall
+Isaac Hammons
+Mike Hoffman
+Brian Johnson
+Leo Kaliski
+Sammi Kay
+Lizzie Keegan
+Erik Magnus
+Paul Menichini
+Shacora Mitchell
+Claire Offenberger
+Nicholas Papaleo
+Charlotte Pyle
+Ted Reedy
+David Seeholzer
+Joel Taubel
+Aly Testa
+John Thomas
+Andrea Toyias
+Lara Tran
+Jorge Velasco
+
+-autosplit:false
+*Blizzard Video
+Xiaohu Alcocer, J. J. Parker Anderson, Ivan Anic, Adam Armstrong
+Monika Marcelina Armstrong, George Banks, Kori Davis, Joseph DeWitt
+Derek Dincer, Shannon Emigh, Eric Finke, Adam Fiorenza, Bucky Fisk, Mike Furrh
+Paul Gee, Jason Getchell, Sean Hewitt, Thuan Ho, Andrew Holman, Gage Huff
+David Jin, Sergio Klementich, Rene Koiter, Erica Langworthy, Bruce Ignatius Lim
+Alyssa Lobit, Drew Lyon, Kate MacPherson, Natasha Manger, Jake Marada
+Alex Marmalichi, Forrest McClain, Lucas Merino, Stone Newberry, Ryan Nuber
+Zarahi Ortiz Alcocer, Christian Prieto, Alex Ramirez, Ellie Russell
+Stuart Shook, Mark Staubach, Erin Strack, Michelle Tan, Jonny Throop
+Mark Vulcano, Vicki Williams, Steve Winsett, Connor Yoho, Michael Zhang
+
+*Creative Development
+Kasey Appignani, Michael Bancroft, Connor McGinty Brannigan, Matthew Cohan
+Sean Copeland, Ben Dai, Hannah Dalrymple, Jeffrey Dang, Greg Danton
+Sarah J. Delahanty, Venecia Duran, Adam Foshko, Ed Fox, Chloe Fraboni
+Doug A. Gregory, Joanna Griebel, Jason J. Hill, Brian Horn, Lars Jensvold
+Jeramiah Johnson, Imran J. Khan, Ian Landa-Beavers, Thang Le, Patrick McCormack
+Liliana Melgar, Brianne Messina, Anna Morgan, Tony Novelli, Jamie Ortiz
+Jake Patton, Frank Perez, Corey Peterschmidt, Laurent Pierlot, Adam Rickabus
+Andrew R. Robinson, Mike Schaffnit, Val Stone, Josh Tallman, Chris Thunig
+Alison Veneto, Megan Walker, Qichao Wang, Kenneth Wong, Chap Yaep, Ae Ri Yoon
+
+-autosplit:true
+*Development Operations
+Johann Helgi Agnarsson
+Shawna Cabrera
+Hannah Chao
+Zach Katzeghian
+Jill Modyman
+Melissa Morris
+Loree Perrett
+Grace Te
+Rob Tomson
+
+*GLOBAL WORKPLACE SERVICES
+
+*Global Workplace Services Management
+Jonathan Calvete
+Suzanne Navarro
+Susann O'Bryan
+Yoora Oh
+Willie Peace
+Joe Ramos
+Christina Roche
+Brian Thomas
+
+*Global Workplace Services Team
+Jennifer Anderson
+Amber Barnes
+Nick Baxter
+Samantha Bebee
+Bear Berezoski
+Daniel Bromand
+Raven Brown
+Teresa Busby
+Chihiro Fujita
+Katrina Guevarra
+Timothy Hardy
+Ben Harrison
+Ivan Hurtado
+Julie Katora
+Taeyeon Kim
+Karla Kipp
+Angelica Lo
+Ismael Lopez
+Cortez Matthews
+Bonnie Moore
+Yongsung Noh
+Shane O'Connor
+Bradley Rafferty
+Jeff Roberts
+Samuel Schrimsher
+Henry Szekely
+Kassandra Tirrell
+George Vasicek
+Jade Wang
+Matt Winter
+
+*Global Workplace Services Additional Support
+Rajat Banerjee
+Clarence Bell
+John Bennett
+Eric Eglen
+Veronica Eguiguren
+Gloria Figueroa
+Jennifer Hill
+Ross Konesky
+Judith Merlo
+Jim Mix
+Sandy Park
+Troy Ransome
+Emily Sepulveda
+Vikram Singh
+Jeremy Smith
+
+*ACTIVISION BLIZZARD CONSUMER PRODUCTS
+
+*Consumer Products Leadership
+Brooke Carpenter
+Fung Thai-Chu
+Ryan Wood
+
+*Consumer Products Team
+Geordi Darby
+Chanee' Goude
+Crystal Hidey
+Jessica Jayson
+Marc Mejia
+Peter Molinari
+Mauricio Urquilla
+
+*ACTIVISION BLIZZARD DIGITAL GAMING, 3P PLATFORMS
+
+*Vice Presidents, Digital Gaming, 3P Platforms
+Kara Bilkiss
+Garrett Brodie
+Sean Dexheimer
+Jon Estanislao
+Mike Patterson
+
+*Executive Assistant
+Paula O'Connor
+
+*Console
+Dawn Earp
+Raquel Hayner
+Jenn Hur
+Chris Lorentzen
+David Mack
+David Song
+
+*Digital Store Marketing
+Borhan Ahmadi
+Katie Evans
+Felipe Magallon
+
+*PC
+Abdulkamal Abdullahi
+Adham Ayoubi
+Joe Kam
+
+-autosplit:false
+*Interns & Contractors
+Mohamed Abdelfattah, Emilie Abetel, Victor Achache, Cristian Alba Chang
+Mariana Alegria, Angelina Altobano, Irene Ortega Alvarez, Jessica Ambrose
+Gianluca Amicarelli, Alonso Anable, Britta F Anderson, Melissa Andres
+Eric Andrulaitis, Victor Araujo, Harmon Arciaga, Frederic Asselberghs
+Abdelrahman Atallah, Gauthier Auch-Roy, Ibrahim Badawi, Kate Baldwin
+Akarsh Bansal, Angela Barela, John Barry, Caio Bastos, Mohamed Bedair Elftatey
+Renato Belahonia, Abel Beltran, Vanessa Beltran, Sonia Bhattacharya, Ari Bilyeu
+Andrew Bishop, Amanda Bjork, Iryna Bodeichuk, Lisa Boller, Areena Boonkim
+Tom Bourse, Henry Bradley, Joey Bright, Darroch Brown, Shannon Brown
+Florian Brusch, Mike Burke, Dianna Buster, KHUE CAI, Kevin Calderone
+Nevada Carney, Jeremy Carrasco, Luis Carvalho, Nicole Carver
+Rodrigo Rene Castillero, Jhonny Castillo Lopez, Mattia Ceci, Jenna Cedicci
+Sarah Chambaraud, Adrian Chan, Zoe Chang, Jared Chapman, Yvonne Chau
+Kelvin Choi, Daniel Chong, Rachel Chu, Federico Cicconi, Zach Cieszynski
+Rob Cornell, Michael Cortez, Filipe Costa, Renan Costa, Alex Creswick
+Ryan Davis, Fawzy Mahmoud Dawood, Riccardo De Angelis, Raul De La Cruz Alfaro
+Neil Delaguila, Julia Delgado, Victoria Diallo, John Donnelly, Alexandre Drouin
+Amy Dunham, Emma Echols, Chris Ellsworth, Mostafa Elsayed, Salma Elsayed
+Lynden Engelhard, Andrew English, Paige Ervin, Gabriel Farah
+Ahmed Ramadan Farhat Mokhtar, Kenzie Farin, Raymond Fernandez, Alex Firer
+Mike Foster, Tasha Fredrickson, Jay Friedman, Harry Fulgencio, Sudhir Gajula
+Avi Gala, Hugo Rapahel Garcia Saldana, Marek Gaskiewicz, Giuseppe Gaudiano
+Ian Geisler, Frank Geng, Lucas Gentile, Caitlin Gillman, Giap Goh
+Alexis Golitsyn, Mindy Gong, Jaime Gonzalez, Kristen Gonzalez, Ben Goodman
+Sara Grasso, Carlos Guerreiro, Kellie Guggemos, Fabricio Farro Guillen
+Baris Haciyusufoglu, Dana Han-Klein, Chad Hankerson, Jack Harari
+Ariel Hernandez, Paul Hernandez, Jason Hightman, Davon Hill, Rie Hisao
+Aaron Hoffman, Holly Holcomb, Hannah Hollings, Glenn Holzhauer, Floyd Hopson
+Eric Hsu, Austin Hudelson, Robin Huey, Mohamed Samy Mohamed Hussein Gomaa
+Khorib Ibrahim, Yosuke Iida, Shin Imamura, Kayla Jeon, Shengying Jin
+Arianna Johnson, Spencer Kalin-Mulder, Karim Kamel, Bamba Karthylov
+Hannah Katagi, Kassh Kaufmann, Mariia Kazakova, Brandon Keibler, Matthew Kelly
+Islam Khairy, Machiko Kida, Gabriel Camargo Gomes Kieski, Rebecca Kilbo
+Juwan Kim, Shannon Kliffmueller, Henry Korman, Adam Kosak, Edwin Lam
+Tse-Chun Lau, Lora Lee, Phillip Lee, Charie LeMasters, Alex Levine
+Michelle Lewis, Jeffrey Liu, Manning Liu, Danielle Lucha, Tony Lucha, Kelly Luck
+Judith Bonilla Luna, Andreas Lutgen, Kevin Luu, Jeremy Lyons, Millie Maddox
+Mia Malchow, Anne-Lise Malet, Arvin Manlapaz, Jérémy Margairaz
+Vania Lucia Marques Batista, Ruben Marquez, Ray Martinez, Mario Martins
+Max Matesen, Martin McDonagh, Kayla McLaughlin, Joseph Melendez, Lucía Melgar
+Mark Mendez, Gabriela Andrea Merino Pisconte, Dylan Mickanen, Aaron Mickunas
+Geoffrey Miguel, Andrew Mikida, Heath Milo, Cristopher Miranda, Olivia Mitchell
+Calvin Mo, Mahfouz Mohamed, Mai Mohamed, Muddther Mohamed, Ahmed Mohie
+Christopher Molina, Brent Montgomery, Amgad Munis, Michael Munschy, Mark Mustard
+Josh Nash, Rafael Navarro, Jon Nee, Idriss Nelke, Becky Nelson, David Nelson
+Brian Nguyen, John Nguyen, Marco Nieto, Eiji Nishizawa, Bruno Novaes
+Yan Novikau, Ami Ohki, João Oliveira, Andrew Oliver, Misato Otomo, Lisa Ou
+Diego Paci, Ervin Page, Ludwik Pakier, Fred Pamaran, Himanshu Paradkar
+Nathalia Paredes Acero, Simon Park, Alessandro Parotti, Leo Parrill
+Laochailan Partlow, Jose Passos, Kaity Patnode, Cesar Paulicchi
+Shamil Pchenushai, Sergio Pedroso, Ettore Pellegrini, Erik Perez
+Giovanny Daniel Quiroga Perez, Lorraine Pham, Jacob Pillai, Paola Pineda
+Ana Pinheiro, Maike Pohl, Paulina Pollack, Martina Previtera, Darya Prokhorenko
+Celia Puigros, Rian Karlo Punzalan, Crystal Reeder, Bruno Reis, Christian Reus
+Jeff Reynolds, Liz Richardson, Daniela Rigon, Nicolas Rios Guerra, Victor Robles
+Galina Rodriguez, Sara Rodríguez, Natalie Rodriguez Declet, Jake Roig
+Gustavo Rojas, Sebastian Rolinski, Jonathan Roman, Hector Rondon
+Eliot Rozenbaum, Sara Rubin, Sergio Saar, Rochellie Sacket, Mahmoud Salah
+Mohamad Salama, Hannah Salera, Ratmir Salimov, Edward Salvador
+Abdelrahman Mohamed Samir Elsayed Mohamed, Alethia Sanchez, Laia Sanchez Arnalda
+Fressia Sanchez De La Cruz, TJ Sanders, Luan Santos, Sourav Kumar Saraf
+Lilia Sarmiento, Tomohisa Sato, Cecilia Savery, Ratchadaphon Sawettathat
+Joshua Schwerdtner, James See, Jacob Segal, Anna Severi, Heewan Shin, Subin Shin
+Raphael Silva Quintão, Carol Anne Solberger, Fawzia Soliman, Seohee Son
+Hajeong Song, Ricky John Soriano, John Souliopoulos, Conner Soutar, DJ Spahr
+Miroslaw Spalek, Heather Spataro, Nicola Spinoni, Dawid Stanski
+Randy Steingieser, Artur Stepien, Nick Stiefeling, Tim Stockman, Haowen Sun
+Challoi Swinton, Danila Syrtsov, Julian Szwajkajzer, Izabela Szyja
+Christopher Tai, Louis Takishima, Kiran Talla, Cleto Tandingan, Hang Ying Tang
+Jasmine Jung Jung Tang, Goutham Thimmannagari, Mitchell Thomas, Arvin Timur
+Monika Tokarz, Guilherme Toledo, Daniel Tong, Jonathan Torossian, Nicolás Toso
+Fedor Trishkin, Janet Tsai, Ezgi Tülü, Chris Turner, Pim Ubert, Tugay Ünsal
+Fiorella Urbina, Camila Valle, Meredith Veach, Aurelie Viens, Brandon Villarreal
+Michael Alejandro Villota Zavaleta, Oleksandr Voronchuk, Marian Voth
+Geoffrey Vreeken, Gary Wang, Mia Wang, Celeste Wechter, Björn Wetz, Daniel White
+Beverly Williams, Lana Williams, Anna Willoughby, Sean Wilson
+Paulina Wojnakowska, Jeffrey Wong, Michalina Wroblewska, Ekaterina Yamenskova
+Joshua Yehl, Yi Yongwoo, Jeff Young, Michelle Young, Ahmed Zaky, Mengxiao Zeng
+Linlin Zhang, Ziyuan Zhang
+
+*Blizzard Development Family
+Tiffanyh ., Vennessa ., Josh Aaron Miller, Robin Aasberg Pipirs, Golpari Abari
+Masa Abdalhalim, Roger Abelló, Brett Abraham, Rodrigo Abreu, Jashwin Acharya
+Daniel Achterman, José Antonio Achúcarro Roque, Don Adams, Jay Adams
+Sydney Adams, Bruno Afonseca, Mauro Agnellini, Raphael Ahad, Jestry Ahlswede
+Omar Ahmed, Carlos Ahumada, Sophia Akhavan, Marcello Akira, Marco Alamia
+Ryan Alasandro, Juan Albero, Jordan Albert, Mateusz Albrewczynski
+Michael Alcorn, Jordan Alexander, Timothy James Alexander, Tyler Alexander
+Daniel Alexandre, Raphaël Alexandre, Alina Alikhanyan, Thomas Allen
+Aaron Allport, Felix Alonso, Javier Alonso, Pablo Alonso, Abel Alonso Linares
+Romel Alonzo, Brianna Alvarez, Alejandro Álvarez, Jose Luis Amador Jr.
+Trevor Amell, Anton Ametov, Kep Amun, Cole Andersen, Drew Andersen
+Mitchell Andersen, David Anderson, Josh C. Anderson, Kyle Anderson
+Luke Anderson, Max Anderson, Ryan Anderson, Stephen Anderson
+Erik Olof Gunnar Andersson, George Andreas, Tori Andreas, Michael Andreula
+Ashley Andron, Daniel Philip Antezana, Danil Antonov, Matt Antoski, Alex Apple
+Satoshi Arakawa, Richard Arambul, Darin Aranda, Nick Araujo, Jake Archer
+Andrew Arconti, Kayla Arenas, Andres Ariza, Matthew Armstrong, Andrew Arnett
+Kyle Aronson, Alejandro Arreola, Dzmitry Artsiukhou, Tatsuo Asai, Rob Ashcraft
+Steve Ashley, Kristin Ashouri, Aiden Ashton, Sara Asmussen, Griffin Aswegan
+Hira Atique, David Aucourt, Anthony Joseph Austwick, Aleksej Avdejev
+Mike Aversa, Jon Avila, Christian Avina, Alex Ayala-Gomez, Eric Azevedo
+Ayoub Azzam, Phoebe Babineau, Chris Bachelor, Keith Bachman, Jay Bacuetes
+Giryang Bae, Keunmin Bae, Moon Bae, Guillaume Bailey, Skya Bailey
+Justin Michael Baker, Vadim Bakhlychev, Endre Balint, Nathan Ballay
+David Balogh, Ciji Bambrick, Jinju Bang, Kate Bankson, Abigail Barber
+Matthew Barcas, Gaetan Barel, Dylan Barker, Trevor Barker, Lauren Barnard
+Nikhail Barnes, Greg Barr, Sam Barrett, Marlon Barroquillo
+Ernesto Barroso Machado, Justin Z. Bartlett, Michael Bartnett, Brockton Barton
+Raymond Patrick Bartos, Zachary Bauer, Maxim Bazhenov, Sunny Thurston Bean
+Dan Beaulieu, Ryan Bebee, Bryan Bedford, Jason Beene, Andy Beers, Ryan Begnaud
+Gabriel Bélanger, Stephan Belin, Bella Bell, Ben Bell, Kevin Bell
+Alain Bellehumeur, Trent Bellet, Dez Bencosme, Bernard Beneteau
+Joan Bennasar Bonnin, Graham Bennett, Christopher Benoit, Shawn Benson
+Jason Bentley, Justice Bentzel, Charlie Benvenuti, Sarah Benyona, Dave Berard
+Emily Berger, Stefano Bernardi, Russell Bernau, John Berry, Kyle Bertacco
+Matt Bessey, Dennis Bestafka, Oscar Beteta, Rachel Bews, Deepali Bhanushali
+Yashas Bharadwaj, Nav Bhatti, Maria Bichinsky, Will Bidermann, Jonathan Bieda
+Tyler Bielman, Alexis Bierschbach, Aaron Billups, Nyle Billups, Dylan Binder
+Christopher Bireley, Seth Bisett, Matt Bishop, Cleber Bispo, Paul Bistoff
+Tyler Black, Robert Blackwelder, Brandon Blackwell, Jackson Lyke Blanchard
+Marc-Frederick Blanchet, Robert Blanchet, Aaron Blean, Carol Blean, Joey Bleau
+Nick Blokker, Jesse Blomberg, Jonathan Boakes, Alexander Bobylev, Calvin Boice
+Daniel Boisselle, Kévin Alexandre Boissonneault, Kevin-Alexandre Boissonneault
+Larry Boles, Kelly Bollinger, Nathan Bonfiglio, Garth Bonikowski, Thomas Bonin
+Brenden Booth, Nathalie Borgesen, Alex Borlin, Ezra Borman, Lydia Borutta
+Dustin Bosteder, Brian Paul Boswell, Ellis Bouvia, Ryan Bowdre, Ryan Bowlin
+Sadie Boyd, Jason Boyle, Eric Braddock, Cody Bradley, Shane Bradley
+Josh Braendel, Younes Brahimi, Julie Anne Brame, Natalie Brash, Even Braudaway
+Liv Breeden, Brandon Brennan, Austin Bressie, Michael Brewer, Brent Brewington
+Jak Brierley, Brianna Briggs, Daniel Briggs, Jeffrey Brill, Josh Brinson
+Wesley Broadnax, Martin Brochu, Andy Brock, Morgan Brodskiy, Devin Brom
+Killian Brom, Mat Broome, Susana Broullón Costas, Allen Brower, Andy Brown
+Josh Brown, Kayla Brown, Morgan Brown, Sophia Brown, Matthew Browning
+Christopher Bruce, Garrett Brush, Jorge Bruzos, John Buckley, Jordan Budisantoso
+Angelo Buenaseda, Riley Bufton, Tiep Bui, Rafael Bujalance, Michael Bukowski
+Bradley Buller, Joey Bullock, Kaitlin Burge, Maxence Burgel, Scott Burgess
+Chris Burnett, Jeymi Burns, Matt Burns, Peter Burroughs, Rachel Bussone
+John Butkus, David Butterfield, Ogulcan Buyuksandalyaci, Michael Bybee
+Kevin Byrom, Joan Cabot, Justin Cage, Erica Cai, Haku Cai, Kuko Cai
+Michael Calandra, Kayleigh Calder, Dominic Calkosz, Matt Callahan, Nick Callow
+Francisco Calvache, Heather Cameron, Joshua Michael Camille, Carl Luc Campbell
+David Campbell, Dominic Camuglia, Laiza Camurugy, Ely Cannon, Keven Cantin
+Stuart Capewell, David Carlock, Griffin Carlson, Colton Carmine, Rebecca Carmine
+Scott Carnahan, Cord Carney, Alex Carpentieri, Cory Carrilio, Steven Carroll
+Chris Carson, Jordan Carter, Neil David Carter, Paige Carter
+Jaclyn Carter Kümpel, Paul Carver, Mary-Anna Carwen, Johnny Casamassina
+Sarah Case, Cameron Casey, Jessica Castillo, Todd Castillo, Alan Castle
+Alvaro Castro, Enrique Castro, Chris Cavalieri, Stephen Cavallaro
+Cesar Alberto Cavazos, Romy Cayetano, Brandon Cebenka, Gaetano Cecere
+Marc Cejalvo, Brock Cerny, Tony Junior Cervantes, Christopher Chacko
+Cassiel Chadwick, Michael Chae, Shengquan(Frank) Chai, Chelsea Chambers
+Michael Chambers, Alexander Chan, Brad Chan, Kevin Chan, Skye Chandler
+Ben Chaney, Glen Chang, Grace Chang, Jamie Chang, Jeff Chang, Lan-Fang Chang
+Richmond Chang, Shih Kai Chang, Sola Chang, Stephanie Chang, Stephen Chang
+Aleks Chapevova, James Chapman, Joshua Chapman, Sean Chapman, Lucas Charbit
+Olivier Chatel, Rached Chatti, Vivek Chaturvedi, Andrew Chau, Julien Chaulot
+Kevin Chea, Carlos Cheek, Chris Chen, Dawnson Chen, Dina Chen, James Chen
+Lucien Chen, Monica Chen, Sarah Chen, Mathieu Chenard, Yung-Ju Cheng
+Zikun(Quentin) Cheng, Wyatt Cheng, Dmytro Cheremisin, Anhelina Cherniak
+Carman Cheung, Bexley Chevalier, Sergii Chevkota, Steven Chew, Yi Shiuan Chiang
+Michael Chiang, Nick Chilano, Cody Childers, Stephen Chin, Tiffany Chiu
+Sungjae Cho, Clayton Chod, Jin Kyung Choi, Mikyoung Choi, Mina Choi, Sukjoo Choi
+TB Choi, Victor Chong, Terence Chong Yu Ming, Priscilla Chong-Macias, Olive Chou
+Daniel Christian, Cameron Christianson, Jennifer Christine, Mark Christoforetti
+Jenny P. Chu, Valerie Chu, Jeffrey Chuang, Kelly Chun, Ly Ha Chung, Paul Chung
+Andy Churchill, Engin Cilasun, Remko Claassen, Grayson Clark
+Josiah Jerome Clark, Ryan Claudy, Paul Cloney, Keith Riley Co, Martin Coates
+Joseph Cochran, Bret Cocking, Nathan Coffee, Shimon Cohen, Steve Cole
+Avery Coleman, Jared Coliadis, Carlos Collazo, Brian Collins, Jeremy Collins
+Jonathen Collins, Ian Combs, Joe Concha, Benjamin Conner, Sam Connolly
+John Constable, Sarah Conway, Rob Cooch, Aaron Cook, Maddiy Cook
+Linny Cooke Saverline, Christopher Beau Cooper, Krystel Cooper, Ryan L. Cooper
+Samuel Cooper, Jake Cope, Ethan Copeland, Alicia Cornelia, Melissa Corning
+Donnie Cornwell, Kassandra Correa, Brian Correia, Alex Cortes
+Victor Ariel Cortes, Victor Cortis, Chris Cossey, Sarah Cotner, Jared Coulston
+Dan Cox, Paul Cox, Canute Crasto, Alex Creamer, Miguel Criado, Amber Criscione
+Bernardo Cristovao, Brent Critchfield, Brendon Croft, Hart Crompton, Bryan Cross
+Jude Cross, Steve Crow, Ava Crutchley, Adam Cruz, Jose Cuenca, Claire Cullen
+Chase Culver, Travis Cunningham, John Curran, Oscar Curto, Theresa Custodio
+Nara Vieira da Silva, Chelsea Dainton, Kristie Dale, Nicholas DalSoglio
+Daniel Dao, Robin Dao, Ryan Dao, Bradley Davi, Chris Davila, AJ Davis
+Anthony Davis, Brock Davis, Christopher Davis, Garrison Davis, Serhii Davydenko
+Bradley Dawn, Alec Dawson, Jon Dawson, Shem Dawson, Banning Day, John A. Day
+Morgan Day, Whitney D. Day, Lucas de Alcântara, Christian De Jesus
+Chris De La Pena, Andrew De Sousa, Michael De Sousa
+Thais De Souza Homem Del Rey, Garth DeAngelis, Justin DeCloedt, Ben Deda
+Jia Dee, Amanda Deep, Dan Delapena, Bri Delgado, Joel DeLong, Alex Deluzuriaga
+Alexander Demyanenko, Dafu Deng, Yi Deng, Aimee Dennett, Eric Dennis
+Ryan Denniston, Alex deNoyelles, Brian DeSanti, Rig Deshpande, Jane DeSiena
+Carl deSoto, Quentin Devauchelle, Matthew Devlin, Cecilia Deyne, Luciano Di Fede
+Carlos Diaz, Sergi Díaz, Dara Diba, Jason Dickol, Rex Dickson, Chris Dietsch
+Patrick Dietz, Marta Díez Pastor, Ken Dilks, Jessica Dinh, Paulo Dionisio
+Jessica DiPaola, Kyle Disanjh, Sherif Disi, Trung Doan, Emily Doherty
+Landon Doi, Kat Dolan, Mike Donais, Sibyl Dong, Jim Donnelly, Ryan Donnelly
+Evan Donohue, Julia Doria Miguel, Kyran Dou, Kara Dougherty, Nate Dowell
+Brian Dowling, Steven Dowling Jr, Tanya Down, Andrew Downs, Damien Dozias
+Jiajun(JJ) Du, Lucy Du, Kiara du Toit, David Dubenko, Aaron DuBois
+Paul-Etienne Duclos, Ed Duer, Daniel Duffin, Dan Duffy, Michael Dumais
+Charles Dunn, Paul Dunstan, Thomas Duong, Antoine Dupuis, Jeffrey Duval
+Steven Dwyer, Amber Dyerly, Ryan Dziurgot, Philip Eberhart, Michael Ebert
+Jonathan Ebling, Evan Edwards, Shani Edwards, Brian Effinger, Michael Eheler
+John Ehresmann, Rachael Eibert, Rong Shi Eisenberg, Erica Ekermo
+Norris Eldridge, Patrick Elia, Brian Elias, Tom Ellis, Foster M. Elmendorf
+Caleb Elmore, Chas Elterman, Jud Emerson, Scott Emerson, Camden Emery
+Jeffrey Engel, Charlie Engelhard, Benjamin Erdt, Kamer Erken, Somer Esat
+Laura Escobar, Dustin Escoffery, Juan Pablo Espino Rivero, Victor Esquivias
+Mustazar Essa, Michael Esten, Ofer Estline, David Estrada, Stephen Eusebio
+Christopher Matthew Evans, Josh Evans, Matthew Everett, Michael Fabay
+Jack Fader, Ariel Fain, Eid Shawqi Fakhouri, Nick Falcon, Raven Fanning
+Ryan Farmer, Trevor Farnsworth, Brian Farr, Brendan Farrell, Heath Farrow
+Lea Faske, Mahreen Fatima, Brian Fay, Jeremy Feasel, Kirill Federspiel
+Elise Fedoroff, Alex Fedotovskikh, Kyle Fegan, Mike Feil, Olivia Fel
+Jenni Felton, Ryan J. Felton, Chris Feltz, Annie Feng, Toby Feng, Blaze Ferguson
+Heather Ferguson, Patrick Ferland, Sam Fernandez, Andrés Fernández Munuera
+Melissa Ferrăo, Christopher Ferraro, Matt Fielding, Matt Fieler, Colin Finer
+Kaitlyn Firehock, Chris Fish, Jason Fittipaldi, Caitlin Fitzgibbon, Kim Flack
+Darien Flamont, Ashley Flanagan, Shane Vincent Flannigan, Benjamin Fletcher
+Brian Fletcher, Linus Flink, Eliane Florentz, Aldo Flores
+Cindy Kha Flores Flores, Daniel Flores, Maybri Flores Garcia, Jonathan Folino
+Erik Fontano, Tyler Forseth-Agnew, Jenny Alice Forsman, Bruno Fortuna Parrela
+Kenya Foster, Morgan Foster, Charles Fournier, Russell A Foushee
+Kelly Michael Fox, Zach Frame, Sarah Francian, Jay Frank, Van Logan Franklin
+Doug Frazer, Jerry Frazier, Melissa Michelle Frechette, Matt Frederick
+Brendon Fredin, Kyle Fredrickson, Evan Freed, Andrew Freeman, Keaven Freeman
+Howard French, David Fries, Kathryn Friesen, Aaron Frost, Andrew Frost
+Zachary Frye, Min Fu, Alexis Daniel Fuentes, Ana Fuentes Carmona, Josh Fuesting
+Shu Fujita, Wesley Fujiyama, Kevin Fulkerson, Samuel Fung, Manu G. Somonte
+Hunter Gage, Ryan Galang, Nathan Gallagher, Sergey Galushkin, Arjun Gambhir
+Matt Gant, Sam Gao, Yakir Garavelas, Alvaro Garcia, Hannah Garcia
+Rogelio Garcia Areizaga, Taylor Garcia, Mariel Garcia, Lluís García Torres
+Dave Gardner, Lily Gardner, Richard Gardner, Luis Alberto Garza, Charles Gast
+Nicholas Gates, Will Gauthier, Iago Gayoso, Chris Gearhart, Caitlin Geels
+Anna Gegelia, Rebecca Yanagi, Mike Genovese, Arin George, Cora Georgiou
+Sage Georgiou, Ian Gerdes, William T. Gergits, Paul Gheorghe, Kris Giampa
+Joanna Gianulis, Kaylee Gifford, Ancor Gil, Yeray Gil, Jared Gillis
+Alice Gionchetta, Taso Gionis, Jimmie Gisclair, David Givone, Lucas Glovas-Kurtz
+Phoenix Goehring, Max Golosiy, Piotr Golus, Jonathan Gomez
+Oscar Alexander Gomez Leon, Alexander Gonzalez, Gabriel Eli Gonzalez
+Jaime Gonzalez, Randy Gonzalez, Jonah Goodman, Michael Goodman, Edward Goodwin
+Taylor James Gorder, Michael Gorlicki, Kali Eve Goss, Benjamin Gosselin
+John Gotch, Matt Gotcher, Andrew Garrett Gotow, Maggie Gourlay, Johal AZ Gow
+Austin Gowland, Jolene Goya, Zed Grably--Shrager, Katie Grace, Marisa Graff
+Casey Graham, Jon Graves, Michael Graves, Becca Gray, Ron Gray, Dave Greco
+Josh Greenfield, Kelli Greenfield, Ollie Greenwood, Terran Gregory, Sean Gribbin
+Arthur Griffith, Jenny Grobbelaar, Lance Grooms, Alejandro Grossman
+Varda Grover, Jeff Grow, Floyd Grubb, Isaac Guan, Alex Guevara, Pierre Gufler
+Daniel Gutierrez, Andrea Gutiérrez, Jeff Guy, Truyen Ha, Greg Haase
+AnaLee Haertling, N. Hajj, Joe Hakik, Robyn Haley, Aislyn Hall, Justine Hamer
+Jeff Hamilton, Maria Hamilton, Rowan Hamilton, Stephanie Han, Herbert Haneke
+Jeremy Hanley, Ryan Hanlon, Greg Hansen, Max Harchik, Cody Harder, Mike Hardison
+Zaven Haroutunian, Stu Harrington, Ryan Hart, Zachary Hart
+Sat Nam Kaur Hartigan, Kyle Hartline, Jay Hartman, Tanner Hartman
+Naz Hartoonian, Tyler Hasman, Aiden Hatcher, Dan Hay, Chris Hayes, Mike Hayes
+Jared Hays, Allan Haywood, Ion Hazzikostas, Chaz Head, Jaquelyn Bacal Head
+Aubrie Healy, Simon Hedrick, John Hegner, Michael Heiberg, Jesse Heinig
+Brad Heinze, Lucas Helmintoller, Kacey Helms, John-Mark Hemphill
+Padraic Hennessy, Matt Henson, Jared Hentz, Jennifer Hepler, Luke Herczeg
+Emiliano Heredia García, Jordi Heredia, Alyssa Marie Herman, Simon Hermitage
+Marcelo Hernandez, Yvette Hernandez, Fernando Herrera, Mike Hershberg
+Matthew Heyman, Kyle Hickey, Ryan Hickman, Travis Hickman, Luis Hidalgo
+Daniel Hiew, Morgan Hilber, Kenneth Hile, Amber Jean Hill, Grayson Hill
+Michael Hill, Phillip Hillenbrand Jr., Jr., Jonathan Hilliker, Trevor Hilseth
+Molly Hinchey, Matt Hines, Brecken Hipp, Valerie Hlavinka, Edwin Ho, Kevin Ho
+Wilbert Ho, Rafael Hocevar, Peter Hodge, Ron Hodge, Luke Hodgkinson
+Skye Hoefling, Michael Hogan, Mary Holian, Stewart Holl, Jarrod Hollar
+Teak Holley, Eric Holmberg-Weidler, Sebastian Holzfeind, Eric Hom, Beomki Hong
+Jinseok Hong, Nesskain HKS, Kyongho Hong, Connor Hooper, Kelli Hoover
+Terry Hopfenspirger, Patrick Horaczek, Abigail Horn, Kim K Horn
+Brennan Hornburg, Thomas Horwath, Shaobo Hou, Montgomery House III
+Doug Houserman, Emma Howard, Clay Howell, Jerry Hsu, Peter Hsu, Jing Huang
+Ken Huang, Tanya Huang, Ting Huang, Josh Huber, Terra Huckabee, Kenny Hudson
+Scott Hudson, Joshua Hufton, Gregory Hulet, Jeremy Hummel, Michele Hung
+Howard Huo, Ben Hutchings, Carin Huurnink, Jay Hwang, Leah Hwang, Scott Hwang
+Ashley C Hyun, Youmin Hyun, Mariangela Iacobellis, Damon Iannuzzelli
+Dai Ibrahim, Banun Idris, Danny Iglesias, Forrest Imel, Alyx Indigo
+Milan Irigoyen, Timothy Ismay, Adam Z. Jackson, Brett Jackson, Jeremiah Jackson
+Steph Jackson, Doug Jacobs, Trevor Jacobs, Chris Jacobson, Siddharth Jadav
+Ariel Jaffee, Russell Jahn, James Jaimes, Pavan Jakhu, Tom Jaklitsch
+Madeleine James, Dusan Jan, Kimoon Jang, Albin Jansson, Amy Jantzer
+Jariah Jaramillo, Chad Jarrett, John Jarynowski, Jan Jasa, Sam Jay, Rachel Jegel
+Kyle Jensen, Gina Hyejeong Jeon, Peter Jeong, Adelaide Jewel, Alex Jiang
+Jenny Jiang, Jimmy Jiang, Nan Jiang, Omar Jimenez, Dospi Jin, Sibyl Zhejing Jin
+Syd Jin, Xing Jin, Jason Johannes, Dan Johnson, Kami Aja Johnson
+Leigh-Ann Johnson, Michael Johnson, Morgan Johnson, Serena Johnson
+Jayne Johnston, Arthur Lee Jones, Ashleigh Jones, Kevin Jones, Steven Jones
+Tim Jones, Josiah Jordan, João Pedro Jorge, Jack Joseph, Jessica Jourdan
+Paco Jover, Kay Ju, Cain Jung, Eli Jung, Chung Kan, Zander Kandalaft, Daeuk Kang
+Nate Kaplan, Shawn Kassian, Kunal Kathuria, Justin Kauffman, Michael Kautzman
+Jack Keegan, Mark Kelada, Aaron Keller, Erica Mahina Keller, Joe Keller
+Garth Kelly, Melissa Kelly, Timothy Kelly, Zachary Kelly, Taylor Kemp
+Michael Kemski, Jacob Kennedy, Jen Kennedy, Scott Kennedy, Kyle Kenworthy
+Rob Kenyon, Cardell Kerr, Liam Kerr, Dakota Reese Kesner, Justin Keville
+Kevin Keyser, Brendon Kibler, Judson Kidde, Shaun Kiernan, Chris Kiklowicz
+Joseph Killion, Bobby Kim, Day Kim, Dohyeong Kim, Jaejun Kim, Joon Hyung Kim
+Mina Kim, Mina Kim, Natasha Kim, Rei Kim, Theresa Kim, Andrew Kinabrew
+CK Kindregan, Sarah King, Careena Kingdom, Madison Kinney, Jayson Kirby
+Michael Kirchhoff, Morgan Kirkpatrick, Jimmy Kirschner, Erik Kirshey
+Jonathan David Kirtz, Laura Kitterman, Andrey Kizimenko, Ryan Klaverweide
+Jeremy Klein, Kevin Klein, Chris Klepac, Andrew Klimas, Patrick Klisiewicz
+Greg Knowlton, Fred Knutson, Sven Knutson, Sam Kodzis, Noah Koecher
+Kris Koester, Josh Kofalt, Amber Koh, Matthias Kohler, Rostin Kohnechi
+Andrew Kohnke, Dorottya Kollo, Allen Byungsoo Koo, Simon Koo, Bryan Korab
+Rylan Koroluk, Albert Korotkovskiy, Viviane Kosty, Arnaud Kotelnikoff, Conor Kou
+Alex Koufakis, Frank Kowalkowski, Viktoriia Kozyrieva, Dan Kramer, Ethan Kreis
+Chaguk KU, Paul Kubit, Alex Kudebeh, Vince Kudirka, Tobias Künster, Jonathan Kuo
+Jesse Kurlancheek, Konstantin Kuryatnik, Myrna Sayuri Kusano, Alex Kustau
+Kevin Kvalstad, Juno Kwak, Alex Kwok, Bonnie Y. Kwon, Jaden Kwon, Jason K Kwon
+Pio Kwon, Danny Laba, Paul Lackey, Youssef Lakssir, Frank Lalich Jr, Bao Lam
+David Kenneth Lam, Henry Dacthien Lam, Tiffany Lam, Ken Lamb, Jacob Lamoureux
+Justin Lancaster, Joel Landes, Owen Landgren, Joshua Scott Landman
+Giavanna Lang, Adrienne Lange, Caitlin Lange, Eric Lanham, Marc-Olivier Lapointe
+Jose Luis Lara, Paw Larsen, Eric Larson, Erik Larson, Steven Lashower
+Jonas Laster, Sean Latreille, Olivia Lucia Lauletta, Mike Laursen, Allie Lavacek
+Scott Lawlor, David Lawrence, Jonathan Lawrence, Seph Lawrence, Evan Lawson
+Chad Layton, Marie Lazar, Frank Le Cocq, Charlene Le Scanff, Owen Leach
+Michael Leaning, Ronald Leask, Ben LeBar, Eric LeBlanc, Will Lebus, Andrew Lee
+Benjamin Lee, Bryson Lee, Cynthia Lee, Danna Lee, Dreen Lee, Ejay Lee, Evan Lee
+Evelyn Lee, Felicia Lee, Frankie Lee Jr., Frederick Dayhee Lee
+Hailey Youngah Lee, Hak Lee, Hannah Lee, Hsing H. Lee, Jin Lee, Joanne Lee
+Jonathan Lee, Jonathan Lee, Kevin K Lee, Lillian Lee, Marcy Lee, Paul H Lee
+Peter C Lee, Shu Lee, Skye Lee, Sunki Lee, Victor Lee, Youngsik Lee
+Elena Lee Felix, Krista Leemhuis, Connor Leger, Joel Leigh, Christopher Leighton
+Tess Leiman, David Lennon, Keith Leon, See Shuen (Sam) Leong, Leon LEONG
+Alexandre Lepage, Henry Letteron, Dor Levgoren, Kateryna 'Kate' Levshova
+Adam Levy, Emma Lewarne, Joe Lewis, Joshua R. Lewis, Tyler Lewis
+Marlowe Lexvold, Angela Li, Jerry Li, Kimberly Li, Linyao(Freya) Li, Paige Li
+Royce Li, Yan Li, Andrew Liang, Michael Liang, Skylar Liang, Chris Liao
+Esther Liao, David Lieu, Adrienne Lim, Andy Lim, Parker Lim, Rebecca S. Lin
+Evan Lind, Gabriel Ling, Timothy Linn, Neil Lintag, Justin Lippert, Chloe Lister
+Carey Littlefield, Ryan Littleton, Angie Liu, Guanglei Liu, Henry Liu
+Jasmine Liu, Jeff Liu, Jess Liu, Qian Lin Liu, Yiming Liu, YE LIU, Justin Lo
+Galina Lobyshova, Cedric Loehr, Mitchell Gordon Habib Loewen
+Konstantin Julian Löffler, James Logan, John Aaron Lohrey, Carla Lombardo
+David Lomeli, Holly Longdale, William Longworth, Jose Luis Lopez
+Katherine Lopez, Rubén López González, Iker López de Suso, Salvador Lopez Marmol
+Helena Lorenzo, Tomas Lori, Oscar Loris, Esther Love, Branson Lowman
+Marcel O Lowrie, Linda Lozano-Wade, Klemen Lozar, Thomas Lu, Tiger Lu
+Cathy Lucas, Stephen Lucey, Amethyst Ludor, Jean Franco Luis, Matthew Lussier
+Stephen Lutterloh, Minh Luu, John Lynk, Brielle Lyons, Nathan Lyons-Smith
+John Lytle, Jessica Lytton, Max Ma, Yaohua Ma, Dan Maas, Matthew Mabrey
+Jason MacAllister, Christopher MacDonald, Sergio Macias, Xavier Macias
+Olivia Maciejewska, Robert MacKenzie, Jessi Macko, Marcus Maczynski
+Morgan Maddren, Daniel Maendel, Austin Maestre, Rich Magan, Patrick Magruder
+Chase Maguire, Jay Maguire, Dave Mah, Marjan Mahdjoubi, Austyn Mahoney
+Vivian Mai, Alec Maier, Rachel Maille, Nicole Maiorano, Dancho Makaveev
+Daniel Mallada, Kimberly Mallas, Fredrik Malmer, Eric Maloof, Mar Mancini
+Marco Mandim, Michael Manfredi, Max Mann, Zara Mann, Abigail Manuel, Harry Mao
+Willow Mao, Marcos Marchan, Maria Marco Terraes, Richie Marella
+Filippo Maria Perlini, Vlad Mihail Marica, Raymond Mariorenzi, Josue Mariscal
+Don Marks, Carson Marlow, Trevor Marsano, Daniel Marthaler, Alan Marti
+Brendan Martin, Evelyn Martin, Jade Martin, Kyle Martin, Max Martin
+Sonia Martin, Orlando Martinez, Steve Martinez, Ana Martínez, Paco Martínez
+Ron Marz, Jerry Mascho, Ben Maskell, Jonathan Mason, Luke Mason, Steve Massaro
+Adam Massey, Jack Masson, Ryan Masterson, Franek Matera, Richard Matey
+Christopher Matsumoto, Andrew Matthews, Kevin Matthews, Michelle Mayer
+Ian Maynard, Kristy Mayo, Noelle Capri Mazurek, Gary Mcallister
+Katie McAllister, Collin McAtee, Kenny McBride, Chris McCabe, Tony McCall
+Sean McCann, Mark McClarin, Jon McConnell, Corin McCrate, Drew McCrory
+Matt McDaid, Roderick J. McDougall, Nicholas McDowell, Erin Rochelle McElroy
+Marc McGarry, Brittany Anne McGrath, John McIntyre, Kate McKee, Corey McKemy
+Boyd McKenzie, Grayson McKim, Chad McKinney, Mike McLafferty, Robbie McMahon
+James McManus, Justin McMillan, Denise McMurry, Rob McNaughton, Ian McNicol
+Eric McNine, Daniel McPhee, Lizabeth McPhee, Jeff Mears, Gustavo Medeiros
+Roland Medvedkov, Shivani Meher, Melaku Mehiretu, Sohail Mehra
+John Charles Mehringer, Luna Meier, Juan Mendiola, Andrew Menjivar
+Evan Mennillo, Silas Mercer, Tristan Mercier, Dani Merrithew, Miles Metzger
+Graham Meulendyks, Brett Meyer, Josey Meyer, Kristofer Meyer-Ruef
+Jeff Mianowski, Simon Miao, James Michaels, Avida Michaud, Marc-Ross Michaud
+Dylan Micheli, Tyler Michlik, Elayna Middleton, Cleveland Miettunen
+Santos Miguel, Maksym Mikhnevych, Bjorn Mikkelson, John Mikros, Evan Miles
+Kristina Miles, Alexandra Miller, Chris Miller, Harley Richard Miller
+Jeff Miller, Jesse Millest, Michael Millican, Ryan Mills, Lorenzo A. Minaca
+Guillaume Minet, Shawn Minoux, Josh Miramontes, Gary Miranda, Mitchell Mire
+Walt Mitchell, Matt Moening, Patrick Moffett, Hazel Monforton, Robert Moodey
+Aidan Moon, Jonathan Moon Shaw, Robert J. Moore, Ryan Moore, Omid Moradi
+Barry Morales, Luke Mordarski, Kristy Moret, Chris Morgan, Dan Morgan
+Jack Morgan, Meko Morgan, Stormr Morgan, Scott Morin, David Morón
+Matthew Morris, Aaron R. W. Morse, Alex Fama Morton, Jeremy Morton, Max Moseley
+Suguru Motegi, Vanessa Motta, Senna Motto, Thomas Opie Mountfort, Mahdi Mousavi
+Miranda Moyer, Ryan Mozena, Andy Muchmore, Alex J. Mueller, John Mueller
+Morgan Mulhall, John Muniz, Nick Murano, Jorge Murillo, Rebecca Murillo
+John Murphree, Jess Murphy, Michael M. Murphy, Sean Murphy, Collin Murray
+Justin Murray, Mihai Muscan, John Myers, Sheila Myers, Ro Myr, Rachel Myre
+Uliana Myrhorodska, Uliana Myrhorodska, Mats Myrvold, Rahul Nagarkar, Pat Nagle
+Mohammad Nahas, Anushka Tina Nair, Raffi Nakashian, Lynn Nalbach, Jongmo Nam
+Sean Napolitano, Brandon Nason-McConkey, Natalie Natalino, Christian Nava
+Malcolm Neal, Jon Neimeister, Andy Nelson, Daryl Nelson, Jim Nelson
+Oliver Nelson, Matt Nemiah, Chadd Purple Nervig, Igor Nesmelov, Kyla NeSmith
+Epa Neto, Tyler Neuhaus, Jared Neuss, Antonio Neves, Jonathan Newsham, Ashe Ng
+Sen Ng, Ryan Ngoon, Julia Nguyen, Ky Nguyen, Thach Ngoc Nguyen, Tri-Vien Nguyen
+Jonathan Nickerson, Miranda Nicola, Justin Nieves, Dmitry Nikiforov
+Michael Niles, Nora Nirvaluce, Christi Nishiyama, Joshua Noh, Jun Soo Noh
+Dusty Nolting, Peter Nott, Katya Novomotu, Matthew C Novy, Kyle Nowak
+Manuel Jesus Noyola, Deric Nuñez, Michael Nuthals, Chris Nuzzo, Jesica O'Black
+Kevin O'Brien, Mike O'Brien, Alice Regan O'Connell, Jesse O'Connor, David O'Neal
+Devan Oatney, Rod Oblander, Sean Obrigewitch, Timo Obst, Daniel Ocean
+Payton Odierno, Dan Ogles, Juyoung Oh, Charlotte Louise Older, DJ Olivi
+Mark Ollivierre, Adam Olshan, Aaron Olson, Aaron Ondek, Matthew Onheiber
+KC Onias, Andrea Opimitti, Serban Oprescu, CJ Ordog, Luismi Ortega
+Sam Erik Ortiz, Monique Ory, Eric Ostrom, David Otero, Gabi Overberg
+Emily Overfelt, Tyson Owens, Zachariah Owens, Rebecca Oxford, Hoshiko Oyamatsu
+Alicia P. Méjica, Marisa Paat, Chris Pace, Kurtis R Paddock, Alfredo Padron
+Daniel Pageau, Mareka Pährisch, Dmytro Palii, Jacob Palmer, Dennis Pan
+Gillian Pangilinan, Rodney Pare, Diego Park, Samuel Park, Sona Park, Yewon Park
+Colby Parker, Justin Parker, MJ Parker, Lee Parks, Andrew Parnell, Jeff Parrott
+Adam Pastorello, Taylor Pate, Aadarsh Patel, Jay Patel, Ben Paulsen
+Philip Pavlin, Corey Peagler, Will Pearce, Lucas Pederson, Mical Pedriana
+Xanthe Anne Pedrosa-Menor, Spencer Pelton, Carlos Penate, Steve Peñate
+Ray/Rae Pencil, Elissa Pendragon, Charles Peng, Stephen Penson, Christian Pepin
+Felipe de Mello Pereira, Kirill Perekrest, Diego Peres, David M Perez
+Juan Antonio Perez, Neus Pérez, Jorge Abraham Pérez Gómez, Jarred Perlas
+Rachel Sakura Perry, Art Peshkov, Nina Petchprapa, Chris Peters, Joel Peters
+Zachary Alan Petersen, Daniel Peterson, Joseph Peterson, Chris Pettersson
+Jason Pettibone, Ugo Pfliger, Bounme Phetdavone, Stacey Lee Phillips
+Trae Phillips, Aimee Pi, Elliot M Picarello, Andrea Piccolo, Cardale Pickett
+Benjamin Pielstick, Joseph Piepiora, Derek Pietras, Marlon Piloni
+André Pinheiro, Ed Piper, Helder Pires, Maksym Pitielin, Casey Pitta, Adam Pitts
+Ryan Place, Kimberly "Kymba" Plushner, Martin Poirier, Sebastien Poirier
+Anastasiia Poliakova, Oleksandr Polishchuk, Cody Poludniak, Alex Ponce
+Virak Pond-Tor, Andrew Porras, Aleco Pors, Alys Magdalena Portela, Mike Portillo
+Gwen Powell, Jennifer de los Powell, Kirkland Powell, Lance M Powell
+Jordan Powers, Rafal Praszczalek, Melissa Presser, Lo Prestenbach, Blake Prevel
+Steven Price, Bianca Pricop, Clara Prud’Homme, Justin Prymowicz, Amila Puhala
+Patrik Puhala, Catarina Pulli, Talent Pun, Cameron Purchase, Christopher Pyle
+Lei Qian, Andy Qin, Ronald Quach, Nick Quackenbush, Claire Quesnel, David Quick
+Alexandra Quinby, Ryan Quinn, Javier Quintana, Jose Quintero, Jose Quintero
+Steven Quintero, Shervin R. Rad, Rachel Radeztsky, Sakthivel Radhakrishna
+Toby Ragaini, Max Rahm, Paige Rahm, Shah Rahman, Nawar Rajab, Nikhil Raktale
+Kiuyan Ran, Bill Randolph, Camden Rapp, Steve Rasmussen, Stephen Raub
+Josh Rawlings, Brandon Ray, Daniel Razza, Matt Razzano, Isaac Redlon, Crash Reed
+Kimberly Reed, Korey Regan, Stephen "Stevie" Reh, Kyle Patrick Reichhart
+Joshua Reid, Brittany Reinhard, Zach Reinhardt, Jonathan Reinhold, Derek Reiser
+Julien Reliat, Yuhang Ren, Esmee Renfro, Steve Rentas, Ana Resendez
+Jordan Retterer, RJ Reyes, Will Reynard, Gregory Reynolds, Alexandria Reza
+Bogdan Rezunenko, John Paul Rhinemiller, Andrew Rhoads, Cameron Rich
+Adam Richards, Bryan Richardson, Danielle Riggins, Thomas Riggs, Cody Rinehart
+Alex Ringe, Sterling Rios, Greg Risselada, PJ Rivas, JJ Rivera, Nick Rivera
+Sarah Rivera, Eleni Rivera-Colon, Jessica Rizzo, Lars Robertson, Chris Robinson
+Donovan Robinson, Leonardo Robles Gonzalez, Michael Robson, Jean Rochefort
+Rex Rockwell, David Rodrigues, David A. Rodriguez, Jacob T. Rodriguez
+Nina Rodriguez, Owens Rodriguez, Sebastian Rodriguez, Victor Rodriguez
+Julia Rodriguez Abud, Jeremy Rodriquez, Dion Rogers, Evan Rogers, Gray Rogers
+Cory Rohlfs, Francisco Javier Rojas, Dyanna Casas Roman, Jean Romero
+Cristina Romero Fernandez, Alex David Rose, Nate Rose, Mike Rosenberg
+Spencer Rosenberger, Glenn Rosser, Shae Rossi, Kyle Rothermel, Trevor Rothman
+Elliot Roush, Matthieu Roussotte, David Rovin, Daniel Rowe, Kori Rowe, Pro Roy
+Steve Rubin, Micaela Davi Rubio, Kevin Rucker, Ryan Rude, Jesse Ruderman
+Luis Ruiz Perez, Victor Ruiz, Andrew Rumer, James Russell, Robbie Russell
+Matthew Ryan, Alexei Rybakov, Chris Ryder, Rowan Ryder, Kevin Rygg, Song Ryoo
+Louis-Joseph Sabourin, Dave Saelman, Lauren Saint-Onge, Anna Sakoi, John Salera
+Emil Salim, Charles Salzman, Gustavo Samour Lopez, Guillaume Samson
+Graydon Samuelson, Carlos Sanchez, Brandon Sanders, Taylor Sanders
+Ashton Sanderson, Rob Sandy, Ivy Sang, Alexander Sanoja, Amor N Santos
+Vik Saraf, Jared Saramago, Anabel Sarango, Laura Sardinha Kidde, Michael Sassone
+Avinash Sastry, Ken Sato, Brallan Omar Saucedo, Ryan Savas, Sergii Savchenko
+Crystal Savin, Sterling Savoy, Corey Scanlan, Patrick Scarborough
+Carmen Thomas Scaringe, Laura Schafer, Christian Scharling, John Scharmen
+Zachary Schecter, Ragnar Scheuermann, Zoey Schlemper, Otmar Schlunk
+Adam Schmidt, Evan James Schmidt, Gustav Schmidt, Michael Schmidt
+Elisabeth Schmitt, Daniel Schneider, Inka Schulz, Tijana Schulz, Ryan Schwind
+Dakota Scibilia, Jeremy Scoggins, Jason Scott, Nathan Scott, Dan Seddon
+Spencer Seebald, Almir Sehic, Samantha Seitz, Casey Selzer, Pedro Seminario
+Mykola Sergieiev, Alex Serio, Robert Sevilla, Brenden Sewell, Karishma Shah
+Omer Shahak, Tim Shannon, Emmett Shatley, Jason Shattuck, Aaron Shaw
+Zeno Sheffey, Heidi Shellenberger, Josh Shelnutt, Joe Shely, Kevin Shen
+Lei(Ray) Shen, Jacqueline Sheng, Nick Shepperd, Tyler Sheridan
+Jonathon Sherwood, Chase Shi, Hao Shi, Noah Shields, Xander Shiells, Billy Shih
+Jake Shillan, ChaeHwan Shin, Jihyun Shin, John Shin, Sean Shin, Matt Shipley
+Kenny Shiu, Diana Shnaider, Isaac Shuey, Mikhail Shumilin, Jeevun Sidhu
+Igor Sidorenko, Jennifer Siino, Nickey Sikalis, Dominick Sileo, Guy Silliman
+Angelica Silva, Igor Silva, Adrià Simon, Cornelius Simon, Charley Simonian
+Lauren Simpson, Amy Singer, Arsh Singh, Charles Sites, Emily Megan Siu
+Irene Sizemore, Florencia Kristiani Skaalvik, Morten Skaalvik, Paul Skibitzke
+Johan Skoeld, David Sladek, Lexi Slater, Jon Slear, Justin Sloate, Ben Slupik
+Shaun Smiley, Teagan Smiley Wolfe, Alexander Smith, Alexander Smith, Amy Smith
+Dave Smith, Mac Smith, Noah Smith, Ryan Smith, Taylor Smith, Pixie Smolowitz
+Brennen Snow, Dylan Snyder, TJ Snyder, Ren Soanes, Odin Soevik
+Ponappa Somayanda, Angela Song, James Minyong Song, John Song, Meng Song
+Ben Soriano, Svetlana Sorokina, Katherine Sosnovsky, Albert Soto, Alissa Soto
+Jakob Soto, Ben Sousa, Seth Spaulding, Erik Speeckaert, Nolan Speed
+Eric Spitler, Stanislav Spivakov, Laura Spreitzer, Genevieve St-Michel
+Andrew St. Pierre, Jude Stacey, Scott Stadick, Sean Stamps, Scott Stanfield
+Skye Stanley, Derrick Staples, Antonio Stapleton, Peter Stapleton, Zach Stark
+Kevin M. Starr, Kris Stasik, Jon Steady, Allison Steele, Carson Steil
+Katherine Stein, Peter Steinbach, Faith Steinmetz, Sebastian Stepien
+Megan Stewart, Rio Stewart, Stephen Stewart, Anne Stickney, Brandy Stiles
+Scott Stirling, Robert Stivanson, Calen Stivers, Cory Stockton, Rob Stokes
+Clayton Stone, Zachary Stoneman, Mike Stout, David Stowater, Matt Stratford
+Daniel Strum, Brandon Su, Shawn Su, Réka Sugár, Caroline Sugianto
+Steve Hyunsuk Suh, Jun Sui, John Sullivan, Evelyn Tianheng Sun, Sarith Sun
+Meri Allen Sutton-Hatcher, Dino Suvalic, Thomas Swanson, Claire Swart
+Danny Sweeney, Gregor Swiderski, Nate Swinney, Sofia Syjuco, Timothy Syvinski
+Norbert Szabo, András Szabó, Ian Szufnara, Alexander Talbott
+Christopher Talbott, Nicholas Tallman, Crystal Tam, Ellis Tamarin, Ava Tan
+Daryl Tan, Kelvin Tan, Nicole Tan, Yili Tan, Yui Tan, Helen Tang, Dan Tanguay
+Gregory Tapper, Patrick Taron, Adam Taubenheim, Adrian Taul, Marlo Tayag
+Ashley Taylor, Richard Taylor, Fabiano Vassao Teixeira, Mike Teixeira
+Thomas Teixeira, Simon Teng, Daniel Tenorio, Adrian TerBorg, Andrew Terrell
+Phil Teschner, Thomas Teshima, Chonlawat Thammawan, Non Thareechit
+Jamus Robert Thayn, Gavyn Thompson, James Thompson, Andy Thorne, Travis Thornton
+Adrien Tielmans, Jillian Tipping, Jon Tobias, Jessica Tobin
+Julien Tolszczuk-Jalbert, Celina Tong, Eric Topf, Rhett Torgoley, Nuria Torné
+Cindy Tousignant, James Touton, Anthony Trager, Ian Cong Tran, Lyvon Phan Tran
+Monica Tran, Peter Tran, Tommy Tran, Anthony Trejo, Dustin Trimble
+Stephen Trinh, Eden (they/them) Trujillo, Scott Trujillo, Aaron Trulson
+Wendell Tsai, Anna-Marie Tschudy, Perry Tsui, David Tu, Graven Tung
+John Turello, Anthony Turi, Cory Turner, Kyle Uberman, Aisha Ullah Corbera
+Jessica Ulloa, Marcin Undak, Fernando Urquijo, Joel Usher, Nikolay Valchev
+Neil Stephen Valdez, Gabriel Valdivia, David Valentine, Miurika Valery
+Nora Valletta, Dan Valvo, Ayrthon van de Klippe, Dan Van Essen, James Van Nuland
+West VanBuskirk, Allen Vandegrift, Lior Vansteenkiste, Tony Vargas
+Anton George Vasick, Emmanuel Jr Roxas Vasquez, Andrew Vassallo, Miguel Vela
+George Velev, Valentina Velieva, Tim Vensel, David Venturini, Fanny Vergne
+Marcio Gonçalves Vieira, Kevin Vigue, David Viklund, Flavio Villalva
+Lewis Villamar, Roy Villavicencio, Marc Villegas, Matt Villers, Zach Vinless
+Ty Viveiros, Toby Vockrodt, Renato Vogelaar, Uriah Voth, Rachel Vought
+Tylor McClain Voydat, Don Vu, Yeng Vue, Anh Vuong, Miles Wadsworth
+Benjamin Daniel Wagner, Jay Wagner, Heidi Wagstaff, Jason Wai, Liz Waite
+Melissa Wakefield, Chad Waldschmidt, Joshua Walker, Steven Walker Jr.
+Jess Wallace, Suzy Wallace, Carlin Walsh, Austin Walterman, JP Walton
+Cauê Waneck, Ben Wang, Fushan Wang, Mingxian Wang, Phil Wang, Qiwei Wang
+Shelley Wang, Tina A. Wang, Yuehao Wang, James Ward, Sivonne Ward, Ryan Warden
+David P Warner, Jacquelyn Washington, Jared Wasserman, Tim Wasson, Chris Wassum
+Tiffany K. Wat, Jhon Waterman Acanda, Antonio Watson, George Webb, Jason Weber
+Josh Weeks, Brian Weers, Adam Weesner, Kai Wei, Tina Wei, Wong Zhong Wei
+Eric Weiland, Jared Weiland, Jon Weisnewski, Grace Wellnitz, Michael Weschler
+Joshua Wester, Mike Westergaard, Thom Whalen, Chad Wheeldon, Azra Wheeler
+Caleb Wheeler, Rodney Whitaker, Austin White, Charlie White, Sean C White
+Matthew Whited, R. Blaine Whittle, Austin Widmyer, Nick Wilby, Brett Wilcox
+Ellery Rose Wilder, Eric Wiley, Bruce Wilkie, Rose Willard, Andrea Willcockson
+Bekki Williams, Brodie Williams, Daniel Williams, Darren Williams
+David Williams, Frank Williams, Hayley Williams, Justin Williams
+Kenneth Williams, Kian Williams, Phillip Williams, Jordan Wills, Nichalia Wilson
+Stuart Wilson, Alex Winkler, Max Enrico Winkler, Gavin Winter, Alex Winterwood
+Kalle Wiren, Tyler Wissler, Shawn Witt, Jay Witten, Remington Wong, Stephen Wong
+Sara Wons, Amanda Wood, Brett Wood, Jamie Wood, Kanon Wood, Timothy Woody
+Ryan Woolard, Adam Wozniak, James Wright, Lorelei Wright, Bayard Wu, Larry Wu
+Kevin Wyckoff, Frank Xu, Xiaodong Xu, Mike Yaklin, Yuran Yan, Tim Yanalunas
+Chun Chun Yang, Elaine Yang, Hailey Yang, John Yang, Landon Yang, Monami Yang
+Yun Yang, Peiwen Yao, Aaron Yasukochi, Daniel Yates, Darren Yee, Michael Yeh
+James Yen, Kelly Arekay Yeo, Yao Wen Yeo, Katrina Yepiz, Brittany Yeung
+Kevin Yeung, Olivia Yin, Skye Yin, Jasmine Ying, Thomas Yip, Nicholas Yochum
+Justin Yong, Kea Yonni, Gayeong Yoo, John Yoo, Ronny Yoon, Stephanie Yoon
+Tyler Youmans, Blake Young, Kevin Young, Kevin Young, Nate Young, Sam Young
+Justin Youngsaye, Andrew Yount, Allison Yu, David Yu, Kris Yu, Leo Yu
+Michelle Yu, Yusi Yuan, Zach Yuan, Judith Zachariae, Tetiana Zadorozhna
+Zak Zahhal, Lydia Zanotti, Anastasiia Zaporozhchenko, Jeven Zarate-McCoy
+Phil Zeleski, Matthew Zellmer, Josefin Zetterholm, Chang (Zekia) Zhan
+Bridge Zhang, Zixin Zhang, Chongguang Zhang, Jared Zhang, Joshi Zhang
+Vincent Zhang, Kevin Zhao, Yuni Zheng, Sharon Zhong, Glen Warwick Zhou
+Angela Zhu, Haley (YuanYuan) Zhu, Kris Zierhut, Giovanni Zillinger
+Claudia Zimmer, Ethan Loren Zink, Matt Zitterman, Skye Zondler, Donia Zosa
+
+*ACKNOWLEDGEMENTS
+
+-autosplit:true
+*DEVELOPMENT BABIES
+Miles Finnigan Center
+Colette Belle Ewing
+
+*EXTERNAL ART
+
+*ELECTRIC SQUARE
+Shaun Baker
+James Coleman
+Mederic Havard
+Antoine Machinet
+Ian Maull
+Coline Muller
+Dean Read
+Suzy Wallace
+
+*IMMORTALS STUDIO
+Bao Tong Fan
+Tian Gao
+Yi Nuo He
+Lin Jun Hu
+Rui Zhe Liu
+Alex Riabov
+Gu Pu Wang
+Kun Yang
+Wei Chen Zhang
+Jia Qing Zhou
+
+*PASSION REPUBLIC
+Tiong Boon Chee
+Fung Wen Cheng
+Ho Qi Guang
+Lai Shao Heng
+Ariz Bryan Shah Bin Zahir Hussein
+Cathy Kyo Voon Jet
+See Zhi Jie
+Ong Chyi Li
+Wong Wai Loon
+Anna Pushkarova
+Dawud Abdul Teo Wei Qiang
+Ng Aik Sern
+Kok Yip Sun
+Chong Tracy
+Wong Zhong Wei
+Rooney Chin Sai Weng
+Wilson Wikandha
+Edwin Tang Hoe Win
+Teo Zheng Yang
+Theresa Soo Yian Yu
+Muhamad Ridhuan Bin Yusof
+Nazmi Zuhairie
+
+*EXTERNAL DESIGN
+
+*SNOWED IN STUDIOS - A KEYWORDS STUDIO
+Ian Anderson
+Kristie Dale
+Ryan DesJardins
+Tegan Kilpatrick
+
+*EXTERNAL ENGINEERING
+
+*IRON GALAXY
+Evan Bass
+Sloan Battle
+Patrick Clare
+Alexander Deluzuriaga
+Jose Gabriel Fernandes
+Alain Hernandez
+Silas Mercer
+Nate Otis
+Kiran Purushothaman
+James Reid
+Tim Shannon
+Ian Smith
+Enzo Sorano
+Tomasz Topczewski
+Gabe Valdes
+
+*VOICE OVER RECORDING
+
+*VOICE OVER RECORDING - CASTILIAN SPANISH
+Lionbridge Games
+
+*VOICE OVER RECORDING - ITALIAN
+Red Audio
+
+*VOICE OVER RECORDING - FRENCH
+Lionbridge Games
+
+*VOICE OVER RECORDING – GERMAN
+Lionbridge Games
+
+*VOICE OVER RECORDING - KOREAN
+Atomic
+
+*VOICE OVER RECORDING - LATIN AMERICAN SPANISH
+Sound in Words
+
+*VOICE OVER RECORDING - BRAZILIAN PORTUGUESE
+Lionbridge Games
+
+*VOICE OVER RECORDING - POLISH
+PRL
+
+*VOICE OVER RECORDING – RUSSIAN
+The Most Games
+
+*VOICE OVER RECORDING - SIMPLIFIED CHINESE
+Cheeka
+
+*VOICE OVER RECORDING - TRADITIONAL CHINESE
+Cowbay
+
+*VOICE OVER RECORDING - JAPANESE
+KYOA
+
+*VOICE ACTOR – GERMAN
+Christopher Groß
+
+*VOICE ACTORS – CASTILIAN SPANISH
+Claudio Domingo
+
+*VOICE ACTOR - LATIN AMERICAN SPANISH
+Alejandro Outeyral
+
+*VOICE ACTOR – FRENCH
+Xavier Couleau
+
+*VOICE ACTOR - ITALIAN
+Marco Caputi
+
+*VOICE ACTOR - POLISH
+Tomasz Borkowski
+
+*VOICE ACTOR - BRAZILIAN PORTUGUESE
+Fabio Azevedo
+
+*VOICE ACTOR - JAPANESE
+景浦大輔
+
+*VOICE ACTOR - KOREAN
+이주승
+
+*VOICE ACTOR - RUSSIAN
+Andrei Sergeev
+
+*VOICE ACTOR - TRADITIONAL CHINESE
+傅品晟
+
+*VOICE ACTOR - SIMPLIFIED CHINESE
+薛倞
+
+*LOCALIZATION ADDITIONAL SUPPORT
+
+-autosplit:false
+*LIONBRIDGE GAMES
+Tugdual Delisle, Matthew Whiting, Amy Nanto, Michael Friend, Damian Domach
+Guillermo Alvarez Lloret, Lukas Friedrich, Leka Bashkim, Lukas Birschel
+Tony Callies, Javier Crespo Robles, Eliot Rozenbaum, Diana D'Estefano
+Mikita Brezouski, Zuzanna Rutkowska, Alan Belmont Aguilar
+Fernando Antunes Araújo, Seungmi Kim, Horace Zhang, Pei-Chen Wang, Tomoki Aoyagi
+Moritz Kneuer, Frank Schutze, Daniela Birk, Falk Critelli, Marcel Schulz
+Martina Thissen, Tamara Neiss, Pedro Bayarri Saura, María Garrido de Vega
+Francisco A. Rodríguez Pérez, Graziella Marie, Frédéric Tabard
+Riccardo De Angelis, Vittoria Carulli, Vanessa Chiappani, Nicola Cascarano
+Gaetano Fabozzi, Romanina Cozzolino, Darya Marinello Prokhorenko, Marcin Bojko
+Łukasz Gładkowski, Elżbieta Grzesiak-Niespodziewany, Mateusz Hasiński
+Michał Iwańczuk, Olga Kubis, Marta Niespodziewany, Javier Gómez
+Nicolás Manuel Toso Fernández, Daniela Rigon, Gabriel Fernandes
+Cesar S. Paulicchi, Evelyn Trippo, Thayná Nascimento, Julia Spanopoulos
+Yulia Slepova, Yury Tarasov, Vladimir Goryachev, Grigory Koseyan
+Yulia Izmaylova, Irina Artamonova
+
+-autosplit:true
+*SPECIAL THANKS & ACKNOWLEDGEMENTS
+Barry Mandish
+Alex Sementelli
+Kane Stoddart
+Tim Syvinski
+
+-autosplit:false
+*LICENSED SOFTWARE
+ENTT
+Code and documentation Copyright (c) 2017-2021 Michele Caini.
+
+FMOD
+FMOD EX Sound System provided by Firelight Technologies.
+All rights reserved.
+
+FreeType
+Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, and Werner Lemberg
+
+half
+Copyright (c) 2012-2021 Christian Rau
+
+OpenEXR
+Copyright (c) 2006-2019 OpenEXR a Series of LF Projects, LLC.
+All rights reserved.
+
+Popcorn FX
+PERSISTANT STUDIOS SARL – POPCORNFX, 9 TER rue Auguste Barbier,
+75011 PARIS, France
+Hereinafter referred to as “PERSISTANT STUDIOS”
+1. Definitions
+« the LICENSEE »: any moral or physical person who acquires any
+product edited by PERSISTANT STUDIOS.
+« Documentation »: means user documentation and/or specifications
+relating to the Software.
+« Intellectual Property Rights »: means copyright, registered and
+unregistered designs, database rights, registered and unregistered
+trademarks and trading names, patent rights, know-how, performance
+rights, goodwill and applications for any of the same and other rights
+of a similar nature enforceable anywhere in the world.
+« the Software »: any version of PopcornFX, editor, SDK or plugin.
+2. Scope
+We consider that any buying act on the PopcornFX store is a virtual
+agreement (“Agreement”), in which PERSISTANT STUDIOS grants THE
+LICENSEE and THE LICENSEE accepts a nonexclusive, non-transferable and
+royalty-free right to use the Software within the limitation given by
+the chosen license type (personal or studio license), according to the
+terms and conditions specified below.
+3. Right of use
+THE LICENSEE will not duplicate, alter, modify or adapt the Software,
+or sublicense, sell, lease, rent or otherwise disclose it to any third
+party.
+THE LICENSEE shall not, nor permit others to, decompile, reverse
+engineer or disassemble the Software. By exception, THE LICENSEE may
+decompile the Software only to the extent permitted by Law when it is
+indispensable to obtain the information necessary to achieve the
+interoperability with another program. THE LICENSEE will not correct
+or make a third party correct any error contained in the Software
+without PERSISTANT STUDIOS’s prior and written consent.THE LICENSEE
+will inform PERSISTANT STUDIOS (by any written media) of any use of
+the Software for public demonstration.
+4. Intellectual Property
+The Software is licensed, not sold. PERSISTANT STUDIOS retains
+ownership of the Software including all intellectual property rights
+therein. The Software is protected by copyright laws and international
+treaties. The copyright and all other Intellectual Property Rights of
+the Software are and remain the property of PERSISTANT STUDIOS. THE
+LICENSEE shall not acquire any title, copyright or other proprietary
+rights in the Software or any copy other than specified in this
+agreement. THE LICENSEE undertakes to keep the copyright notice on the
+code of the Software and in the Documentation.
+5. Warranty
+The Software is licensed to THE LICENSEE on an “as is” basis. THE
+LICENSEE acknowledges that PERSISTANT STUDIOS does not represent or
+warrant that the Software will perform in every operating environment,
+will have uninterrupted or error free operation or that any error will
+be corrected or correctable. Notwithstanding the above, PERSISTANT
+STUDIOS warrants that the Software and the Documentation shall not
+infringe the Intellectual Property Rights or other rights of a third
+party, that PERSISTANT STUDIOS and the Software comply with all
+applicable laws and regulations, and that the Software shall not
+contain any computer viruses, back doors, or harmful or malicious
+code.
+6. Liability
+Under no circumstance will either Party be liable for any
+consequential, indirect or incidental damages or loss of profits,
+whether foreseeable or unforeseeable, based on claims of the other
+Party (including, but not limited to, claims for loss of data,
+goodwill, use of money, interruption in use or availability of data).
+7. Maintenance
+PERSISTANT STUDIOS may provide THE LICENSEE with professional and
+technical services on an “as needed”, mutually agreed basis.
+
+rapidJson
+Copyright © 2015 THL A29 Limited, a Tencent company, Milo Yip, The
+Msinttypes R29, Copyright © 2006-2013, Alexander Chemeris,
+All rights reserved
+
+TSLF
+Copyright © 2007 Free Software Foundation, Inc.
+
+Diablo II: Resurrected ©2021 – 2026 Blizzard Entertainment, Inc.
+
+Diablo II: Resurrected, Diablo, and Blizzard Entertainment are trademarks or 
+registered trademarks of Blizzard Entertainment, Inc., in the U.S. and other countries.
+All other trademarks referenced herein are the properties of their respective owners.
+
+
+*Diablo II: Resurrected
+
+*BLIZZARD ENTERTAINMENT
+
+*GAME DESIGN
+Blizzard Entertainment
+
+*LEADERSHIP
+
+*Executive Producer
+Rod Fergusson
+
+*Lead Producer
+Chris Lena
+
+*Art Direction
+Chris Amaral
+
+*ART
+
+*Character Artists
+Crystel Land
+
+*Animators
+Keith Sizemore
+
+*Additional Art
+Glen Chang
+Aaron Hamman
+Steven Kim
+Billy Shih
+
+*DESIGN
+
+*Game Designers
+Andre Abrahamian
+
+*UI Designers
+Chris Liao
+
+*ENGINEERING
+
+*Systems Engineers
+James Touton
+
+*Software Engineers
+Rylan Dolan
+Arin George
+Chris Holland
+Zach Johnson
+Anton Te
+Daniel Waechter
+
+*Tools Engineers
+Travis Abeyti
+Shelly Choi
+Marius Jivan
+Andrew Murphy
+
+*Reliability Engineering
+Nick Bumgardner
+Josh Kierpiec
+Jim Tario
+
+*Additional Engineering
+Paul Ewing
+James Doverspike
+Chris Genova
+Nathan LaPre
+Zues Rawji
+James Minyong Song
+
+*PRODUCTION
+
+*Game Producers
+Matthew Cederquist
+Maxine Virtue
+
+*Additional Production
+John Ha
+James Yen
+
+*SUPPORT
+
+*Administrative Support
+Esmee Renfro
+
+*COMMERCIAL
+
+*Commercial Leader
+Chris Paulson
+
+*Business Operations
+Yu Sian Tan
+
+*Consumer Marketing
+Todd Harvey
+
+*Creative Services
+Hector Bolanos
+Mike Carrillo
+Brian H. Kim
+Ty Stevens
+Jillian Tipping
+
+*Finance
+Derek Davis
+Adam Plushner
+
+*Global Insights
+Zach Boyer
+Mike Swiontkowski
+Ming Xia
+
+*Global Publishing
+Rich Bantegui
+Adrian Chen
+Adam Fletcher
+CW Jung
+Tom Powers
+David Wang
+
+*Public Relations
+David Gredell
+Maxim Samoylenko
+
+*TESTING
+
+*Test Manager
+Dustin Bosteder
+
+*Test Leads
+Eric Phoumthipphavong
+
+*Test Analysts
+Brian Carl
+Alex Castanon
+Carlos Diaz
+Mike Dinger
+Garrett Elmendorf
+Aldemir Ferreira
+Aldo Flores
+Pele Henderson
+Tim Johnson
+Joe Lewis
+Nicolas Ming
+Joe Minh Nguyen
+Jomar Mateo
+Max Peters
+Andrew Rumer
+Charles Salzman
+Michael Sassone
+David Settlow
+Trent Stassi
+Kevin Tea
+Dustin Trimble
+Taylor Turner
+Daniel Vasquez
+Shane Webster
+
+*Quality Engineers
+Kyle Sullivan
+Ethan Wolfe
+
+*VICARIOUS VISIONS
+
+*In Loving Memory
+Matt Helsom
+
+*PROJECT LEADERSHIP
+
+*Project Lead
+Michael Bukowski
+
+*Executive Producer
+Clive Burdon
+
+*Art Lead
+Dustin King
+
+*Design Lead
+Robert Gallerani
+
+*Engineering Lead
+Matthew Bishop
+
+*Senior Producer
+Kyle Martin
+
+*Test Lead
+Chris Mullin
+
+*DISCIPLINE & AREA LEADS
+
+*Lead Animator
+Curtis Orr
+
+*Lead Concept Artist
+Jack Joseph
+
+*Lead Character Artist
+Cory Turner
+
+*Lead Rigging Artist
+Josh Huber
+
+*Lead UI Artist
+John Dee
+
+*Lead Visual Effects Artist
+Evan Mennillo
+
+*Lead Weapons and Items Artist
+Joe Arcovitch
+
+*Lead World Artist
+Jeffrey Lee
+
+*Lead Online Services Integration Engineer
+John A. Day
+
+*Lead Game Client/Console Systems Engineer
+Alan Abram
+
+*Lead Gameplay Engineer
+Thomas Gawrys
+
+*Lead Graphics Engineer
+Kevin Todisco
+
+*Lead Performance Engineer
+Chad Layton
+
+*Lead Tools Engineer
+Taylor Hadden
+
+*Lead UI/UX Engineer
+Alexei Rybakov
+
+*Lead Audio Designer
+Christian Portwine
+
+*Development Experience Lead
+Andrea Piccolo
+
+*ART
+
+*Animation
+Brianna Alvarez
+Romualdo Cayetano
+Brian Labore
+Jared Weiland
+
+*Concept
+Min Fu
+Gray Rogers
+
+*Character
+Brandon Cebenka
+Adrienne Lange
+Donavon Young
+
+*Lighting
+Wyatt Glenn
+Sean Murphy
+Chris Wassum
+
+*Rigging
+Jim Donnelly
+John Aaron Lohrey
+Ben Murto
+
+*User Interface
+Lawrence Basso
+Jeffrey Fugelsang
+Rob Sandy
+
+*Visual Effects
+Nicolas Armstrong
+Bill Castagna
+Carlos Cheek
+Natalie Frost
+Andy Lomerson
+Rich Magan
+Brian McSweeney
+Emily Overfelt
+Eric Weiland
+
+*Weapons and Items
+Jason Cotugno
+Kory Molohon
+
+*World
+Michael Andreula
+Mark Downie
+Josh Evans
+Ciaran Fraser
+Mark Hernandez
+Andrew Lee
+William Longworth
+Michael Manfredi
+Sean Napolitano
+Rachel Relyea
+Leanna Russell
+Aaron Trulson
+Joshua Walker
+Chongguang Zhang
+
+*Additional Art
+Mary Dvorsky
+Colin Rudd
+Forrest Waller
+Daniel Williams
+
+*DESIGN
+
+*Designers
+Rob Ashcraft
+Mike Bermann
+Trevor Farnsworth
+Justin Heisler
+Drew McCrory
+Jon Melchiade
+
+*Narrative Designer
+Lewis Harris
+
+*ENGINEERING
+
+*Online Services Integration
+John Churay
+Ryan Maloney
+Justin Sniezek
+James Ward
+
+*Co-Op Software Engineers
+Michael Barba
+Jackson Blanchard
+Jake Fecher
+Junyu Hu
+Sean Maloney
+Jack Masson
+Netra Ravishankar
+Davis Snider
+Sol Toder
+
+*Tools
+Brian Collins
+Phillip Jagger
+Ethan Nichols
+Stephen "Stevie" Reh
+Derrick Staples
+Jeff Stewart
+
+*Game Client/Console Systems
+Michael Hogan
+Zachary Ward
+Lorelei Wright
+
+*Gameplay
+Michael Clavell
+Chris Goss
+Jonathan Hilliker
+Sam Kodzis
+Christopher Plummer
+Benny Raymond
+
+*Graphics
+Padraic Hennessy
+Jonathan Lee
+Anushka Nair
+Joel Peters
+Gustavo Samour Lopez
+Ace Stapp
+Nishanth Sundharesan
+
+*Performance
+James Keats
+
+*UI/UX
+Luke Anderson
+Eduardo Rodrigues
+Molly Whittaker
+Ty Wood
+
+*PRODUCTION
+
+*Producers
+Marisa Graff
+Danny Laba
+Chris Miller
+
+*Production Coordinators
+Steven Pesa
+Colin Rebord
+Helen Tang
+Jeremy Weber
+
+*SOUND
+
+*Audio Designers
+Jonathan Folino
+Etienne Grunenwald-Rohr
+Justin Joyner
+Max Meisel
+
+*TESTING
+
+*QA Manager
+Shannon Johnson
+
+*Testers
+Trevor Amell
+Anthony Armenio
+Jeremy Beaton
+Nancy Betts
+James Braley
+Crystal Bravo
+Matthew Breithaupt
+Peter Brossa
+Mike Brown
+Mary Burbridge
+Heather Cameron
+Jill Christiano
+Ryan Claudy
+Darryl Cokes II
+Kassandra Correa
+Morgan Davi
+Brock Davis
+Amanda Deep
+Leopold Dohmann
+Hunter Gray
+Patrick Horaczek
+Luis Illingworth
+Ava Kilmer
+Ian Mathieu
+Tyler Michlik
+Matthew Migneault
+John Murphy
+Spencer Owen
+Ryan Place
+Derrick Ruiz
+Brandon Schlossberg
+Emmett Shatley
+Josh Torkelson
+Faith Velez
+Kian Williams
+Evan Yates
+Francis Young Jr
+Benjamin Zima
+
+*DEVELOPER EXPERIENCE TEAM
+Steven Gochie
+Jeffrey Strader
+
+*INFORMATION TECHNOLOGY
+
+*IT Manager
+Louis Meunier
+
+*IT
+Jason Abbey
+Kevin Browning
+Chris Chaves
+
+*VICARIOUS VISIONS LEADERSHIP
+John Dobbie
+Simon Ebejer
+Joseph Fisher
+Brent Gibson
+Jen Morse
+Aaron Ondek
+
+*ADDITIONAL DEVELOPMENT
+
+*Iron Galaxy
+Steven Burton
+Cedric Busse
+Jeff Campen
+Alexander Delesky
+Brandon Hitchcock
+Martin Holtkamp
+Guilain Huyghues-Despointes
+Ricardo Medina Fernández
+Carlo Mixco
+Jonathan Mosoff
+John L. Muscarella
+Mike O'Connor
+Nick Pham
+Adam Szpakowski
+Isaiah Walker
+Laura Wargo
+Paul Weiler
+Jessica Wiedner
+Darryl Wisner
+
+*Disruptive
+Damen Birtola
+Bryan Corell
+Eric Ellis
+Niko Gomez
+Marc Hernandez
+
+*DIABLO II DEVELOPMENT TEAM (BLIZZARD NORTH)
+Alan Ackeman
+Kurt Beaver
+Theodore Bisson
+Cheeming Boey
+Ben Boos
+Dave Brevik
+Pete Brevik
+Evan Carroll
+Karin Colenzo
+Michael Dashow
+Doron Gartner
+David Glenn
+Charlotte Grant
+Beri Haas
+Stieg Hedlund
+Matt Householder
+Peter Hu
+Michael Huang 
+Kelly Johnson
+Peter Kemmer
+John Kubasco
+Joseph Lawrence
+Derek McAuley
+Doug McCreary
+Jesse McReynolds
+Jon Morin
+Joe Morrissey
+Alex Munn
+Michio Okamura
+Divo Palinkas
+Scott Petersen
+Jason Regier
+Kris Renkewitz
+Anthony Rivero
+Chris Root
+Stefan Scandizzo
+Mike Scardizzo
+Erich Schaefer
+Max Schaefer
+Rick Seis
+Eric Sexton
+Phil Shenk
+Bob Steele
+Jonathan Stone
+Mark Sutherland
+Marc Tattersall
+Tyler Thompson
+Patrick Tougas
+Matt Uelmen
+Fredrick Vaughy
+Bob Vieira
+Kenneth Williams
+Grant Wilson
+Steven Woo
+
+
+*TECHNOLOGY DEVELOPMENT AND PRODUCT SUPPORT
+
+*BATTLE.NET & ONLINE PRODUCTS
+
+*Executive Vice President & General Manager, Platform & Technology 
+Mike Ybarra
+
+*Senior Vice President, Head of Planning & Strategy
+Martin Keely
+
+*Head of Platform
+Arron Goolsbey
+
+*Senior Director, Global Risk Operations
+Matt Wheeler
+
+*Senior Director, Mobile Strategy
+Dean Grandquist
+
+*Director, Design
+Christy Schaefer
+
+*Director, Engineering
+Will Jang
+Ali Vatani
+John Yaney
+
+*Director, Game Security Engineering
+Zak Bennett
+
+*Product Planning Directors
+Sabrina Meditz
+Melissa Meyer
+
+*Product Management Directors
+Ben Fox
+David Howe
+Mike Wallis
+
+*Group Leadership
+David Eckel
+Sean Flinn
+Jason Hastings
+Diana Hubbard
+James Hugard
+Eddie Lee
+Damon Osgood
+Joe Smiley
+Martin Tegner
+
+*Team Leadership
+Steven Alfisi
+Jeff Allison
+Jay Bacuetes
+Morgan Bellouguet
+Edward Beranek
+Chris Bernert
+Read Bixby
+James Cabel-Neil
+Alex Cardenas
+Shane Cargilo
+Sean Catchpole
+Itamar Cohen
+Guillaume Cournoyer
+Sarah Doebler
+Peter R Elespuru
+Bryan Frederick
+Karisa Goodell
+Chad Hansell
+Hoa Ho
+Adam Holisky
+Tim Hong
+Gary James
+Amy Jantzer
+Scott Lantz
+David Li
+Michael C. Maggio
+Austyn Mahoney
+Jonathan Manger
+John Matzen
+Tripper McCarthy
+Brian Miyamoto
+Christopher Morley
+Andrew Murphy
+Eli Ofenstein
+Soheil Oliaei
+Dahmian Owen
+Michael Paglione
+Matthew Reddick
+Kyle Riccio
+Chris Santiago
+David Schless
+Vlad Semenov
+Tushar Shah
+PJ Singh
+Brian Starkey
+Ed Tischofer
+Ryan Vance
+John Ward
+Luke Wilson
+Leo Wu
+
+*Design
+Christina Brooks
+Felix Jung Hwan Choi
+Aaron Crapo
+Krystina Yitong Diao
+Hao Yang He
+Thomas Heger
+Cameron Hirbodi
+Stacey Jae Hee Jang
+Katherine Joplin
+Seonghak Jung
+Dohyeong Kim
+Justin Lancaster
+Tiffany Le
+Ruchita Lodha
+Rob McCoy
+Alix Nguyen
+Daniel Peterson
+Zac Pfaff
+Keith Rhee
+Melody Yi Yang Seng
+Hansa Wahla
+Sandy Yang
+Kevin Yeung
+Norman Ying
+
+*Editorial
+Courtney Hynes
+Michael Palumbo
+
+*Engineering
+Siddharth Reddy Aerva
+Lance Ahmu
+Tae Hyoung Ahn
+Hanna Alam
+Tony Allain
+Anubhav Arya
+Nathaniel Ballinger
+Cord Bartlett
+Daniel Berman
+Chris Bisbee
+Dustin Boersma
+Harrison Booker
+Armel Bourgon
+Benjamin Brown
+Nathan Brown
+Joe Broxterman
+James Burroughs
+Joao Calhandro
+Eric Camadine
+Adam Capone
+Taz Carper
+Megan Chang
+Qi Ming Chen
+Jesse Chisholm
+Mikyoung Choi
+Seungki Choi
+Phil Clay
+William Cobb
+Steve Cochrane
+Sean Covey
+Aaron Cripps
+AJ Davis
+Austin Davis
+Roz de la Cruz-Ramos
+Tianyi Deng
+Quentin Devauchelle
+Dara Diba
+Aaron Doukas
+Randal Droher
+Penghao Duan
+Joe Fessler
+Chris Fields
+Matthew Follett
+Michael Fox
+Jed Gentry
+Russell Glasser
+Mingbo Gong
+Jason Goodrich
+Stephen Gordon
+Adam Greenfield
+Tyler Gregory
+Greg Haase
+Tyler Hartzheim
+Claire Healy
+Jasmine Hurst
+James Ives
+Pat Jacobs
+Chris Jafarinejad
+Gareth Jensen
+Wonhee Jung
+Shahar Katz
+Alexander Kayuda
+Paul Keister
+Brian C. Kim
+Dennis Kim
+Yongbae Kim
+Shannon Kliffmueller
+Julie Ko
+Megan Koh
+Matthias Kohler
+Sarma Kolavasi
+Allen Byungsoo Koo
+Bone Seung Koo
+David Koontz
+Donald Lawrenz III
+Daesup Lee
+Eunyang Lee
+Ockkyoung Leem (Lina)
+Spenser Li
+Roberto Liang
+Ben Lilley
+Jeff Lio
+Lulu Liu
+Mitchell Loftus
+Kenneth Logan
+Zachary Lumpkins
+Theresa Luu
+J.C. Maddox
+Christopher Matsumoto
+John McCormick
+Nick McKinnon
+Mike McWilliams
+Alex Melnik
+Walt Mitchell
+Vickeylynne Morrow
+Chris Moy
+Chris Myles
+Vinit Nair
+Khoa Nguyen
+Michael Nguyen
+Vincent Ni
+Andrew Nolan
+Darren Norton
+Slava Oleinik
+Sunanda Omkaram
+Sangyong Park
+Nicholas Pennock
+Cody Phillips
+Mike Powell
+Carson Powers
+Michael Pratt
+Jerrod Putman
+Faiz Rahman
+Meriel Regodon
+Oscar Reyes de la Cruz
+Blake Robbins
+Harry Robbins
+Joshua R. Sanders
+Stephen Santoro
+Mike Schwartz
+Albert Serrano
+Hwachul Shin
+Logan Shu
+Cole Smith
+Jennifer Soltau
+Shashank Soni
+Jeff Steele
+Taylor Sturtz
+Justin Su
+Fanny Suh
+Jeremy Tebangin
+Sean Teramae
+Bhumika Thakker
+Ronald Tice
+Masako Toda
+Becky Tomlinson
+Luke Tomlinson
+Tosho Toshev
+Brandon Treadway
+Eric Turley
+Patrick Turley
+David Valentine
+Nora Valletta
+Andrew van Bindsbergen
+Victor Villa
+Jared Wasserman
+Daniel Weiner
+Daniel A. Weltz
+Scott White Jr
+Taylor White
+Stephen Whiting
+Corey Wilson
+Drew Wilson
+Michael Wolfe
+Eric Wu
+Melissa Xiong
+Andrew Yang
+Casey Yelland
+Serena Young
+Senhua Yu
+Jack Zhang
+Andrew Zhao
+
+*Product Management
+Samantha Bagwell
+Elisabeth Benson
+Alyssa Brizzi
+John Carpenter
+Rob Cavanaugh
+Karen Conley
+Krystel Cooper
+Blake Driesler
+Madison Fichtner
+Caroline Fisher
+Jesse Gill
+Frank Gilson
+Raechele Greenwald
+Everett Gresham
+Ben Grodsky
+Taylor Hankins
+Paul Hintz
+Chiemi Ishikawa
+Amir Jahanshahi
+Raj Jenveja
+Ty Julian
+Lance Kimberlin
+Ken Landen
+Naveen Lather
+Monika Lee
+Jenny Liu
+Jeff Magliola
+Julie Mahoney
+Jennifer Nguyen
+Cynthia Northrup
+Andrea Opimitti
+Rance Piatt
+Anna Rasmussen
+Roneil Reddy
+Christian Reynolds
+Rody Rodriguez
+Thomas Rodriguez
+Jens Salvesen
+Laura Tran
+Nam Tran
+Stephanie Valle
+Heidi Wagstaff
+Josh Wing
+Joe Zhou
+
+*Planning & Strategy
+Katie Do
+Kevin Joh
+Eddie Kang
+Michael Kremer
+Da Bin Lee
+David Liu
+Adam Massey
+Courtney Parker
+Ryan Thompson
+Terri Wellman
+Jeffrey Wong
+
+*Platform Security
+Matthew Adams
+Andrew Artz
+Tyler Baetz
+Mark Barrios
+Ryan Butterworth
+Michael Caron
+James Chao
+Brett Davis
+Waldemar Fritz
+Norm Harms
+Manuel Hofer
+Michael Hoffmann
+Dongwook Kim
+Skye Knighton
+Ludivine Le Rouge
+Thomas Lenglet
+Sirius Lu
+Eric Luxa
+Stephanie Lyon Peters
+Konstantinos Markogiannakis
+Brad Moshenko
+Clint Rice
+Matthew Rice
+Tommy Sabri
+Chris Savolskis
+Matt Spence
+Lucia Suarez Porta
+J.R. Swendseid
+Kevin Szkudlapski
+Timothy Tash
+John Tkach
+Peter Ty
+Sebastiaan Van Doornspeek
+Ismael Villeger
+Joe Weekley
+Emerson Wiley
+Kelly Wilson
+Micah L Wilson
+Sophia Worley
+Zhuangyou Xu
+Jack Yang
+Mathew Young
+
+*Shared Game Technology
+Chris Bachelor
+Andrew Bellinger
+Adam Biewer
+Aaron Bossert
+Shane Bradley
+Erin Catto
+Patrick Doane
+Jessica Irwin
+Cherie Liu
+Trapper McFerron
+Jay Miller
+Andy Muchmore
+Travis Smith
+Pavlo Turchyn
+
+*Administrative Support
+Keikei Day
+Juan Fana
+Andrea Rachelle
+
+*COMMERCIAL ORGANIZATION
+
+*Global Publishing Directors
+Jon Bankard
+Kevin B. Carter
+Gabe Chua
+Brendan Docherty
+Derek Heck
+Andrew Kauz
+Josh Kerwin
+Amy Lee
+Jaclyn Lo
+Chris McCabe
+Steve Perkins
+Kester Robison
+
+*Community Team
+Josh Allen
+Randy Jordan
+Liam Knapp
+Katie Malin
+Joshua Nash
+Kurt Ocher
+Chris Sierra
+Bethany Stout
+
+*Publishing Team
+João S. de Araujo Neto
+Vic Bekarian
+Michael Brewer
+Paul Chiang
+Kegan Clark
+Scott Conway
+Sherif Disi
+Anna Ficek-Madej
+Jennifer Hauer
+Minshik Kim
+Michal T Leszczynski
+Jonathan Mann
+Rainer Mayer
+Patrick Mehta
+David H. Park
+Kate Simpson
+Rachel Siteman
+Joshua Taber
+Danielle Vanderlip
+Dylan Walker
+
+*Commercial Organization Executive Support
+Lyndsi Achucarro
+
+*GLOBAL COMMUNICATIONS
+
+*Senior Director, Corporate Communications
+Andrew Reynolds
+
+*Senior Director, Global Editorial
+Gil Shif
+
+*Director, Global Public Relations
+Andrew Meyer
+Christy Mina Um
+
+*Global Communications Team
+Eric Elliott
+David Gredell
+Steven Khoo
+Fabio Lo Zito
+Miguel Lopez
+Sean Molloy
+Cynthia Park
+Aramis Ramirez
+Amelia Savery
+Brittany Tompkins
+Gerald Villoria
+
+*GLOBAL CORPORATE ALLIANCES
+
+*Vice President, Global Corporate Alliances
+Jonathan Zweig
+
+*Corporate Alliances & Business Development Senior Leadership
+Paul Dowling
+Veronica Justice
+Steven Price
+
+*Corporate Alliances & Business Development Team
+Ron Covert
+Ryan T. Ward
+
+*DEVELOPMENT SERVICES
+
+*Vice President, Development Services
+Ian Clarke
+
+*Blizzard Academy
+Scott Emerson
+Rex Luther
+David Tiscareno
+
+*Development Services Administrative Support
+Kelly Ortega
+
+*CUSTOMER SERVICE & SERVICE TECHNOLOGIES
+
+*Vice President, Customer Service
+Tony Johnson
+
+*Senior Regional Director, Customer Service, Europe
+Rodger Sanders
+
+*Director, Customer Service
+Ana Alfageme
+
+-autosplit:false
+*Group Management, Customer Service
+Wyatt Cole, Rory Devitt, Wonjae Jeong (Paul), Pete Mai
+Johnny J. Perez, Bruce Prescott, Nicholas Ray, Fabien Tumminello
+*Customer Service Team
+Shayra Adebor, Daniel Ahern, Johnny Ahlgren, Luca Alesini
+Yuber Alter, Mateusz Ezra Altman, Hyojin An, Romney Anderson Dixon
+Neil Anderson, Oksana Andoka, Ludovic Andrianoff, David Angus
+Pawel Antonik, Ricardo Aranguren, Guillaume Arp, Roland Ayliffe
+André B. Ferreira, Jonathan Bach, Anda Badmaev, Francisco Baez
+Elif Bagci, Dimitrios Bampanaras, Robert Band, Jesse Barajas
+Simon Bargain, David Barlow, David Barrick, Donovan Bautista
+Edwin Bautista, Andreas Beier, Stefan Belchev, Richard Bennett
+Victoria Bennett-Keenan, Mario Berndt, Mateusz Bilski, Howard Bishop
+Nick Blokker, Keith Boardman, Christian Bock, Patrick Bohrer
+Lorenzo Borgini, Eden Bovi, Alexey Bozhor, Brian Brennan
+Daniel Bromand, Lucien Bui, Heather Burdett-Holloway
+Peter Burghardt, Crystal Burne, Scott Busbea, Matthias Butter
+Carlos Caballero, Felipe Cabral, Gauthier Cahen, Rafael Calvo
+Zack Cameron, Allan Campbell, Matthew Campbell, Daniela Canoy
+Elena Chan, Kathy Chan, David Chang, Donna Chang, Noi Chang
+Wayne Chang, Chara Chen, James Chen, Nicholas Chen, Roy Chen
+Kyle Chenoweth, Arnold Chiang, Sammy Chiang, Tom Chiang, Angel Chien
+Allen Chiou, Jungwon Cho (Ruda), Chimin Choi, Gemi Chou
+Eric Christopher, Ryan Chu, Steven Chu, John Chuang, Elaine Chueh
+David Church Rodríguez, Rita Cocozza, Justine Colson, Alisdair Comb
+Arnold Comeau, Carlo Comessatti, Dean Constable, Jason A Copeland
+Matteo Core, Andrew Cox, Steven Cross, JC Crump, Cody Cubbage
+Martin Dammers, Jason Davenport, Stuart Davis, Miguel De Luna
+Ermanno Debenedetti, Steven Dickson, Anton Diedul, Andre Domigall
+Gareth Donaghey, Maria Duarte, Jens Duever, Joshua Eberhart
+Jan Ebermann, Patrick Ehlen, Sherief Elmalayaty, Daniel Errington
+Alana Estrada Cruz, Angie Fan, Matthieu Faucillion, Pedro Fazenda
+Welington Fernandes, Eddie Fiege, Cristina Figallo
+Wolf-Philipp Fischer, Doug Fitchett, Michael Flanigen, Elias Flores
+Mauricio Fuentes, Cody Gale, Raul Gameros, Lennon Garcia Cisneros
+Miguel García Gómez, Grégory Garcia, Jason Garcia, Marshall Garcia
+Melanie Gauderon, Göran Gauruder, Silvio Geisenhainer, Kasper Giehm
+Allison Glass, Marcela Gleixner, Levi Godwin, Lucas Goes, Alex Golds
+Manuel Gonzalez Santome, Hernán González, Sébastien Gouaux
+Markus Graffe, Brian Greska, James Griggs, Bryan Grimes, Todd Gropp
+Déarbhla Guinan, Christian Gülle, Jonathan Hall, Aaron Hamilos
+David Hammer, Janggun Han (Leny), Jason Harriett, Amanda Kate Harris
+Michael Hart, Sandra Heide, Caleb Henderson, Joanna Henson
+Mark Hernandez, Thomas Hilgers, Amanda Hoffman, Mark A Hoffman
+Lacey Hohisel, Anna Marie Holland, Jinpyo Hong (Rudy), Seungguk Hong
+Guus Hoogendoorn, Evan Hsieh, Josh Hu, Christopher Huang, Gary Huang
+Jason Huang, Scott Hudson, Jack Hufstedler, Iqbal Hussain
+Bomi Hwang (Bom), Sung Gue Hwang, Yongcheol Hwang, Maria Ison
+Aleksandr Ivanov, Nataliya James, YeJee Jang, Mario Janus
+Guillaume Jégu, Lefay Jen, Jaeyoung Jeon, Seunghyun Jeong
+Pascaline Jibert, Jeremiah Johnson, Diana Jojic, Aled Jones
+Dean Jones, Emma Jones, Jacob T Joyce, Luis Juarez Sanchez
+Stefan Kaczmarek, Natalia Kalienko, Azad Kdro, Dylon Kempkes
+Frank Kendziora, Susanne Kendziora, Damien Kenney, Jon Kenny
+Phillip Kerins, Gunars Kessels, Kirill Khranilov, Matthias Kiesel
+Yongjoon Kim (Joon), Seolah Kim (Kathy), Mangi Kim, Minwoo Kim
+Seulki Kim, Mike Kipnis, Justin Kiser, Branson Kitchens
+Yevgen Kondratenko, Christian Königstein, Leokadiya Konstantinova
+Andreas Kordes, Alex Koreneff, Olga Kosenko, Chris Kouvopoulos
+Susanne Kovac, Dominik Kreyssing, Patrick Krüger, Eric Kuan
+Aleksei Kulaev, Jonathan Kulcsar, Myrna Sayuri Kusano
+Vadimas Kvetkauskas, Logan La Coss, Matthias Labitzke, Aaron Langan
+Roy Latorre, Janina Laure, Tiffany Layton, Cheongha Lee (Annie)
+Jua Lee (Gylfi), Sungwon Lee (Iris), Sangjin Lee (Mel), Gwanyeol Lee
+Joonbin Lee, Soyeon Lee, Youngki Lee, Julia Leitner
+François Lenglet, Andrew Lewis, Gabriel Li, Jerry Liao, Joy Lin
+Norman Lin, Roger Lin, Teddy Lin, Erik Lindberg, Aaron Link
+André Linnemann, Pululu Liu, Adrián Llamas Estévez, Johnny Lo
+Joshua Long, Umberto Lopes, Oliver Lötscher, Iwona Łucek, Jake Luna
+Peter Luo, Louis Lux, Christopher Luzynski, Sylvan Lynn, Edward Ma
+Michael Ma, Itanaã Machado de Oliveira, Gianluca Magnanimi
+Sebastian Magnus, Darren Lee Mangan, Jamie Manzanalez, Diana Marques
+Joseph Mars, Jason Massalve, Guillaume Maze, John McBurney
+Thomas McCandless, Aaron McCorcle, Steve McNamara, François Medaerts
+Bo Mejdahl, Adrián Meléndez Serrano, Martin Melendez
+Dmitry Melnikov, Oscar Michel, Douglas Midgley, Anton Mikhaylov
+Björn Miller, Jenny Miller, Robert Möckel, Iñigo Moleres
+Christophe Monteiro, Daniel Mooney, J.J. Morales, Jonathan Morrissey
+Sean Motto, Sebastian Mottschall, Robert Mueller, Barry Murphy
+Lais Mussarra, Bianca Mustelier, Eduard Narbut
+Alexander Ion Naya Sánchez, Paige Nieto, Dmitrii Nikitenko
+Evan Normand, Markus Nowak, Sean Nowlin, Juan Alberto Núñez Lauff
+Jessica L. Nunn, Brian O'Connor, Yongtaek Oh, Olli Oja, Aaron Olson
+Paul O'Neill, Miguel Angel Ortega Ortiz, Kyle J Otsu, Marco Otto
+Anna Ozolina, Lorenzo Pagliacci, Cristina Park Tran
+Charles Parmelee, Francine Parmelee, Matt Pashia, Gerardo Patino
+Nolan Patterson, Callie Pelham, Steven Peng, Nancy Perez, Tim Peters
+Michail Petriv, Jean-Louis Phan Tran, Serena Pi, Helder Pires
+Isaías Pires, Josfred Poinsot, Dmitrii Popov, Jennifer Posey
+Carlos Pozo Montero, Austin Purcell, Christopher Purvis
+Sébastien Pusset, Bérenger Queune, Frank Quick, David R. Holt IV
+Kannan Raju, Brandon Ramsey, Cristian Raschioni, Steffen Reinke
+Hugh Rennard, Bruno Ribeiro, David Ribeiro, Filipe Ribeiro
+Vinicius Ribeiro, Eduard Riekstins, Stefan Rieß, Mark Riosasso
+Radoslaw Robaczynski, Richard Roberts, Dustin Rockers, JD Rodriguez
+Michael Rodriguez, Ramon D Rodriguez, Refugio Rodriguez
+Justus Rönnau, Henning Røst, Julie Røst, Micaël Roumeas
+Iain Rowland, Karine Rubenyan, Don Rudy, Fernando Ruiz, Monica Ruiz
+Josh Ruland, Jekaterina Rusinova, Christian Rusinque, Nate Ruttinger
+Ruslan Saborgalijev, Valeria Sadilova, Emma Sadler, Marco Salemi
+David Sánchez Millán, Oscar Sandstrom, Miren Sarasola Laspiur
+Iga Sasiela, Andreas Saß, Kisten Sauceda, Simon Schertz
+Andre Schickhoff, Christian Schilling, Jeremy Schindler
+Sascha Schneider, Nico Schroeter, Stephen Sebring, Victor Sefastsson
+Ashley Seigler, Nicholas Seigler, Marina Selevenko, Olexiy Senichek
+Fernando Serina, Zachary Settle-Craig, Katie Shadonix
+Crystal Shelton, Jack Shi, Frank Shih, Steven Shoesmith
+Craig Shrewsbury, Miroslaw Siemens, Juris Silovs
+Mike Simpson-Kerouredan, Sean Sintef, Micheala Sipult
+Anastasia Sitnik, Anton Sitnik, Missy Smith, Ryin Smith
+Sarah Em Smith, Becca Smucker, Marcus Sobral, Jihyen Soh (Natalie)
+Anna Sokolova, Jon Sommer, Minsung Song (Aven), Mijung Song (Darin)
+Harley Srebnik, Michaël Stahmer, Paul Stapley, Tricia Steensma
+Alexander Steuckmann, Alexander Stippekohl, Jessica Stone
+Valentina Strahova, Arthur Su, Jadis Sun, Vitalijus Surovas
+Radoslaw Szefler, Laura Talavera Guadarrama, Aj Taliaferro
+Christopher Tarbill, Doris Tatzgern, Mathias Tatzgern
+Alexis Terrasse, Sarah Thomas, Tyler Timmins, Jenny Tomalik
+Patrick Töwe, Renaud Toyer, Christian Traute, Ryan Triner
+Kristin Tsang, Sam Tsang, Daniel Tseng, Salisa Tseng, Hunter Tumey
+Mihhail Tun, Maria Vakulenko, Tyler Van Natter, Ivan Vasilyev
+Jose Vega, Arturas Velutis, Guillaume Verna, Peter Vernon
+Luis Vieira, William Vieira, Bruce Wafful, Andy Wang, Jerry Wang
+Terry Wang, Arcy Ward, Elias Warren, Robert Webb, Mario Weissenborn
+Zach Weng, Thomas Wertnig, Sarah Westerhoff, Renate Weygold
+Harald Willems, Cole Williams, Keith P. M. Willingham
+Brandon Wilson, Rebecca Wilson, Keegan Windrich, Andrea Wolf
+Roland Wolf, Jamie Wolfe, Dennis Wollmann, Christopher Woodcock
+Caroline Wu, Henry Wu, Yi-Fang Wu, Kelsi Yang, Stark Yang
+Soheon Yeo (Cary), Jihyun Yoon, Terry Youngkin, Miseon Yu (Fany)
+Hank Yu, Marisa Yu, Yury Zabarovskiy, Vincent Zacchéo
+Sebastian Zaebe, Varvara Zakharova, Cori Zamora, Adam Zheng, Dio Zheng
+*Customer Service Administrative Support
+Kristen Petrongelli
+
+*Learning and Development Leadership, Customer Service
+Shonda Kenter
+
+*Learning and Development Team, Customer Service
+Tom Edwards, Daniel Healy, Daejong Ki (Chris), Adrienne Maines
+Jasmine Monteith, Deirdre Perrott, Ryan Wick
+*Director, Regional Planning and Support Services
+Maged Fares
+
+*Associate Director EMEA, Regional Planning and Support Services
+Serge Pinçon
+
+*Associate Director Live Operations, Regional Planning and Support Services
+Andy Maindelle
+
+*Regional Planning and Support Services Leadership, Customer Service
+Robert Busch, James Drosche, Olga Duval, Sylvain Enjalbert
+Blair Kuschel, Jinsu Lee, Connie Liao, Louis Lu, Jennifer Ni
+Serge Olivier, Sarah Thomas Hamm
+*Regional Planning and Support Services Team, Customer Service
+Jaehyun Ahn (Jason), Dinara Bagirova, David Barney
+Alexander Bradburn, Ulises Brage, Sabrina Brogan, Helen Browne
+John Buik, Daniel Carpenter, Chris Chang, Roxin Chang
+Preston Cheeks, Issac Chen, Seongyoon Cho, Myeonghun Choi (Jake)
+Byungkwan Chung (BK), Eric De Freslon, John Harry De Lara
+Juan De Luna, Rafael Del Rio Ravassa, Lena Drevermann
+Sungho Eom (Daniel), Maider Ferradas, Stefan Frei, Eliana Gori
+Kyle Hawkins, Heidi Høibråten, Dirk Hollis, Wade Hou, Mark Hsu
+Jami Hurst, Pat Jennings, Ben Johnson, Ryan Johnston
+Hyewon Kim (Carotin), Jaeyeon Kim, Neal Kingston, Brian Lanahan
+John A Lanier, Kyueun Lee (Rain), John Lee, Junhee Lee, Lyn Li
+Simon Linford, Vicky Martín Briasco, Belinda McGhee, Chris Müller
+Sébastien Musquin, Frederick Nassar, André Nunes, Celso O'Donnell
+Stephen O'Donnell, Andrew Parrott, Cristiano Pereira, Robert Read
+Evan Repschleger, Martin Riha, Ryan Rodenbaugh, Pierre Rosenthal
+Andy Salwey, Melody Shih, Matteo Spataro, Joseph Tarman, Vinh Tran
+Mike Tucker, Ryan Vowler, Patrick Wu, Hosang Yu (Gil), Kenny Yu
+Judith Zachariae
+*Director, Global Customer Service Operations
+Alan Marti
+
+*Global Customer Service Operations
+Charlie Areson, Aleksej Avdejev, Christopher Bailey
+Angelo Concepcion, Paul Cox, Katie Kendall, Cinthia Kush
+James Logan, Blade Marcantel, Andrew Pace, Megan Reynolds
+Casey Shipp, Adam Wozniak
+*Interim Director, Service Technologies
+Casey Rising
+
+*Service Technologies Leadership
+Karim Adala, Brian Anger, Ryan Karg, Greg Taylor, Andreas Unger
+Sofiia Zelenova
+*Service Technologies Team
+Brian Abenes, Marcos Araujo, Sandra Barajas-Norris, Michael Billman
+Keaton Bracy, Jim Butcher, Jeff Carlo, Wesley Clark, Cedric Coret
+Austin Cornell, Tony Duson, Keith Floresca, Andy Goolsby, David Gray
+Josh Gunder, Jordan Gundlach, Richard Hardy, Samuel He
+Rolando Hurtado, Jacob Kennedy, Brian Libby, Natasha Miller
+Steven Mitcham, Justin Nguyen, Chris Nunn, Teddy Pao, Sergey Paykov
+Michael Pereira, Steven Pereyda, Dylan Phelps, Michael Quintana
+Chad Racine, Donald Rawlings, Jessica Rizzo, Brian Rose
+Gilbert Samuelian, Brian Smith, Dorothy Stanford, Mike Stengel
+Michael Stokely, Kenneth Tan, Steven Thacker, Thomas Yee
+-autosplit:true
+
+*GLOBAL LOCALIZATION
+
+*Senior Director, Global Localization
+Thiago Schreiner
+
+*Localization Regional Directors
+Joontae Hwang
+Jessie Lin
+Yvonne Shi
+
+*Localization Management
+Almudena Alia
+Ryan Cai
+John Chen
+Mike Hedley
+Akira Kato
+Kyoungho Ko
+Jaeyang Kwak
+Byungwoo Kwon
+Luc Lacheny
+Yian Lee
+Emil Lu
+Maxim Mizin
+Catherin Newmann Halebian
+Benedikt Oehmen
+Nicolas Parenti
+Berta Pérez García
+Wolfram Sack
+
+*Localization Audio 
+Ekaterina Bendrysheva
+Dominick Biava
+Monbaza Chang
+Jorge Corte de Paz
+Sarah Lu
+Kai Moosmann
+Daniel Radschun
+Eunho Shon
+Frédéric Vasseur
+Yu-Hsien Wei
+Zac Zheng
+
+*Localization Editing
+Svyatoslav Merlin
+
+*Localization Engineering
+Julian Liu
+Igor Sobolevsky
+
+*Localization Language Specialists
+Christelle Bravin
+Luca Canu
+Krystyna Cesarz
+Nanthawan Chalitapanukul
+Calvin Chu
+Anne-Sophie Denglos
+Florian Descher
+Ricardo Duran
+Fred Fleury
+Sergii Gorbunov
+Ting Hao
+Hank Hsu
+Horus Huang
+DongHo Jeong
+June Kim
+Ekaterina Krasnikova
+Hui Kyung
+Ross Lai
+Bo Li
+Victor Hugo Miranda Jr.
+Mohan Niu
+Paula Osorio Pomares
+Cathy Park
+Seoyeon Park
+María de los Ángeles Rodríguez Marrero
+Sherry Shen
+Janet Tsai
+Kenneth Tung
+Yuriy Vasilyev
+Gewei Wang
+Wango Wang
+Tianqi Yang
+Eric Zhang
+Jimmy Zhang
+
+*Localization Program Management
+Steven Garrad
+Alexander Ipfelkofer
+Alexander Lyubov
+
+*Localization Project Management
+Pierre-Marc Arnaud
+Claire Bajard
+Nicolas Borel
+Giovanni Bresciani
+Arthur Chang
+Dale Chou
+Paula Del Valle Sánchez
+Iakov Dyskin
+David Flórez Herrero
+Carlos Garcia Renta
+Aldéric Gianoly
+Martín Goñi Torres
+Aurelio González Riesco
+Raphaël Honoré
+Dominik Hothow
+Daniel Huang
+Vladimir Kolenkov
+Sangwoo Lee
+Angela Liu
+Rubén López González
+Sílvia Mapelli
+Jaewoo Mo
+Stefan Mohr
+Ricardo Mora Expósito
+Eric Nagase
+Nozomi Oshima
+Patricia Pérez Vera
+Lara Quero Pérez
+Hadrien Rudich
+Dagny Schaedler
+Yannie Zhang
+
+*Localization Production
+Jamie Cox
+Diego Diaz
+Thomas Flöter
+Nephenee Forero
+Felice Huang
+Jung Hwan Kim
+Haneul Lee
+Alexey Pyatikhatka
+
+*Localization Quality Assurance
+Jiro Cai
+Thomas Chabrier
+Jenneth Chaovisutikul
+Menghan Chen
+Martin Chung
+Juan José de la Torre García
+Michal Glebicki
+Rich Greene
+Jack Guo
+Dorothy Kang
+Dmitrii Karpov
+Dokyu Kim
+Hsing H. Lee
+Hyunjin Lee
+Kyungjoon Lee
+Zhiqiang Li
+Renzo Lobo
+Giada Longato
+Michael Ma
+Paula Martinez
+Lily Niu
+Heeyoung Park
+Emily Qiao
+Alexander Redeker
+Fabián Salas Casillas
+Myroslav Savanzha
+Vincent Tsai
+Wendell Tsai
+Marc Wehbe
+Gemma Yang
+Michael Yeh
+Bumsuk Youn
+Leo Yu
+
+*Localization Administrative Support
+Shannon R. Cooper
+
+*QUALITY ASSURANCE
+
+*Business Operations Management
+Erin Wilcox
+
+*Business Operations Team
+Austin Alvermann
+Megan Embree
+Kristina Wong
+
+*Director, Operations
+Chris Clark
+
+*Operations Management
+Andrew Anat
+James Gilbertson
+Luis Rivas
+Albert Yao
+
+*Operations Team
+David Amargo
+Tori Andreas
+Larry Bolden
+Julian Bongat
+Anton Hsin
+Christopher J. Mountain
+Danny H. Nguyen
+Rob Rivera
+Leonard Rodriguez
+Anthony Roybal
+Heiden Salguero
+Chad Shoemaker
+Andrew Thacker
+Lauren Welch
+Jose Zamora
+
+*Quality Assurance Directors
+Arec Nevers
+Tony Rado
+
+*Quality Assurance Management
+Todd Attaway
+Ryan Begnaud
+Sam Casper
+Garret Craig
+Tiffany Gibson
+Mark Heller
+Ed Hocking
+Shabana Hussain
+Ben LeBar
+Anthony Sierra
+Aaron Yasukochi
+
+-autosplit:false
+*Quality Assurance Team
+David Anderson, Patrick Banta, Ryan Bebee, Louis Bejot
+Charlie Benvenuti, Nelson Bermudez, Timothy Biley, Jerome Bonoan
+Brian Paul Boswell, Ryan Bowdre, Brent Brewington, Thomas Brooks
+Renee Brousseau, Nicholas Buczynski, Ivan Burgos, Halley Capo
+Enrique Castro, Bryan Chice, Ben Choi, Casey Clay, Donnie Cornwell
+Vincent Correa, Alex Crast, Christian Decomain, John Ehresmann
+Timothy Evans, Panyia Fang, Robbie Fenoglio, Cory Finnegan
+Rodolfo Garcia, Jessica Gonzalez, Lucas Goodman, Chase Hall
+Kenneth Hile, Ting Huang, Lily Kim, Bjorn Kohlberger, Eric Lanham
+Dan Lee, Connor Leger, Gary Machlis, Vivian Mai, Zachary McCann
+Tony Misgen, Nathan Mitson, Cameron Mohr, James S. Nelson
+Katia Oliveira, Steve Peñate, Allie Petrequin, Long Phan
+Phillip Platt, Albert Portillo, Chet Raghunath, Timothy Reed
+Gregory Risselada, Shaunna Roche, Scott Rofé, Brallan Saucedo
+Christine Schaper, Aleksei Sharygin, Brennen Snow, Yoseph Solomon
+Rick Spears, Karl Standish, Penelope J. Stansifer, Jessica Tobin
+Lyvon Tran, Von Trinks, Ryan Van Natter, Shayna Warr, Jason Whitney
+Devin Wilson, Tyler Wissler, Xinyi Xu
+*Data Team Management
+Douglas Hill
+-autosplit:true
+
+*Data Team
+Mark Bergman
+David Keh
+Asher Litwin
+
+*Games User Research Management
+Ian Livingston
+
+*Games User Research Team
+Megan Brodsky
+Dan Brown
+Audrey Cheng
+Nikki Crenshaw
+Gareth Griffiths
+Dan Jenrette
+David Kingsbury
+Adam Lobel
+Zeke Turner
+Vivie Voykinska
+
+*Quality Assurance Technical Directors
+Branka Billante
+Stanislav Spivakov
+
+*Tools Team
+Damien Chow
+Diana Huang
+Jensen Rivera
+Jeff Shotwell
+Alex Sparks
+
+*Quality Assurance Administrative Support
+Zachary Kelly
+
+*FINANCE
+
+*Vice President, Finance
+Tosif Khatri
+
+*Finance Directors
+Danny Chung
+Sean Culmer
+Razak Kessas
+Jay McDowall
+Kristine Pompeo
+Duke Wong
+Vince Xiao
+
+*Finance, Accounting, & Administration Team
+Rajib Banerjee
+Taylor Barrington
+Jean Pascal Campus
+Hyejin Cho
+Woohyuk Choi
+Faustine Chow
+Jiyoung Chung
+Paola Croize
+Jamie Crooks
+Ruddy Foucan
+Michelle He
+Annie Huang
+Josie Jin
+Linda Kebaili
+Paul Kim
+Matt Lee
+Christopher Lewis
+Marie Lin
+Sheri Meinburg
+Eric O Hernandez
+Misato Oshima
+Jinwoo Park
+Kelly Rah
+Jessica Ramirez
+Richard Requena Delon
+Stacye Rodwell
+Paul Rubin
+Lindsay Sherwin
+Wendy Sun
+Alexandra Takei
+Eric Tamanaha
+Christopher Turner
+Brandon Vu
+Amanda Whitmus
+Flora Wu
+Suzy Yan
+Jasmine Ye
+
+*GLOBAL GROWTH MARKETING
+
+*Vice President, Global Growth Marketing
+Justin Osborne
+
+*Global Growth Marketing Leadership
+Blair Brzeski
+Hamid Qaasim
+Amit Sharma
+
+*Global Growth Marketing Team
+Tyler Andreala
+Danya Bicer
+Chrystal Blackwell
+Miles Bretall
+Alex Bujold
+Parker Butynski
+Diego Chacon
+David Chang
+Jason Cox
+Jenny Dang
+Melanie de Arakal
+Chris De La Fuente
+Koosha Diba
+Evan Do
+Suzette Harman
+Matthew Hass
+Simon Haxby
+Kristyn Hinkle
+Mai Hoang
+Patrick Kim
+Raymond J. Kim
+Suzy Kim
+Vanessa Lee
+June Leung
+Kristin Louie
+Holly Ryborz
+Shana Solaimani
+Sofia Somoza
+Anthony Suh
+Quan Tran
+Philip Vanichviroon
+Blake Ward
+
+*GLOBAL HUMAN RESOURCES
+
+*Global Rewards Team
+Fatima Akouegnon
+Kristin Finnsson
+Pauline Law
+Kim K. Nguyen
+Selena Ozuna
+Scott Strackbine
+Ken Troy
+Tom Twedell
+
+*Human Resources Team
+Eunice An (Eunyoung)
+Nuria Andres
+J. Basilan
+Tanya Berg
+Jean-Marie Carrere
+Joe Caslin
+Chloe Choi (Koeun)
+Laurent Cuvier
+Christophe Delange
+Dina Folkman
+Rosie Hitzeman Aronson
+Anita Huang
+Robin Huijsman
+Jeffrey Hunter
+Anders Larsen
+Yuri Lee
+Sonia Lefèvre
+Katie Liu
+Laetitia Marny
+Mac McIntyre
+Gillian O'Shea
+Claire Pak
+Vesna Penava
+Lisa Rhee
+Rose Shirazi
+Winnie Stefani
+Wenfei Sun
+Lesley Turner
+Meg Vollmer
+Astrid Wang
+
+*Human Resources Information Systems Team
+Erin Burke
+Molly Camello
+Vidhu Chilumula
+Rose Clarke
+Matt Haas
+Jennifer Pryor
+Aimee Shyn
+Emma Somers
+Michelle Zetina
+
+*Talent Acquisition Team
+Ashley Arnott
+Paul Balcourt
+Sandy Beardsley
+Samantha Brown
+Michelle Chau
+Savannah Coates
+Lexie Cole
+Darren de Claro
+Engie DeVora
+Elaine Dineen
+Jessica Estipona
+Chiamaka Ezeonyebuchi
+Michael Fenton
+Danny Flannagan
+Dane Hagfeldt
+Thao Hurtado
+Jen Johnson
+Michelle Ko
+Michael Kulak
+Lester Lai
+Cindy Lee
+Heidi Lese
+Amy Madden
+Dina Medeiros
+Jeana Mervine
+Maya Mulchandani
+Brittany Nguyen
+Christina Nichols
+Maegan Nielsen
+Aubree Parker
+Jenna Poffenroth
+Rocky Polito
+Jeff Poss
+Jo-Jo Rane
+Dee Royal
+Janine Tedford
+Britt Tvenge
+Ali Venegas
+Michael Vergara
+Jessica Vicente
+Jane Wang
+Phillip Williams
+Dave Wilson
+
+*Human Resources Administrative Support
+Josephine Toughey
+
+*INFORMATION TECHNOLOGY
+
+*Chief Information Officer, Activision Blizzard
+Jacques Erasmus
+
+*Vice President, Business Operations & Strategy
+Danielle Madison
+
+*Executive Assistant, IT 
+Nicolette Ciresi
+
+*Vice President, Global PMO and Procurement
+Eduardo Martin
+
+*Director, Technology Sourcing & Procurement
+Dorian Williams
+
+*Tech Procurement 
+Mike Anderson
+Alycia Castillo
+Kevin Duda
+Jihene Khessouma
+Nick Null
+David Preston
+John Readick
+Jessica Taylor
+
+*Director, IT PMO
+Bass Shibl
+
+*Program Management Leadership
+Bethany Protzmann
+Carrie Ren
+
+*Program Management
+John Alexander
+Marios Aziz
+David Brown
+Nicolas Charlet
+Aaron Evans
+Edgar Flores
+Albert Hwang
+Christopher Lee
+Amy Liew
+Suzan Mahboob
+Junmin Miao
+Carrie Ni
+Sonal Patel
+Amadeus Phan-Thanh
+Andy Russell
+Paulo Santos
+Aaron So
+
+*Vice President, Global Production IT
+Colin Cashin
+
+*Director, Cloud Engineering
+Matt Eagleson
+
+*Cloud Management
+Abdel Kamel
+Lynn Li
+Andre Olivo
+James Zhu
+
+*Cloud Engineering
+Tyler Adams
+Tom Anderson
+Ezio Ballarin
+Scott Chaney
+Jason Crawford
+Nick Downs
+Daniel Emmons
+Grayson Head
+Feng Lyu
+Lucas Marzocco
+Drew Michaud
+Kevin Musser
+Matthew K Rader
+Joshua Slater
+Kevin Stewart
+Christopher Stone
+Duc Truong
+Daniel Xu
+Tony Yu
+
+*Director, Infrastructure & Database Engineering
+Andy Barcinski
+
+*Database Engineering Management
+David Ashman
+Niru Inaganti
+Marcus Klemp
+
+*Database Engineering
+Armando Abanilla
+Jean Nicolas Cadet de Fontenay
+Will Gunty
+Ryan Helring
+Pazel Huang
+Rafael Kansy
+Kristine Kirchhoff
+Mike Murphy
+Rick Wells
+Brian Wong
+Jaime Wood
+Raymond Yu
+
+*Infrastructure Engineering Management 
+Josh Caskey
+Robert Esser
+
+*Infrastructure Engineering
+Alex Carder
+Michael Carlton
+Alexander Eagleson
+Sean Kim
+Sunny Sunghyun Kim
+Mark Licata
+James Long
+Xander Niega
+Tim Olow
+Eric Peng
+Zachary Peschke
+Alex Tan
+
+*Director, Network & Datacenter Engineering
+Changkoo Lee
+
+*Data Center Management
+Hung Nguyen
+
+*Data Center Engineering
+I-Ming Chen
+Andy Chou
+Sylvain Delvaux
+Andy Hendrawan
+Gordon Lathan
+Seunghwan Lee
+Sean O'Haver
+Jeronimo Perez Papadopoulos
+Chandler Sun
+Christopher Towne
+David Wareham
+Wenjun Zhu
+
+*Network Engineering Management
+Manish Arora
+Alan Gonzalez
+Olivier Rolin
+Florian Wang
+
+*Network Engineering
+Yunhwan Ahn
+Alexandre De La Seigliere
+Edison Fan
+Brian Hill
+Daniel Jeongwan Kim
+EJ Eunjoong Kim
+John K. Lin
+Chengjie Liu
+Ba Mai
+Téa Manning
+Sean Milligan
+Baptiste Moisson
+David Rutledge
+Yann Schoenstein
+Mathew Smiley
+Ryan Sun
+
+*Senior Director, Global Corporate IT
+Eric Kou
+
+*Director, Corporate IT Infrastructure
+Mike Pearce
+
+*Director, Corporate IT Client Services
+Thi K Nguyen
+
+*Information Systems Management
+Gandalf Brahm
+Christos Cristallides
+Gilbert Fontaine
+Stanley Fu
+Lars Kühne
+Mike Moneymaker
+François Noël
+Josh Tang
+Mike Troutman
+Andrew West
+
+*Information Systems 
+Mehdi Ait Taichat
+Chris Anderson
+Samuel Barker
+Byron Black
+Adam Brown
+Robert Bustamante
+Antoine Callewaert
+Derek Carpenter
+Hannah Chao
+Justin Chen
+Pete Chung
+Andrew Clisson
+Eoghan Corr
+Victor Cruz
+Jamal Davis
+Eric Dougherty
+Aurelio Espinoza
+Evelyn Flores
+Michael Garcia
+Aaron Clay Gayet
+Kat Gomez
+Jason Hinh
+Alex Hunter
+Stephen Jallins
+Yan Kahlé
+Kirk Kenton
+Konrad Kirchgaessner
+Kevin Kuchar
+Jason Kwan
+Mario La Porte
+Dominic Langmesser
+Ronan Le Prev
+Adam Lee
+Daeho Lee
+Evan Lightcap
+David Lyle
+Jake Millette
+Chris Moore
+Daniel Morris
+Pablo Noguera
+Elliot Pham
+Fabien Poussin
+Dan Puckett
+Shaun Rutherford
+Nick Schober
+Ryan Schouten
+Spencer Seebald
+Devin Slayton
+Cody Smith
+Jose Tadeo
+My-Van Tran
+Jimmy Truong
+Bill Tubbs
+Aaron Uesugi
+Julien Valé
+Alan Wickersham
+James Wong
+Matthew Yang
+Ryan Yee
+
+*Associate Director, Corporate Applications
+Braulio Estrada
+
+*Corporate Applications Management
+Phil Cleveland
+Cat Fox
+Quentin Giraud
+Robert Pearce
+Christopher Wedge
+
+*Corporate Applications Engineering
+Ken Adams
+Jerry Blanco
+Chris Bosman
+Jonathan Hyunwoo Byun
+Victoria Anne Carlisle
+Jonathan Hankey
+Dylan Hasselquist
+Michael Hayes
+Joel Hays
+Rebecca Maessen
+Andrew Newcomb
+Theresa Nguyen
+Michael Prigmore
+Jensen Robinson
+Jay Uttanoor
+Ben Yessayian
+
+*Corporate Applications Product Design
+Chad Camara
+Paige Kwon
+Zhiyu Xue
+
+*Corporate Applications Program Management
+Joe Aybar
+Amber Robertson
+Calen Stivers
+
+*Senior Director, Global IT Operations Engineering
+Chris Glover
+
+*Site Reliability Engineering Leadership
+Alexander Amerine
+Erik Olof Gunnar Andersson
+Tom Butkiewicz
+Rob Cherry
+Christopher Dickey
+Ryan Kohler
+Zackery Nunez
+Clint Schrader
+Justin Talbott
+Benjamin Williams
+
+*Site Reliability Engineering
+Adam Arredondo
+Ryan Atkins
+Doug Baggett
+Matt Boveri
+Drew Hearin
+Violet Klorer
+Andy Knight
+Kirk Kosinski
+Isaac Llamas Torralba
+Angel Moctezuma
+Ann Moon
+Mike Mulen
+Kevan Peters
+Kyle Sabine
+Andy Schott
+Mason Sedlik
+Scott Shamansky
+Brandon Shephard
+Leah Smith
+Paul Walters
+Matthew Wenham
+
+*Associate Director, GNOC Operations
+Matthew McEligot
+
+*Operations Center Management
+Bianca Cojocaru
+Marcin Karpik
+Chip Pascoe
+
+*Monitoring & Automation Engineering
+Timothy Hanson
+Arman Kapbasov
+Nicholas Tolppi
+
+*Service Operations
+William Cooper
+Cameron Pierce
+Jessica Rose
+
+*Operations Center
+Thomas Bisgaard
+Anna K Brewer
+Matthew Carcel II
+Tom Corcoran
+Stefan Gale
+Andres Ideus
+Jeremy Jackson
+Dan Jeffers
+Sid Joshi
+Nathaniel Kelley
+Clay Kloppenborg
+Vladislav Kollerov
+Jon Larraburu
+Carles Mateo Oliver
+Matthew McCormack
+Gareth Morgan
+Miranda Ortiz
+Dion Rizzo
+Jonathan Stracker
+Mason Tavenner
+Michela Tigli
+Steven Tran
+Gunnar Voss
+
+*Director, Service Intelligence
+Grant Hogan
+
+*Service Intelligence Analyst
+Wolfgang Kohl
+
+*Service Intelligence Engineering 
+Benjamin Yamada
+
+*Information Technology Regional Management
+Kangho Lee
+Julien Mariani
+
+*GLOBAL INSIGHTS & CENTRAL BUSINESS
+
+*Vice President, Global Insights & Central Business
+Andrew Guerrero
+
+*Director, Central BPU
+Justin Lane
+
+*Global Insights Analytics
+Matthew Andersen
+Chris Cantrell
+Benjamin Chew
+Sibyl Dong
+Harrison Froeschke
+Melissa Lee
+Alex Makximenko
+Jennifer Mallett
+Pavel Mamaev
+Ryan Richmond
+Robb Steel
+Christopher Taylor
+Ben Trautman
+Kevin Wang
+Elizabeth Work
+David Xu
+
+*Global Insights Engineering
+Don Conley
+Matthew Davis
+Jens Fischer
+Brian Leung
+Evan Murray
+Dennis Nguyen
+Sean Pfeifer
+Joseph Priest
+Joshua Proffitt
+Taichi Sano
+Alberto Sarubbi
+Sam Segan
+Suzanne Su
+Quji Xu
+
+*Global Insights Machine Learning & AI
+Shuo Chen
+Tian Ding
+Chet Gray
+Andy Hierl
+James Supancic
+Ruidong Wang
+Wayne Yang
+Zhen Zhai
+
+*Global Insights Program Management
+Ken Pfeifer
+Austin Taylor
+
+*Research & Consumer Insights Team
+Elwyn Buan
+Minh Luu
+
+*INTERNATIONAL
+
+*Country Managing Directors
+Peter Dongjin Chun
+Anna Malmhake
+Teh Hong Sing
+
+*Vice President, Strategy & Product International West
+Nick Wong
+
+*Regional & Country Publishing Senior Directors & Directors
+Eric Chauveau
+Paul Chen
+Guy Cunis
+Alexis Demurger
+Diane De Domecy 
+Frédéric Dumas
+George Georgiou
+Bidam Jang
+Delphine LeCorre
+Wataru Ninomiya
+Emmanuel Obert
+Eric Oh
+Kyounghwa Park
+Sebastien Petit
+Rafael Tello-Fournier
+Chase Thomas
+Amanda Wang
+
+*Regional Publishing Management
+Ines Agbanchenou
+Guido Alves
+Manuel Bronner
+Dom Carey
+Rio Chen
+Patrick Eilfeld
+Ali Esen
+Vaclav Filip
+Lee Godfrey
+Oliver Green
+Nicolas Guion
+Ana Hazeu-Gonzalez
+James Houlton
+Luke Karam
+Vincent Kaufmann
+Mazen Kayssar
+Gilbert Kim
+Anne Le Sinq
+Jungeun Lee
+Lucie Linant De Bellefonds
+Airs Meadows
+Max Morais
+Nicolas Passemard
+Sophie Poncet
+Christophe Poupon
+Tom Read
+Paul Rhodes
+Steven Shen
+Jiyong Sim
+Lance Teo
+Wilfrid Vinmer
+Ben Wang
+
+*Regional Public Relations Management
+Stefan Bonnevier
+Sian Cargan
+Dan Chiappini
+Alexandre Lennuyeux
+Devon Stanton
+Stevenson Xiang
+Daekeun Youn
+
+*Regional Public Relations Team
+Sam Bandah
+Ksenia Bekhtold
+Christian Blendl
+Kathryn Boccuzzi
+Jordan Cameron
+Thomas Gasdon
+Monica Landonio 
+Samuel Lim
+Alexey Molotkov
+Matt Pascual
+Jieun Ryu
+
+*Regional Publishing Community Management
+Lorena Boyer
+Marie Cabot
+Christopher Honour
+Hao Jin
+Sunna Kim
+Jongwon Lee
+
+*Regional Publishing Community Team
+Chantal Kim
+Minjung Kim
+Junku Lee
+Seho Lim (Panda)
+Fabien Serot
+Bill Vaughan
+
+*Regional Publishing Operations, Game Project Management 
+Marc Abril Bueno
+Phil Chen
+Trevor Chen
+Roberto Crispo
+Emmanuel Foissy
+Akira Gu
+Sebastien Hoareau
+Ashleigh Lillechurch
+Maja Savic
+Siyi Xia
+
+*Regional Publishing Team
+Thibaud Bertin
+Sebastian Campbell
+Debore J.C. Chang
+Yunkwan Cho
+Christel Company
+Patrick Deschamps
+Théo Garcia
+Jeremy Goldstein
+Frederic Guy
+Antony Han (Jonghoon)
+Laura KJ Huang
+Paul Huang
+Madoka Ishikawa
+Jessica Jazic
+Donna Kim (Dongwhi)
+Hyungoo Kim (Michael)
+Seungbok Lee
+Yunbok Lee
+Louis-Jérôme Léger
+Makoto Masutani
+Alexandru Oprea
+Clémence Pagnucco
+Marcos Pereira
+Johanna Rowe Calvi
+Tòfol Seguí Pons
+Yonghun Song
+Jon Tae (Hyunjun)
+Joseph Toaff
+Audrey Vicenzi
+Lukas Wozniak
+Eric Wu
+Terry Yang
+Beta Yen
+
+*Regional Web Services
+Sann-Remy Chea
+Dries Curinckx
+Lansing Deng
+Dan Fassi
+Diane Herbays
+Henning Kaiser
+Sunghwan Kang
+Albert Konrad
+Cindy Lemasle
+Mathieu Lopato
+Sudeera Mahapatunage Don
+Prune-Sabrina Moldawan
+Mark Penney
+Marta Pérez García
+One Yoon
+
+*Regional Events Team
+Pauline Hammelet
+Aliocha Segard
+Mika Sun
+
+*Regional Facilities Team
+Ilaria Bassi
+Jane He
+Minhye Huh
+Seungjae Kim
+
+*Regional Publishing & Operations Management Administrative Support
+Lara Machado
+
+*LEGAL
+
+*Senior Vice President, Chief Legal Officer
+Claire Hart
+
+*Vice President, International Legal Affairs
+Ronald Jentges
+
+*Legal Affairs Directors
+Divya Gupta
+Anne-Sophie Jammes
+Boyan Kirchev
+Daniel Kohler
+Vincent Law
+Seong Hee Yoon
+
+*Legal Team
+Jack Anderson
+Ryan Barrett
+Diane Chung
+Vanessa Cordova
+Kevin Crook
+Mavis Feasel
+Diona Fu
+Agnes Hsiao
+Jihyun Kim
+Woojeong Kim
+RyangOk Ku
+Denis Kurlyukov
+Shelina Kurwa
+Juhui Lee
+Steven Liang
+Jeonghwan Shim
+Shonine Wijayanayake
+Cheyne Yu
+Vivian Zhang
+Clio Zhao
+
+*GLOBAL MARKETING
+
+*Executive Producer, BlizzCon
+Saralyn Smith
+
+*BlizzCon Team
+Nancy Chou
+Setareh Derakhshandeh
+Stella Kim
+David Ortiz
+Daniel Sagun
+Alvina Tan
+Sarah Tuhro
+Ania Wieteski
+
+*Vice President, Global Consumer Marketing
+Matt Small
+
+*Global Director, Consumer Marketing, Mobile
+Cristiano Alburitel
+
+*Global Director, Digital Marketing
+Drew Elliott
+
+*Global Consumer Marketing Team
+Meaghan de Wolf
+Joshua Engen
+Ariel Hernandez
+Alexander Mangold
+Everson Marsh
+Teresa Naff
+Ajay Ravi
+Daniela Rodriguez
+Jessi Sosnovskaya
+Deuta Sulprizio
+Marcella Ziccarelli
+
+*Vice President, Creative Services
+Jorge Calleja
+
+*Creative Services Directors
+Erik Jensen
+Julie Kimura
+Jens Sjöbergh
+
+*Creative Services Team
+Mark Bryner
+Ross Donaldson
+Paul Finochio
+Emily Knief
+Margaret Lee
+Justin Marcus
+Emily Miller
+Sean Ngo
+Martin Hoai Nguyen
+Joshua Pletzke
+Ty Rodriguez
+Benjamin Scanlon
+Hannah Straw
+Ryan Tretter
+
+*Global Events Directors
+Seth Pyrzynski
+Brandy Stratton
+
+*Global Events Team
+Bria Beduya
+Mimi Chan
+Kiersten Crissman
+Jessica Cross
+Beni Elgueta
+Dan Joyce
+Casey Pitta
+Megan Shields
+Kate Somers
+Tom Tryon
+Jena Volrath
+
+*Global Marketing Executive Support
+Lauryn Elfend
+Joni Rank
+
+*PLATFORM PARTNERSHIPS
+Stephanie Johnson
+Patrick McNair
+
+*GLOBAL SECURITY
+
+*Senior Director, Global Data Protection
+Michael Pham
+
+*Director, Global Data Privacy & Compliance
+Bill Preston
+
+*Data Protection
+Sidikat Buari
+Kristen Suk
+
+*Security Project Delivery
+Rachel Perey Ward
+Tim Vo
+Matt Woodcock
+Randy Zhu
+
+*Security Risk Governance
+Eric Thedaker
+Chris Voss
+
+*Director, Security Engineering & Operations
+Jeff Nation
+
+*Security Architecture
+Zaid Almahdi
+Robbie Fouquet-Ketron
+
+*Security Engineering Management
+Justin Condon
+
+*Security Engineering
+Chad Bartusick
+Michael Hocke
+Alina Iacovici
+R. Chase Lincoln
+Shawn Routhier
+Jeremy Scarbro
+Casey Suyeto
+
+*Security Operations Management
+Allen L. Cox
+Hyunjung Hong
+
+*Security Operations
+Marco Bompani
+Gracie Chi
+Bradley Fong
+Brent Gensemer
+Alex Seunghyun Kim
+Michelle Li
+Ryan Monaghan
+Albert Morris
+Rick C. Reischman
+
+*Senior Director, Global Vulnerability Research
+Peter Kim
+
+*Security Vulnerability Research
+Brett Buerhaus
+Jarrod Coulter
+Thomas Gadola
+Michael Lim
+Nicolas Melendez
+Geoff Scott
+
+*Global Physical Security Management
+William Carroll
+Brianna Johnson
+Audrey Villinger
+Danielle Zaim
+
+*Global Security Administrative Support
+Paula Savolskis
+
+*STORY & FRANCHISE DEVELOPMENT
+
+*Executive Vice President, Story & Franchise Development
+Lydia Bottegoni
+
+*Creative Director, Vice President, Story & Franchise Development
+Jeff Chamberlain
+
+*Production Director, Audio
+David Seeholzer
+
+*Music Director
+Derek Duke
+
+*Audio, Music
+Adam Burgess
+Leo Kaliski
+Jeff Kurtenacker
+Jake Lefkowitz
+Glenn Stafford
+
+*Audio, Production
+Ashley Collins
+Dennis Crabtree
+Caroline Hernández
+Mike Hoffman
+Monica Loose
+Charlotte Moore
+Jorge Velasco
+Ariel Wang
+
+*Cinematic Sound Supervisor
+Paul Menichini
+
+*Senior Casting & Voice Director
+Andrea Toyias
+
+*Audio, Voice Over
+Alec Santos
+Peter Steinbach
+
+*Audio, Sound Design
+Christopher Battaglia
+Brian Johnson
+Erik Magnus
+Nicholas Papaleo
+Lawrence Peacock
+Shane Stever
+John Thomas
+
+*Senior Director of Technology, Blizzard Animation
+Mark A. Brown
+
+*Senior Director, Blizzard Animation
+Steven Chen
+
+*Production Director, Creative Development & Blizzard Animation
+Phillip Hillenbrand Jr.
+
+*Blizzard Animation, Show Leadership
+Wendy Berry Campbell
+Emily Shinyi Hsu
+Mike Kelleher
+David Satchwell
+
+*Blizzard Animation, Leadership
+Ricardo Biriba
+Tok Braun
+Shimon Cohen
+Anthony Eftekhari
+Chris Evans
+Edwin Fabros
+Jake Fenske
+Jason Fleming
+Joe Frayne
+Ashraf Ghoniem
+Hunter Grant
+Steeg Haskell
+Sheng Jin
+Jared Keller
+Wayne Kennedy
+Krissie King
+Garrick McLaughlin
+Matthew Mead
+Corey Pelton
+Bobbak Sabet
+Michael Sandrik
+David J. Stephens
+Jon Teer
+Shannon Thomas
+Seth Thompson
+Taka Yasuda
+Fabio Zungrone
+
+*Blizzard Animation, Artists
+Michael Arrevalo
+Jongha Baik
+Becca Baldwin
+Emily Berger
+Ehren Ralph Bienert
+David Blais
+Jamir Blanco
+Nicholas Bolden
+Chris Bostjanick
+Nathan Boyd
+Toni Bratincevic
+Erich Burchfield
+Evan Butler
+Jeremy Butler
+Chris Capel
+Daniel Caylor
+Daniel Ceballos
+Jorge A. Cereijo-Perez
+Aaron Chan
+Alan Chan
+Grace Chang
+Charles Chi
+Raymond Chih
+Christine Cho
+Eric Chou
+Craig Chun
+Ly Ha Chung
+Matt Cordner
+James Crowson
+Ben Cunningham
+Graham Cunningham
+Sarah J. Delahanty
+Cynthia Dickson
+Drew Dobernecker
+Mike Duffy
+Thomas Duong
+Christopher Erickson
+Bruce Evans
+Stephen Fahey
+Ken Faiman
+Cat Florez
+Derrick Forkel
+Shuntaro Furukawa
+Sreyeesh Garimella
+Robin George
+Taso Gionis
+Chris Goodrich
+Steven Guevara
+Olesya Gurezova
+Jason Michael Hall
+Mike Hardison
+Kyle Harrington
+Justin Haupt
+Tyler Helton
+Meg Higginbotham
+Cole Higgins
+Allen Holbrook
+Shih Chiang Kenny Huang
+Shih-Hao Jason Huang
+Willy Hwang
+Atsushi Ikarashi
+Joe Jackman
+Chris Jennings
+Jim Jiang
+Jessica Dru Johnson
+Chung Kan
+Robin Khamsi
+Eddie Yonghyun Kim
+Piotrek Krawczyk
+Daniel Kruse
+Christi Kugler
+Alexandre Fornari Kümpel
+Bill La Barge
+Brian Lac
+Mark Lai
+Scott Lange
+Robert Lazzarini
+Hung Le
+Moonsung Lee
+Yeon-Ho Lee
+Yuri Lementy
+Shawn Liang
+Bryan Locantore
+David Luong
+James Ma
+MaryAnn Malcomb
+Heather Mann
+Brandon McCaulley
+Chris McCormick
+James McCoy
+Raymond McLendon
+Pete Megow
+Xanthe Menor
+Abigail Mercante
+Catalina Montelongo
+Meg Morris
+Max Moseley
+Enrique Munoz
+Sada Namiki
+Eric Neill
+Jeremy Nelligan
+Maia Neubig
+Sherman Ohms
+Matthew Onheiber
+Andrew Paules
+Christopher Robert Perez
+Drew Perlman
+Jason Petrocelli
+Huan Phan
+Jamie Pilgrim
+Dixie Pizani
+Renae Radford
+Glenn Ramos
+Justin Rasch
+Gregory Reynolds
+Sam Rickles
+Sebastian Rivas
+Stephanie Russell
+Davy Sabbe
+Nema Safvati
+Rosendo Salazar
+Kaz Shimada
+Lulu Simon
+Raio Smakpunt
+Joon Soo Song
+Fabio Stabel
+Peter Starostin
+Jonathan Styles
+Timothy Suarez
+Veara Suon
+Don Ta
+Cesar Tafoya
+Brett Taggart
+Scott Trosclair
+Peppi Tsui
+Erich Turner
+Michelle Uvodich
+Amy Vatanakul
+Nelson Wang
+James Wright
+Chris Yang
+Kenson Yu
+Anthony Zalinka
+Daniel Zamora
+
+*Blizzard Animation, Production
+Elise Brown
+Angelique Cecere
+Conor Doolin
+Shu Fujita
+Julia Kernan
+Claver Knovick
+Jared Mayberry
+Kristy Robinson
+Nathalia Ruiz Murray
+Michelle Sampior
+Brandy Stiles
+Barry Strum
+Kat VanderJagt
+Kevin VanderJagt
+Gurpreet Singh Wahla
+
+*Blizzard Animation, Technology
+Johann Helgi Agnarsson
+Chris Allen
+Iciar Andreu Angulo
+Michael Beal
+Lauren Bhagwandat
+Cathy E. Blanco
+Jud Bumpas
+Ted Burge
+Rafael Campos
+Lih Chang
+Tom Craigen Jr.
+Ben Deda
+Michael Eizenberg
+Ashley Fong
+Christopher Garcia
+Brandon Harris
+Parag Havaldar
+Ryan Heniser
+Wilbert Ho
+Sabina Horigan
+Vladimir Ivanov
+Paul Kilgo
+Bryson Lee
+Jami Levesque
+Chris Luce
+Vinod Melapudi
+Travis Miller
+Joshua Nadel
+Huong Thuy Nguyen
+Jeremy Oborn
+Chris Rock
+Dorothy Sheng
+Peter Shinners
+FunShing Sin
+Allen Stetson
+Matthew Swindler
+Thomas V. Thompson II
+Joey Tobiska
+Rob Tomson
+Claudia Zimmer
+
+*Senior Director, Creative Development
+Venecia Duran
+
+*Creative Development, Leadership
+Dennis Bredow
+Neil David Carter
+Ben Dai
+Doug A. Gregory
+Terran Gregory
+Jason J. Hill
+Brian Horn
+Jeramiah Johnson
+Marc Messenger
+Anna Morgan
+Kenneth Wong
+
+*Creative Development, Artists
+Adam Baines
+Stephan Belin
+Ted Boonthanakit
+Mio Del Rosario
+Olivier Dubard
+Brian Fay
+Jerry Gaylord
+Mike Koizumi
+Ellinoora Laine
+Jon Lam
+Jungah Lee
+Micah Lewis
+Justin McMillan
+Will Murai
+Yewon Park
+Laurent Pierlot
+Josh Tallman
+Chris Thunig
+Chap Yaep
+Ae Ri Yoon
+
+*Creative Development, Editors
+Chloe Fraboni
+Avalon Irons
+Betsy Peterschmidt
+
+*Creative Development, Lore
+Madi Buckingham
+Sean Copeland
+Justin Parker
+
+*Creative Development, Production
+Connor Brannigan
+Judy Fernando
+Ed Fox
+Brianne Messina
+Jamie Ortiz
+Jacob Rivera
+
+*Creative Development, Writers
+Robert Brooks
+Matt Burns
+Brandon Easton
+Adam Foshko
+Christie Golden
+George Krstic
+Andrew R. Robinson
+Ralph Sanchez
+
+*Operations Team, Story & Franchise Development
+Ricky Antonelli
+Jennifer Michelle Conn
+Jill Modyman
+Melissa Morris
+
+*Archival and Curation
+Dana Bishop
+Nat Cooper
+Paul Poduska
+Jessica Taylor
+Melissa Ward
+
+*Director, Blizzard Video
+Stuart Shook
+
+*Blizzard Video Leadership
+Bucky Fisk
+Paul Gee
+Lucas Merino
+Jake Patton
+Aileen Sévin
+Jonny Throop
+
+*Blizzard Video, Creative
+Ivan Anic
+Benjamin Dunn
+René Koiter
+Bruce Lim
+Drew Lyon
+Mark Staubach
+Nathan Willis
+
+*Blizzard Video, Editorial
+Michael Bancroft
+Tori Ciampa
+Hannah Dalrymple
+Ed Decker
+Shannon Emigh
+Eric Finke
+Adam Fiorenza
+Joanna Griebel
+Lars Jensvold
+Stephanie Kulmaczewski
+Rebecca Lilienfeld
+Ryan Nuber
+Ryan Pate
+Adam Rickabus
+Mike Schaffnit
+Mark Vulcano
+Aaron Woitas
+
+*Blizzard Video, Filming & Capture
+Xiaohu Alcocer
+J. Parker Anderson
+Kasey Appignani
+Adam Armstrong
+Monika Armstrong
+Kori Davis
+Jake Earl
+Tina Fu
+Mike Furrh
+Levi Garrett
+William Kime-Hunt
+Sergio Klementich
+Kathryn Rieser
+Richard Sandoval
+
+*Blizzard Video, Production
+Avril Ilejay
+Paul Ingegneri
+Logan Laflotte
+Forrest McClain
+Patrick Roche-Sowa
+Holly Stanton
+
+*Story & Franchise Development Administrative Support
+Christine Gravesen
+Zach Katz
+JJ Rivera
+
+*GLOBAL WORKPLACE SERVICES
+
+*Global Workplace Services Management
+Suzanne Navarro
+Susann O'Bryan
+Joe Ramos
+Amber Zielinski
+
+*Global Workplace Services Team
+Shannon Armstrong
+Samantha Bebee
+Bear Berezoski
+Peter Fivelstad
+Timothy Hardy
+Jacob Hofeldt
+Ivan Hurtado
+Meg Kelly
+William Peace
+Natalie 'Nanis' Ramos
+Jeff Roberts
+Samuel Schrimsher
+Nils Spehr
+Steve Stafford
+Henry Szekely
+Alex Torres
+Wayne Willoughby
+Matt Winter
+
+*EXECUTIVE TEAM
+
+*Co-Leaders
+Jennifer Oneal
+Mike Ybarra
+
+*Executive Vice President, Story & Franchise Development
+Lydia Bottegoni
+
+*Senior Vice President & Chief Legal Officer
+Claire Hart
+
+*Senior Vice President & Executive Producer
+Allen Adham
+
+*Chief of Staff
+Jennifer Lew
+
+*Executive Support
+Kristina Rush
+
+*ACTIVISION BLIZZARD CONSUMER PRODUCTS
+
+*Consumer Products Executive Leadership Team
+Matt Beecher
+Philippe Bost
+Jennifer Mirabelli
+Daniel Siegel
+Ashlee Vaughn
+
+*Consumer Products Leadership
+Pat Au
+Michael Hummel
+Lindsay Murphy
+Byron Parnell
+Derek Romano
+Fung Thai-Chu
+Anna Wan
+Sally Xia
+
+*Consumer Products Team
+Hanan Ansri
+Brooke Carpenter
+Amanda Chen
+Jay Chen
+Loki Chen
+Yiming Chen
+Madison Clark
+Gleb Croitor
+Tiffany DeCaro
+Marta Granell
+Fiona Hardie
+Jaslyn He
+Yolanda Jiang
+Hanna Jun
+David Lomeli
+Sylvia Lopez
+Christine Ma
+Steve Maclennen
+Christopher Meditz
+Marc Mejia
+Michele Mejia
+Brian Mulcahy
+Qi Qiu
+Dylan Quintero
+Derek Rosenberg
+K.C. Schmit
+Marco Sipriaso
+Elena Sokol
+Ryan Wood
+
+*ACTIVISION BLIZZARD ESPORTS
+
+*Head of Leagues
+Johanna Faries
+
+*Global Broadcast Directors
+Matt Evans
+William Gahagan
+Corey Smith
+Stephanie Snowden
+
+*Global Broadcast Team
+Scott Allen
+Jose Almeyda
+Angie Annett
+Aaron Blumberg
+Ivan Bozic
+Dillon Chance
+Jeff Clarke
+Ryan Cole
+Joshua Crooch
+Jun David
+Luka Drezga
+Craig Frieman
+Joe Garcia
+Marcus Garrett
+Josh Glugatch
+Ashley Hartford
+Josh Hernandez
+Anthony Huang
+Scottie Johnson
+Christopher Keath
+Andy Lehman
+David Light
+Nick Losq
+Matt MacNeil
+Kevin McCabe
+Tonya McCahon
+Sam McCoy
+John Meigs
+Ryan Mozek
+Mike Norys
+Ceazar Ornelas
+Becky Rice
+André Rievers
+Troy Roe
+Michael Sadorf
+Chris Scoggins
+Jamie Stone
+Christian Stovall
+Jorge Suarez
+Mitchell Talana
+Amy Tekell
+Christopher Washburn
+Nathan Zerafa
+
+*Activision Blizzard Esports Vice Presidents
+Kristin Connelly
+Jason Hahn
+Jack Harari
+Matthew Kliszewski
+Brandon Snow
+
+*Activision Blizzard Esports Directors
+Oliver Boden
+Sam Braithwaite
+Steve Brauntuch
+Lauren Fine
+Joseph Fitzpatrick
+Emma Hu
+Ernie Kwan
+Dan Mazei
+Eric Nelson
+Brandon Ramsey
+Stephen Rossi
+Anthony Theoharis
+Lianne Virginio
+
+*Activision Blizzard Esports Team
+Jason Agajanian
+Angel Ampas
+Adrian Archer-Lock
+Kristin Ashouri
+Brian Baker
+Anthony Barnes
+Daria Bazzi
+Peter Bean
+Adrienne Behunin
+Chiara Bianchini
+Erin Bice
+Otis Blum
+Adam Bowers
+Benjamin Boyle
+Zachary Burr
+Brittany Casanova
+Greg Chamberlain
+Sarah Ciancarelli
+Jacob Clements
+Stephanie Collins
+Pat Coyle
+Jimi Croker
+Sai Dandamudi
+Chelsea Delbridge
+Bri Delgado
+Joseph Dewitt
+Lucy Dodson
+Jessica Downey
+Erin Eberhardt
+Fernando Escamilla Valdez
+Jason Fugh
+Stephanie Han
+Amy Ho
+Morgan Ho
+David Hollings
+Jesse Hong
+Jade Hutchinson
+Lauren Ingel
+Allison Jurkowski
+Ellie Keeton
+Bryan Kelly
+Albert Koh
+Tom Koontz
+Alan Lan
+Jacklyn LeBlanc
+Jeff Lee
+Joshua Lee
+Yelim Lee
+Forest Lin
+Aaron Liu
+Matt Malabonga
+Derek Massaro
+Abraham Matias
+Jason McDevitt
+Adam McDonald
+Connor McGrann
+Josh Miller
+Cody Neal
+Erik Nguyen
+Joshua Owyang
+Olesia Pototska
+Jeffrey Reynolds
+AJ Rogers
+Jacob Saxon
+Eric Sitko
+Youngjin Song
+Stephen Tu
+Spencer Tucker
+Anthony Vitale
+Gustavo Wolosker
+Derek Wons
+Jun Wu
+Connor Yoho
+Ben Young
+Haiyong Zhou
+
+*Activision Blizzard Esports Executive Support
+Barbara Domanick
+Shablis Kline
+
+*ACTIVISION BLIZZARD GLOBAL DIGITAL COMMERCE
+
+*Group Lead
+Rob Schonfeld
+
+*Console Lead
+Garrett Brodie
+
+*PC Lead
+Jon Estanislao
+
+*Global Digital Commerce Team
+Dustin Carter
+Sian Clarke
+Matilde Controzorzi
+David Cramer
+Andrea DeHart
+Sean Dexheimer
+Molly Dyer
+Geoff Fraizer
+Martin Frost
+Missy Hall
+Dan Shoe Hsu
+Kai Hsu
+Jennifer Hur
+Joe Kam
+James Oh
+Mike Patterson
+Duy Pham
+Booth Ramsay
+Cat Smedley
+Brian Strumpf
+Richard Tom
+Lisa Twu
+Jake Ynzunza
+Brandon Zien
+
+*INTERNS & CONTRACTORS
+Danny Abarca
+Robert Aeschbacher
+Ashaf Ahmed
+Khurram Akmal
+Jessica Brohard
+Jacob Burdecki
+Mario Castillo
+Ben Chaney
+Chris Chuter
+Paul Evans
+Mark Feather
+Allan Feliciano
+Denisse Galvan
+Froilan Gardner
+Joshua Gordon
+Monica Guzman
+Christopher Haag
+Hugo Hernandez
+Veronica Hernandez
+Savannah Ho
+Alex Hunter
+Benjamin Hurst
+Marissa Isgreen
+Arthur Jones
+Dakota Koch
+Rostin Kohnechi
+Sean Latreille
+Terence Lindsey
+Galina Lobyshova
+Adryanne Maggitt
+Benjamin McAdoo
+Hunter McCall
+Stephen Nichols
+Dana Nuber
+Bill Pang
+Coyde Perry
+Spaulding Pierce
+Jacob Poteet
+John Quick
+Steven Quintero
+Maud Raber
+Isaac Redlon
+Jack Reed
+Rachel Reich
+Vanessa Reyes
+Albert Rincon
+Alejandro Romo
+Carson Schwegmann
+Chengxing Shi
+Adam Strick
+Chhun Tang
+Eric Topf
+Alex Tran
+Daniel Vasquez
+Courtney Vogel
+Ben Wagner
+Joseph Wagner
+Bryan Wagstaff
+Brent Wang
+Li XueDi
+Saar Yaffe
+Tiffany Yu
+Lan Yuan
+Rafael Zanchetin
+
+-autosplit:false
+*BLIZZARD DEVELOPMENT FAMILY
+Antonio Achúcarro, Gareth Ackerman, Sebastian Acosta, Angelica Adams
+Don Adams, Steve Aguilar, Mark A. Agustin, Raphael Ahad
+Jestry Ahlswede, Carlos Ahumada, Aaron Aikman, Marco Alamia
+Jordan Albert, Mateusz Albrewczynski, Michael Alcorn, Chris Allsopp
+Romel Alonzo, Allen Alvarado, Carol Alvarado, Daniel Lorenzo Alvarez
+Craig Amai, Alex Amato, Jill Amato, James Ams, Drew Andersen
+Josh C. Anderson, Kyle Anderson, Mark Anderson, Ryan Anderson
+Lucas Annunziata, Christopher Antonucci, Sarah Arellano
+Matthew Armstrong, Andrew Arnett, Caleb Arseneaux, Hasiba Arshad
+Sara Asmussen, Griffin Aswegan, David Aucourt, Josh Augustine
+Mike Aversa, Jon Avila, Christian Avina, Jay Axer, Dean Ayala
+Jaquelyn Bacal Head, Keunmin Bae, Moon Bae, Amanda Bailey
+David Balogh, Ciji Bambrick, Adrien Banet-Rivet
+Katherine Bankson, Dylan Barker, Marlon Barroquillo
+Michael Bartnett, Adam Batters, Zachary Bauer, Adam F. Baxter
+Ates Bayraktaroglu, Dan Beaulieu, Bryan Bedford, Josh Beedle
+Bijan Beglari, Peter Beissinger, Kevin Bellardi, Alain Bellehumeur
+Christopher Benoit, Shawn Benson, Jason Bentley, Justice Bentzel
+Dave Berard, Graham Berger, Matthew Berger, Dave Berggren
+Russell Bernau, Matt Bessey, Will Bidermann, Dylan Binder
+Brian Birmingham, Steven Bischoff, Dustin Biser, Brandon Blackwell
+Aaron Blean, Jesse Blomberg, Alexander Bobylev, Matthew Boehm
+Waleed Boghosian, Calvin Boice, Larry Boles, Kelly Bollinger
+Sam Bolton, Nathan Bonfiglio, Brenden Booth, Mary Bourrie
+Jason Boyle, Eric Braddock, Julie Anne Brame, Even Braudaway
+Liv Breeden, Brandon Brennan, Austin Bressie, Daniel Briggs
+Jeffrey Brill, Josh Brinson, Loren Broach, Maeve Broadbin
+Andy Brock, Nathan Brock, Devin Brom, Andy Brown, Callie Browning
+Eric Browning, Matt Browning, Marcus Bruzzese, Karolina Bryner
+John Buckley, Riley Bufton, Scott Burgess, Patrick Burke
+Steve Burke, Olivia Burkhart, Will Burton, John Butkus
+Michael Bybee, Adam K. Byrd, J. Brad Byrd, Mike Byrd, Matthew Byrne
+Kuko Cai, Evan Calder, Kayleigh Calder, Kevin Calderone
+Dominic Calkosz, Joshua Camille, Dominic Camuglia, Ely Cannon
+Stuart Capewell, Jonathan Caraker, Andrew Carl, David Carlock
+Colton Carmine, Rebecca Carmine, Sarah Carmody, Scott Carnahan
+Kellan Carr, Sarah Case, Jen Casey, Joe Cash, John Cash, Johnny Cash
+Tom Cassera, Dennis Castello, Jessica Castillo, Travis Castillo
+Alan Castle, Jose Castorena, Chris Cavalieri, Patrick Cavender
+Brock Cerny, Tony Cervantes, James Chadwick, Michael Chae
+Michael Chambers, Brad Chan, Bo Hsuan Chang, Christopher Chang
+Jamie Chang, Jeff Chang, Lan-Fang Chang, Stephanie Chang
+Stephen Chang, James Chapman, Joshua Chapman, Aaron Chard
+Adam Chard, Matthew Charles, Chris Chen, Dawnson Chen, Sarah Chen
+Helen Cheng, Wyatt Cheng, Yung-Ju Cheng, Carman Cheung
+Tai Ching Cheung, Ryan Chew, Nick Chilano, Cody Childers
+Tom Chilton, Tiffany Chiu, Michael Chizewski, Sungjae Cho
+Clayton Chod, Sukjoo Choi, Victor Chong,
+Davis Christiansen, Cameron Christianson, Fabien Christin
+Mark Christoforetti, Janice Chu, Jenny Chu, Valerie Chu
+Jeffrey Chuang, Kelly Chun, Paul Chung, Andy Churchill, Soojin Chyu
+Cody Clark, Jessica Clarke, Bryan Cleveland, David Clyde
+Emmett Coakley, Jackson Coakley, Joseph Cochran, Bret Cocking
+Juan Cole, Jamal Coleman, Jared Coliadis, Brian Collins
+Jeremy Collins, Jonathen Collins, Ian Combs, Joe Concha
+Benjamin Conner, Toni Conner, Sarah Conway, Rob Cooch, Maddiy Cook
+Linny Cooke Saverline, Melissa Coons, Christopher Beau Cooper
+Ryan L. Cooper, Samuel Cooper, Doug Cope, Alicia Cornelia
+Melissa Corning, Danielle Corporon, Alex Cortes, Victor Cortis
+Chris Cossey, Sarah Cotner, Brian Cottle, Jared Coulston
+Lauren Countess, Eric Covington, Dan Cox, Jordan Cox, Aaron Craft
+Jeremy Cranford, Brett Crawford, Alexander Creamer, Ryan Creasey
+Brendon Croft, Jude Cross, Paden Cross, Steve Crow, Al Crutchley
+Adam Cruz, Michael Cuevas, Chase Culver, Hunter Curren
+Steve Danuser, Daniel Dao, Robin Dao, Ryan Dao, Kyle Dates
+Paul Christer David, Chris Davila, Anthony Davis, Elhora Davis
+Jesse Davis, Alec Dawson, Jon Dawson, Patrick Dawson, Shem Dawson
+Morgan Day, Whitney D. Day, Chris De La Pena
+Jennifer de los Reyes-Powell, Albert De Nova, Andrew De Sousa
+Joel Deaguero, Paul DeBerry, Justin DeCloedt, Matt Deegler
+Jim DeGruttola, Angela Del Priore, Eric Del Priore, Dan Delapena
+Samuel Delmont, Yi Deng, Aimee Dennett, Eric Dennis, Ryan Denniston
+Alex deNoyelles, Steven DeRose, Steve Derrick, Jane DeSiena
+Alex Devine, William Dewey, Cecilia Deyne, Luciano Di Fede
+Samwise Didier, Romain Dijoux, Ken Dilks, Allen Dilling
+Jessica Dinh, Paulo Dionisio, Manuel A Dischinger Moura
+Dustin Distefano, Brett Dixon, Isabella Djurovic, Eric Dobbs
+Landon Doi, Mike Donais, Chris Donelson, Patrick Donnelly
+Niles Doubleday, Steven Dowling Jr, Jiajun Du, David Dubenko
+Ed Duer, Daniel Duffin, Amy Dunham, Paul Dunstan, Thomas DuPont
+Derek Dupras, Miguel Duran, Chadwick Dusenbery, Jeffrey Duval
+Tyler Dvorak, Steven Dwyer, Justin Dye, Derrick Dymock, Michael Eads
+Cole Eastburn, Nicholas Eberle, Michael Ebert, Jonathan Ebling
+David M. Edwards, Evan Edwards, Shani Edwards, Scott Egashira
+Mike Eheler, Rachael Eibert, Anders Ekermo, Patrick Elia
+Mike Elliott, Tom Ellis, Foster M. Elmendorf, Jeffrey Engel
+Danielle Engels, Benjamin Erdt, Tim Erskine, Somer Esat
+Dustin Escoffery, Victor Esquivias, Mustazar Essa, Ofer Estline
+Stephen Eusebio, Matthew Everett, Michael Fabay, Ariel Fain
+Qiu Fang, Brian Farr, James Farris, Heath Farrow, Brad Faucheux
+Jeremy Feasel, Aleksandr Fedotovskikh, Austin Feeney, Christian Fell
+Ryan J. Felton, Matt Ferguson, Christopher Ferraro, Christian Feuker
+Matt Fieler, Brandon Figueroa, Colin Finer, Gavin Finley, Bob Fitch
+Sean R. Fitzgerald, Brian Fletcher, Jonathan Fletcher, Cody Flick
+Linus Flink, Maybri Flores Garcia, Alex Flores, Jay Fong
+Gary L Fonville Jr, Rob Foote, Timothy Ford, Fernando Forero Pinilla
+Russell Foushee, Jay Frank, David Frankel, Van Logan Franklin
+Jerry Frazier, Matt Frederick, Andrew Freeman, Howard French
+David Fries, Stephen Frost, Zachary Frye, Josh Fuesting
+Timothy Fujieda-Feldman, Wesley Fujiyama, Kevin Fulkerson, Sam Fung
+Erin Fusco, Sharif Gaines, Renaud Galand, Sam Gao, Taylor Garcia
+Lily Gardner, Danielle Garland, Geoffrey Garnett, Luis Garza
+Charles Gast, Chris Gearhart, Wanmin Gee, Caitlin Geels
+Denis Genest, Alvin Geno, Matthew Genovese, Andy Gentile
+Cora Georgiou, Ian Gerdes, William T. Gergits, Ben Gerowe
+Adam Gershowitz, Paul Gheorghe, Kris Giampa, Sean Gibson, Jay Gill
+Keaton Gill, Jared Gillis, Alice Gionchetta, David Givone
+Carl Glave, Brittany Gleiter, Gavin Glenn-McDowell, Hans Godard
+Matt Gollob, Max Golosiy, Rose Gomez, Natalia Goncharova
+Gabriel Gonzalez, Geoff Goodman, Michael Goodman, Edward Goodwin
+Scott Gordon, Kali Goss, Matt Goss, John Gotch, Matt Gotcher
+David Gower, Jolene Goya, Casey Graham, Jon Graves, Ron Gray
+Parker Greene, Ryan Greene, Josh Greenfield, Kelli Greenfield
+Evan Greenstone, Matt Grenewetzki, Eric Grimenstein, Justin Groot
+Kevin Gu, Tim Guo, Daniel Gutierrez, Daniel Haddad, Yurik Haines
+N. Hajj, Katherine Haldane, Chris Hale, Robyn Haley, Justine Hamer
+Jeff Hamilton, Maria Hamilton, Rowan Hamilton, Ryan Hamilton
+Chad Hamlet, Markus Hammarstedt, Nam Han, Herbert Haneke, Ed Hanley
+Ryan Hanlon, Greg Hansen, Neal Hanson, Max Harchik, Cody Harder
+Leea Harlan, Zaven Haroutunian, David Harrington, Craig Harris
+Ryan Hart, Zachary Hart, Scott Hartin, Kyle Hartline, Kevin Hassett
+Jared Hays, Ion Hazzikostas, Chaz Head, Aubrie Healy
+Morten Hedegren, Michael Heiberg, Kory Heinichen, Brad Heinze
+Kacey Helms, Daniel Helwig, John-Mark Hemphill, Byron Henze
+Eric Henze, Mike Hershberg, John Heuerman, Kevin Hewitt
+Matthew Heyman, Travis Hickman, Jeff Hicks, Paige Hicks
+Mike Higgins, John Hight, Amber Hill, Michael Hill, Trevor Hilseth
+Matt Hines, Edwin Ho, Peter Hodge, Ron Hodge, Sean Hogan
+Damarcus Holbrook, Brian Holinka, Kieran Teak Holley, Steve Holmes
+Andrew Holscher, Eric Hom, Chuck Homic, Beomki Hong, Kyongho Hong
+Michael Hong, Nesskain Hong, Steve Hong, Kelli Hoover, Kim K Horn
+Thomas Horwath, Shaobo Hou, Andy Houghtelin, Emma Howard
+Clay Howell, Peter Hsu, Ken Huang, Tanya Huang, Kenny Hudson
+Jason Hughes, Tim Hume, Carin Huurnink, Trevor Huwe, Jay Hwang
+Travis Inman, Timothy Ismay, Alex Iveroth, Adam Z. Jackson
+Doug Jacobs, Trevor Jacobs, Chris Jacobson, Chris Jacobson
+Sidd Jadav, Tom Jaklitsch, Dusan Jan, Steven Jaquith, Chad Jarrett
+John Jarynowski, Kyle Jensen, Xing Jin, Jason Johannes, Dan Johnson
+Dan Johnson, Jordan Johnson, Lindsay Johnson, Michael Johnson
+Jayne Johnston, Scott Johnston, Dylan Jones, Tim Jones, Andry Jong
+Josiah Jordan, Kay Ju, Chris Judkins, Jason Jurecka
+Gavin Jurgens-Fyhrie, Matthew Kaczynski, Jason Kanagaratnam
+Kirsten Kane, David Kang, Manish Kapoor, Ben Karr, Shawn Kassian
+Richard Katz, Michael Kautzman, Colin Kawakami, Allie Kawamoto
+Cort Keefer, Paul Keet, Aaron Keller, Joe Keller, Garth Kelly
+Michael Kemski, Tracy Kennedy, Mark Khalil, Rakan Khamash
+Brendon Kibler, Eric Kilkenny, Nathan Kilker, Joseph Killion
+Andy Kim, Joon Hyung Kim, Junho Kim, Mina Kim, Sam Kim
+Andrew Kinabrew, Careena Kingdom, Jayson Kirby, Michael Kirchhoff
+Morgan Kirkpatrick, Zoid Kirsch, Thiago Klafke, Jeremy Klein
+Kevin Klein, Philip Klevestav, Patrick Klisiewicz, Alex Klontzas
+Daniel James Klug, Nathan Knaack, Christopher Knorr, Greg Knowlton
+Devin Knudsen, Sven Knutson, Noah Koecher, Marco Koegler
+Josh Kofalt, Petrina Koh, Dorottya Kollo, Walter Kong, Thomas Koos
+Arnaud Kotelnikoff, Conor Kou, Alex Koufakis, Frank Kowalkowski
+Chris Kowalski, Dan Kramer, Steph Krepcio, Monte Krol, Tareh Kryger
+Paul Kubit, Alex Kudebeh, Vince Kudirka, Adam Kugler, Juno Kwak
+Alex Kwok, Bonnie Kwon, Jason K Kwon, Jeffery Kwon, Jeffrey Kyllo
+Paul Lackey, John Lafleur, Ken Lamb, Owen Landgren, Joshua Landman
+Ian Lang, Caitlin Lange, Elsbeth Larkin, Eric Larson, Erik Larson
+Cliff Lasana, Steven Lashower, Diandra Lasrado, Jonas Laster
+Nick Lato, Mike Laursen, Amanda Laven, Bree Lawlor, Scott Lawlor
+David Lawrence, Matthew Lawrence, Marie Lazar, Ronald Leask
+Will Lebus, Frankie Lee Jr., Benjamin Lee, Evan Lee
+Frederick Dayhee Lee, Hak Lee, Hyun Lee, Hyungjic Lee, Jin Lee
+Kevin Ken Lee, Marcy Lee, Paul Lee, Peter C Lee, Peter K. Lee
+Victor Lee, Youngsik Lee, Mathieu Leenhardt, Anne-Sophie Lefebvre
+Michael Leger, Christopher Leighton, Bryan Lentenbrink
+Henry Letteron, Dor Levgoren, Adam Levy, Joshua R. Lewis
+Marlowe Lexvold, Josh Leyshock, Angela Li, Freya Li, Kimberly Li
+Esther Liao, Tingwen (Tina) Liao, Michael Liaw, Dylan Lifa, Andy Lim
+Hong Chan Lim, Parker Lim, Jessica Lin, Rebecca S. Lin
+Danforth Lincoln, Evan Lind, Gabriel Ling, Timothy Linn, Neil Lintag
+Carey Littlefield, Guanglei Liu, Jeff Liu, Myron Liu, Ying Liu
+Jimmy Lo, Austen London, Matt London, Holly Longdale, Nicholas Louie
+Julian Love, Bryan Lowrey, Cynthia Loyd-Peterson, Linda Lozano-Wade
+Oliver Lübeck, Cathy Lucas, Dennis Lukowski, Nathan Lyons-Smith
+John Lytle, Fabio M. Silva, Max Ma, Max Ma, Jason MacAllister
+Christopher MacDonald, Sergio Macias Jr., Pat MacKellar
+Marcus Maczynski, Morgan Maddren, Patrick Magruder, Jay Maguire
+Josh Mahan, Rachel Maille, Torbjörn Malmer, Eric Maloof
+Luke Mancini, Max Mann, Jeff Manners, Joshua Manning
+James Mansfield, Hai Mao, Richie Marella, Carson Marlow
+Bryan Marony, Michael Marra, Stephanie Marroquin, Kevin Martens
+Jade Martin, Jim Martin, Steve Martinez, Jerry Mascho
+Jonathan Mason, Luke Mason, Ryan Masterson, Ryan Matsuba
+Andrew Matthews, Kevin Matthews, Shelby Maxwell, Kristy Mayo
+Collin McAtee, Keith McAvoy, Kenny McBride, Sean McCann
+Patrick McCarthy, Shannon McCartney, Kurtis McCathern, Brian McClain
+Shea McCombs, Jon McConnell, Ian McCown, Corin McCrate, Matt McDaid
+Casey McDermott, Ian McEwan, Mike McGehee, John McIntyre, Kate McKee
+Matthew McKeown, Abby McLallin, Robbie McMahon, Denise McMurry
+Brian McNamee, Rob McNaughton, Eric McNine, Jon McVeigh
+Alexis Meade, Jeff Mears, Brandon Meesak, Warwick Mellow
+Andrew Menjivar, Scott Mercer, Remco Merkestijn, Nicholas Merritt
+Ryan Metcalf, Josey Meyer, Kristofer Meyer-Ruef, Joseph Micelli
+Sean Middleditch, Bjorn Mikkelson, John Mikros, Byron Miller
+Shane Miller, Lorenzo A. Minaca, Shawn Minoux, Andrew Mintner
+Robert Moodey, Ryan Moore, Barry Morales, Danielle Morales
+Luke Mordarski, Leo Morelli, Kristy Moret, Brielle Morgan
+Dan Morgan, Meko Morgan, Serge Morozov, Matthew Morris
+Craig Morrison, Aaron R. W. Morse, Jeremy Morton, Thomas Mountfort
+Miranda Moyer, Ryan Mozena, John Mueller, Derek Mulder, Jan Muller
+Major Mummert, Nick Murano, Jessica Murphy, Sean Murphy
+Collin Murray, Justin Murray, Tim Murray, Jeff Myers, Mats Myrvold
+Rahul Nagarkar, Pat Nagle, Jay Nam, Brandon Nason, Christian Nava
+Josh Navarro, Eric "E.J." Nelson, Chadd Nervig, Luke Neubert
+Tomas Neumann, Antonio Neves, Jonathan Newsham, Sam Ngo
+Diana Nguyen, Paul Nguyen, Thach Nguyen, Thomas Nguyen
+Tri-Vien Nguyen, Peter Nichols, Natacha Nielsen, Dmitry Nikiforov
+Michael Niles, Christi Nishiyama, Joshua Noh, Jun Soo Noh
+Matt Nolin, Dusty Nolting, Jonas Norberg, Peter Nott, Matthew Nunez
+Michael Nuthals, Chris Nuzzo, Jonathan Oberto, Kevin O'Brien
+Ray Ocampo, Juyoung Oh, Alex O'Konski, Stephanie Olesh, Julie Oliver
+Adam Olshan, Jun Ong, Serban Oprescu, CJ Ordog, Philip Orwig
+Monique Ory, Otto Ostera, Molly Osterberg, Zachariah Owens
+Eddie Pacheco, Kurtis Paddock, Alfredo Padron, Trevor Page
+Daniel Pageau, Celeste Pang, David Paolone-Webb, Rodney Pare
+Stephen Parente, Veronica Parente, Samuel Park, Ted Park
+Jeff Parrott, Taylor Pate, Jay Patel, Mackenzie Kade Patrick
+Carrie Patterson, Chris Paul-Hayter, Chris Paulson, Corey Peagler
+Will Pearce, Jonathan Pearl, Spencer Pelton, Carlos Penate
+David Pendergrast, Charles Peng, Stephen Penson, Ted Percival
+David Perez, Art Peshkov, Chris Peters, Russ Petersen
+James Peterson, Justin Peterson, William Petras, Tim Petre
+Mark Petro, Donald Phan, Jimmy Phan, Sean Phelps, Mason Phillips
+Aimee Pi, Elliot Picarello, Christian Piccolo, Joseph Piepiora
+Thomas Pieracci, Chris "Mazza" Pietrocarli, Michelle Piña
+Dan Pingston, Harrison Pink, Helder Pinto, Ed Piper, Gary Platner
+Kimberly "Kymba" Plushner, Sebastien Poirier, Evan Polekoff
+Andy Porter, Lance Powell, Valentine Powell, Jordan Powers
+Genesis Prado, Rafal Praszczalek, Dan Priestly, Nicole Pruett
+Justin Prymowicz, Laura Puerto, James Pugh, Adam Puhl, Dana Pull
+Cameron Purchase, Kristian Puskas, Christopher Pyle, David Quick
+Alexandra Quinby, Ryan Quinn, Max Rahm, Paige Rahm, Matthew Ramos
+Bill Randolph, Kyle Rau, Stephen Raub, Matt Razzano, Crash Reed
+Dan Reed, Dave Reed, Kimberly Reed, Korey Regan, Jason Regier
+Nicholas Reid, Weston Reid, Jonathan Reinhold, Stephanie Relyea
+Steve Rentas, Ana Resendez, Will Reynard, Jacob Rhein
+John Paul Rhinemiller, Andrew Rhoads, Steven Rich, Bryan Richardson
+Tommy Rihn, Sean Riley, Cody Rinehart, Alex Ringe, Jared Ritter
+Nick Rivera, Ricardo Robaina, Morgan Roberts, Lyndon Robertson
+Chris Robinson, Leo Robles, Ed Rodrigues, David A. Rodriguez
+Jacob T. Rodriguez, Matt Rodriguez, Jeremy Rodriquez, Dion Rogers
+Evan Rogers, Denis Rogic, David Romig, Anna Rosenberg
+Caleb Rosenquist, Kyle Rothermel, Trevor Rothman, Elliot Roush
+Matthieu Roussotte, David Rovin, Kori Rowe, Jonathon Ruland
+Jordan Runyan, Anthony Ruscitto, James Russell, Matthew Ryan
+Chris Ryder, Song Ryoo, Grzegorz Sadzinski, Danny Saint-Hilaire
+John Salera, Matthew Salow, Marcos Salvatierra Gallardo
+Orlando Salvatore, Ryan Samia, Jairo Sanchez, Brandon Sanders
+Matt Sanders, Taylor Sanders, Camille Sanford, Alexander Sanoja
+Vik Saraf, Laura Sardinha Kidde, Vinay Sarpeshkar, Ken Sato
+Corey Scanlan, Drew Scanlon, Christian Scharling, John Scharmen
+Ragnar Scheuermann, Calia Schie, Otmar Schlunk, Adam Schmidt
+Gustav Schmidt, Hunter Schulz, Ryan Schwind, Dakota Scibilia
+David Scott, Jason Scott, Jacob Segal, Almir Sehic, Pedro Seminario
+Hyoung-Joong Seo, Alex Serio, Kurt Servito, Robert Sevilla
+Nate Shapiro, Leticia Shapp, Jason Shattuck, Jonathan Moon Shaw
+Josh Shelnutt, Joe Shely, Ray Shen, Christopher Shepherd
+Nickolas Shepperd, Matt Sherman, Scott Shicoff, Xander Shiells
+Steve Shimizu, ChaeHwan Shin, John Shin, Michael Shin, Matt Shipley
+Jeffrey Shyy, Igor Sidorenko, Luke Sigmund, Tami Sigmund
+Christopher Silva, Madilyn Simons, Arsh Singh, Milan Singh
+Charles Sites, Emily Siu, Florencia Skaalvik, Morten Skaalvik
+Michael Skacal, Johan Skoeld, Kai Skye, David Sladek, Justin Sloate
+Ben Slupik, Shaun Smiley, Michael Smith, Scott Smith, Taylor Smith
+Gabriel So, Meng Song, Mongsub Song, Chacko Sonny, Marcos Souza
+Jonathan Sova, Kurt Sparkuhl, Seth Spaulding, Erik Speeckaert
+Nolan Speed, Francesco Spezzotti, Trey Spisak, Eric Spitler
+Andrew St. Pierre, Scott Stadick, Scarlett Stadler
+Nicholas Stallings, Scott Stanfield, Derrick Staples
+Peter Stapleton, Kevin M. Starr, Craig Steele, Kim Acuff Steiner
+Ryan Steinmetz, Sebastian Stepien, Anne Stickney
+Genevieve St-Michel, Cory Stockton, Phil Stoltz, Clayton Stone
+Mike Stone, Daniel Story, David Stowater, Daniel Strum, Brandon Su
+John Su, Shawn Su, Caroline Sugianto, Steve Hyunsuk Suh
+Paul Sullivan, Tiba Sumabon, Kari Sutherland, James Sutton
+Geoffrey Sutyak, Mollie Swenson, Nate Swinney, Sofia Syjuco
+Norbert Szabo, Jennifer Szmurlo, Lianna Tai, Alexander Talbott
+Christopher Talbott, Crystal Tam, Daryl Tan, Kelvin Tan, Yili Tan
+Dan Tanguay, Francesco Tarallo, Nikita Taranduke, Matt R. Taylor
+Richard Taylor, Martin Teichmann, Mike Teixeira, Thomas Teixeira
+Adrian TerBorg, Phil Teschner, Thomas Teshima, Evan Tetreault
+Non Thareechit, Justin Thavirat, Nicole Thayer, Daniel Thomacos
+Kyle Thomas, Brian Thompson, Gavyn Thompson, Travis Thornton
+Jamie Toeg, Ancelmo Toledo, Rhett Torgoley, Tommy Tran
+Anthony Trejo, Julien Tremblay, Stephen Trinh, Yanni Tripolitis
+Anthony Trujillo, Scott Trujillo, Joe M. Truong, Arnold Tsang
+Perry Tsui, David Tu, Galina Tucker, Geoff Tucker, Sarah Tudor
+Neil Stephen Valdez, Gabriel Valdivia, Dan Valvo, Adam Van Dyke
+Adam Van Dyke, Allen Vandegrift, Michael VanOrden, Tim Vasconcellos
+Andrew Vassallo, Konstantin Vavilov, George Velev, David Venturini
+Fanny Vergne, Sarah Boulian Verrall, Michael Vicente, Kevin Vigue
+Flavio Villalva, Lewis Villamar, Matt Villers, Zach Vinless
+Geoff Virtue, Tre Vital, Ty Viveiros, Toby Vockrodt, Colin Volrath
+Rachel Vought, Tylor Voydat, Don Vu, Meng Vue, Christopher Wade
+Melissa Wakefield, Chad Waldschmidt, Steven Walker Jr., Clint Walls
+Carlin Walsh, JP Walton, Andrew D. Wang, Kejun Wang, Mingxian Wang
+Phil Wang, Qiwei Wang, Tina A. Wang, Bill Warnecke, Ashleigh Warner
+David P Warner, Paul Warzecha, Richard Washburn
+Jacquelyn Washington, Erin Wasik, Tiffany K. Wat, Johnny Waterman
+Paul Watkins, Antonio Watson, Tom Watson, Josh Weeks, Jaeson Welch
+Dan Wellman, Lucas Wells, Michael Weschler, Mike Westergaard
+Peter Whalen, Chad Wheeldon, Gavian Whishaw, Charlie White
+Sean C. White, Matthew Whited, R. Blaine Whittle, Austin Widmyer
+Eric Wiley, Jackie Wiley, Bruce Wilkie, Andrea Willcockson
+Darren Williams, David Williams, Frank Williams, Kenneth Williams
+Kieran Williams, Phillip Williams, Chris Wilson, Chris Wilson
+Kevin Wilson, Robert Wolpov, Michelle Wong, Stephen Wong, Sara Wons
+He-Rim Woo, Brett Wood, Kanon Wood, Timothy Woody, Matt Worcester
+Bayard Wu, Vance Wu, Jimmy Xu, Mike Yaklin, Frank Yan, Wesley Yanagi
+Elaine Yang, Jay Yang, Jessie Yang, John Yang, Landon Yang
+Eric Yasukochi, Christopher Yim, Thomas Yip, Justin Yong, Kea Yonni
+Gayeong Yoo, Howie Yoo, John Yoo, Seyil Yoon, Kevin Young
+Justin Youngsaye, Andrew Yount, Brian Yu, David Yu, Fiona Jiayue Yu
+Llia Yu, Erin Zaneski, Jason Zelechoski, Xifang Zhang, Kevin Zhao
+Ming Zi, Kris Zierhut, Steve Zingelewicz, Ethan Loren Zink
+Jason Zirpolo, Jared Zondler, Leo Zuniga, 阳 徐
+-autosplit:true
+
+
+*ACKNOWLEDGEMENTS
+
+*EXTERNAL ART
+Arsen Asyrankulov
+Brett Sinclair
+Bruno Camara
+Byungwhee Kim
+Cesar Zambelli Loiacono
+Daniel Thiger
+Dmitrii Prosov
+Eugene Lukashevich
+Gerald Brom
+Greg Danton
+Hossein Diba
+Jaco Herbst
+Jodie Muir
+José Péricles
+Kevin Demuynck
+Luke Starkie
+Maxim Verehin
+Michael Franchina
+Nekro
+Ran Manolov
+Rodion Vlasov
+Roman Chystakhovskyi
+Russell Bakewell
+Sergey Samuilov
+Viktor Titov
+
+-autosplit:false
+*Anomaly Studios
+Emily Li, Jia Lee, Owen Shen, Xiaogui Huang, Yan Wang, Zhu Xiao Mu
+
+*Black Lab Studio
+Hitansu Tripathy, Iaroslav Grygorash, Roman Chistahovskiy
+Viktor Grytsenko, Vladislav Costin
+
+*BOSi Art Studios
+Bo Sun, David Cohen, Hui Wang, Joe Santos, Peter Yu, Ping Li
+Pu Wang, Rong Zhang, Shuai Sun, Sunny Yang, Vincy Chan
+Yongsheng Liu, Zhanwei Zhang
+
+*Elite 3D
+Alex Martinez Vivo, André Anselmo, Bjorn Seinstra, Carmen Cornet
+Christian Justamante Jacobs, Cristian Gil, Danaos Christopoulos
+David Ferreira, Fernando Estrela, Fernando Fargueta, Hector Riera 
+Jaime Motos, Jose Luis Queral, Juan Ganivet Sanchez
+Luis Alfonso Antoranz Ros, Luis Navarro , Manuel Dorado García
+Oscar Ferrero, Ricardo Padierne, Ricardo Padierne Silvera
+Roelof Elsman Contreras, Samuel Gilbert, Sunray Muijsson
+
+*Funyard/上海枫月网络科技有限公司
+Chao-Peng/彭超, Chaoyi-Li/李超逸, Di-Li/李迪, Feng-Yu/于峰, Jing-Deng/邓晶
+Jinghui-Wang/王静慧 , Juncao-Xiang, Juncao-Xiang/向军操, Junjie-Chai/柴俊杰
+Junjie-Luo/罗俊杰, Lu-Li/李璐, Mengjiao-Yang/杨梦娇, Qianqian-Wang/王倩倩
+Qingguo-Meng/孟庆国, Qingyu Wang/王晴雨, Ronglin-Miao/苗溶鳞, Ruyue Chen/陈茹月
+Shuheng-Zhang/张书恒, Shuping-Tang/唐淑萍, Wangwang-Yuan/袁旺旺
+Weihao-Liu/刘伟昊, Xiaozhen-Wang/王小珍, Xingwei-Yang/ 杨兴威, Xudong-Xie/解旭东
+Yinian-He/何益年, Yi-Zhao/赵艺, Yugang-Pan/潘玉刚, Yugang-Pan/潘玉刚 
+Yulong-Zhang/张玉龙, Zebin-Cao/曹泽彬, Zhaojie-Zheng/郑兆杰, Zhenjie-Lin/林禛杰
+Zihan-Zhang/张子菡
+
+*Keystone Entertainment Co.,Ltd
+Baijun Guo, Bob Hu, Daisy Xu, Jack Chen, Jiangtao Hu, Jianjun Xiong
+Jianlong Li, Liangjin Zhang, Mengtian Wu, Sophie Li, Will Liu
+Xinrui Liu
+
+*Lakshya Digital Pvt Ltd.
+Abhas Kumar Garnaik, Abhinandan Ghosh, Anando Banerjee
+Angshuman Roy, Ankit Singh, Ankit Singhal , Arjun Agnihotri
+Aniket Dahiwadkar, Bhupender Dutt, Dayanand Patil
+Deepak Singh Rawat, Devender Rawat, Emerson Lavadia , Garima Chauhan
+Gaurav Khatri, Gaurav Kumar, Iniyan Bhaskar, Jas Dhiman, Jasvinder
+John Sameer Toppo, Kishore Kajave, Kuldeep Raghav
+Lokendra Shekhawat, Manish Bhandari, Manvendra Shukul, Mohit Goyal
+Mukund Vasishta, Navjot Kale, Nishigandh Apte, Prabhu Sugur
+Pradeep Kumar, Rahul Solanki, Rajeev Poddar, Rajiv Poddar, Rob Olson
+Robin Singh Gijwal, Rupesh Mishra , Sachin Sutar, Sharad Kamble
+Shreya Bhargava, Siddharth Rakshit, Smitil Chougule, Sneha Banerjee
+Soham Roy, Somya Sharma, Sonali Sharma, Souradip Nath
+Surendra Kumar Singh, Suyog Mahamuni, Sweety Choudhary
+Upinder Rooprai, Vandana V Sharma, Vanama Srinivas, Vikas Bakshi
+Yash Tak
+
+*Lemon Sky Studios
+Liew Kah Chun, Barret Lim, Aaron Lee, Andrew Halim, Brian Loh
+Bryan Tang, Nick Chah, Aris Chan, Cashew Chee, Chin Shi Xiang
+Robert Choon, Chris Vian, Jessica Gf, Fong Jia De, Hazirul Ifwat 
+Heng Kai Jie, Ho Kwang Ming, Htet Aung Hlaing, Ishak Moussa
+Leonard Teh, Liew Kah Mun, Lim Chee How, Lim Tze Fung, Michelle Low
+Mohd Hasnul Karami, Arief Danial Bin Norizam, Pang Yee Foong
+Chien Phung Le, Rohit Kapoor, Seow Chin Jen, Seow Mun Hoo
+Stefanus Stanley Sethio, Syazwan Harith, Tan Ai Chin, Tan Ho Kit
+Leon Tan, Tommy Hartono, William Chuarsa, Wong Chi Wen
+Wong Chin Yee, Woon Kok Keong, Yap Kah Chun, Kelvin Yap
+Cathy Zhou Ni, Zul Fayyadh Bin Yusof, Tay Guo Dong, Keith Chia
+Ken Wong, Mike Chan, Cheah Hao Jie, Raymond Chen, Chong Fei Kang
+Daniel Lucas Hodge, Eilene Cherie Witarsah, Esther Yong
+Henry Tanuwiharja, Ili Akmal Isa Binti Khalib, Hachi Chou, Gary Khoo
+Lim Chiak Lee, Jenny Lim, Mathew Huong, Mohammad Hafiz, Syed Iftah
+Flyan Tan, Tan Yu Chi, Rocky Wong, Kieren Yong, Chia Wee Jun
+Simon Sai, Hadi Wijaya, Joel Lee, Raymond Voo, Loo Soon Loong
+Cheng-Fei Wong, Ken Foong, Lee, Wing Wun, Kevin Lai, Eng Tzy Ling
+Edaline Audrey Spykerman, Tow Chun Yee, Aisyah K. Ambok, Alynn Lau
+Shawn Van, Johnny Pong
+
+*Liquid Development
+Benjamin Allen, Chuck Byas, Darren Bartlett, Elvina Antonova
+Gabe Selinger, Hannah Viera, Heather Dyer, Joe Saban, Josh Harvey
+Kate Morris, Maxim Miheenko, Nick Govacko, Nikita Yakushev
+Pavel Malakhov, Royal Sybrandt, Sergei Baranov
+
+*Little Red Zombies Studios Pvt. Ltd.
+Abhishek Pareek, Ambu Mani, Ankit Garg, Bikash Gorai, Binay Kumar
+Biswakalyan Sutar, Daniel Driver, Dhananjay Naidu, Himanshu Mehra
+Jatin Gulati, Manish Nautiyal, Manish Singh, Mansi Saxena
+Masuquddin Ahmed, Md Mazhar Hussain, Murli Sharma, Nabin Chettri
+Paras Jain, Randeep Singh, Saha Aloke, Sanchit Garg, Sanjay Nandy
+Siddhartha Das, Sri Ram Chandra, Srinivas Chimmani, Subratim Dhar
+Suraj Bhatti, Susheel Kumar, Tapan Rai, Tushar Dobriyal
+Nakshatra Solanki, Anil Negi, Hancy Sujay
+
+*Mindwalk Studios Ltd.
+Elfy Liu, Jiang Cheng, Li Chang, Wu Wenbo, Zheng Da
+
+*NXA Studios
+Gao Mengpiao, Jin Tao, Jolly Zheng, Li Shuowei, Lin Letian
+Liu Dalin, Liu Ruixiang, Lu Liangbin, Shi Pukai, Sun Jie, Wang Lihui
+Wang Shenghui, Wei Xiaohong, Xu Shuangyue, Yang Cheng, Yang Tingting
+Zhang Kaitao
+
+*Original Force, Ltd.
+Cao Haomiao, Carrie Ge, Cherry Zhang, Cong Ye, Deng Yi, Du Yumei
+Fan Zuhui, Geoffroy De Nanteuil, Gong Lei, He Jing, Jiang Wei
+Kong Xiujuan, Li Zhou, Liu Lingfeng, Liu Yu, Luo Qianqian, Peng Zhi
+Song Chao, Su Hong, Tian Kangkai, Wang Rui, Xie Yudie, Xiong Tao
+Xue Saiqi, Yan Zhuangling, Yang Chujiang, Yue Xinyu, Zheng Yujun
+Zhu Ziqi
+
+*Passion Republic
+Alan Freiszal Bin Nazreen, Albee Saw Wai Cheng, Cathy Kyo Voon Jet
+Chan Keen Fai, Choo Li-En, Daniel Wong Wei Zheng, Ezerina Tan Li Li
+Hasyimi Madzlan, Hong Wi Fan, Jack Lee Zhi Jie
+James Choo Jian Liang, Jane Yeoh Su Mei, Lu Yee Ann
+Mel Law Sheng Li, Mihu Ng Boon Wei, Ng Aik Sern, Ng Eu Juan
+Ng Keng Kheong, Nur Alia Asikin Binti Amat Yunos, Rohana Razak
+Simon Tie Sing Siong, Siti Balqis Binti Abdul Rahman, Tai Lu Yian
+Valna Goh Woan Tyng, Vicki Quek Huei Sze, Wong Wai Loon
+
+*Pixel Mafia
+Adrian Barcenas, Agnes Desiree Villas, Aileen A. Paladan
+Aimy Anne V. Calilung, Alfred Bryan M. Vidal, Allen Sampaga
+Anthony David Calderon, Archie Plata, Arjon Mendoza
+Bienvenido Santos, Bryan Daniele C. Alcarde, Carlo Lualhati
+Chris Noel Paladan, Clarence Avila, Coby Chan
+Edward Vincent Manubay, Errol B. Catimbang, Eunice Tamayo
+Francis Angelo P. Tan, Gerard Umali Laudiangco, Glenson Abao
+Ian Dar Dela Cruz, Jaime R. Quiaño Jr., Januarius Laygo, Jason Samoy
+Jeeyo Engada, Jeffrey Floresca, Jemie Farr C. Gonzales
+Jerome Irving Go, John Dary Barbosa, John Gabriel Santos
+John Roy Gabriel , Joram Jacob Cruz, Joshua Bermudez
+Karl Bernard Briones, Katrina Santos, Keith S. Dela Cruz
+Kenneth F. Camaro, Kevin Beato, Kim Quiachon, Korina Olegario
+Kristienne Micah De Los Angeles, Lorymay F. Quiroga, Marc Tamayao
+Maria Editha Enriquez, Mariuz Vincent Yap, Melody Arellano
+Mykel Taborda, Naztazzia Gagalac, Nelson Ragandap, Paul Dave Malla
+Philip Edward Reyes, Rafael Galang Gaveria, Ralphie Agenar
+Regoloso Lascoña Jr., Romeo Buelva Jr., Ron Carriaga
+Russ M. Galicia, Song Moralde, Stephanie Anne Bravo
+Tzaddi Kharisse Gomez, Vince Serrano, Vincent Joseph Nicole Aguila
+Walter De Torres, Wilson Pedro Jr., Zenar Frances M. Sayson
+
+*Red Hot CG
+Alex You, Anjar Pratama, Aswin Dharmadi, Dai Zhiqing, Danar Handoko
+Daniel Staton, Feng Guisen, Firman Imanudin, Han Dandan
+Henny Purwadi, Hong Jingyuan, Ilhami Mukti, Leo Ling
+Liu "Buddy" Minxuan, Liu Kang, Liu Lipeng, Lv Chuanjiang
+Marcellino Bertin, Priscilla Angelica, Rachman Maulana
+Rinita Hapsari, Septian Mintaraga, Tanvir M.N Islam, Tian Dong
+Ukee Zhang, Wang Na, Yang Xuemei, Yu Bingyao, Yu Yulong, Yuan Baihao
+Yue Biao , Zhang Lingzhe, Zhang Pei
+
+*Sperasoft
+Alex Dmitriev, Alexander Livencev, Alexey Dmitriev, Eduard Lamuge
+Ekaterina Kiseleva, Evgeny Eliseev, Evgeny Yukish, Sergey Matveenkov
+Tatiana Bulavina, Vladimir Nikityuk
+
+*Superseed Studios
+Allan Torres, Jason Shum, Riham Toulan, Vahid Naghdidorbati
+
+*The Studio of Secret 6, Inc.
+Alexander Signey, Alexis Lewington, Almira Jessica San Juan
+Bernadette Lirio, Carlos Gregor Calalec
+Darcy Louise Pangilinan-Belmonte, Jashmin A. Sabater, Jhoan Cabral
+Jochebed Villareal, John Raniel Ramos, Jory Aquino
+Jozette Anne Tuquib, Kenneth Muya, Kycelyn Varon, Marco Tana
+Marjorie Villarta, Mark Kaizan Caballes, Michelle Danielle Joy Gojo
+Nelson Ragandap, Ralph Quiambao, Richard John Kreuzz Arceo
+Robert Manzo, Ronald Schaffner, Ronnel Dela Cruz, Ronnel Panciles
+Ronnie Legaspi
+
+*Upsurge Studios
+Benjamin G. Roach, Cezar Brandao, Emmanuel Marshall, Glenn Cowley
+Kyle Chin, Will Higgins, Yongjae Choe, Fernando Quinn
+Jonathan Junior Chua, Soonho Song, Tejay Fraser-Chitticks
+
+*Volmi Games Ltd.
+Aleksandr Sharkov, Alina Obukhovska, Dmytro Panchenko 
+Helena Vinokur , Maxim Kikhtenko, Myroslav Baranenko, Nazar Kostiuk 
+Oleksandr Zaiets , Roman Misiak , Vadym Oliinyk , Valentyn Kikhtenko
+Volodymyr Loban
+
+*VOLTA Creation
+David Giraud, François Déry
+-autosplit:true
+
+*VOICE OVER RECORDING
+
+*Voice Over Recording - English
+
+*Dialogue Engineers & Recording
+L.A. Studios
+Liquid Violet
+Sound Lounge
+La Marque Rose
+Spring Media
+Masreya Media
+Grape Town
+Lola MX
+
+*Additional Voice Direction
+Andrea Romano
+JB Blanc
+
+*Editing
+David Guerrero
+
+*Voice Over Recording - Castilian Spanish
+DLM International
+
+*Voice Over Recording - Italian
+Synthesis (a Keywords Studio)
+
+*Voice Over Recording - French
+La Marque Rose (a Keywords Studio)
+
+*Voice Over Recording - German
+FFS - Film & Fernseh Synchron GmbH
+
+*Voice Over Recording - Korean
+Atomic Sound
+
+*Voice Over Recording - Latin American Spanish
+Caja de Ruidos
+
+*Voice Over Recording - Brazilian Portuguese
+Radioativa Produtora
+
+-autosplit:false
+*Voice Over Recording - Polish
+Start International Polska 
+Roboto Sound
+
+*Voice Over Recording - Russian
+Fonema Studio 
+Artistic Director: Irina Petrosyants 
+QLOC S.A. 
+Project Manager: Ekaterina Shuvalova
+
+*Voice Over Recording - Simplified Chinese
+Triones Penguin (Beijing) Cultural Communication Co., Ltd. 
+Spring Media Studio (Shanghai)
+
+*Voice Over Recording - Traditional Chinese
+擎天信使音樂製作有限公司
+
+*Voice Actors - English
+Aaron Phillips, Anjali Bhimani, Aysha Selim, Benz Antoine
+Boris Hiestand, Cara Theobold, Carolina Ravassa, Cathy Shim
+Charlet Chung, Cherise Boothe, Cherrelle Skeete, Chloe Hollings
+Chris Parson, Crispin Freeman, Darin De Paul, Dee Bradley Baker
+Dolya Gavanski, Edoardo Costa, Erica Lindbeck, Evelyn Duah
+Feodor Chin, Fred Tatasciore, Gaku Space, Genevieve O'Reilly
+Gulmira Mamdedova, Jen Cohn, Jennifer Hale, Jon Lipow, Jonny Cruz
+Josh Petersdorf, Juliane Buescher, Keith Ferguson, Keith Silverstein
+Kimberly D. Brooks, Lucie Pohl, Matilda Smedius, Matt Mercer
+Matthew Waterson, Michael Gough, Michael McConnohie, Paul Nakauchi
+Phillipe Maia, Ramon Tikaram, Sahr Ngaujah, Shane Yoon
+Siho Ellsmore, Stephane Cornicard, Tatiana Matre, Tom Bromhead
+Tony Chen, Travis Willingham, Zhang Yu
+
+*Voice Actors - Brazilian Portuguese
+Adna Cruz, Alfredo Martins, Ana Paula Schneider, Angelica Borges
+Bruno Sandregório, Carla Pompilho, Christiano Torreão
+Cláudio Galvan, Duda Espinoza, Eduardo Borgerth, Fernanda Baronne
+Fernando Washburger, Flávia Fontenelle, Francisco Bretas
+Gabi Torreão, Guilherme Briggs, Gutemberg Barros, Heitor Schmidt
+Jorge Lucas, Jorge Vasconcellos, Lauro Fabiano, Leonardo José
+Leticia Quinto, Luciana Baroli, Luis Franke, Luiz Carlos Persy
+Luiz Feier Motta, Mabel Cézar, Marcelo Garcia, Márcio Simões
+Marcos Verza, Mariangela Cantú, Mario Jorge Andrade
+Maurício Berguer, Orlando Viggiani, Raul Labancca, Rei Simões
+Reinaldo Pimenta, Ronaldo Julio, Sylvia Salustti, Tatá  Guarnieri
+Zodja Pereira
+
+*Voice Actors - Italian
+Aldo Stella, Alessandro D'Errico, Annalisa Longo, Antonio Paiola
+Caterina Rochira, Cesare Rasini, Chiara Francese, Claudio Moneta
+Cristina Giolitti, Dario Oppido, Debora Magnaghi, Domenico Strati
+Edoardo Lomazzi, Elisabetta Spinelli, Francesco Rizzi
+Gabriele Calindri, Gianluca Iacono, Giovanni Battezzato
+Ilaria Silvestri, Ivo De Palma, Luca Ghignone, Katia Sorrentino
+Maddalena Vadacca, Marcella Silvestri, Mario Scarabelli, Mario Zucca
+Martina Tamburello, Matteo Brusamonti, Matteo De Mojana
+Oliviero Corbetta, Paolo Sesana, Pino Pirovano, Riccardo Rovatti
+Silvio Pandolfi, Stefania De Peppe, Stefano Alessandroni
+Tiziana Martello, Vittorio Bestoso, Walter Rivett
+
+*Voice Actors - Japanese
+亜城めぐ、あべそういち、石川ひろあき、石黒史剛、石田嘉代、片浦寛子
+菊池通武、岸本百恵、西前忠久、佐々健太、篠田有香、関幸司、関輝雄
+田邉安彦、手塚ヒロミチ、鳥越まあや、中西正樹、ニケライ ファラナーゼ
+野澤英義、藤井啓輔、藤原満、松井暁波、松嶋潤、間宮康弘、御園行洋
+美幸キャスリーン
+
+*Voice Actors - Korean
+김명준, 김율, 김은아, 김정훈, 김지율, 김채하, 문남숙, 문유정, 박신희, 박영재
+서원석, 석승훈, 송준석, 신경선, 신범식, 안현서, 안효민, 윤용식, 이다은
+이명호, 이민규, 이보희, 이새아, 이재용, 이현, 임채헌, 장민혁, 정성훈, 정유정
+정훈석, 조현정, 진정일, 최낙윤 한복현, 홍범기, 황창영
+
+*Voice Actors - Latin American Spanish
+Angélica Vargas, Agostina Longo, Alberto Garcia Satur
+Alejandro Bono, Alvaro Pandelo, Andres Skoknik, Ariel Abadi
+Carlos Cecilio, Carlos Celestre, Circe Luna, Claudia Panone
+Claudio Munda, Daniel de Alzaga, Daniel Nuñez, Evelyn Botto
+Ezequiel Romero, Ezequiel Simón, Fernando Oural, Florencia Coianis
+Gabriela Olarieta, Gonzalo Moreno, Guido D'albo, Gustavo Barrientos
+Gustavo Dardes, Horacio Zapata, Humberto Zolorzano, Javier Carbone
+Jesse Conde, Jimena Vallejos, Jorge Riveros, José Pitaluga
+Juan Echave, Julia Cremonte, Karin Zavala, Laura Cassani
+Leto Dugatkin, Lucas Medina, Manuela Roca, Mara Campanelli
+Mariana Martí, Mario de Candia, Martin De Renzo, Martina Panno
+Matías Carossia, Natalia Rosminati, Paula Cueto, Pedro Ruiz
+Randolfo Barrionuevo, René Sagastume, René Sagastume, Ricardo Alanís
+Romana Sett, Sebastian Castro Saavedra, Sergio Lonardi
+Ulises Maynardo
+
+*Voice Actors - Polish
+Miriam Aleksandrowicz, Jan Aleksandrowicz-Kraśko, Witold Bieliński
+Jarosław Boberek, Maksymilian Bogumił, Jacek Bończyk, Jacek Czyż
+Ewa Decówna, Zuzanna Galia, Andrzej Gawroński
+Magdalena Herman-Urbańska, Hanna Kinder-Kiss, Zbigniew Konopka
+Beata Kowalska, Maciej Kowalski, Katarzyna Krakowska, Jacek Król
+Kamil Kula, Damian Kulec, Szymon Kuśmider, Jerzy Mazur
+Mikołaj Muller, Ryszard Nawrocki, Przemysław Nikiel
+Ryszard Olesiński, Elżbieta Pejko, Iza Perez, Jan Piechociński
+Lidia Sadowa, Ewa Serwa, Paweł Szczesny, Adam Świtlak
+Andrzej Tomecki, Brygida Turowska, Bartosz Wesołowski, Tomasz Włosok
+Beata Wyrąbkiewicz, Aleksander Wysocki, Wojciech Żołądkiewicz
+
+*Voice Actors - Russian
+Александр Воронов, Александр Носков, Александр Хорлин
+Александр Хотченков, Александра Аронс, Алексей Войтюк
+Андрей Ярославцев, Анна Киселева, Артем Штепура, Артур Иванов
+Борис Покровский, Борис Шувалов, Вадим Медведев, Валерий Сторожик
+Владимир Левашёв, Владимир Паляница, Владимир Рыбальченко
+Григорий Меликбекян, Дарья Шевчук, Евгений Бакалов, Евгений Рубцов
+Евгений Хазов, Евгения Лучникова, Елена Соловьёва
+Игорь Старосельцев, Илья Исаев, Каринэ Асланян, Леонид Белозорович
+Людмила Ильина, Мария Борисова, Михаил Сушков, Наталья Гребёнкина
+Наталья Фищук, Олег Зима, Олег Каменщиков, Ольга Кузнецова
+Руслан Джайбеков, Светлана Старикова, Станислав Стрелков
+Юлия Горохова, Юлия Шимолина, Ярослав Хорошков
+
+*Voice Actors - Traditional Chinese
+丘台名,丘梅君,何志威,佟紹宗,傅其慧,傅品晟,吳文民,吳東原,周寧,夏治世
+孫中台,孫誠,宋克軍,宋昱璁,崔幗夫,康殿宏,張乃文,張立昂,張雅婕,張騰
+徐偉翔,曹冀魯,李世揚,李宛鳳,李昀晴,李明幸,李景唐,李英立,李香生,杜素真
+林凱羚,林沛笒,林谷珍,梁興昌,楊少文,楊詩穎,歐祖豪,江志倫,王希華,王華怡
+田志傑,石采薇,穆宣名,符爽,胡鎮璽,葉三陽,蘇肇華,袁光麟,許雲雲,賈文安
+連思宇,邱佩轝,邱展文,邵志項,郭馨雅,鈕凱暘,錢欣郁,陳宗岳,陳幼文,陳彥鈞
+陳煌典,陳貞伃,陶敏嫻,雷碧文,馬伯強,馬國堯,馮友薇,馮嘉德,魏晶琦,黃天佑
+
+*Voice Actors - Simplified Chinese
+黄莺,张占坤,洪海天,苏俣,刘北辰,蒋丽,张琦,武向彤,图特哈蒙,倪康,叶知秋
+王秋明,周健,刘芊含,许棕哲,张欣,藤新,樊俊航,刘飞,傅晨阳,周玢,皇贞季
+老鬼,彭尧,林婧南,李元韬,马洋,涂小鸦,魏思芸,刘以嘉,杨茅杉,刘垚,常蓉珊
+孟祥龙,吴磊,乔诗语,赵铭,貴楠,郝祥海,苏鑫,乔治皓,唐雅菁,王伟,赵铭州
+
+*Localization Studio - Latin American Spanish
+RoundTable Studio 
+Language Leads: Delia Bonelli, Soledad Martín 
+Project Manager - Natalia Bermúdez 
+Production Engineering - María Laura Grossi
+
+*LOCALIZATION STUDIOS
+
+*Localization Studio – Castilian Spanish
+Keywords Studios Spain
+
+*Localization Studio - Brazilian Portuguese
+RoundTable Studio 
+Language Leads: Renata Falcão, Júlia Kampmann 
+Project Manager - Natalia Bermúdez 
+Production Engineering - María Laura Grossi
+
+*Localization Studio - Italian
+Synthesis - A Keywords Studio
+
+*Localization Studio - Japanese
+Lionbridge Technologies 
+Senior Director - Harry Inaba 
+Senior Language Lead - Masayuki Suzuki 
+Lead Project Manager - Hiroyuki Kamakami 
+Audio Project Manager - Yui Ikegawa
+
+*Localization Studio - Polish
+Albion sp. z o.o.
+Ryszard Chojnowski, Elżbieta Grzesiak-Niespodziewany, Mateusz Hasiński
+Jakub Kaczmarek, Maciej Kowalik, Olga Kubis, Jakub Rezmer, Maksymilian Rezmer
+Marcin Serkies, Stanisław Żyrek
+
+*Localization Studio - Russian
+Logrus IT
+
+*Localization Studio – German
+Altagram GmbH
+
+*Localization Studio – French
+Altagram GmbH
+
+*LICENSED SOFTWARE
+
+*ENTT
+Code and documentation Copyright (c) 2017-2021 Michele Caini.
+
+*FMOD
+FMOD EX Sound System provided by Firelight Technologies.
+All rights reserved.
+
+*FreeType
+Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, 
+and Werner Lemberg
+
+*half
+Copyright (c) 2012-2021 Christian Rau
+
+*OpenEXR
+Copyright (c) 2006-2019 OpenEXR a Series of LF Projects, LLC.
+All rights reserved.
+
+*Popcorn FX
+PERSISTANT STUDIOS SARL – POPCORNFX, 9 TER rue Auguste Barbier, 
+75011 PARIS, France
+Hereinafter referred to as “PERSISTANT STUDIOS”
+1. Definitions
+« the LICENSEE »: any moral or physical person who acquires any 
+product edited by PERSISTANT STUDIOS.
+« Documentation »: means user documentation and/or specifications
+relating to the Software.
+« Intellectual Property Rights »: means copyright, registered and
+unregistered designs, database rights, registered and unregistered
+trademarks and trading names, patent rights, know-how, performance
+rights, goodwill and applications for any of the same and other rights
+of a similar nature enforceable anywhere in the world.
+« the Software »: any version of PopcornFX, editor, SDK or plugin.
+2. Scope
+We consider that any buying act on the PopcornFX store is a virtual 
+agreement (“Agreement”), in which PERSISTANT STUDIOS grants THE
+LICENSEE and THE LICENSEE accepts a nonexclusive, non-transferable and
+royalty-free right to use the Software within the limitation given by
+the chosen license type (personal or studio license), according to the
+terms and conditions specified below.
+3. Right of use
+THE LICENSEE will not duplicate, alter, modify or adapt the Software, 
+or sublicense, sell, lease, rent or otherwise disclose it to any third
+party.
+THE LICENSEE shall not, nor permit others to, decompile, reverse 
+engineer or disassemble the Software. By exception, THE LICENSEE may
+decompile the Software only to the extent permitted by Law when it is
+indispensable to obtain the information necessary to achieve the
+interoperability with another program. THE LICENSEE will not correct
+or make a third party correct any error contained in the Software
+without PERSISTANT STUDIOS’s prior and written consent.THE LICENSEE
+will inform PERSISTANT STUDIOS (by any written media) of any use of
+the Software for public demonstration.
+4. Intellectual Property
+The Software is licensed, not sold. PERSISTANT STUDIOS retains
+ownership of the Software including all intellectual property rights
+therein. The Software is protected by copyright laws and international
+treaties. The copyright and all other Intellectual Property Rights of
+the Software are and remain the property of PERSISTANT STUDIOS. THE
+LICENSEE shall not acquire any title, copyright or other proprietary
+rights in the Software or any copy other than specified in this
+agreement. THE LICENSEE undertakes to keep the copyright notice on the
+code of the Software and in the Documentation.
+5. Warranty
+The Software is licensed to THE LICENSEE on an “as is” basis. THE 
+LICENSEE acknowledges that PERSISTANT STUDIOS does not represent or 
+warrant that the Software will perform in every operating environment,
+will have uninterrupted or error free operation or that any error will
+be corrected or correctable. Notwithstanding the above, PERSISTANT 
+STUDIOS warrants that the Software and the Documentation shall not 
+infringe the Intellectual Property Rights or other rights of a third 
+party, that PERSISTANT STUDIOS and the Software comply with all 
+applicable laws and regulations, and that the Software shall not 
+contain any computer viruses, back doors, or harmful or malicious 
+code.
+6. Liability
+Under no circumstance will either Party be liable for any
+consequential, indirect or incidental damages or loss of profits,
+whether foreseeable or unforeseeable, based on claims of the other 
+Party (including, but not limited to, claims for loss of data,
+goodwill, use of money, interruption in use or availability of data).
+7. Maintenance
+PERSISTANT STUDIOS may provide THE LICENSEE with professional and
+technical services on an “as needed”, mutually agreed basis.
+
+*rapidJson
+Copyright © 2015 THL A29 Limited, a Tencent company, Milo Yip, The 
+Msinttypes R29, Copyright © 2006-2013, Alexander Chemeris, 
+All rights reserved
+
+*TSLF
+Copyright © 2007 Free Software Foundation, Inc.
+-autosplit:true
+
+*SPECIAL THANKS
+J. Allen Brack
+Daniel Alegre
+Bob & Jan Davidson
+Brian Kelly
+Bobby Kotick

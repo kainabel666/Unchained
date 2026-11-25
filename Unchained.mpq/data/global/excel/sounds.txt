@@ -4650,7 +4650,7 @@ monster_radament_taunt_1	4647	monster_radament_taunt_hd1	vo/eax/boss-dialog_sd	a
 monster_radament_taunt_2	4648		vo/eax/boss-dialog_sd	act2\monster\radamenttaunt2.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_smith_taunt_1	4649	monster_smith_taunt_1_hd	vo/eax/boss-dialog_sd	act1\monster\smithtaunt2.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_smith_taunt_2	4650	monster_smith_taunt_2_hd	vo/eax/boss-dialog_sd	act1\monster\smithtaunt5.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_summoner_taunt_1	4651	monster_summoner_taunt_hd1	vo/eax/boss-dialog_sd	act2\monster\summonertaunt1.flac	1	0	0	0	0	255	255	100	100	2	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_summoner_taunt_1	4651	monster_summoner_taunt_hd1	vo/eax/boss-dialog_sd	act2\monster\summonertaunt1.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_summoner_taunt_2	4652		vo/eax/boss-dialog_sd	act2\monster\summonertaunt2.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_nihlathak_taunt_1	4653	monster_nihlathak_taunt_hd1	vo/eax/boss-dialog_sd	act5\nihlathak\nih_act5_q4_taunt1.flac	1	0	0	0	0	255	255	100	100	4	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_nihlathak_taunt_2	4654		vo/eax/boss-dialog_sd	act5\nihlathak\nih_act5_q4_taunt2.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
@@ -10252,7 +10252,7 @@ monster_nihlathak_taunt_hd3	10249		vo/eax/boss-dialog_human_hd	act5\nihlathak\ni
 monster_nihlathak_taunt_hd4	10250		vo/eax/boss-dialog_human_hd	act5\nihlathak\nih_act5_q4_taunt4.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_radament_taunt_hd1	10251		vo/eax/boss-dialog_hd	act2\monster\radamenttaunt1.flac	1	0	0	0	0	255	255	100	100	2	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_radament_taunt_hd2	10252		vo/eax/boss-dialog_hd	act2\monster\radamenttaunt2.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_summoner_taunt_hd1	10253		vo/eax/boss-dialog_hd	act2\monster\summonertaunt1.flac	1	0	0	0	0	255	255	100	100	2	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_summoner_taunt_hd1	10253		vo/eax/boss-dialog_hd	act2\monster\summonertaunt1.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_summoner_taunt_hd2	10254		vo/eax/boss-dialog_hd	act2\monster\summonertaunt2.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
 natalya_greeting_hd1	10255		vo/eax/dialog_hd	act3\natalya\nat_hello.flac	1	0	0	0	0	210	210	100	100	2	0	0	0	0	1	0	0	0	4	0	0	255	1	0	1	0	0	-1	-1	-1	0	0	
 natalya_greeting_hd2	10256		vo/eax/dialog_hd	act3\natalya\nat_greetings.flac	1	0	0	0	0	210	210	100	100	0	0	0	0	0	1	0	0	0	4	0	0	255	1	0	1	0	0	-1	-1	-1	0	0	

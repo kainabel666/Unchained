@@ -57,7 +57,7 @@
                   "x": 0.5,
                   "y": 0.5
                 },
-                "text": "@ReportPanelTitle",
+                "text": "@d2r:ReportPanelTitle",
                 "style": {
                   "pointSize": "$LargeFontSize",
                   "alignment": {
@@ -100,7 +100,7 @@
               "width": 780,
               "height": 70
             },
-            "text": "@ReportType",
+            "text": "@d2r:ReportType",
             "style": {
               "fontColor": "$FontColorGold",
               "pointSize": "$MediumLargeFontSize",
@@ -243,7 +243,7 @@
               "fontFace": "BlizzardGlobal",
               "fontColor": "$FontColorLightGray"
             },
-            "hint/text": "@ReportPanelDescriptionHint",
+            "hint/text": "@d2r:ReportPanelDescriptionHint",
             "navigation": {
               "previous": {
                 "name": "ReportType"
@@ -263,7 +263,7 @@
               "y": 818
             },
             "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonSmall",
-            "textString": "@Submit",
+            "textString": "@d2r:Submit",
             "textColor": "$LightButtonTextColor",
             "text/style": "$StyleFEButtonText",
             "onClickMessage": "BugReportMessage:SendReport",
@@ -289,7 +289,7 @@
               "y": 818
             },
             "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonSmall",
-            "textString": "@cancel",
+            "textString": "@d2r:cancel",
             "textColor": "$LightButtonTextColor",
             "text/style": "$StyleFEButtonText",
             "onClickMessage": "PanelManager:ClosePanel:BugPanel",

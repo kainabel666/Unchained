@@ -30,7 +30,7 @@
 				"inactiveFrames": [ 0, 0, 0, 0, 0 ],
 				"activeFrames": [ 1, 1, 1, 1, 1 ],
 				"disabledFrames": [-1, 0, 0, 0, 0 ],
-				"textStrings": [ "@personal", "@shared", "@gems", "@materials", "@runes" ],
+				"textStrings": [ "@d2r:personal", "@d2r:shared", "@d2r:gems", "@d2r:materials", "@d2r:runes" ],
                 "textStyle": { "pointSize": "$MediumFontSize" },                
                 "activeTextColor": "$TabsActiveTextColor",
                 "inactiveTextColor": "$TabsInactiveTextColor",
@@ -62,7 +62,7 @@
                         "toggledPressedFrame": 5,
                         "toggledHoveredFrame": 6,
                         "onClickMessage": "BankPanelMessage:TogglePreviousSeasonTabs",
-                        "tooltipString": "@SharedStashPreviousSeasonToggleTooltip"
+                        "tooltipString": "@d2r:SharedStashPreviousSeasonToggleTooltip"
                     }
                 }
             ]
@@ -98,7 +98,7 @@
                             "up": { "name": "grid" }
                         },
                         "buttonLegendAction": "select",
-                        "buttonLegendString": "@strGoldWithdraw"
+                        "buttonLegendString": "@d2r:strGoldWithdraw"
                     }
                 },
                 {
@@ -147,7 +147,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "CurrentSharedStashText",
                                     "fields": {
-                                        "text": "@SharedStashPage",
+                                        "text": "@d2r:SharedStashPage",
                                         "rect": {  "x": 91, "y": 13, "width": 326, "height": 64 },
                                         "style": {
                                             "fontColor": "$PanelTitleColor",
@@ -861,7 +861,7 @@
 					"fields": {
 						"rect": { "x": 520, "y": 1239 },
 						"filename": "PANEL\\Horadric_Cube\\TransmuteButton",
-						"tooltipString": "@strUiMenu2",
+						"tooltipString": "@d2r:strUiMenu2",
 						"hoveredFrame": 2,
 						"onClickMessage": "BankPanelMessage:Convert"
 					}
@@ -878,10 +878,10 @@
                     "fields": {
                         "rect": { "x": 398, "y": 1381 },
                         "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonSmall",
-                        "textString": "@AdvancedStashWithdraw",
+                        "textString": "@d2r:AdvancedStashWithdraw",
                         "pointSize": "$MediumFontSize",
                         "textColor": "$LightButtonTextColor",
-                        "tooltipString": "@AdvancedStashWithdrawTooltip",
+                        "tooltipString": "@d2r:AdvancedStashWithdrawTooltip",
                         "onClickMessage": "BankPanelMessage:WithdrawStash"
                     }
                 }

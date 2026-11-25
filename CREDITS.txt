@@ -1,0 +1,61 @@
+D2R Unchained - Credits
+=======================
+
+Unchained is made by Kain_abel_666.
+
+Unchained runs on D2RLoader by Dimentio and ChuChu, and uses plugins and patches made by other modders.
+Their work is credited below. Licence texts are in the licenses folder.
+
+
+D2RLoader
+---------
+D2RLoader and its Plugin SDK - created by Dimentio and ChuChu (D2RLoader contributors).
+  The Plugin SDK is MIT licensed (licenses/D2RLoader-PluginSDK.txt). Unchained's own
+  plugins are built with it.
+
+
+Plugins by other authors
+------------------------
+Remote Stash - RuffnecKk (RuffnecKk D2RLoader Suite)
+  MIT License (licenses/RuffnecKk-D2RLoader-Suite.txt)
+
+Ethereal Item Rules - RuffnecKk (RuffnecKk D2RLoader Suite)
+  MIT License (licenses/RuffnecKk-D2RLoader-Suite.txt)
+
+Controller QOL Updates - PyreFly
+  https://github.com/Pyre-Flies/D2R-Mods/tree/main/plugins/controller-qol
+  Used with PyreFly's written permission (Discord, 2026-11-24).
+
+Monster Display - yinyin333333
+  yinyin333333 posted this plugin publicly without a licence. It is used with
+  credit; if the author wants it removed, contact Kain_abel_666.
+
+
+Patches
+-------
+Enemy Resistance Reduction Affects Immunes, Infinite Item Quantity and Tomes,
+Disable Run Defense and Block Penalties, Thorns and Burn Kill Credit
+  - RuffnecKk (RuffnecKk D2RLoader Suite), MIT License (licenses/RuffnecKk-D2RLoader-Suite.txt)
+
+
+D2UC QoL (Unchained plugin)
+---------------------------
+Collected and reworked by Kain_abel_666. Originally designed by:
+  RuffnecKk - RuffnecKk D2RLoader Suite, including his Enhanced Damage Min/Max Fix.
+              MIT License (licenses/RuffnecKk-D2RLoader-Suite.txt)
+  yinyin333333 - D2RL yin Junk Room. Features were rebuilt from how yinyin333333's plugins
+              behave; yinyin333333's item background sprites are used with credit. The work
+              was posted publicly without a licence; if yinyin333333 wants the sprites removed, contact
+              Kain_abel_666 and they will be replaced.
+  CelestialRayOne - d2rloader plugins.
+              MIT License (licenses/CelestialRayOne-d2rloader-plugins.txt)
+  Each feature's original author is named next to it in d2rloader/config/d2uc-qol.toml.
+
+
+Unchained plugins
+-----------------
+D2UC QoL, The Smith's Shop (smithing), Monster AI Extensions and Stat List Fix
+  - Kain_abel_666 and the d2rl-plugins workspace, built with the D2RLoader Plugin SDK.
+
+
+Thank you to everyone above for sharing your work with the Diablo II modding community.

@@ -149,3 +149,4 @@ colbarbfrenzy		weapon_1hs_large_1		5		255		weapon_1hs_large_1		5		255	baby_barba
 colossal1		weapon_1hs_large_1		5		255		weapon_1hs_large_1		5		255	UA_barbarian1_gethit_hd_1	UA_Barbarian_death_hd_1	2	0					medium_walk_dirt_1		2	0	100															0
 colossal2		weapon_1hs_large_1		5		255		weapon_1hs_large_1		5		255	UA_barbarian2_gethit_hd_1	UA_Barbarian_death_hd_2	2	0					medium_walk_dirt_1		2	0	100															0
 colossal3		weapon_1hs_large_1		5		255		weapon_1hs_large_1		5		255	UA_barbarian3_gethit_hd_1	UA_Barbarian_death_hd_3	2	0					medium_walk_dirt_1		2	0	100															0
+horazon													summoner_hit_1	summoner_death	2	1					medium_walk_dirt_1		2	0	100				monster_summoner_taunt_2											0

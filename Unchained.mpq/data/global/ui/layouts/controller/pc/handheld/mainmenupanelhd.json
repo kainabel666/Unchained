@@ -107,7 +107,7 @@
                             "spacing": "$ReducedSpacing",
                             "fontColor" : "$CharacterListDetailsColor"
                         },
-                        "text": "@GameJoinDoesNotMeetRequirements"
+                        "text": "@d2r:GameJoinDoesNotMeetRequirements"
                     }
                 },
                 {
@@ -197,7 +197,7 @@
                             "spacing": "$ReducedSpacing",
                             "fontColor" : "$CharacterListDetailsColor"
                         },
-                        "text": "@GameJoinOnlineCharacter"
+                        "text": "@d2r:GameJoinOnlineCharacter"
                     }
                 },
             ]

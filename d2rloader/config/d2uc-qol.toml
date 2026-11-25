@@ -1,0 +1,437 @@
+# D2UC QoL by Kain_abel_666. Originally designed by RuffnecKk, yinyin333333 and CelestialRayOne;
+# their features are collected and reworked here. Full credits at the bottom of this file.
+
+# D2UC QoL settings.
+# D2RLoader writes this file to d2rloader/config/d2uc-qol.toml the first time the
+# game starts with the plugin. Everything is off until you switch it on here.
+# Restart the game after changing anything. Type d2uc-qol in the console to see
+# what is on.
+#
+# The file has two parts:
+#   PLAYER OPTIONS      plain switches. Turn them on and they work, no data needed.
+#   MOD AUTHOR OPTIONS  only useful together with your mod's txt rows, stat ids
+#                       or plugin tables. Leave them off if you just play.
+
+# =============================================================================
+#  PLAYER OPTIONS
+# =============================================================================
+
+[patches]
+# Ranged hirelings follow closer (16 -> 8, catch-up 24 -> 16), act more often
+# (95 -> 98) and retreat more (50% -> 80%, distance 4 -> 6). (RuffnecKk)
+hireling_ai_tuning = true
+# Dying costs no gold. (RuffnecKk)
+no_gold_loss_on_death = true
+# A terrorized area keeps its own music. (RuffnecKk)
+terror_zone_keeps_music = true
+# Shadow Master minions keep their own targets. (RuffnecKk)
+shadow_master_ai_fix = true
+# No corpse on death: your items stay equipped when you come back. Gold loss
+# is unchanged. (yinyin333333)
+auto_collect_corpse = true
+# The delete-character confirmation has no 5 second wait. (yinyin333333)
+instant_character_delete = true
+# A shapeshift (werewolf, werebear) stays on when you change act. (yinyin333333)
+preserve_transform_between_acts = true
+# An aura can be put on the left skill slot too; only one aura is active at a
+# time. (yinyin333333)
+aura_in_either_slot = true
+# On Normal, monsters use the area level from levels.txt like on Nightmare and
+# Hell. (yinyin333333)
+monsters_use_area_level_normal = true
+
+[gold]
+# Raises how much gold a character can hold. (sites after CelestialRayOne)
+# WARNING: when a character is loaded with more gold than its limit, the game
+# sets that gold to 0. Never turn this off, lower the values or remove the
+# plugin while a character holds more than the old limit.
+enabled = true
+# Carried gold limit = character level x gold_per_level. Vanilla 10000.
+# 1 to 264208 (the save keeps at most 33,554,431 gold).
+gold_per_level = 100000
+# Personal stash limit and the limit of each shared stash tab. Vanilla 2500000.
+# 1 to 33554431.
+stash_gold = 9500000
+
+[gambling]
+# The gamble window shows 32 items instead of 14. (RuffnecKk)
+gamble_screen_32 = true
+# No forced ring and amulet in the first two gamble slots; the window shows
+# only what gamble.txt picks.
+strict_gambletxt_window = true
+# The vendor "reduced prices" stat does not lower gamble prices.
+ignore_vendor_reduction = true
+
+[gold_pickup]
+# Automatic gold pickup range, plus picking gold up while standing or casting.
+# Turn on the game's Auto Gold Pickup option too. (yinyin333333)
+enabled = true
+# "fixed" = one range; "stat" = the range follows a character stat.
+mode = "stat"
+# Range in percent: 8 = the game's own range, 100 = 50 tiles. Standing still,
+# the server only accepts gold up to about 44 (22 tiles) in every direction.
+range_percent = 44
+# Pick up gold while standing still or casting, without walking to it.
+stationary_pickup = true
+# Gold is still picked up while the game's /nopickup is on, without holding
+# Show Items (Alt). Other items stay as /nopickup leaves them.
+ignore_nopickup = true
+# Standing still: wait after gold lands (game: 1000 ms while walking).
+stationary_just_dropped_delay_ms = 150
+# Standing still: wait for gold already on the ground (game: 40 ms).
+stationary_default_delay_ms = 50
+# Wait before asking again for the same pile.
+direct_pickup_retry_cooldown_ms = 150
+# mode = "stat": the stat value maps linearly to the range (clamped).
+# itemstatcost.txt row id (79 = item_goldbonus, Extra Gold).
+stat_id = 369
+stat_layer = 0
+# 8 for 8.8 fixed-point stats, 0 for normal stats.
+stat_shift = 0
+stat_value_min = 0
+stat_value_max = 4
+range_percent_min = 10
+range_percent_max = 50
+update_interval_ms = 100
+
+[identify]
+# Identify items when a player picks them up (never when they drop).
+enabled = true
+# Qualities to identify: inferior, normal, superior, magic, set, rare, unique,
+# crafted, tempered (or the numbers 1-9).
+qualities = ["magic", "rare", "crafted"]
+# Hiding item names moved to d2uc-items ([item_names] in d2uc-items.toml).
+
+[potion_pickup]
+# Picks up potions you walk past and puts them in chosen belt columns.
+# (RuffnecKk)
+enabled = true
+# How close a potion must be (1-4). Stock gold auto-pickup uses 4.
+pickup_range = 4
+# Which kind wins when several potions are in reach.
+pickup_family_order = ["rejuvenation", "health", "mana"]
+
+[potion_pickup.health_potions]
+enabled = true
+# Codes to pick up (hp1-hp5), most wanted first.
+potion_codes = ["hp5", "hp4", "hp3", "hp2"]
+# Belt columns to use, 1 (left) to 4 (right), first choice first.
+belt_columns = [1, 2]
+# Codes that may go to the inventory when those columns are full
+# (must also be in potion_codes).
+inventory_fallback_potion_codes = ["hp5"]
+
+[potion_pickup.mana_potions]
+enabled = true
+# mp1-mp5
+potion_codes = ["mp5", "mp4", "mp3"]
+belt_columns = [3]
+inventory_fallback_potion_codes = ["mp5"]
+
+[potion_pickup.rejuvenation_potions]
+enabled = true
+# rvs = Rejuvenation, rvl = Full Rejuvenation
+potion_codes = ["rvl", "rvs"]
+belt_columns = [4]
+inventory_fallback_potion_codes = ["rvl", "rvs"]
+
+[potion_pickup.advanced]
+# Look for potions once every N moves/skill uses (1-25). 1 = most responsive.
+scan_every_player_actions = 1
+
+[potion_pickup.diagnostics]
+# Log which potion was picked and where it went (rate limited).
+enabled = false
+# Also log scans that found nothing (needs enabled = true above).
+log_scans = false
+
+[merc_town]
+# Mercenaries in town can't die to damage that keeps ticking (poison and
+# similar). (RuffnecKk)
+enabled = true
+# Protect the stock mercenaries (Rogue, Desert Mercenary, Iron Wolf, Barbarian).
+stock_classes = true
+# More monstats.txt row ids to protect: custom hirelings, e.g. [758].
+extra_classes = []
+# Log the first 8 deaths it prevented.
+diagnostics = false
+
+[tooltip_color]
+# A colour code inside one item stat's text only colours that stat, instead of
+# recolouring every stat line above it. (CelestialRayOne)
+enabled = true
+
+[quality_backgrounds]
+# Coloured background behind items in the inventory, stash, cube, shops, trade
+# and equipped slots, by item quality and size. HD graphics only. Colours, sizes
+# and opacity are in d2rl-d2uc-qol.mpq\quality-backgrounds.json. (yinyin333333)
+enabled = true
+
+[chronicle_flag]
+# Adds "Not registered in Chronicle" under unidentified set/unique items on the
+# ground that your Chronicle does not have yet. (yinyin333333)
+enabled = true
+# Show it on the Alt item labels.
+ground_labels = true
+# Show it on the label of the item under the cursor.
+hover_label = true
+
+[merc_drop]
+# When you hire a new mercenary, the old one's equipment drops on the ground
+# next to you instead of being lost. (yinyin333333)
+enabled = true
+
+[cube_quick_move]
+# Items moved into the Horadric Cube (Ctrl+click, picked up into the cube,
+# transmute results) are placed from the bottom-right corner instead of the
+# top-left. Items 1 cell tall already work like that in the game. (RuffnecKk)
+enabled = true
+# Log the first 8 moved items (call site, size, cell) to d2rloader.log.
+diagnostics = false
+
+[floating_damage]
+# Floating combat numbers over monsters you damage, plus a rolling DPS counter.
+# Single player and TCP/IP host only. (RuffnecKk)
+enabled = true
+# Safety limit for numbers on screen (1-4096).
+max_numbers_on_screen = 160
+# false: normal/critical colours for every hit. true: physical/fire/lightning/
+# cold/poison/magic colours.
+color_by_damage_type = true
+
+[floating_damage.appearance]
+# Sizes are for a 2160p screen and scale with screen height (1-512).
+text_size = 38.0
+critical_hit_size = 48.0
+# Outline width, 0 = none (0-16).
+text_outline_width = 1
+# Extra shadow offset; 0 and 0 = no shadow (-512 to 512).
+shadow_left_right_offset = 0.0
+shadow_up_down_offset = 0.0
+
+[floating_damage.animation]
+# How long a number stays, in seconds (0.01-60).
+display_time_seconds = 0.85
+critical_display_time_seconds = 0.95
+# Part of the lifetime after which the number fades (0.0-1.0).
+fade_out_start = 0.75
+# Pop-in: start size, overshoot size (1.0 = full size) and times (0-10 s).
+spawn_size = 0.01
+pop_bounce_size = 1.75
+pop_in_time_seconds = 0.08
+settle_time_seconds = 0.12
+# Movement in screen pixels (per second for the drift).
+upward_drift_speed = 45.0
+sideways_spread = 0.0
+spawn_height_offset = 0.0
+
+[floating_damage.combining]
+# Fast normal hits on the same monster add up into one running total.
+enable_hit_combining = true
+# Hits above this size are never combined.
+max_combined_hit_size = 999999
+# Hits within this many milliseconds are combined (0-60000).
+combine_window_ms = 500
+# Each added hit keeps the total longer and pulses it.
+extend_display_on_hit_seconds = 0.52
+hit_pulse_size = 1.24
+hit_pulse_time_seconds = 0.13
+# Small "+N" numbers for each added hit.
+show_tick_popups = true
+tick_popup_time_seconds = 0.70
+tick_popup_size = 0.60
+tick_popup_travel = 64.0
+tick_popup_height_offset = -28.0
+
+[floating_damage.layout]
+# Spreads numbers on the same monster over columns so they overlap less.
+spread_numbers_horizontally = true
+# Columns 1-64 (at most 9 are used).
+number_of_columns = 7
+column_spacing = 40.0
+stack_height_step = 24.0
+column_reuse_time_seconds = 0.60
+max_stack_height = 96.0
+
+[floating_damage.dps]
+# Damage per second over the last few seconds, only while in a game.
+show_dps_counter = true
+# Position in percent of the screen: 0 = left/top, 100 = right/bottom.
+horizontal_position_percent = 2.0
+vertical_position_percent = 98.0
+# Time span for the DPS average, in seconds (at most 60 is used).
+dps_sample_time_seconds = 5.0
+
+[floating_damage.colors]
+# [red, green, blue, opacity], each 0.0-1.0.
+normal = [0.92, 0.92, 0.88, 1.0]
+critical = [1.0, 0.84, 0.27, 1.0]
+physical = [0.92, 0.92, 0.88, 1.0]
+fire = [1.0, 0.45, 0.12, 1.0]
+lightning = [1.0, 0.95, 0.35, 1.0]
+cold = [0.45, 0.78, 1.0, 1.0]
+poison = [0.35, 0.90, 0.30, 1.0]
+magic = [0.72, 0.45, 1.0, 1.0]
+outline = [0.16, 0.11, 0.03, 1.0]
+shadow = [0.16, 0.11, 0.02, 1.0]
+
+[vendor_refresh]
+# A refresh button at normal vendors rerolls their stock without closing the
+# shop. Gambling is unchanged. Host and client need it. (RuffnecKk)
+enabled = true
+# Log up to 12 placement/refresh lines.
+diagnostics = false
+
+[bulk_points]
+# Ctrl + click a skill: invest several points. Shift + click: all points
+# (game behaviour). (RuffnecKk)
+enabled = true
+# Points per Ctrl + click (1-1000).
+skill_points_per_ctrl_click = 5
+# Ask before Shift + click spends all points.
+confirm_shift_allocation = true
+# Log each allocation / refund.
+diagnostics = false
+
+[bulk_points.refund]
+# Take points back out of a skill on the skill tree (the host needs the plugin).
+enabled = true
+# Mouse chords: RightClick, MiddleClick, Mouse4, Mouse5, with optional Ctrl+,
+# Shift+ or Alt+ in front.
+single_removal = "RightClick"
+batch_removal = "Ctrl+RightClick"
+all_removal = "Shift+RightClick"
+# Points removed by batch_removal (1-1000).
+batch_points = 5
+
+[enhanced_damage]
+# Enhanced Damage on an item that is not a weapon (armor, jewels, charms ...)
+# keeps working when the same item also has + minimum or + maximum damage.
+# Weapons are unchanged. (RuffnecKk)
+enabled = true
+# Log the first 8 corrections.
+diagnostics = false
+
+# =============================================================================
+#  MOD AUTHOR OPTIONS (need data in your mod)
+# =============================================================================
+
+[skill_bonus]
+# Players only. Host and client need the same values.
+# A skill of your own class with 0 hard points gets no levels from items or
+# other bonuses (+all skills, +class skills, +tab skills, "+N to <skill>",
+# oskills, shrines): it stays unusable and out of the skill menus. Items
+# flagged as starter items (the ones that sell for 1 gold) are the exception:
+# when one of them is equipped and gives that skill, the skill works as usual.
+# Oskills of other classes are not changed.
+needs_hard_point = true
+# Oskills for your own class add their full value instead of at most +3.
+uncap_own_class_oskill = true
+
+[mod_patches]
+# HD graphics for items whose code has four characters. Needs such items in
+# weapons/armor/misc.txt and their items.json entries. (RuffnecKk)
+four_character_item_codes = true
+
+[mod_gambling]
+# Constant gamble price per base from the plugin table
+# data/global/excel/d2rloader/d2uc-qol/gamble.txt (columns code, gamble, price;
+# normal-tier code, price 0 = game formula).
+use_constant_price = true
+# Price every base by its own "gamble cost" column (weapons/armor/misc.txt,
+# normal-tier row), the way rings and amulets are priced. A table price above 0
+# still wins.
+use_item_gamble_cost = true
+# ItemStatCost.txt id of a stat that lowers the gamble cost. 0 = off.
+cost_reduction_stat_id = 380
+# true = the stat is a percent, false = flat gold.
+cost_reduction_is_percent = true
+# Most the stat can take off, in percent of the price (also caps flat mode).
+cost_reduction_cap_percent = 50
+# ItemStatCost.txt id of a "reduced value" stat put on every gambled item; its
+# sell price drops by that percent. 0 = off. The row needs Save Bits (7 is
+# enough for 100) and Saved = 0.
+reduced_value_stat_id = 381
+reduced_value_magic = 25
+reduced_value_rare = 33
+reduced_value_set = 33
+reduced_value_unique = 50
+
+[mod_drop_cap]
+# Monsters normally drop at most 6 items per kill, however many picks their
+# treasure class rolls. This raises that limit for monsters only; chests and
+# objects keep theirs. Only matters for treasure classes with Picks above 6.
+# (CelestialRayOne)
+enabled = true
+# Most items one monster drop may produce (1-999, 6 = vanilla). Every item
+# needs a free floor tile, so very high values spread loot far from the corpse.
+drop_cap = 50
+
+[mod_named_params]
+# MonProp.txt par* columns and cubemain.txt "mod N param" columns accept names
+# (skill name from skills.txt, montype ...) as well as numbers. An unknown name
+# becomes 0. (yinyin333333)
+enabled = true
+
+# =============================================================================
+# Settings that must match between host and client in TCP/IP games.
+[d2rl]
+match = [
+  "patches.hireling_ai_tuning",
+  "patches.no_gold_loss_on_death",
+  "patches.shadow_master_ai_fix",
+  "patches.auto_collect_corpse",
+  "patches.preserve_transform_between_acts",
+  "patches.aura_in_either_slot",
+  "patches.monsters_use_area_level_normal",
+  "gold.enabled",
+  "gold.gold_per_level",
+  "gold.stash_gold",
+  "gambling.gamble_screen_32",
+  "gambling.strict_gambletxt_window",
+  "gambling.ignore_vendor_reduction",
+  "gold_pickup.enabled",
+  "gold_pickup.mode",
+  "gold_pickup.range_percent",
+  "gold_pickup.range_percent_max",
+  "identify.enabled",
+  "identify.qualities",
+  "potion_pickup.enabled",
+  "merc_town.enabled",
+  "merc_town.stock_classes",
+  "merc_town.extra_classes",
+  "tooltip_color.enabled",
+  "merc_drop.enabled",
+  "cube_quick_move.enabled",
+  "vendor_refresh.enabled",
+  "bulk_points.enabled",
+  "bulk_points.skill_points_per_ctrl_click",
+  "bulk_points.refund.enabled",
+  "enhanced_damage.enabled",
+  "skill_bonus.needs_hard_point",
+  "skill_bonus.uncap_own_class_oskill",
+  "mod_patches.four_character_item_codes",
+  "mod_gambling.use_constant_price",
+  "mod_gambling.use_item_gamble_cost",
+  "mod_gambling.cost_reduction_stat_id",
+  "mod_gambling.cost_reduction_is_percent",
+  "mod_gambling.cost_reduction_cap_percent",
+  "mod_gambling.reduced_value_stat_id",
+  "mod_gambling.reduced_value_magic",
+  "mod_gambling.reduced_value_rare",
+  "mod_gambling.reduced_value_set",
+  "mod_gambling.reduced_value_unique",
+  "mod_drop_cap.enabled",
+  "mod_drop_cap.drop_cap",
+  "mod_named_params.enabled",
+]
+
+# Credits
+# Originally designed by:
+#   RuffnecKk - RuffnecKk D2RLoader Suite (MIT License, licenses/RuffnecKk-D2RLoader-Suite.txt),
+#               including his Enhanced Damage Min/Max Fix.
+#   yinyin333333 - D2RL yin Junk Room; features rebuilt from how yinyin333333's plugins behave;
+#               yinyin333333's item
+#               background sprites are used with credit (removed on request: contact Kain_abel_666).
+#   CelestialRayOne - d2rloader plugins (MIT License, licenses/CelestialRayOne-d2rloader-plugins.txt).
+# Built with the D2RLoader Plugin SDK (MIT License, licenses/D2RLoader-PluginSDK.txt).

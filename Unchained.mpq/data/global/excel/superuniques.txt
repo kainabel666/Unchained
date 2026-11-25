@@ -1,7 +1,7 @@
 Superunique	Name	Class	*oldClass	hcIdx	MonSound	Mod1	Mod2	Mod3	MinGrp	MaxGrp	AutoPos	Stacks	Replaceable	Utrans	Utrans(N)	Utrans(H)	TC	TC Desecrated	TC(N)	TC(N) Desecrated	TC(H)	TC(H) Desecrated	*eol
 Bishibosh	Bishibosh	bishibosh	fallenshaman1	0		18	29	0	2	2	1	0		11	11	11	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
 Bonebreak	Bonebreak	bonebreaker	skeleton1	1		5	8	0	5	5	1	0		5	5	5	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
-Coldcrow	Coldcrow	coldcrow	cr_archer1	2		18	0	0	4	4	1	0		18	18	18	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
+Coldcrow	Coldcrow	coldcrow	cr_archer1	2		18	30	0	4	4	1	0		18	18	18	Act 1 Super A		Act 1 (N) Super A		Act 1 (H) Super A	Act 1 (H) Super A Desecrated	0
 Rakanishu	Rakanishu	rakanishu	fallen2	3		17	6	0	8	8	0	0	1	29	29	29	Act 1 Super B		Act 1 (N) Super B		Act 1 (H) Super B	Act 1 (H) Super B Desecrated	0
 Treehead WoodFist	Treehead WoodFist	treeheadwoodfist	brute2	4		5	6	0	2	2	1	0	1	4	4	4	Act 1 Super B		Act 1 (N) Super B		Act 1 (H) Super B	Act 1 (H) Super B Desecrated	0
 Griswold	Griswold	griswold	griswold	5		7	0	0	0	0	1	0	1	17	17	17	Griswold	Griswold Desecrated A	Griswold (N)	Griswold (N) Desecrated A	Griswold (H)	Griswold (H) Desecrated A	0
@@ -46,7 +46,7 @@ Siege Boss	Siege Boss	shenktheoverseer	overseer1	42		5	0	0	0	0	0	1		7	7	7	Act 5 
 Ancient Barbarian 1	Ancient Barbarian 1	ancientbarb1	ancientbarb1	43		0	0	0	0	0	0	1		25	25	25							0
 Ancient Barbarian 2	Ancient Barbarian 2	ancientbarb2	ancientbarb2	44		0	0	0	0	0	0	1		26	26	26							0
 Ancient Barbarian 3	Ancient Barbarian 3	ancientbarb3	ancientbarb3	45		0	0	0	0	0	0	1		11	11	11							0
-Axe Dweller	Axe Dweller	axedweller	bloodlord3	46		8	9	0	2	2	0	0		20	20	20	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
+Axe Dweller	Axe Dweller	axedweller	bloodlord3	46		8	9	0	4	4	0	0		20	20	20	Act 5 Super C		Act 5 (N) Super C		Act 5 (H) Super C	Act 5 (H) Super C Desecrated	0
 Bonesaw Breaker	Bonesaw Breaker	bonesawbreaker	reanimatedhorde2	47		5	8	0	5	5	0	0		35	35	35	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
 Dac Farren	Dac Farren	dacfarren	imp3	48		18	0	0	4	4	0	0	1	36	36	36	Act 5 Super B		Act 5 (N) Super B		Act 5 (H) Super B	Act 5 (H) Super B Desecrated	0
 Megaflow Rectifier	Megaflow Rectifier	eldritch	minion1	49		1	6	0	8	8	0	0	1	21	21	21	Act 5 Super A		Act 5 (N) Super A		Act 5 (H) Super A	Act 5 (H) Super A Desecrated	0
@@ -66,3 +66,7 @@ Baal Subject 2	Baal Subject 2	achmel	unraveler5	62		23	0	0	3	3	0	1		21	21	21	Act
 Baal Subject 3	Baal Subject 3	bartuc	baalhighpriest	63		17	0	0	5	5	0	1		36	36	36	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
 Baal Subject 4	Baal Subject 4	ventar	venomlord	64		6	0	0	8	8	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
 Baal Subject 5	Baal Subject 5	lister	baalminion1	65		27	0	0	5	5	0	1		20	20	20	Act 5 Champ C		Act 5 (N) Champ C		Act 5 (H) Champ C	Act 5 (H) Champ C Desecrated	0
+Shallow Soul	UC:Shallow Soul	shallowsoul		66		8	25	0	4	4	1	0		0	0	0	Act 1 Super B +Su		Act 1 (N) Super B +SuN		Act 1 (H) Super B +SuH	Act 1 (H) Super B Desecrated +SuH	0
+Carbon Giant	UC:Carbon Giant	carbongiant		67		28	5	0	0	0	1	0		0	0	0	Act 1 Super B +Su		Act 1 (N) Super B +SuN		Act 1 (H) Super B +SuH	Act 1 (H) Super B Desecrated +SuH	0
+Pit Viper	PitViper	pitviper		68		9	6	0	4	4	1	0		0	0	0	Act 1 Super C +Su		Act 1 (N) Super C +SuN		Act 1 (H) Super C +SuH	Act 1 (H) Super C Desecrated +SuH	0
+Sunken One	UC:Sunken One	sunkenone		69		28	8	0	0	0	1	0		0	0	0	Act 1 Super C +Su		Act 1 (N) Super C +SuN		Act 1 (H) Super C +SuH	Act 1 (H) Super C Desecrated +SuH	0

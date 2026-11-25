@@ -1,0 +1,509 @@
+Name	enabled	Code	ReqLevel	Mat1	Mat1Min	Mat1Max	Mat2	Mat2Min	Mat2Max	Mat3	Mat3Min	Mat3Max	Xp	SalvageSound
+Hand Axe	1	hax	0	mt1	0	1	wd1	0	1				6	15
+Axe	1	axe	0	mt1	0	2	wd1	0	1	lt1	0	1	12	15
+Double Axe	1	2ax	0	mt1	0	2	wd1	0	1	lt1	0	1	12	15
+Military Pick	1	mpi	0	mt1	0	2	wd1	0	1	lt1	0	1	12	15
+War Axe	1	wax	0	mt1	0	2	wd1	0	1	lt1	0	1	12	15
+Large Axe	1	lax	0	mt1	0	2	wd1	0	1	lt1	0	1	12	15
+Broad Axe	1	bax	0	mt1	0	2	wd1	0	1	lt1	0	1	12	15
+Battle Axe	1	btx	0	mt1	0	2	wd1	0	1	lt1	0	1	12	15
+Great Axe	1	gax	0	mt1	0	2	wd1	0	1	lt1	0	1	16	15
+Giant Axe	1	gix	0	mt1	0	2	wd1	0	1	lt1	0	1	12	15
+Wand	1	wnd	0	wd1	0	1	st1	0	1				4	15
+Yew Wand	1	ywn	0	wd1	0	1	st1	0	1				4	15
+Bone Wand	1	bwn	0	wd1	0	1	st1	0	1				4	15
+Grim Wand	1	gwn	0	wd1	0	1	st1	0	1				4	15
+Club	1	clb	0	wd1	0	2	lt1	0	1				6	15
+Scepter	1	scp	0	mt1	0	2	st1	0	1				6	15
+Grand Scepter	1	gsc	0	mt1	0	2	st1	0	1				6	15
+War Scepter	1	wsp	0	mt1	0	2	st1	0	1				12	15
+Spiked Club	1	spc	0	wd1	0	2	lt1	0	1				6	15
+Mace	1	mac	0	mt1	0	2	wd1	0	1				6	15
+Morning Star	1	mst	0	mt1	0	2	wd1	0	1				6	15
+Flail	1	fla	0	mt1	0	2	wd1	0	1				12	15
+War Hammer	1	whm	0	mt1	0	2	wd1	0	1				12	15
+Maul	1	mau	0	mt1	0	2	wd1	0	1				16	15
+Great Maul	1	gma	0	mt1	0	2	wd1	0	1				12	15
+Short Sword	1	ssd	0	mt1	0	2	lt1	0	1				6	15
+Scimitar	1	scm	0	mt1	0	2	lt1	0	1				6	15
+Saber	1	sbr	0	mt1	0	2	lt1	0	1				6	15
+Falchion	1	flc	0	mt1	0	2	lt1	0	1				6	15
+Crystal Sword	1	crs	0	mt1	0	2	lt1	0	1				12	15
+Broad Sword	1	bsd	0	mt1	0	2	lt1	0	1				12	15
+Long Sword	1	lsd	0	mt1	0	2	lt1	0	1				12	15
+War Sword	1	wsd	0	mt1	0	2	lt1	0	1				6	15
+Two-Handed Sword	1	2hs	0	mt1	0	2	lt1	0	1				8	15
+Claymore	1	clm	0	mt1	0	2	lt1	0	1				8	15
+Giant Sword	1	gis	0	mt1	0	2	lt1	0	1				8	15
+Bastard Sword	1	bsw	0	mt1	0	2	lt1	0	1				8	15
+Flamberge	1	flb	0	mt1	0	2	lt1	0	1				16	15
+Great Sword	1	gsd	0	mt1	0	2	lt1	0	1				16	15
+Dagger	1	dgr	0	mt1	0	1	lt1	0	1				4	15
+Dirk	1	dir	0	mt1	0	1	lt1	0	1				4	15
+Kriss	1	kri	0	mt1	0	1	lt1	0	1				6	15
+Blade	1	bld	0	mt1	0	1	lt1	0	1				6	15
+Throwing Knife	1	tkf	0	mt1	0	1	lt1	0	1				4	15
+Throwing Axe	1	tax	0	mt1	0	1	wd1	0	1				4	15
+Balanced Knife	1	bkf	0	mt1	0	1	lt1	0	1				4	15
+Balanced Axe	1	bal	0	mt1	0	2	wd1	0	1	lt1	0	1	12	15
+Javelin	1	jav	0	wd1	0	2	mt1	0	1				6	15
+Pilum	1	pil	0	wd1	0	2	mt1	0	1				6	15
+Short Spear	1	ssp	0	wd1	0	2	mt1	0	1				6	15
+Glaive	1	glv	0	wd1	0	2	mt1	0	1				8	15
+Throwing Spear	1	tsp	0	wd1	0	2	mt1	0	1				8	15
+Spear	1	spr	0	wd1	0	2	mt1	0	1				16	15
+Trident	1	tri	0	wd1	0	2	mt1	0	1				16	15
+Brandistock	1	brn	0	wd1	0	2	mt1	0	1				16	15
+Spetum	1	spt	0	wd1	0	2	mt1	0	1				16	15
+Pike	1	pik	0	wd1	0	2	mt1	0	1				16	15
+Bardiche	1	bar	0	wd1	0	2	mt1	0	1				16	15
+Voulge	1	vou	0	wd1	0	2	mt1	0	1				16	15
+Scythe	1	scy	0	wd1	0	2	mt1	0	1				16	15
+Poleaxe	1	pax	0	wd1	0	2	mt1	0	1				16	15
+Halberd	1	hal	0	wd1	0	2	mt1	0	1				16	15
+War Scythe	1	wsc	0	wd1	0	2	mt1	0	1				16	15
+Short Staff	1	sst	0	wd1	0	2	st1	0	1				6	15
+Long Staff	1	lst	0	wd1	0	2	st1	0	1				8	15
+Gnarled Staff	1	cst	0	wd1	0	2	st1	0	1				8	15
+Battle Staff	1	bst	0	wd1	0	2	st1	0	1				8	15
+War Staff	1	wst	0	wd1	0	2	st1	0	1				16	15
+Short Bow	1	sbw	0	wd1	0	2	sg1	0	1				12	15
+Hunter's Bow	1	hbw	0	wd1	0	2	sg1	0	1				12	15
+Long Bow	1	lbw	0	wd1	0	2	sg1	0	1				16	15
+Composite Bow	1	cbw	0	wd1	0	2	sg1	0	1				12	15
+Short Battle Bow	1	sbb	0	wd1	0	2	sg1	0	1				12	15
+Long Battle Bow	1	lbb	0	wd1	0	2	sg1	0	1				16	15
+Short War Bow	1	swb	0	wd1	0	2	sg1	0	1				12	15
+Long War Bow	1	lwb	0	wd1	0	2	sg1	0	1				16	15
+Light Crossbow	1	lxb	0	wd1	0	2	sg1	0	1	mt1	0	1	12	15
+Crossbow	1	mxb	0	wd1	0	2	sg1	0	1	mt1	0	1	12	15
+Heavy Crossbow	1	hxb	0	wd1	0	2	sg1	0	1	mt1	0	1	16	15
+Repeating Crossbow	1	rxb	0	wd1	0	2	sg1	0	1	mt1	0	1	12	15
+Hatchet	1	9ha	6	mt2	0	1	wd2	0	1				12	15
+Cleaver	1	9ax	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Twin Axe	1	92a	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Crowbill	1	9mp	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Naga	1	9wa	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Military Axe	1	9la	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Bearded Axe	1	9ba	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Tabar	1	9bt	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Gothic Axe	1	9ga	6	mt2	0	2	wd2	0	1	lt2	0	1	32	15
+Ancient Axe	1	9gi	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Burnt Wand	1	9wn	6	wd2	0	1	st2	0	1				8	15
+Petrified Wand	1	9yw	6	wd2	0	1	st2	0	1				8	15
+Tomb Wand	1	9bw	6	wd2	0	1	st2	0	1				8	15
+Grave Wand	1	9gw	6	wd2	0	1	st2	0	1				8	15
+Cudgel	1	9cl	6	wd2	0	2	lt2	0	1				12	15
+Rune Scepter	1	9sc	6	mt2	0	2	st2	0	1				12	15
+Holy Water Sprinkler	1	9qs	6	mt2	0	2	st2	0	1				12	15
+Divine Scepter	1	9ws	6	mt2	0	2	st2	0	1				24	15
+Barbed Club	1	9sp	6	wd2	0	2	lt2	0	1				12	15
+Flanged Mace	1	9ma	6	mt2	0	2	wd2	0	1				12	15
+Jagged Star	1	9mt	6	mt2	0	2	wd2	0	1				12	15
+Knout	1	9fl	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Battle Hammer	1	9wh	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+War Club	1	9m9	6	mt2	0	2	wd2	0	1	lt2	0	1	32	15
+Martel de Fer	1	9gm	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+Gladius	1	9ss	6	mt2	0	2	lt2	0	1				12	15
+Cutlass	1	9sm	6	mt2	0	2	lt2	0	1				12	15
+Shamshir	1	9sb	6	mt2	0	2	lt2	0	1				12	15
+Tulwar	1	9fc	6	mt2	0	2	lt2	0	1				12	15
+Dimensional Blade	1	9cr	6	mt2	0	2	lt2	0	1				24	15
+Battle Sword	1	9bs	6	mt2	0	2	lt2	0	1				24	15
+Rune Sword	1	9ls	6	mt2	0	2	lt2	0	1				24	15
+Ancient Sword	1	9wd	6	mt2	0	2	lt2	0	1				12	15
+Espandon	1	92h	6	mt2	0	2	lt2	0	1				16	15
+Dacian Falx	1	9cm	6	mt2	0	2	lt2	0	1				16	15
+Tusk Sword	1	9gs	6	mt2	0	2	lt2	0	1				16	15
+Gothic Sword	1	9b9	6	mt2	0	2	lt2	0	1				16	15
+Zweihander	1	9fb	6	mt2	0	2	lt2	0	1				32	15
+Executioner Sword	1	9gd	6	mt2	0	2	lt2	0	1				32	15
+Poignard	1	9dg	6	mt2	0	1	lt2	0	1				8	15
+Rondel	1	9di	6	mt2	0	1	lt2	0	1				8	15
+Cinquedeas	1	9kr	6	mt2	0	1	lt2	0	1				12	15
+Stilleto	1	9bl	6	mt2	0	1	lt2	0	1				12	15
+Battle Dart	1	9tk	6	mt2	0	1	lt2	0	1				8	15
+Francisca	1	9ta	6	mt2	0	1	wd2	0	1				8	15
+War Dart	1	9bk	6	mt2	0	1	lt2	0	1				8	15
+Hurlbat	1	9b8	6	mt2	0	2	wd2	0	1	lt2	0	1	24	15
+War Javelin	1	9ja	6	wd2	0	2	mt2	0	1				12	15
+Great Pilum	1	9pi	6	wd2	0	2	mt2	0	1				12	15
+Simbilan	1	9s9	6	wd2	0	2	mt2	0	1				12	15
+Spiculum	1	9gl	6	wd2	0	2	mt2	0	1				16	15
+Harpoon	1	9ts	6	wd2	0	2	mt2	0	1				16	15
+War Spear	1	9sr	6	wd2	0	2	mt2	0	1				32	15
+Fuscina	1	9tr	6	wd2	0	2	mt2	0	1				32	15
+War Fork	1	9br	6	wd2	0	2	mt2	0	1				32	15
+Yari	1	9st	6	wd2	0	2	mt2	0	1				32	15
+Lance	1	9p9	6	wd2	0	2	mt2	0	1				32	15
+Lochaber Axe	1	9b7	6	wd2	0	2	mt2	0	1	lt2	0	1	32	15
+Bill	1	9vo	6	wd2	0	2	mt2	0	1	lt2	0	1	32	15
+Battle Scythe	1	9s8	6	wd2	0	2	mt2	0	1	lt2	0	1	32	15
+Partizan	1	9pa	6	wd2	0	2	mt2	0	1	lt2	0	1	32	15
+Bec-de-Corbin	1	9h9	6	wd2	0	2	mt2	0	1	lt2	0	1	32	15
+Grim Scythe	1	9wc	6	wd2	0	2	mt2	0	1	lt2	0	1	32	15
+Jo Staff	1	8ss	6	wd2	0	2	st2	0	1				12	15
+Quarterstaff	1	8ls	6	wd2	0	2	st2	0	1				16	15
+Cedar Staff	1	8cs	6	wd2	0	2	st2	0	1				16	15
+Gothic Staff	1	8bs	6	wd2	0	2	st2	0	1				16	15
+Rune Staff	1	8ws	6	wd2	0	2	st2	0	1				32	15
+Edge Bow	1	8sb	6	wd2	0	2	sg2	0	1	mt2	0	1	24	15
+Razor Bow	1	8hb	6	wd2	0	2	sg2	0	1	mt2	0	1	24	15
+Cedar Bow	1	8lb	6	wd2	0	2	sg2	0	1	mt2	0	1	32	15
+Double Bow	1	8cb	6	wd2	0	2	sg2	0	1	mt2	0	1	24	15
+Short Siege Bow	1	8s8	6	wd2	0	2	sg2	0	1	mt2	0	1	24	15
+Long Siege Bow	1	8l8	6	wd2	0	2	sg2	0	1	mt2	0	1	32	15
+Rune Bow	1	8sw	6	wd2	0	2	sg2	0	1	mt2	0	1	24	15
+Gothic Bow	1	8lw	6	wd2	0	2	sg2	0	1	mt2	0	1	32	15
+Arbalest	1	8lx	6	wd2	0	2	sg2	0	1	mt2	0	1	24	15
+Siege Crossbow	1	8mx	6	wd2	0	2	sg2	0	1	mt2	0	1	24	15
+Ballista	1	8hx	6	wd2	0	2	sg2	0	1	mt2	0	1	32	15
+Chu-Ko-Nu	1	8rx	6	wd2	0	2	sg2	0	1	mt2	0	1	24	15
+Katar	1	ktr	0	mt1	0	1	lt1	0	1				6	15
+Wrist Blade	1	wrb	0	mt1	0	1	lt1	0	1				6	15
+Hatchet Hands	1	axf	0	mt1	0	1	lt1	0	1				6	15
+Cestus	1	ces	0	mt1	0	1	lt1	0	1				6	15
+Claws	1	clw	0	mt1	0	1	lt1	0	1				6	15
+Blade Talons	1	btl	0	mt1	0	1	lt1	0	1				6	15
+Scissors Katar	1	skr	0	mt1	0	1	lt1	0	1				6	15
+Quhab	1	9ar	6	mt2	0	1	lt2	0	1				12	15
+Wrist Spike	1	9wb	6	mt2	0	1	lt2	0	1				12	15
+Fascia	1	9xf	6	mt2	0	1	lt2	0	1				12	15
+Hand Scythe	1	9cs	6	mt2	0	1	lt2	0	1				12	15
+Greater Claws	1	9lw	6	mt2	0	1	lt2	0	1				12	15
+Greater Talons	1	9tw	6	mt2	0	1	lt2	0	1				12	15
+Scissors Quhab	1	9qr	6	mt2	0	1	lt2	0	1				12	15
+Suwayyah	1	7ar	13	mt3	0	1	lt3	0	1				18	15
+Wrist Sword	1	7wb	13	mt3	0	1	lt3	0	1				18	15
+War Fist	1	7xf	13	mt3	0	1	lt3	0	1				18	15
+Battle Cestus	1	7cs	13	mt3	0	1	lt3	0	1				18	15
+Feral Claws	1	7lw	13	mt3	0	1	lt3	0	1				18	15
+Runic Talons	1	7tw	13	mt3	0	1	lt3	0	1				18	15
+Scissors Suwayyah	1	7qr	13	mt3	0	1	lt3	0	1				18	15
+Tomahawk	1	7ha	13	mt3	0	1	wd3	0	1				18	15
+Small Crescent	1	7ax	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Ettin Axe	1	72a	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+War Spike	1	7mp	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Berserker Axe	1	7wa	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Feral Axe	1	7la	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Silver-edged Axe	1	7ba	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Decapitator	1	7bt	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Champion Axe	1	7ga	13	mt3	0	2	wd3	0	1	lt3	0	1	48	15
+Glorious Axe	1	7gi	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Polished Wand	1	7wn	13	wd3	0	1	st3	0	1				12	15
+Ghost Wand	1	7yw	13	wd3	0	1	st3	0	1				12	15
+Lich Wand	1	7bw	13	wd3	0	1	st3	0	1				12	15
+Unearthed Wand	1	7gw	13	wd3	0	1	st3	0	1				12	15
+Truncheon	1	7cl	13	wd3	0	2	lt3	0	1				18	15
+Mighty Scepter	1	7sc	13	mt3	0	2	st3	0	1				18	15
+Seraph Rod	1	7qs	13	mt3	0	2	st3	0	1				18	15
+Caduceus	1	7ws	13	mt3	0	2	st3	0	1				36	15
+Tyrant Club	1	7sp	13	wd3	0	2	lt3	0	1				18	15
+Reinforced Mace	1	7ma	13	mt3	0	2	wd3	0	1				18	15
+Devil Star	1	7mt	13	mt3	0	2	wd3	0	1				18	15
+Scourge	1	7fl	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Legendary Mallet	1	7wh	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Ogre Maul	1	7m7	13	mt3	0	2	wd3	0	1	lt3	0	1	48	15
+Thunder Maul	1	7gm	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Falcata	1	7ss	13	mt3	0	2	lt3	0	1				18	15
+Ataghan	1	7sm	13	mt3	0	2	lt3	0	1				18	15
+Elegant Blade	1	7sb	13	mt3	0	2	lt3	0	1				18	15
+Hydra Edge	1	7fc	13	mt3	0	2	lt3	0	1				18	15
+Phase Blade	1	7cr	13	mt3	0	2	lt3	0	1				36	15
+Conquest Sword	1	7bs	13	mt3	0	2	lt3	0	1				36	15
+Cryptic Sword	1	7ls	13	mt3	0	2	lt3	0	1				36	15
+Mythical Sword	1	7wd	13	mt3	0	2	lt3	0	1				18	15
+Legend Sword	1	72h	13	mt3	0	2	lt3	0	1				24	15
+Highland Blade	1	7cm	13	mt3	0	2	lt3	0	1				24	15
+Balrog Blade	1	7gs	13	mt3	0	2	lt3	0	1				24	15
+Champion Sword	1	7b7	13	mt3	0	2	lt3	0	1				24	15
+Colossal Sword	1	7fb	13	mt3	0	2	lt3	0	1				48	15
+Colossus Blade	1	7gd	13	mt3	0	2	lt3	0	1				48	15
+Bone Knife	1	7dg	13	mt3	0	1	lt3	0	1				12	15
+Mithral Point	1	7di	13	mt3	0	1	lt3	0	1				12	15
+Fanged Knife	1	7kr	13	mt3	0	1	lt3	0	1				18	15
+Legend Spike	1	7bl	13	mt3	0	1	lt3	0	1				18	15
+Flying Knife	1	7tk	13	mt3	0	1	lt3	0	1				12	15
+Flying Axe	1	7ta	13	mt3	0	1	wd3	0	1				12	15
+Winged Knife	1	7bk	13	mt3	0	1	lt3	0	1				12	15
+Winged Axe	1	7b8	13	mt3	0	2	wd3	0	1	lt3	0	1	36	15
+Hyperion Javelin	1	7ja	13	wd3	0	2	mt3	0	1				18	15
+Stygian Pilum	1	7pi	13	wd3	0	2	mt3	0	1				18	15
+Balrog Spear	1	7s7	13	wd3	0	2	mt3	0	1				18	15
+Ghost Glaive	1	7gl	13	wd3	0	2	mt3	0	1				24	15
+Winged Harpoon	1	7ts	13	wd3	0	2	mt3	0	1				24	15
+Hyperion Spear	1	7sr	13	wd3	0	2	mt3	0	1				48	15
+Stygian Pike	1	7tr	13	wd3	0	2	mt3	0	1				48	15
+Mancatcher	1	7br	13	wd3	0	2	mt3	0	1				48	15
+Ghost Spear	1	7st	13	wd3	0	2	mt3	0	1				48	15
+War Pike	1	7p7	13	wd3	0	2	mt3	0	1				48	15
+Ogre Axe	1	7o7	13	wd3	0	2	mt3	0	1	lt3	0	1	48	15
+Colossus Voulge	1	7vo	13	wd3	0	2	mt3	0	1	lt3	0	1	48	15
+Thresher	1	7s8	13	wd3	0	2	mt3	0	1	lt3	0	1	48	15
+Cryptic Axe	1	7pa	13	wd3	0	2	mt3	0	1	lt3	0	1	48	15
+Great Poleaxe	1	7h7	13	wd3	0	2	mt3	0	1	lt3	0	1	48	15
+Giant Thresher	1	7wc	13	wd3	0	2	mt3	0	1	lt3	0	1	48	15
+Walking Stick	1	6ss	13	wd3	0	2	st3	0	1				18	15
+Stalagmite	1	6ls	13	wd3	0	2	st3	0	1				24	15
+Elder Staff	1	6cs	13	wd3	0	2	st3	0	1				24	15
+Shillelagh	1	6bs	13	wd3	0	2	st3	0	1				24	15
+Archon Staff	1	6ws	13	wd3	0	2	st3	0	1				48	15
+Spider Bow	1	6sb	13	wd3	0	2	sg3	0	1	mt3	0	1	36	15
+Blade Bow	1	6hb	13	wd3	0	2	sg3	0	1	mt3	0	1	36	15
+Shadow Bow	1	6lb	13	wd3	0	2	sg3	0	1	mt3	0	1	48	15
+Great Bow	1	6cb	13	wd3	0	2	sg3	0	1	mt3	0	1	36	15
+Diamond Bow	1	6s7	13	wd3	0	2	sg3	0	1	mt3	0	1	36	15
+Crusader Bow	1	6l7	13	wd3	0	2	sg3	0	1	mt3	0	1	48	15
+Ward Bow	1	6sw	13	wd3	0	2	sg3	0	1	mt3	0	1	36	15
+Hydra Bow	1	6lw	13	wd3	0	2	sg3	0	1	mt3	0	1	48	15
+Pellet Bow	1	6lx	13	wd3	0	2	sg3	0	1	mt3	0	1	36	15
+Gorgon Crossbow	1	6mx	13	wd3	0	2	sg3	0	1	mt3	0	1	36	15
+Colossus Crossbow	1	6hx	13	wd3	0	2	sg3	0	1	mt3	0	1	48	15
+Demon Crossbow	1	6rx	13	wd3	0	2	sg3	0	1	mt3	0	1	36	15
+Eagle Orb	1	ob1	0	st1	0	1	wd1	0	1				4	15
+Sacred Globe	1	ob2	0	st1	0	1	wd1	0	1				4	15
+Smoked Sphere	1	ob3	0	st1	0	1	wd1	0	1				4	15
+Clasped Orb	1	ob4	0	st1	0	1	wd1	0	1				4	15
+Jared's Stone	1	ob5	0	st1	0	1	wd1	0	1				6	15
+Stag Bow	1	am1	0	wd1	0	2	sg1	0	1				16	15
+Reflex Bow	1	am2	0	wd1	0	2	sg1	0	1				16	15
+Maiden Spear	1	am3	0	wd1	0	2	mt1	0	1				16	15
+Maiden Pike	1	am4	0	wd1	0	2	mt1	0	1				16	15
+Maiden Javelin	1	am5	0	wd1	0	2	mt1	0	1				6	15
+Glowing Orb	1	ob6	6	st2	0	1	wd2	0	1				8	15
+Crystalline Globe	1	ob7	6	st2	0	1	wd2	0	1				8	15
+Cloudy Sphere	1	ob8	6	st2	0	1	wd2	0	1				8	15
+Sparkling Ball	1	ob9	6	st2	0	1	wd2	0	1				8	15
+Swirling Crystal	1	oba	6	st2	0	1	wd2	0	1				12	15
+Ashwood Bow	1	am6	6	wd2	0	2	sg2	0	1	mt2	0	1	32	15
+Ceremonial Bow	1	am7	6	wd2	0	2	sg2	0	1	mt2	0	1	32	15
+Ceremonial Spear	1	am8	6	wd2	0	2	mt2	0	1				32	15
+Ceremonial Pike	1	am9	6	wd2	0	2	mt2	0	1				32	15
+Ceremonial Javelin	1	ama	6	wd2	0	2	mt2	0	1				12	15
+Heavenly Stone	1	obb	13	st3	0	1	wd3	0	1				12	15
+Eldritch Orb	1	obc	13	st3	0	1	wd3	0	1				12	15
+Demon Heart	1	obd	13	st3	0	1	wd3	0	1				12	15
+Vortex Orb	1	obe	13	st3	0	1	wd3	0	1				12	15
+Dimensional Shard	1	obf	13	st3	0	1	wd3	0	1				18	15
+Matriarchal Bow	1	amb	13	wd3	0	2	sg3	0	1	mt3	0	1	48	15
+Grand Matron Bow	1	amc	13	wd3	0	2	sg3	0	1	mt3	0	1	48	15
+Matriarchal Spear	1	amd	13	wd3	0	2	mt3	0	1				48	15
+Matriarchal Pike	1	ame	13	wd3	0	2	mt3	0	1				48	15
+Matriarchal Javelin	1	amf	13	wd3	0	2	mt3	0	1				18	15
+Cap	1	cap	0	mt1	0	2	lt1	0	1				8	15
+Skull Cap	1	skp	0	mt1	0	2	lt1	0	1				8	15
+Helm	1	hlm	0	mt1	0	2	lt1	0	1				8	15
+Full Helm	1	fhl	0	mt1	0	2	lt1	0	1				8	15
+Great Helm	1	ghm	0	mt1	0	2	lt1	0	1				8	15
+Crown	1	crn	0	mt1	0	2	lt1	0	1				8	15
+Mask	1	msk	0	mt1	0	2	lt1	0	1				8	15
+Quilted Armor	1	qui	0	lt1	0	2	fr1	0	1				12	15
+Leather Armor	1	lea	0	lt1	0	2	fr1	0	1				12	15
+Hard Leather Armor	1	hla	0	lt1	0	2	fr1	0	1				12	15
+Studded Leather	1	stu	0	lt1	0	2	fr1	0	1				12	15
+Ring Mail	1	rng	0	mt1	0	2	lt1	0	1				12	15
+Scale Mail	1	scl	0	mt1	0	2	lt1	0	1				12	15
+Chain Mail	1	chn	0	mt1	0	2	lt1	0	1				12	15
+Breast Plate	1	brs	0	lt1	0	2	fr1	0	1				12	15
+Splint Mail	1	spl	0	mt1	0	2	lt1	0	1				12	15
+Plate Mail	1	plt	0	mt1	0	2	lt1	0	1				12	15
+Field Plate	1	fld	0	mt1	0	2	lt1	0	1				12	15
+Gothic Plate	1	gth	0	mt1	0	2	lt1	0	1				12	15
+Full Plate Mail	1	ful	0	mt1	0	2	lt1	0	1				12	15
+Ancient Armor	1	aar	0	mt1	0	2	lt1	0	1				12	15
+Light Plate	1	ltp	0	lt1	0	2	fr1	0	1				12	15
+Buckler	1	buc	0	mt1	0	2	lt1	0	1				8	15
+Small Shield	1	sml	0	mt1	0	2	lt1	0	1				8	15
+Large Shield	1	lrg	0	mt1	0	2	lt1	0	1	wd1	0	1	12	15
+Kite Shield	1	kit	0	mt1	0	2	lt1	0	1	wd1	0	1	12	15
+Tower Shield	1	tow	0	mt1	0	2	lt1	0	1	wd1	0	1	12	15
+Gothic Shield	1	gts	0	mt1	0	2	lt1	0	1	wd1	0	1	16	15
+Leather Gloves	1	lgl	0	lt1	0	2	fr1	0	1				8	15
+Heavy Gloves	1	vgl	0	lt1	0	2	fr1	0	1				8	15
+Chain Gloves	1	mgl	0	lt1	0	2	fr1	0	1				8	15
+Light Gauntlets	1	tgl	0	lt1	0	2	fr1	0	1				8	15
+Gauntlets	1	hgl	0	lt1	0	2	fr1	0	1				8	15
+Boots	1	lbt	0	lt1	0	2	fr1	0	1				8	15
+Heavy Boots	1	vbt	0	lt1	0	2	fr1	0	1				8	15
+Chain Boots	1	mbt	0	lt1	0	2	fr1	0	1				8	15
+Light Plated Boots	1	tbt	0	lt1	0	2	fr1	0	1				8	15
+Greaves	1	hbt	0	lt1	0	2	fr1	0	1				8	15
+Sash	1	lbl	0	lt1	0	2	sg1	0	1				4	15
+Light Belt	1	vbl	0	lt1	0	2	sg1	0	1				4	15
+Belt	1	mbl	0	lt1	0	2	sg1	0	1				4	15
+Heavy Belt	1	tbl	0	lt1	0	2	sg1	0	1				4	15
+Plated Belt	1	hbl	0	lt1	0	2	sg1	0	1				4	15
+Bone Helm	1	bhm	0	mt1	0	2	lt1	0	1				8	15
+Bone Shield	1	bsh	0	mt1	0	2	lt1	0	1	wd1	0	1	12	15
+Spiked Shield	1	spk	0	mt1	0	2	lt1	0	1	wd1	0	1	12	15
+War Hat	1	xap	6	mt2	0	2	lt2	0	1				16	15
+Sallet	1	xkp	6	mt2	0	2	lt2	0	1				16	15
+Casque	1	xlm	6	mt2	0	2	lt2	0	1				16	15
+Basinet	1	xhl	6	mt2	0	2	lt2	0	1				16	15
+Winged Helm	1	xhm	6	mt2	0	2	lt2	0	1				16	15
+Grand Crown	1	xrn	6	mt2	0	2	lt2	0	1				16	15
+Death Mask	1	xsk	6	mt2	0	2	lt2	0	1				16	15
+Ghost Armor	1	xui	6	lt2	0	2	fr2	0	1				24	15
+Serpentskin Armor	1	xea	6	lt2	0	2	fr2	0	1				24	15
+Demonhide Armor	1	xla	6	lt2	0	2	fr2	0	1				24	15
+Trellised Armor	1	xtu	6	lt2	0	2	fr2	0	1				24	15
+Linked Mail	1	xng	6	mt2	0	2	lt2	0	1				24	15
+Tigulated Mail	1	xcl	6	mt2	0	2	lt2	0	1				24	15
+Mesh Armor	1	xhn	6	mt2	0	2	lt2	0	1				24	15
+Cuirass	1	xrs	6	lt2	0	2	fr2	0	1				24	15
+Russet Armor	1	xpl	6	mt2	0	2	lt2	0	1				24	15
+Templar Coat	1	xlt	6	mt2	0	2	lt2	0	1				24	15
+Sharktooth Armor	1	xld	6	mt2	0	2	lt2	0	1				24	15
+Embossed Plate	1	xth	6	mt2	0	2	lt2	0	1				24	15
+Chaos Armor	1	xul	6	mt2	0	2	lt2	0	1				24	15
+Ornate Armor	1	xar	6	mt2	0	2	lt2	0	1				24	15
+Mage Plate	1	xtp	6	lt2	0	2	fr2	0	1				24	15
+Defender	1	xuc	6	mt2	0	2	lt2	0	1				16	15
+Round Shield	1	xml	6	mt2	0	2	lt2	0	1				16	15
+Scutum	1	xrg	6	mt2	0	2	lt2	0	1	wd2	0	1	24	15
+Dragon Shield	1	xit	6	mt2	0	2	lt2	0	1	wd2	0	1	24	15
+Pavise	1	xow	6	mt2	0	2	lt2	0	1	wd2	0	1	24	15
+Ancient Shield	1	xts	6	mt2	0	2	lt2	0	1	wd2	0	1	32	15
+Demonhide Gloves	1	xlg	6	lt2	0	2	fr2	0	1				16	15
+Sharkskin Gloves	1	xvg	6	lt2	0	2	fr2	0	1				16	15
+Heavy Bracers	1	xmg	6	lt2	0	2	fr2	0	1				16	15
+Battle Gauntlets	1	xtg	6	lt2	0	2	fr2	0	1				16	15
+War Gauntlets	1	xhg	6	lt2	0	2	fr2	0	1				16	15
+Demonhide Boots	1	xlb	6	lt2	0	2	fr2	0	1				16	15
+Sharkskin Boots	1	xvb	6	lt2	0	2	fr2	0	1				16	15
+Mesh Boots	1	xmb	6	lt2	0	2	fr2	0	1				16	15
+Battle Boots	1	xtb	6	lt2	0	2	fr2	0	1				16	15
+War Boots	1	xhb	6	lt2	0	2	fr2	0	1				16	15
+Demonhide Sash	1	zlb	6	lt2	0	2	sg2	0	1				8	15
+Sharkskin Belt	1	zvb	6	lt2	0	2	sg2	0	1				8	15
+Mesh Belt	1	zmb	6	lt2	0	2	sg2	0	1				8	15
+Battle Belt	1	ztb	6	lt2	0	2	sg2	0	1				8	15
+War Belt	1	zhb	6	lt2	0	2	sg2	0	1				8	15
+Grim Helm	1	xh9	6	mt2	0	2	lt2	0	1				16	15
+Grim Shield	1	xsh	6	mt2	0	2	lt2	0	1	wd2	0	1	24	15
+Barbed Shield	1	xpk	6	mt2	0	2	lt2	0	1	wd2	0	1	24	15
+Wolf Head	1	dr1	0	fr1	0	2	lt1	0	1				8	15
+Hawk Helm	1	dr2	0	fr1	0	2	lt1	0	1				8	15
+Antlers	1	dr3	0	fr1	0	2	lt1	0	1				8	15
+Falcon Mask	1	dr4	0	fr1	0	2	lt1	0	1				8	15
+Spirit Mask	1	dr5	0	fr1	0	2	lt1	0	1				8	15
+Jawbone Cap	1	ba1	0	mt1	0	2	lt1	0	1				8	15
+Fanged Helm	1	ba2	0	mt1	0	2	lt1	0	1				8	15
+Horned Helm	1	ba3	0	mt1	0	2	lt1	0	1				8	15
+Assault Helmet	1	ba4	0	mt1	0	2	lt1	0	1				8	15
+Avenger Guard	1	ba5	0	mt1	0	2	lt1	0	1				8	15
+Targe	1	pa1	0	mt1	0	2	lt1	0	1				8	15
+Rondache	1	pa2	0	mt1	0	2	lt1	0	1				8	15
+Heraldic Shield	1	pa3	0	mt1	0	2	lt1	0	1	wd1	0	1	16	15
+Aerin Shield	1	pa4	0	mt1	0	2	lt1	0	1	wd1	0	1	16	15
+Crown Shield	1	pa5	0	mt1	0	2	lt1	0	1				8	15
+Preserved Head	1	ne1	0	st1	0	1	sg1	0	1				8	15
+Zombie Head	1	ne2	0	st1	0	1	sg1	0	1				8	15
+Unraveller Head	1	ne3	0	st1	0	1	sg1	0	1				8	15
+Gargoyle Head	1	ne4	0	st1	0	1	sg1	0	1				8	15
+Demon Head	1	ne5	0	st1	0	1	sg1	0	1				8	15
+Circlet	1	ci0	0	mt1	0	1	st1	0	1				8	15
+Coronet	1	ci1	0	mt1	0	1	st1	0	1				8	15
+Tiara	1	ci2	6	mt2	0	1	st2	0	1				16	15
+Diadem	1	ci3	13	mt3	0	1	st3	0	1				24	15
+Shako	1	uap	13	mt3	0	2	lt3	0	1				24	15
+Hydraskull	1	ukp	13	mt3	0	2	lt3	0	1				24	15
+Armet	1	ulm	13	mt3	0	2	lt3	0	1				24	15
+Giant Conch	1	uhl	13	mt3	0	2	lt3	0	1				24	15
+Spired Helm	1	uhm	13	mt3	0	2	lt3	0	1				24	15
+Corona	1	urn	13	mt3	0	2	lt3	0	1				24	15
+Demonhead	1	usk	13	mt3	0	2	lt3	0	1				24	15
+Dusk Shroud	1	uui	13	lt3	0	2	fr3	0	1				36	15
+Wyrmhide	1	uea	13	lt3	0	2	fr3	0	1				36	15
+Scarab Husk	1	ula	13	lt3	0	2	fr3	0	1				36	15
+Wire Fleece	1	utu	13	lt3	0	2	fr3	0	1				36	15
+Diamond Mail	1	ung	13	mt3	0	2	lt3	0	1				36	15
+Loricated Mail	1	ucl	13	mt3	0	2	lt3	0	1				36	15
+Boneweave	1	uhn	13	mt3	0	2	lt3	0	1				36	15
+Great Hauberk	1	urs	13	lt3	0	2	fr3	0	1				36	15
+Balrog Skin	1	upl	13	mt3	0	2	lt3	0	1				36	15
+Hellforge Plate	1	ult	13	mt3	0	2	lt3	0	1				36	15
+Kraken Shell	1	uld	13	mt3	0	2	lt3	0	1				36	15
+Lacquered Plate	1	uth	13	mt3	0	2	lt3	0	1				36	15
+Shadow Plate	1	uul	13	mt3	0	2	lt3	0	1				36	15
+Sacred Armor	1	uar	13	mt3	0	2	lt3	0	1				36	15
+Archon Plate	1	utp	13	lt3	0	2	fr3	0	1				36	15
+Heater	1	uuc	13	mt3	0	2	lt3	0	1				24	15
+Luna	1	uml	13	mt3	0	2	lt3	0	1				24	15
+Hyperion	1	urg	13	mt3	0	2	lt3	0	1	wd3	0	1	36	15
+Monarch	1	uit	13	mt3	0	2	lt3	0	1	wd3	0	1	36	15
+Aegis	1	uow	13	mt3	0	2	lt3	0	1	wd3	0	1	36	15
+Ward	1	uts	13	mt3	0	2	lt3	0	1	wd3	0	1	48	15
+Bramble Mitts	1	ulg	13	lt3	0	2	fr3	0	1				24	15
+Vampirebone Gloves	1	uvg	13	lt3	0	2	fr3	0	1				24	15
+Vambraces	1	umg	13	lt3	0	2	fr3	0	1				24	15
+Crusader Gauntlets	1	utg	13	lt3	0	2	fr3	0	1				24	15
+Ogre Gauntlets	1	uhg	13	lt3	0	2	fr3	0	1				24	15
+Wyrmhide Boots	1	ulb	13	lt3	0	2	fr3	0	1				24	15
+Scarabshell Boots	1	uvb	13	lt3	0	2	fr3	0	1				24	15
+Boneweave Boots	1	umb	13	lt3	0	2	fr3	0	1				24	15
+Mirrored Boots	1	utb	13	lt3	0	2	fr3	0	1				24	15
+Myrmidon Greaves	1	uhb	13	lt3	0	2	fr3	0	1				24	15
+Spiderweb Sash	1	ulc	13	lt3	0	2	sg3	0	1				12	15
+Vampirefang Belt	1	uvc	13	lt3	0	2	sg3	0	1				12	15
+Mithril Coil	1	umc	13	lt3	0	2	sg3	0	1				12	15
+Troll Belt	1	utc	13	lt3	0	2	sg3	0	1				12	15
+Colossus Girdle	1	uhc	13	lt3	0	2	sg3	0	1				12	15
+Bone Visage	1	uh9	13	mt3	0	2	lt3	0	1				24	15
+Troll Nest	1	ush	13	mt3	0	2	lt3	0	1	wd3	0	1	36	15
+Blade Barrier	1	upk	13	mt3	0	2	lt3	0	1	wd3	0	1	36	15
+Alpha Helm	1	dr6	6	fr2	0	2	lt2	0	1				16	15
+Griffon Headress	1	dr7	6	fr2	0	2	lt2	0	1				16	15
+Hunter's Guise	1	dr8	6	fr2	0	2	lt2	0	1				16	15
+Sacred Feathers	1	dr9	6	fr2	0	2	lt2	0	1				16	15
+Totemic Mask	1	dra	6	fr2	0	2	lt2	0	1				16	15
+Jawbone Visor	1	ba6	6	mt2	0	2	lt2	0	1				16	15
+Lion Helm	1	ba7	6	mt2	0	2	lt2	0	1				16	15
+Rage Mask	1	ba8	6	mt2	0	2	lt2	0	1				16	15
+Savage Helmet	1	ba9	6	mt2	0	2	lt2	0	1				16	15
+Slayer Guard	1	baa	6	mt2	0	2	lt2	0	1				16	15
+Akaran Targe	1	pa6	6	mt2	0	2	lt2	0	1				16	15
+Akaran Rondache	1	pa7	6	mt2	0	2	lt2	0	1				16	15
+Protector Shield	1	pa8	6	mt2	0	2	lt2	0	1	wd2	0	1	32	15
+Gilded Shield	1	pa9	6	mt2	0	2	lt2	0	1	wd2	0	1	32	15
+Royal Shield	1	paa	6	mt2	0	2	lt2	0	1				16	15
+Mummified Trophy	1	ne6	6	st2	0	1	sg2	0	1				16	15
+Fetish Trophy	1	ne7	6	st2	0	1	sg2	0	1				16	15
+Sexton Trophy	1	ne8	6	st2	0	1	sg2	0	1				16	15
+Cantor Trophy	1	ne9	6	st2	0	1	sg2	0	1				16	15
+Heirophant Trophy	1	nea	6	st2	0	1	sg2	0	1				16	15
+Blood Spirit	1	drb	13	fr3	0	2	lt3	0	1				24	15
+Sun Spirit	1	drc	13	fr3	0	2	lt3	0	1				24	15
+Earth Spirit	1	drd	13	fr3	0	2	lt3	0	1				24	15
+Sky Spirit	1	dre	13	fr3	0	2	lt3	0	1				24	15
+Dream Spirit	1	drf	13	fr3	0	2	lt3	0	1				24	15
+Carnage Helm	1	bab	13	mt3	0	2	lt3	0	1				24	15
+Fury Visor	1	bac	13	mt3	0	2	lt3	0	1				24	15
+Destroyer Helm	1	bad	13	mt3	0	2	lt3	0	1				24	15
+Conqueror Crown	1	bae	13	mt3	0	2	lt3	0	1				24	15
+Guardian Crown	1	baf	13	mt3	0	2	lt3	0	1				24	15
+Sacred Targe	1	pab	13	mt3	0	2	lt3	0	1				24	15
+Sacred Rondache	1	pac	13	mt3	0	2	lt3	0	1				24	15
+Ancient Shield	1	pad	13	mt3	0	2	lt3	0	1	wd3	0	1	48	15
+Zakarum Shield	1	pae	13	mt3	0	2	lt3	0	1	wd3	0	1	48	15
+Vortex Shield	1	paf	13	mt3	0	2	lt3	0	1				24	15
+Minion Skull	1	neb	13	st3	0	1	sg3	0	1				24	15
+Hellspawn Skull	1	neg	13	st3	0	1	sg3	0	1				24	15
+Overseer Skull	1	ned	13	st3	0	1	sg3	0	1				24	15
+Succubus Skull	1	nee	13	st3	0	1	sg3	0	1				24	15
+Bloodlord Skull	1	nef	13	st3	0	1	sg3	0	1				24	15
+Old Book	1	wa1	0	lt1	0	2	sg1	0	1				8	15
+Tome	1	wa2	0	lt1	0	2	sg1	0	1				8	15
+Codex	1	wa3	0	lt1	0	2	sg1	0	1				8	15
+Compendium	1	wa4	0	lt1	0	2	sg1	0	1				8	15
+Grimoire	1	wa5	0	lt1	0	2	sg1	0	1				8	15
+Burnt Text	1	wa6	6	lt2	0	2	sg2	0	1				16	15
+Dark Tome	1	wa7	6	lt2	0	2	sg2	0	1				16	15
+Dark Codex	1	wa8	6	lt2	0	2	sg2	0	1				16	15
+Possessed Compendium	1	wa9	6	lt2	0	2	sg2	0	1				16	15
+Possessed Grimoire	1	waa	6	lt2	0	2	sg2	0	1				16	15
+Forgotten Volume	1	wab	13	lt3	0	2	sg3	0	1				24	15
+Occult Tome	1	wac	13	lt3	0	2	sg3	0	1				24	15
+Occult Codex	1	wad	13	lt3	0	2	sg3	0	1				24	15
+Blasphemous Compendium	1	wae	13	lt3	0	2	sg3	0	1				24	15
+Blasphemous Grimoire	1	waf	13	lt3	0	2	sg3	0	1				24	15

@@ -1,4 +1,5 @@
 {
+    "soulburst": "bone_cast",
     "dependencies": {
         "particles": [],
         "models": [],
@@ -284,8 +285,8 @@
     "revivelarge": "revive",
     "monglacialspike": "glacial_spike",
     "icebreaksmall": "ice_break_small",
-    "icebreakmedium": "ice_break_large",
-    "icebreaklarge": "ice_break_large",
+    "icebreakmedium": "ice_break_death_med",
+    "icebreaklarge": "ice_break_death_large",
     "icebreaksmoke": "ice_break_smoke",
     "mephisto": "mephisto_missile",
     "firehead": "vampire_missile",
@@ -428,7 +429,7 @@
     "catapult_spike_explosion": "expansion_fire_spike_explode",
     "catapult_cold_ball_on": "catapult_cold_ball_on",
     "catapult_cold_ball": "ice_orb",
-    "catapult_cold_explosion": "ice_break_large",
+    "catapult_cold_explosion": "ice_break_catapult",
     "catapult_plague_ball_on": "catapult_plague_ball_on",
     "catapult_plague_ball": "expansion_catapultpoisonbomb",
     "catapult_plague_cloud": "poison_sparks",
@@ -833,7 +834,10 @@
     "mondarkmagic":"unholy_bolt",
     "rocksmash":"expansion_shockwave",
     "rocksmashboom":"expansion_shockwave",
-    "rock in air":"rock_large",
-    "rock on ground":"rock_small",
-    "wolfcall": "null"
+    "rock_in_air":"rock_large",
+    "rock_on_ground":"rock_small",
+    "wolfcall": "null",
+    "bloodclanbite": "null",
+    "sunkenspit": "sand_maggot_goo_spit",
+    "pulse": "b_a_yell_shock_wave_01"
 }   

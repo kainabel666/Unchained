@@ -1,3 +1,5 @@
+# Ethereal Item Rules by RuffnecKk (RuffnecKk D2RLoader Suite, MIT License - see licenses/RuffnecKk-D2RLoader-Suite.txt).
+
 # Ethereal Item Rules
 # Controls which eligible items may become ethereal and how often they do.
 # Changes take effect after fully closing and restarting Diablo II: Resurrected.
@@ -33,3 +35,5 @@ allow_indestructible_items = true
 # Startup, warnings, errors, and the "ethereal-item-rules" status command remain
 # available even when this option is false.
 enabled = false
+
+# Credits: Ethereal Item Rules by RuffnecKk (RuffnecKk D2RLoader Suite, MIT License - see licenses/RuffnecKk-D2RLoader-Suite.txt).

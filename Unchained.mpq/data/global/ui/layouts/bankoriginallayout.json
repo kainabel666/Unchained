@@ -76,7 +76,7 @@
           "y": 218
         },
         "filename": "PANEL\\goldcoinbtn",
-        "tooltipString": "@strGoldWithdraw",
+        "tooltipString": "@d2r:strGoldWithdraw",
         "onClickMessage": "BankPanelMessage:Withdraw"
       }
     },
@@ -91,7 +91,7 @@
         "filename": "PANEL\\buysellbtn",
         "normalFrame": 10,
         "pressedFrame": 11,
-        "tooltipString": "@strClose",
+        "tooltipString": "@d2r:strClose",
         "tooltipOffset": {
           "x": 0,
           "y": -3

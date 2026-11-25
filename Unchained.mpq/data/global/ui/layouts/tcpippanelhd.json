@@ -15,7 +15,7 @@
             "type": "TextBoxWidget", "name": "OptionsText",
             "fields": {
                 "rect": "$InGamePanelTitleRect",
-                "text": "@strTCPIPOptions",
+                "text": "@d2r:strTCPIPOptions",
                 "style": "$StyleTitleBlock",
             }
         },
@@ -30,7 +30,7 @@
             "type": "TextBoxWidget", "name": "IPText",
             "fields": {
                 "rect": { "x": 237, "y": 377, "width": 689, "height": 100 },
-                "text": "@stryourIPAddress",
+                "text": "@d2r:stryourIPAddress",
                 "style": {
                     "fontColor": "$FontColorLightGold",
                     "pointSize": "$XMediumFontSize",
@@ -44,7 +44,7 @@
             "type": "TextBoxWidget", "name": "IPAddressText",
             "fields": {
                 "rect": { "x": 237, "y": 485, "width": 689, "height": 100 },
-                "text": "@strnotcpipaddress",
+                "text": "@d2r:strnotcpipaddress",
                 "style": {
                     "fontColor": "$FontColorLightGold",
                     "pointSize": "$LargeFontSize",
@@ -58,7 +58,7 @@
             "type": "TextBoxWidget", "name": "HostServerLecture",
             "fields": {
                 "rect": { "x": 220, "y": 1084, "width": 721, "height": 171 },
-                "text": "@strCreateServerLecture",
+                "text": "@d2r:strCreateServerLecture",
                 "style": {
                     "alignment": { "h": "center", "v": "top" },
                     "options": { "newlineHandling": "standard", "lineWrap": true },
@@ -71,7 +71,7 @@
             "type": "TextBoxWidget", "name": "JoinServerLecture",
             "fields": {
                 "rect": { "x": 220, "y": 1115, "width": 721, "height": 110 },
-                "text": "@strJoinServerLecture",
+                "text": "@d2r:strJoinServerLecture",
                 "style": {
                     "alignment": { "h": "center", "v": "top" },
                     "options": { "newlineHandling": "standard", "lineWrap": true },
@@ -85,7 +85,7 @@
             "fields": {
                 "rect": { "x": 348, "y": 648, },
                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
-                "textString": "@strCreateServer",
+                "textString": "@d2r:strCreateServer",
                 "onClickMessage": "FrontEndNavigation:ToCharacterSelect",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",
@@ -96,7 +96,7 @@
             "fields": {
                 "rect": { "x": 348, "y": 793, },
                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
-                "textString": "@strMultiMenu2",
+                "textString": "@d2r:strMultiMenu2",
                 "onClickMessage": "FrontEndNavigation:ToJoinGame",
                 "text/style": "$StyleFEButtonText",
                 "textColor": "$LightButtonTextColor",

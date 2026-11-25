@@ -1,0 +1,145 @@
+{
+    "dependencies": {
+        "particles": [],
+        "models": [
+            {
+                "path": "data/hd/env/model/expansion/baallair/expansion_baallair_crystals/crystals02.model"
+            },
+            {
+                "path": "data/hd/env/model/Tests/test_cube_foliage.model"
+            }
+        ],
+        "skeletons": [
+            {
+                "path": "data/hd/character/enemy/crownest1/skeleton/crownest1.skeleton"
+            }
+        ],
+        "animations": [],
+        "textures": [
+            {
+                "path": "data/hd/character/enemy/spiritwell/textures/sw_dead_alb.texture"
+            },
+            {
+                "path": "data/hd/character/enemy/spiritwell/textures/sw_dead_sss.texture"
+            }
+        ],
+        "physics": [],
+        "json": [
+            {
+                "path": "data/hd/character/enemy/spiritwell/spiritwell_state_machine.json"
+            }
+        ],
+        "variantdata": [],
+        "objecteffects": [],
+        "other": []
+    },
+    "type": "UnitDefinition",
+    "name": "spiritwell",
+    "entities": [
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 2973992201,
+            "components": [
+                {
+                    "type": "UnitRootComponent",
+                    "name": "component_root",
+                    "state_machine_filename": "data/hd/character/enemy/spiritwell/spiritwell_state_machine.json",
+                    "doNotInheritRotation": true,
+                    "rotationOverride": {
+                        "x": 0.0,
+                        "y": 0.3826834,
+                        "z": 0.0,
+                        "w": 0.9238795
+                    },
+                    "doNotUseHDHeight": false,
+                    "hideAllMeshWhenInOpenedMode": false,
+                    "onCreateEventName": "",
+                    "animations": []
+                },
+                {
+                    "type": "SkeletonDefinitionComponent",
+                    "name": "component_skeleton",
+                    "filename": "data/hd/character/enemy/crownest1/skeleton/crownest1.skeleton",
+                    "enableWeaponAttachInertialization": false
+                },
+                {
+                    "type": "DeadAnimationSpeedOverrideComponent",
+                    "name": "entity_root_DeadAnimationSpeedOverrideComponent",
+                    "speed": 1.0
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "entity_root_TransformDefinition",
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.65,
+                        "y": 0.65,
+                        "z": 0.65
+                    },
+                    "inheritOnlyPosition": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_torso",
+            "id": 3829381569,
+            "components": [
+                {
+                    "type": "UnitPartComponent",
+                    "name": "component_part_torso",
+                    "part": "torso",
+                    "variant": "lit"
+                },
+                {
+                    "type": "ModelDefinitionComponent",
+                    "name": "component_model_torso",
+                    "filename": "data/hd/env/model/expansion/baallair/expansion_baallair_crystals/crystals02.model",
+                    "visibleLayers": 1,
+                    "lightMask": 19,
+                    "shadowMask": 3,
+                    "ghostShadows": false,
+                    "floorModel": false,
+                    "terrainBlendEnableYUpBlend": false,
+                    "terrainBlendMode": 1
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_dead",
+            "id": 3829381570,
+            "components": [
+                {
+                    "type": "UnitPartComponent",
+                    "name": "component_part_dead",
+                    "part": "torso",
+                    "variant": "lit"
+                },
+                {
+                    "type": "ModelDefinitionComponent",
+                    "name": "component_model_dead",
+                    "filename": "data/hd/env/model/Tests/test_cube_foliage.model",
+                    "visibleLayers": 1,
+                    "lightMask": 19,
+                    "shadowMask": 3,
+                    "ghostShadows": false,
+                    "floorModel": false,
+                    "terrainBlendEnableYUpBlend": false,
+                    "terrainBlendMode": 1
+                }
+            ]
+        }
+    ]
+}

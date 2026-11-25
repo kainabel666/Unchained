@@ -1,0 +1,15 @@
+Aura	Pool	Skill	Weight	MinLevel	MaxLevel	LevelAdd	LevelMul	LevelDiv	FixedLevel	BoundSkill	BoundAdd	BoundMul	BoundDiv	Monster	SuperUnique
+Might	1	98	1				1	6		113		1	6		
+Holy Fire	1	368	1				1	6		115		1	6		
+Blessed Aim	1	108	1				1	5		103		1	10		
+Holy Freeze	1	365	1				1	7							
+Conviction	1	123	1				1	8		122		1	8		
+Fanaticism	1	122	1				1	8							
+Holy Shock	1	369	1	20			1	8		115		1	6		
+Lord De Seis	1	122	1				1	8							37
+Uber Mephisto	1	123	1						20					704	
+Extra Concentration	2	113	1				1	6							
+Extra Vigor	2	115	1				1	6							
+Extra Herald Thorns	2	428	1				1	10							
+Coldcrow Holy Freeze	1	365	1				1	7							2
+Horazon	3	503	1						1					211	

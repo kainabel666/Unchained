@@ -1271,3 +1271,424 @@ Act 4 (H) Herald C	41	87	-6	800	800	850	1024	0	Act 4 (H) Herald Item K	2	Act 4 (
 Act 5 (H) Herald A	41	90	-6	800	800	850	1024	0	Act 5 (H) Herald Item L	2	Act 5 (H) Herald Item L - 1 Extra	1	Act 5 (H) Herald Item L - 2 Extra	1	Potion	2																						0
 Act 5 (H) Herald B	41	93	-6	800	800	850	1024	0	Act 5 (H) Herald Item M	2	Act 5 (H) Herald Item M - 1 Extra	1	Act 5 (H) Herald Item M - 2 Extra	1	Potion	2																						0
 Act 5 (H) Herald C	41	96	-6	800	800	850	1024	0	Act 5 (H) Herald Item N	2	Act 5 (H) Herald Item N - 1 Extra	1	Act 5 (H) Herald Item N - 2 Extra	1	Potion	2																						0
+Smith Mats T1			1					0	wd1	1	mt1	1	st1	1	sg1	1	lt1	1	fr1	1																		0
+Smith Mats T2			1					0	wd2	1	mt2	1	st2	1	sg2	1	lt2	1	fr2	1																		0
+Smith Mats T3			1					0	wd3	1	mt3	1	st3	1	sg3	1	lt3	1	fr3	1																		0
+Smith Blueprints			1					0	bpa	1	bpb	1	bpc	1	bpd	1	bpe	1	bpf	1	bpg	1	bph	1	bpi	1												0
+Smith Drop Nor Reg			1					296	Smith Mats T1	3	Smith Blueprints	1																										0
+Smith Drop Nor Champ			1					196	Smith Mats T1	3	Smith Blueprints	1																										0
+Smith Drop Nor Unique			1					90	Smith Mats T1	3	Smith Blueprints	1																										0
+Smith Drop N Reg			1					1000	Smith Mats T2	3	Smith Blueprints	1																										0
+Smith Drop N Champ			1					1000	Smith Mats T2	3	Smith Blueprints	1																										0
+Smith Drop N Unique			1					496	Smith Mats T2	3	Smith Blueprints	1																										0
+Smith Drop H Reg			1					1000	Smith Mats T3	3	Smith Blueprints	1																										0
+Smith Drop H Champ			1					1000	Smith Mats T3	3	Smith Blueprints	1																										0
+Smith Drop H Unique			1					496	Smith Mats T3	3	Smith Blueprints	1																										0
+Act 1 H2H A +Sr			-2						Act 1 H2H A	1	Smith Drop Nor Reg	1																										0
+Act 1 Champ A +Sc			-2						Act 1 Champ A	1	Smith Drop Nor Champ	1																										0
+Act 1 Unique A +Su			-2						Act 1 Unique A	1	Smith Drop Nor Unique	1																										0
+Act 2 H2H C +Sr			-2						Act 2 H2H C	1	Smith Drop Nor Reg	1																										0
+Act 2 Champ C +Sc			-2						Act 2 Champ C	1	Smith Drop Nor Champ	1																										0
+Act 2 Unique C +Su			-2						Act 2 Unique C	1	Smith Drop Nor Unique	1																										0
+Act 1 Cast B +Sr			-2						Act 1 Cast B	1	Smith Drop Nor Reg	1																										0
+Act 1 Champ B +Sc			-2						Act 1 Champ B	1	Smith Drop Nor Champ	1																										0
+Act 1 Unique B +Su			-2						Act 1 Unique B	1	Smith Drop Nor Unique	1																										0
+Act 1 Cast A +Sr			-2						Act 1 Cast A	1	Smith Drop Nor Reg	1																										0
+Act 3 H2H B +Sr			-2						Act 3 H2H B	1	Smith Drop Nor Reg	1																										0
+Act 3 Champ B +Sc			-2						Act 3 Champ B	1	Smith Drop Nor Champ	1																										0
+Act 3 Unique B +Su			-2						Act 3 Unique B	1	Smith Drop Nor Unique	1																										0
+Quill 1 +Sr			-2						Quill 1	1	Smith Drop Nor Reg	1																										0
+Act 1 H2H C +Sr			-2						Act 1 H2H C	1	Smith Drop Nor Reg	1																										0
+Act 1 Champ C +Sc			-2						Act 1 Champ C	1	Smith Drop Nor Champ	1																										0
+Act 1 Unique C +Su			-2						Act 1 Unique C	1	Smith Drop Nor Unique	1																										0
+Act 2 H2H A +Sr			-2						Act 2 H2H A	1	Smith Drop Nor Reg	1																										0
+Act 2 Champ A +Sc			-2						Act 2 Champ A	1	Smith Drop Nor Champ	1																										0
+Act 2 Unique A +Su			-2						Act 2 Unique A	1	Smith Drop Nor Unique	1																										0
+Act 3 Cast A +Sr			-2						Act 3 Cast A	1	Smith Drop Nor Reg	1																										0
+Act 3 Champ A +Sc			-2						Act 3 Champ A	1	Smith Drop Nor Champ	1																										0
+Act 3 Unique A +Su			-2						Act 3 Unique A	1	Smith Drop Nor Unique	1																										0
+Act 3 Cast B +Sr			-2						Act 3 Cast B	1	Smith Drop Nor Reg	1																										0
+Act 1 Miss B +Sr			-2						Act 1 Miss B	1	Smith Drop Nor Reg	1																										0
+Act 1 Miss C +Sr			-2						Act 1 Miss C	1	Smith Drop Nor Reg	1																										0
+Act 1 Cast C +Sr			-2						Act 1 Cast C	1	Smith Drop Nor Reg	1																										0
+Act 5 Cast C +Sr			-2						Act 5 Cast C	1	Smith Drop Nor Reg	1																										0
+Act 5 Champ C +Sc			-2						Act 5 Champ C	1	Smith Drop Nor Champ	1																										0
+Act 5 Unique C +Su			-2						Act 5 Unique C	1	Smith Drop Nor Unique	1																										0
+Act 1 Miss A +Sr			-2						Act 1 Miss A	1	Smith Drop Nor Reg	1																										0
+Act 3 Miss B +Sr			-2						Act 3 Miss B	1	Smith Drop Nor Reg	1																										0
+Act 1 H2H B +Sr			-2						Act 1 H2H B	1	Smith Drop Nor Reg	1																										0
+Trapped Soul +Sr			-2						Trapped Soul	1	Smith Drop Nor Reg	1																										0
+Trapped Soul +Sc			-2						Trapped Soul	1	Smith Drop Nor Champ	1																										0
+Trapped Soul +Su			-2						Trapped Soul	1	Smith Drop Nor Unique	1																										0
+Trapped Soul (N) +SrN			-2						Trapped Soul (N)	1	Smith Drop N Reg	1																										0
+Trapped Soul (N) +ScN			-2						Trapped Soul (N)	1	Smith Drop N Champ	1																										0
+Trapped Soul (N) +SuN			-2						Trapped Soul (N)	1	Smith Drop N Unique	1																										0
+Trapped Soul (H) +SrH			-2						Trapped Soul (H)	1	Smith Drop H Reg	1																										0
+Trapped Soul (H) +ScH			-2						Trapped Soul (H)	1	Smith Drop H Champ	1																										0
+Trapped Soul (H) +SuH			-2						Trapped Soul (H)	1	Smith Drop H Unique	1																										0
+Act 3 H2H A +Sr			-2						Act 3 H2H A	1	Smith Drop Nor Reg	1																										0
+Act 3 Wraith B +Sr			-2						Act 3 Wraith B	1	Smith Drop Nor Reg	1																										0
+Act 2 Cast C +Sr			-2						Act 2 Cast C	1	Smith Drop Nor Reg	1																										0
+Act 2 Cast A +Sr			-2						Act 2 Cast A	1	Smith Drop Nor Reg	1																										0
+Act 1 Wraith B +Sr			-2						Act 1 Wraith B	1	Smith Drop Nor Reg	1																										0
+Act 1 Wraith C +Sr			-2						Act 1 Wraith C	1	Smith Drop Nor Reg	1																										0
+Act 2 Wraith C +Sr			-2						Act 2 Wraith C	1	Smith Drop Nor Reg	1																										0
+Act 2 H2H B +Sr			-2						Act 2 H2H B	1	Smith Drop Nor Reg	1																										0
+Act 2 Champ B +Sc			-2						Act 2 Champ B	1	Smith Drop Nor Champ	1																										0
+Act 2 Unique B +Su			-2						Act 2 Unique B	1	Smith Drop Nor Unique	1																										0
+Act 5 H2H A +Sr			-2						Act 5 H2H A	1	Smith Drop Nor Reg	1																										0
+Act 5 Champ A +Sc			-2						Act 5 Champ A	1	Smith Drop Nor Champ	1																										0
+Act 5 Unique A +Su			-2						Act 5 Unique A	1	Smith Drop Nor Unique	1																										0
+Act 1 Super B +Su			-2						Act 1 Super B	1	Smith Drop Nor Unique	1																										0
+Act 1 Super C +Su			-2						Act 1 Super C	1	Smith Drop Nor Unique	1																										0
+Act 1 (H) H2H A +SrH	46	63	-2						Act 1 (H) H2H A	1	Smith Drop H Reg	1																										0
+Act 1 (H) H2H B +SrH	46	66	-2						Act 1 (H) H2H B	1	Smith Drop H Reg	1																										0
+Act 1 (H) H2H C +SrH	46	68	-2						Act 1 (H) H2H C	1	Smith Drop H Reg	1																										0
+Act 2 (H) H2H A +SrH	46	69	-2						Act 2 (H) H2H A	1	Smith Drop H Reg	1																										0
+Act 2 (H) H2H B +SrH	46	71	-2						Act 2 (H) H2H B	1	Smith Drop H Reg	1																										0
+Act 2 (H) H2H C +SrH	46	73	-2						Act 2 (H) H2H C	1	Smith Drop H Reg	1																										0
+Act 3 (H) H2H A +SrH	46	74	-2						Act 3 (H) H2H A	1	Smith Drop H Reg	1																										0
+Act 3 (H) H2H B +SrH	46	76	-2						Act 3 (H) H2H B	1	Smith Drop H Reg	1																										0
+Act 3 (H) H2H C +SrH	46	77	-2						Act 3 (H) H2H C	1	Smith Drop H Reg	1																										0
+Act 4 (H) H2H A +SrH	46	79	-2						Act 4 (H) H2H A	1	Smith Drop H Reg	1																										0
+Act 4 (H) H2H B +SrH	46	80	-2						Act 4 (H) H2H B	1	Smith Drop H Reg	1																										0
+Act 5 (H) H2H A +SrH	46	82	-2						Act 5 (H) H2H A	1	Smith Drop H Reg	1																										0
+Act 5 (H) H2H B +SrH	46	83	-2						Act 5 (H) H2H B	1	Smith Drop H Reg	1																										0
+Act 5 (H) H2H C +SrH	46	85	-2						Act 5 (H) H2H C	1	Smith Drop H Reg	1																										0
+Act 1 (N) H2H A +SrN	47	38	-2						Act 1 (N) H2H A	1	Smith Drop N Reg	1																										0
+Act 1 (N) H2H B +SrN	47	40	-2						Act 1 (N) H2H B	1	Smith Drop N Reg	1																										0
+Act 1 (N) H2H C +SrN	47	41	-2						Act 1 (N) H2H C	1	Smith Drop N Reg	1																										0
+Act 2 (N) H2H A +SrN	47	42	-2						Act 2 (N) H2H A	1	Smith Drop N Reg	1																										0
+Act 2 (N) H2H B +SrN	47	44	-2						Act 2 (N) H2H B	1	Smith Drop N Reg	1																										0
+Act 2 (N) H2H C +SrN	47	45	-2						Act 2 (N) H2H C	1	Smith Drop N Reg	1																										0
+Act 3 (N) H2H A +SrN	47	46	-2						Act 3 (N) H2H A	1	Smith Drop N Reg	1																										0
+Act 3 (N) H2H B +SrN	47	48	-2						Act 3 (N) H2H B	1	Smith Drop N Reg	1																										0
+Act 3 (N) H2H C +SrN	47	50	-2						Act 3 (N) H2H C	1	Smith Drop N Reg	1																										0
+Act 4 (N) H2H A +SrN	47	51	-2						Act 4 (N) H2H A	1	Smith Drop N Reg	1																										0
+Act 4 (N) H2H B +SrN	47	54	-2						Act 4 (N) H2H B	1	Smith Drop N Reg	1																										0
+Act 5 (N) H2H A +SrN	47	57	-2						Act 5 (N) H2H A	1	Smith Drop N Reg	1																										0
+Act 5 (N) H2H B +SrN	47	60	-2						Act 5 (N) H2H B	1	Smith Drop N Reg	1																										0
+Act 5 (N) H2H C +SrN	47	62	-2						Act 5 (N) H2H C	1	Smith Drop N Reg	1																										0
+Act 1 (H) H2H A +SrN	47	63	-2						Act 1 (H) H2H A	1	Smith Drop N Reg	1																										0
+Act 1 (H) H2H B +SrN	47	66	-2						Act 1 (H) H2H B	1	Smith Drop N Reg	1																										0
+Act 1 (H) H2H C +SrN	47	68	-2						Act 1 (H) H2H C	1	Smith Drop N Reg	1																										0
+Act 2 (H) H2H A +SrN	47	69	-2						Act 2 (H) H2H A	1	Smith Drop N Reg	1																										0
+Act 2 (H) H2H B +SrN	47	71	-2						Act 2 (H) H2H B	1	Smith Drop N Reg	1																										0
+Act 2 (H) H2H C +SrN	47	73	-2						Act 2 (H) H2H C	1	Smith Drop N Reg	1																										0
+Act 3 (H) H2H A +SrN	47	74	-2						Act 3 (H) H2H A	1	Smith Drop N Reg	1																										0
+Act 3 (H) H2H B +SrN	47	76	-2						Act 3 (H) H2H B	1	Smith Drop N Reg	1																										0
+Act 3 (H) H2H C +SrN	47	77	-2						Act 3 (H) H2H C	1	Smith Drop N Reg	1																										0
+Act 4 (H) H2H A +SrN	47	79	-2						Act 4 (H) H2H A	1	Smith Drop N Reg	1																										0
+Act 4 (H) H2H B +SrN	47	80	-2						Act 4 (H) H2H B	1	Smith Drop N Reg	1																										0
+Act 5 (H) H2H A +SrN	47	82	-2						Act 5 (H) H2H A	1	Smith Drop N Reg	1																										0
+Act 5 (H) H2H B +SrN	47	83	-2						Act 5 (H) H2H B	1	Smith Drop N Reg	1																										0
+Act 5 (H) H2H C +SrN	47	85	-2						Act 5 (H) H2H C	1	Smith Drop N Reg	1																										0
+Act 1 (H) Cast A +SrH	48	63	-2						Act 1 (H) Cast A	1	Smith Drop H Reg	1																										0
+Act 1 (H) Cast B +SrH	48	66	-2						Act 1 (H) Cast B	1	Smith Drop H Reg	1																										0
+Act 1 (H) Cast C +SrH	48	68	-2						Act 1 (H) Cast C	1	Smith Drop H Reg	1																										0
+Act 2 (H) Cast A +SrH	48	69	-2						Act 2 (H) Cast A	1	Smith Drop H Reg	1																										0
+Act 2 (H) Cast B +SrH	48	71	-2						Act 2 (H) Cast B	1	Smith Drop H Reg	1																										0
+Act 2 (H) Cast C +SrH	48	72	-2						Act 2 (H) Cast C	1	Smith Drop H Reg	1																										0
+Act 3 (H) Cast A +SrH	48	74	-2						Act 3 (H) Cast A	1	Smith Drop H Reg	1																										0
+Act 3 (H) Cast B +SrH	48	75	-2						Act 3 (H) Cast B	1	Smith Drop H Reg	1																										0
+Act 3 (H) Cast C +SrH	48	77	-2						Act 3 (H) Cast C	1	Smith Drop H Reg	1																										0
+Act 4 (H) Cast A +SrH	48	78	-2						Act 4 (H) Cast A	1	Smith Drop H Reg	1																										0
+Act 4 (H) Cast B +SrH	48	80	-2						Act 4 (H) Cast B	1	Smith Drop H Reg	1																										0
+Act 5 (H) Cast A +SrH	48	81	-2						Act 5 (H) Cast A	1	Smith Drop H Reg	1																										0
+Act 5 (H) Cast B +SrH	48	83	-2						Act 5 (H) Cast B	1	Smith Drop H Reg	1																										0
+Act 5 (H) Cast C +SrH	48	85	-2						Act 5 (H) Cast C	1	Smith Drop H Reg	1																										0
+Act 1 (N) Cast A +SrN	49	38	-2						Act 1 (N) Cast A	1	Smith Drop N Reg	1																										0
+Act 1 (N) Cast B +SrN	49	40	-2						Act 1 (N) Cast B	1	Smith Drop N Reg	1																										0
+Act 1 (N) Cast C +SrN	49	41	-2						Act 1 (N) Cast C	1	Smith Drop N Reg	1																										0
+Act 2 (N) Cast A +SrN	49	42	-2						Act 2 (N) Cast A	1	Smith Drop N Reg	1																										0
+Act 2 (N) Cast B +SrN	49	44	-2						Act 2 (N) Cast B	1	Smith Drop N Reg	1																										0
+Act 2 (N) Cast C +SrN	49	45	-2						Act 2 (N) Cast C	1	Smith Drop N Reg	1																										0
+Act 3 (N) Cast A +SrN	49	46	-2						Act 3 (N) Cast A	1	Smith Drop N Reg	1																										0
+Act 3 (N) Cast B +SrN	49	48	-2						Act 3 (N) Cast B	1	Smith Drop N Reg	1																										0
+Act 3 (N) Cast C +SrN	49	50	-2						Act 3 (N) Cast C	1	Smith Drop N Reg	1																										0
+Act 4 (N) Cast A +SrN	49	51	-2						Act 4 (N) Cast A	1	Smith Drop N Reg	1																										0
+Act 4 (N) Cast B +SrN	49	54	-2						Act 4 (N) Cast B	1	Smith Drop N Reg	1																										0
+Act 5 (N) Cast A +SrN	49	57	-2						Act 5 (N) Cast A	1	Smith Drop N Reg	1																										0
+Act 5 (N) Cast B +SrN	49	60	-2						Act 5 (N) Cast B	1	Smith Drop N Reg	1																										0
+Act 5 (N) Cast C +SrN	49	62	-2						Act 5 (N) Cast C	1	Smith Drop N Reg	1																										0
+Act 1 (H) Cast A +SrN	49	63	-2						Act 1 (H) Cast A	1	Smith Drop N Reg	1																										0
+Act 1 (H) Cast B +SrN	49	66	-2						Act 1 (H) Cast B	1	Smith Drop N Reg	1																										0
+Act 1 (H) Cast C +SrN	49	68	-2						Act 1 (H) Cast C	1	Smith Drop N Reg	1																										0
+Act 2 (H) Cast A +SrN	49	69	-2						Act 2 (H) Cast A	1	Smith Drop N Reg	1																										0
+Act 2 (H) Cast B +SrN	49	71	-2						Act 2 (H) Cast B	1	Smith Drop N Reg	1																										0
+Act 2 (H) Cast C +SrN	49	72	-2						Act 2 (H) Cast C	1	Smith Drop N Reg	1																										0
+Act 3 (H) Cast A +SrN	49	74	-2						Act 3 (H) Cast A	1	Smith Drop N Reg	1																										0
+Act 3 (H) Cast B +SrN	49	75	-2						Act 3 (H) Cast B	1	Smith Drop N Reg	1																										0
+Act 3 (H) Cast C +SrN	49	77	-2						Act 3 (H) Cast C	1	Smith Drop N Reg	1																										0
+Act 4 (H) Cast A +SrN	49	78	-2						Act 4 (H) Cast A	1	Smith Drop N Reg	1																										0
+Act 4 (H) Cast B +SrN	49	80	-2						Act 4 (H) Cast B	1	Smith Drop N Reg	1																										0
+Act 5 (H) Cast A +SrN	49	81	-2						Act 5 (H) Cast A	1	Smith Drop N Reg	1																										0
+Act 5 (H) Cast B +SrN	49	83	-2						Act 5 (H) Cast B	1	Smith Drop N Reg	1																										0
+Act 5 (H) Cast C +SrN	49	85	-2						Act 5 (H) Cast C	1	Smith Drop N Reg	1																										0
+Act 1 (H) Miss A +SrH	50	63	-2						Act 1 (H) Miss A	1	Smith Drop H Reg	1																										0
+Act 1 (H) Miss B +SrH	50	66	-2						Act 1 (H) Miss B	1	Smith Drop H Reg	1																										0
+Act 1 (H) Miss C +SrH	50	68	-2						Act 1 (H) Miss C	1	Smith Drop H Reg	1																										0
+Act 2 (H) Miss A +SrH	50	69	-2						Act 2 (H) Miss A	1	Smith Drop H Reg	1																										0
+Act 2 (H) Miss B +SrH	50	71	-2						Act 2 (H) Miss B	1	Smith Drop H Reg	1																										0
+Act 2 (H) Miss C +SrH	50	72	-2						Act 2 (H) Miss C	1	Smith Drop H Reg	1																										0
+Act 3 (H) Miss A +SrH	50	74	-2						Act 3 (H) Miss A	1	Smith Drop H Reg	1																										0
+Act 3 (H) Miss B +SrH	50	75	-2						Act 3 (H) Miss B	1	Smith Drop H Reg	1																										0
+Act 3 (H) Miss C +SrH	50	77	-2						Act 3 (H) Miss C	1	Smith Drop H Reg	1																										0
+Act 4 (H) Miss A +SrH	50	78	-2						Act 4 (H) Miss A	1	Smith Drop H Reg	1																										0
+Act 4 (H) Miss B +SrH	50	80	-2						Act 4 (H) Miss B	1	Smith Drop H Reg	1																										0
+Act 5 (H) Miss A +SrH	50	81	-2						Act 5 (H) Miss A	1	Smith Drop H Reg	1																										0
+Act 5 (H) Miss B +SrH	50	83	-2						Act 5 (H) Miss B	1	Smith Drop H Reg	1																										0
+Act 5 (H) Miss C +SrH	50	85	-2						Act 5 (H) Miss C	1	Smith Drop H Reg	1																										0
+Act 1 (N) Miss A +SrN	51	38	-2						Act 1 (N) Miss A	1	Smith Drop N Reg	1																										0
+Act 1 (N) Miss B +SrN	51	40	-2						Act 1 (N) Miss B	1	Smith Drop N Reg	1																										0
+Act 1 (N) Miss C +SrN	51	41	-2						Act 1 (N) Miss C	1	Smith Drop N Reg	1																										0
+Act 2 (N) Miss A +SrN	51	42	-2						Act 2 (N) Miss A	1	Smith Drop N Reg	1																										0
+Act 2 (N) Miss B +SrN	51	44	-2						Act 2 (N) Miss B	1	Smith Drop N Reg	1																										0
+Act 2 (N) Miss C +SrN	51	45	-2						Act 2 (N) Miss C	1	Smith Drop N Reg	1																										0
+Act 3 (N) Miss A +SrN	51	46	-2						Act 3 (N) Miss A	1	Smith Drop N Reg	1																										0
+Act 3 (N) Miss B +SrN	51	48	-2						Act 3 (N) Miss B	1	Smith Drop N Reg	1																										0
+Act 3 (N) Miss C +SrN	51	50	-2						Act 3 (N) Miss C	1	Smith Drop N Reg	1																										0
+Act 4 (N) Miss A +SrN	51	51	-2						Act 4 (N) Miss A	1	Smith Drop N Reg	1																										0
+Act 4 (N) Miss B +SrN	51	54	-2						Act 4 (N) Miss B	1	Smith Drop N Reg	1																										0
+Act 5 (N) Miss A +SrN	51	57	-2						Act 5 (N) Miss A	1	Smith Drop N Reg	1																										0
+Act 5 (N) Miss B +SrN	51	60	-2						Act 5 (N) Miss B	1	Smith Drop N Reg	1																										0
+Act 5 (N) Miss C +SrN	51	62	-2						Act 5 (N) Miss C	1	Smith Drop N Reg	1																										0
+Act 1 (H) Miss A +SrN	51	63	-2						Act 1 (H) Miss A	1	Smith Drop N Reg	1																										0
+Act 1 (H) Miss B +SrN	51	66	-2						Act 1 (H) Miss B	1	Smith Drop N Reg	1																										0
+Act 1 (H) Miss C +SrN	51	68	-2						Act 1 (H) Miss C	1	Smith Drop N Reg	1																										0
+Act 2 (H) Miss A +SrN	51	69	-2						Act 2 (H) Miss A	1	Smith Drop N Reg	1																										0
+Act 2 (H) Miss B +SrN	51	71	-2						Act 2 (H) Miss B	1	Smith Drop N Reg	1																										0
+Act 2 (H) Miss C +SrN	51	72	-2						Act 2 (H) Miss C	1	Smith Drop N Reg	1																										0
+Act 3 (H) Miss A +SrN	51	74	-2						Act 3 (H) Miss A	1	Smith Drop N Reg	1																										0
+Act 3 (H) Miss B +SrN	51	75	-2						Act 3 (H) Miss B	1	Smith Drop N Reg	1																										0
+Act 3 (H) Miss C +SrN	51	77	-2						Act 3 (H) Miss C	1	Smith Drop N Reg	1																										0
+Act 4 (H) Miss A +SrN	51	78	-2						Act 4 (H) Miss A	1	Smith Drop N Reg	1																										0
+Act 4 (H) Miss B +SrN	51	80	-2						Act 4 (H) Miss B	1	Smith Drop N Reg	1																										0
+Act 5 (H) Miss A +SrN	51	81	-2						Act 5 (H) Miss A	1	Smith Drop N Reg	1																										0
+Act 5 (H) Miss B +SrN	51	83	-2						Act 5 (H) Miss B	1	Smith Drop N Reg	1																										0
+Act 5 (H) Miss C +SrN	51	85	-2						Act 5 (H) Miss C	1	Smith Drop N Reg	1																										0
+Act 1 (H) Wraith B +SrH	52	66	-2						Act 1 (H) Wraith B	1	Smith Drop H Reg	1																										0
+Act 1 (H) Wraith C +SrH	52	68	-2						Act 1 (H) Wraith C	1	Smith Drop H Reg	1																										0
+Act 2 (H) Wraith A +SrH	52	69	-2						Act 2 (H) Wraith A	1	Smith Drop H Reg	1																										0
+Act 2 (H) Wraith B +SrH	52	71	-2						Act 2 (H) Wraith B	1	Smith Drop H Reg	1																										0
+Act 2 (H) Wraith C +SrH	52	72	-2						Act 2 (H) Wraith C	1	Smith Drop H Reg	1																										0
+Act 3 (H) Wraith A +SrH	52	74	-2						Act 3 (H) Wraith A	1	Smith Drop H Reg	1																										0
+Act 3 (H) Wraith B +SrH	52	75	-2						Act 3 (H) Wraith B	1	Smith Drop H Reg	1																										0
+Act 3 (H) Wraith C +SrH	52	77	-2						Act 3 (H) Wraith C	1	Smith Drop H Reg	1																										0
+Act 4 (H) Wraith A +SrH	52	78	-2						Act 4 (H) Wraith A	1	Smith Drop H Reg	1																										0
+Act 4 (H) Wraith B +SrH	52	80	-2						Act 4 (H) Wraith B	1	Smith Drop H Reg	1																										0
+Act 5 (H) Wraith A +SrH	52	81	-2						Act 5 (H) Wraith A	1	Smith Drop H Reg	1																										0
+Act 5 (H) Wraith B +SrH	52	83	-2						Act 5 (H) Wraith B	1	Smith Drop H Reg	1																										0
+Act 5 (H) Wraith C +SrH	52	85	-2						Act 5 (H) Wraith C	1	Smith Drop H Reg	1																										0
+Act 1 (N) Wraith B +SrN	53	40	-2						Act 1 (N) Wraith B	1	Smith Drop N Reg	1																										0
+Act 1 (N) Wraith C +SrN	53	41	-2						Act 1 (N) Wraith C	1	Smith Drop N Reg	1																										0
+Act 2 (N) Wraith A +SrN	53	42	-2						Act 2 (N) Wraith A	1	Smith Drop N Reg	1																										0
+Act 2 (N) Wraith B +SrN	53	44	-2						Act 2 (N) Wraith B	1	Smith Drop N Reg	1																										0
+Act 2 (N) Wraith C +SrN	53	45	-2						Act 2 (N) Wraith C	1	Smith Drop N Reg	1																										0
+Act 3 (N) Wraith A +SrN	53	46	-2						Act 3 (N) Wraith A	1	Smith Drop N Reg	1																										0
+Act 3 (N) Wraith B +SrN	53	48	-2						Act 3 (N) Wraith B	1	Smith Drop N Reg	1																										0
+Act 3 (N) Wraith C +SrN	53	50	-2						Act 3 (N) Wraith C	1	Smith Drop N Reg	1																										0
+Act 4 (N) Wraith A +SrN	53	51	-2						Act 4 (N) Wraith A	1	Smith Drop N Reg	1																										0
+Act 4 (N) Wraith B +SrN	53	54	-2						Act 4 (N) Wraith B	1	Smith Drop N Reg	1																										0
+Act 5 (N) Wraith A +SrN	53	57	-2						Act 5 (N) Wraith A	1	Smith Drop N Reg	1																										0
+Act 5 (N) Wraith B +SrN	53	60	-2						Act 5 (N) Wraith B	1	Smith Drop N Reg	1																										0
+Act 5 (N) Wraith C +SrN	53	62	-2						Act 5 (N) Wraith C	1	Smith Drop N Reg	1																										0
+Act 1 (H) Wraith A +SrN	53	63	-2						Act 1 (H) Wraith A	1	Smith Drop N Reg	1																										0
+Act 1 (H) Wraith B +SrN	53	66	-2						Act 1 (H) Wraith B	1	Smith Drop N Reg	1																										0
+Act 1 (H) Wraith C +SrN	53	68	-2						Act 1 (H) Wraith C	1	Smith Drop N Reg	1																										0
+Act 2 (H) Wraith A +SrN	53	69	-2						Act 2 (H) Wraith A	1	Smith Drop N Reg	1																										0
+Act 2 (H) Wraith B +SrN	53	71	-2						Act 2 (H) Wraith B	1	Smith Drop N Reg	1																										0
+Act 2 (H) Wraith C +SrN	53	72	-2						Act 2 (H) Wraith C	1	Smith Drop N Reg	1																										0
+Act 3 (H) Wraith A +SrN	53	74	-2						Act 3 (H) Wraith A	1	Smith Drop N Reg	1																										0
+Act 3 (H) Wraith B +SrN	53	75	-2						Act 3 (H) Wraith B	1	Smith Drop N Reg	1																										0
+Act 3 (H) Wraith C +SrN	53	77	-2						Act 3 (H) Wraith C	1	Smith Drop N Reg	1																										0
+Act 4 (H) Wraith A +SrN	53	78	-2						Act 4 (H) Wraith A	1	Smith Drop N Reg	1																										0
+Act 4 (H) Wraith B +SrN	53	80	-2						Act 4 (H) Wraith B	1	Smith Drop N Reg	1																										0
+Act 5 (H) Wraith A +SrN	53	81	-2						Act 5 (H) Wraith A	1	Smith Drop N Reg	1																										0
+Act 5 (H) Wraith B +SrN	53	83	-2						Act 5 (H) Wraith B	1	Smith Drop N Reg	1																										0
+Act 5 (H) Wraith C +SrN	53	85	-2						Act 5 (H) Wraith C	1	Smith Drop N Reg	1																										0
+Act 1 (H) Champ A +ScH	54	63	-2						Act 1 (H) Champ A	1	Smith Drop H Champ	1																										0
+Act 1 (H) Champ B +ScH	54	66	-2						Act 1 (H) Champ B	1	Smith Drop H Champ	1																										0
+Act 1 (H) Champ C +ScH	54	68	-2						Act 1 (H) Champ C	1	Smith Drop H Champ	1																										0
+Act 2 (H) Champ A +ScH	54	69	-2						Act 2 (H) Champ A	1	Smith Drop H Champ	1																										0
+Act 2 (H) Champ B +ScH	54	71	-2						Act 2 (H) Champ B	1	Smith Drop H Champ	1																										0
+Act 2 (H) Champ C +ScH	54	72	-2						Act 2 (H) Champ C	1	Smith Drop H Champ	1																										0
+Act 3 (H) Champ A +ScH	54	74	-2						Act 3 (H) Champ A	1	Smith Drop H Champ	1																										0
+Act 3 (H) Champ B +ScH	54	75	-2						Act 3 (H) Champ B	1	Smith Drop H Champ	1																										0
+Act 3 (H) Champ C +ScH	54	77	-2						Act 3 (H) Champ C	1	Smith Drop H Champ	1																										0
+Act 4 (H) Champ A +ScH	54	78	-2						Act 4 (H) Champ A	1	Smith Drop H Champ	1																										0
+Act 4 (H) Champ B +ScH	54	80	-2						Act 4 (H) Champ B	1	Smith Drop H Champ	1																										0
+Act 5 (H) Champ A +ScH	54	81	-2						Act 5 (H) Champ A	1	Smith Drop H Champ	1																										0
+Act 5 (H) Champ B +ScH	54	83	-2						Act 5 (H) Champ B	1	Smith Drop H Champ	1																										0
+Act 5 (H) Champ C +ScH	54	85	-2						Act 5 (H) Champ C	1	Smith Drop H Champ	1																										0
+Act 1 (N) Champ A +ScN	55	38	-2						Act 1 (N) Champ A	1	Smith Drop N Champ	1																										0
+Act 1 (N) Champ B +ScN	55	40	-2						Act 1 (N) Champ B	1	Smith Drop N Champ	1																										0
+Act 1 (N) Champ C +ScN	55	41	-2						Act 1 (N) Champ C	1	Smith Drop N Champ	1																										0
+Act 2 (N) Champ A +ScN	55	42	-2						Act 2 (N) Champ A	1	Smith Drop N Champ	1																										0
+Act 2 (N) Champ B +ScN	55	44	-2						Act 2 (N) Champ B	1	Smith Drop N Champ	1																										0
+Act 2 (N) Champ C +ScN	55	45	-2						Act 2 (N) Champ C	1	Smith Drop N Champ	1																										0
+Act 3 (N) Champ A +ScN	55	46	-2						Act 3 (N) Champ A	1	Smith Drop N Champ	1																										0
+Act 3 (N) Champ B +ScN	55	48	-2						Act 3 (N) Champ B	1	Smith Drop N Champ	1																										0
+Act 3 (N) Champ C +ScN	55	50	-2						Act 3 (N) Champ C	1	Smith Drop N Champ	1																										0
+Act 4 (N) Champ A +ScN	55	51	-2						Act 4 (N) Champ A	1	Smith Drop N Champ	1																										0
+Act 4 (N) Champ B +ScN	55	54	-2						Act 4 (N) Champ B	1	Smith Drop N Champ	1																										0
+Act 4 (N) Champ C +ScN	55	56	-2						Act 4 (N) Champ C	1	Smith Drop N Champ	1																										0
+Act 5 (N) Champ A +ScN	55	57	-2						Act 5 (N) Champ A	1	Smith Drop N Champ	1																										0
+Act 5 (N) Champ B +ScN	55	60	-2						Act 5 (N) Champ B	1	Smith Drop N Champ	1																										0
+Act 5 (N) Champ C +ScN	55	62	-2						Act 5 (N) Champ C	1	Smith Drop N Champ	1																										0
+Act 1 (H) Champ A +ScN	55	63	-2						Act 1 (H) Champ A	1	Smith Drop N Champ	1																										0
+Act 1 (H) Champ B +ScN	55	66	-2						Act 1 (H) Champ B	1	Smith Drop N Champ	1																										0
+Act 1 (H) Champ C +ScN	55	68	-2						Act 1 (H) Champ C	1	Smith Drop N Champ	1																										0
+Act 2 (H) Champ A +ScN	55	69	-2						Act 2 (H) Champ A	1	Smith Drop N Champ	1																										0
+Act 2 (H) Champ B +ScN	55	71	-2						Act 2 (H) Champ B	1	Smith Drop N Champ	1																										0
+Act 2 (H) Champ C +ScN	55	72	-2						Act 2 (H) Champ C	1	Smith Drop N Champ	1																										0
+Act 3 (H) Champ A +ScN	55	74	-2						Act 3 (H) Champ A	1	Smith Drop N Champ	1																										0
+Act 3 (H) Champ B +ScN	55	75	-2						Act 3 (H) Champ B	1	Smith Drop N Champ	1																										0
+Act 3 (H) Champ C +ScN	55	77	-2						Act 3 (H) Champ C	1	Smith Drop N Champ	1																										0
+Act 4 (H) Champ A +ScN	55	78	-2						Act 4 (H) Champ A	1	Smith Drop N Champ	1																										0
+Act 4 (H) Champ B +ScN	55	80	-2						Act 4 (H) Champ B	1	Smith Drop N Champ	1																										0
+Act 5 (H) Champ A +ScN	55	81	-2						Act 5 (H) Champ A	1	Smith Drop N Champ	1																										0
+Act 5 (H) Champ B +ScN	55	83	-2						Act 5 (H) Champ B	1	Smith Drop N Champ	1																										0
+Act 5 (H) Champ C +ScN	55	85	-2						Act 5 (H) Champ C	1	Smith Drop N Champ	1																										0
+Act 1 (H) Unique A +SuH	56	63	-2						Act 1 (H) Unique A	1	Smith Drop H Unique	1																										0
+Act 1 (H) Unique B +SuH	56	66	-2						Act 1 (H) Unique B	1	Smith Drop H Unique	1																										0
+Act 1 (H) Unique C +SuH	56	68	-2						Act 1 (H) Unique C	1	Smith Drop H Unique	1																										0
+Act 2 (H) Unique A +SuH	56	69	-2						Act 2 (H) Unique A	1	Smith Drop H Unique	1																										0
+Act 2 (H) Unique B +SuH	56	71	-2						Act 2 (H) Unique B	1	Smith Drop H Unique	1																										0
+Act 2 (H) Unique C +SuH	56	72	-2						Act 2 (H) Unique C	1	Smith Drop H Unique	1																										0
+Act 3 (H) Unique A +SuH	56	74	-2						Act 3 (H) Unique A	1	Smith Drop H Unique	1																										0
+Act 3 (H) Unique B +SuH	56	75	-2						Act 3 (H) Unique B	1	Smith Drop H Unique	1																										0
+Act 3 (H) Unique C +SuH	56	77	-2						Act 3 (H) Unique C	1	Smith Drop H Unique	1																										0
+Act 4 (H) Unique A +SuH	56	78	-2						Act 4 (H) Unique A	1	Smith Drop H Unique	1																										0
+Act 4 (H) Unique B +SuH	56	80	-2						Act 4 (H) Unique B	1	Smith Drop H Unique	1																										0
+Act 5 (H) Unique A +SuH	56	81	-2						Act 5 (H) Unique A	1	Smith Drop H Unique	1																										0
+Act 5 (H) Unique B +SuH	56	83	-2						Act 5 (H) Unique B	1	Smith Drop H Unique	1																										0
+Act 5 (H) Unique C +SuH	56	85	-2						Act 5 (H) Unique C	1	Smith Drop H Unique	1																										0
+Act 1 (N) Unique A +SuN	57	38	-2						Act 1 (N) Unique A	1	Smith Drop N Unique	1																										0
+Act 1 (N) Unique B +SuN	57	40	-2						Act 1 (N) Unique B	1	Smith Drop N Unique	1																										0
+Act 1 (N) Unique C +SuN	57	41	-2						Act 1 (N) Unique C	1	Smith Drop N Unique	1																										0
+Act 2 (N) Unique A +SuN	57	42	-2						Act 2 (N) Unique A	1	Smith Drop N Unique	1																										0
+Act 2 (N) Unique B +SuN	57	44	-2						Act 2 (N) Unique B	1	Smith Drop N Unique	1																										0
+Act 2 (N) Unique C +SuN	57	45	-2						Act 2 (N) Unique C	1	Smith Drop N Unique	1																										0
+Act 3 (N) Unique A +SuN	57	46	-2						Act 3 (N) Unique A	1	Smith Drop N Unique	1																										0
+Act 3 (N) Unique B +SuN	57	48	-2						Act 3 (N) Unique B	1	Smith Drop N Unique	1																										0
+Act 3 (N) Unique C +SuN	57	50	-2						Act 3 (N) Unique C	1	Smith Drop N Unique	1																										0
+Act 4 (N) Unique A +SuN	57	51	-2						Act 4 (N) Unique A	1	Smith Drop N Unique	1																										0
+Act 4 (N) Unique B +SuN	57	54	-2						Act 4 (N) Unique B	1	Smith Drop N Unique	1																										0
+Act 5 (N) Unique A +SuN	57	57	-2						Act 5 (N) Unique A	1	Smith Drop N Unique	1																										0
+Act 5 (N) Unique B +SuN	57	60	-2						Act 5 (N) Unique B	1	Smith Drop N Unique	1																										0
+Act 5 (N) Unique C +SuN	57	62	-2						Act 5 (N) Unique C	1	Smith Drop N Unique	1																										0
+Act 1 (H) Unique A +SuN	57	63	-2						Act 1 (H) Unique A	1	Smith Drop N Unique	1																										0
+Act 1 (H) Unique B +SuN	57	66	-2						Act 1 (H) Unique B	1	Smith Drop N Unique	1																										0
+Act 1 (H) Unique C +SuN	57	68	-2						Act 1 (H) Unique C	1	Smith Drop N Unique	1																										0
+Act 2 (H) Unique A +SuN	57	69	-2						Act 2 (H) Unique A	1	Smith Drop N Unique	1																										0
+Act 2 (H) Unique B +SuN	57	71	-2						Act 2 (H) Unique B	1	Smith Drop N Unique	1																										0
+Act 2 (H) Unique C +SuN	57	72	-2						Act 2 (H) Unique C	1	Smith Drop N Unique	1																										0
+Act 3 (H) Unique A +SuN	57	74	-2						Act 3 (H) Unique A	1	Smith Drop N Unique	1																										0
+Act 3 (H) Unique B +SuN	57	75	-2						Act 3 (H) Unique B	1	Smith Drop N Unique	1																										0
+Act 3 (H) Unique C +SuN	57	77	-2						Act 3 (H) Unique C	1	Smith Drop N Unique	1																										0
+Act 4 (H) Unique A +SuN	57	78	-2						Act 4 (H) Unique A	1	Smith Drop N Unique	1																										0
+Act 4 (H) Unique B +SuN	57	80	-2						Act 4 (H) Unique B	1	Smith Drop N Unique	1																										0
+Act 5 (H) Unique A +SuN	57	81	-2						Act 5 (H) Unique A	1	Smith Drop N Unique	1																										0
+Act 5 (H) Unique B +SuN	57	83	-2						Act 5 (H) Unique B	1	Smith Drop N Unique	1																										0
+Act 5 (H) Unique C +SuN	57	85	-2						Act 5 (H) Unique C	1	Smith Drop N Unique	1																										0
+Quill 1 (H) +SrH	58	60	-2						Quill 1 (H)	1	Smith Drop H Reg	1																										0
+Quill 2 (H) +SrH	58	62	-2						Quill 2 (H)	1	Smith Drop H Reg	1																										0
+Quill 3 (H) +SrH	58	65	-2						Quill 3 (H)	1	Smith Drop H Reg	1																										0
+Quill 4 (H) +SrH	58	68	-2						Quill 4 (H)	1	Smith Drop H Reg	1																										0
+Quill 5 (H) +SrH	58	85	-2						Quill 5 (H)	1	Smith Drop H Reg	1																										0
+Quill 1 (N) +SrN	59	32	-2						Quill 1 (N)	1	Smith Drop N Reg	1																										0
+Quill 2 (N) +SrN	59	35	-2						Quill 2 (N)	1	Smith Drop N Reg	1																										0
+Quill 3 (N) +SrN	59	38	-2						Quill 3 (N)	1	Smith Drop N Reg	1																										0
+Quill 4 (N) +SrN	59	40	-2						Quill 4 (N)	1	Smith Drop N Reg	1																										0
+Quill 5 (N) +SrN	59	46	-2						Quill 5 (N)	1	Smith Drop N Reg	1																										0
+Quill 1 (H) +SrN	59	60	-2						Quill 1 (H)	1	Smith Drop N Reg	1																										0
+Quill 2 (H) +SrN	59	62	-2						Quill 2 (H)	1	Smith Drop N Reg	1																										0
+Quill 3 (H) +SrN	59	65	-2						Quill 3 (H)	1	Smith Drop N Reg	1																										0
+Quill 4 (H) +SrN	59	68	-2						Quill 4 (H)	1	Smith Drop N Reg	1																										0
+Quill 5 (H) +SrN	59	85	-2						Quill 5 (H)	1	Smith Drop N Reg	1																										0
+Act 1 (H) Super B +SuH	60	67	-2						Act 1 (H) Super B	1	Smith Drop H Unique	1																										0
+Act 1 (H) Super C +SuH	60	68	-2						Act 1 (H) Super C	1	Smith Drop H Unique	1																										0
+Act 2 (H) Super A +SuH	60	68	-2						Act 2 (H) Super A	1	Smith Drop H Unique	1																										0
+Act 2 (H) Super B +SuH	60	69	-2						Act 2 (H) Super B	1	Smith Drop H Unique	1																										0
+Act 2 (H) Super C +SuH	60	72	-2						Act 2 (H) Super C	1	Smith Drop H Unique	1																										0
+Act 3 (H) Super A +SuH	60	73	-2						Act 3 (H) Super A	1	Smith Drop H Unique	1																										0
+Act 3 (H) Super B +SuH	60	75	-2						Act 3 (H) Super B	1	Smith Drop H Unique	1																										0
+Act 3 (H) Super C +SuH	60	78	-2						Act 3 (H) Super C	1	Smith Drop H Unique	1																										0
+Act 4 (H) Super A +SuH	60	81	-2						Act 4 (H) Super A	1	Smith Drop H Unique	1																										0
+Act 4 (H) Super B +SuH	60	84	-2						Act 4 (H) Super B	1	Smith Drop H Unique	1																										0
+Act 4 (H) Super C +SuH	60	87	-2						Act 4 (H) Super C	1	Smith Drop H Unique	1																										0
+Act 5 (H) Super A +SuH	60	90	-2						Act 5 (H) Super A	1	Smith Drop H Unique	1																										0
+Act 5 (H) Super B +SuH	60	93	-2						Act 5 (H) Super B	1	Smith Drop H Unique	1																										0
+Act 5 (H) Super C +SuH	60	96	-2						Act 5 (H) Super C	1	Smith Drop H Unique	1																										0
+Act 1 (N) Super B +SuN	61	41	-2						Act 1 (N) Super B	1	Smith Drop N Unique	1																										0
+Act 1 (N) Super C +SuN	61	42	-2						Act 1 (N) Super C	1	Smith Drop N Unique	1																										0
+Act 2 (N) Super A +SuN	61	44	-2						Act 2 (N) Super A	1	Smith Drop N Unique	1																										0
+Act 2 (N) Super B +SuN	61	45	-2						Act 2 (N) Super B	1	Smith Drop N Unique	1																										0
+Act 2 (N) Super C +SuN	61	46	-2						Act 2 (N) Super C	1	Smith Drop N Unique	1																										0
+Act 3 (N) Super A +SuN	61	48	-2						Act 3 (N) Super A	1	Smith Drop N Unique	1																										0
+Act 3 (N) Super B +SuN	61	50	-2						Act 3 (N) Super B	1	Smith Drop N Unique	1																										0
+Act 3 (N) Super C +SuN	61	51	-2						Act 3 (N) Super C	1	Smith Drop N Unique	1																										0
+Act 4 (N) Super A +SuN	61	54	-2						Act 4 (N) Super A	1	Smith Drop N Unique	1																										0
+Act 4 (N) Super B +SuN	61	57	-2						Act 4 (N) Super B	1	Smith Drop N Unique	1																										0
+Act 4 (N) Super C +SuN	61	60	-2						Act 4 (N) Super C	1	Smith Drop N Unique	1																										0
+Act 5 (N) Super A +SuN	61	62	-2						Act 5 (N) Super A	1	Smith Drop N Unique	1																										0
+Act 5 (N) Super B +SuN	61	63	-2						Act 5 (N) Super B	1	Smith Drop N Unique	1																										0
+Act 5 (N) Super C +SuN	61	66	-2						Act 5 (N) Super C	1	Smith Drop N Unique	1																										0
+Act 1 (H) Super A +SuN	61	67	-2						Act 1 (H) Super A	1	Smith Drop N Unique	1																										0
+Act 1 (H) Super B +SuN	61	67	-2						Act 1 (H) Super B	1	Smith Drop N Unique	1																										0
+Act 1 (H) Super C +SuN	61	68	-2						Act 1 (H) Super C	1	Smith Drop N Unique	1																										0
+Act 2 (H) Super A +SuN	61	68	-2						Act 2 (H) Super A	1	Smith Drop N Unique	1																										0
+Act 2 (H) Super B +SuN	61	69	-2						Act 2 (H) Super B	1	Smith Drop N Unique	1																										0
+Act 2 (H) Super C +SuN	61	72	-2						Act 2 (H) Super C	1	Smith Drop N Unique	1																										0
+Act 3 (H) Super A +SuN	61	73	-2						Act 3 (H) Super A	1	Smith Drop N Unique	1																										0
+Act 3 (H) Super B +SuN	61	75	-2						Act 3 (H) Super B	1	Smith Drop N Unique	1																										0
+Act 3 (H) Super C +SuN	61	78	-2						Act 3 (H) Super C	1	Smith Drop N Unique	1																										0
+Act 4 (H) Super A +SuN	61	81	-2						Act 4 (H) Super A	1	Smith Drop N Unique	1																										0
+Act 4 (H) Super B +SuN	61	84	-2						Act 4 (H) Super B	1	Smith Drop N Unique	1																										0
+Act 4 (H) Super C +SuN	61	87	-2						Act 4 (H) Super C	1	Smith Drop N Unique	1																										0
+Act 5 (H) Super A +SuN	61	90	-2						Act 5 (H) Super A	1	Smith Drop N Unique	1																										0
+Act 5 (H) Super B +SuN	61	93	-2						Act 5 (H) Super B	1	Smith Drop N Unique	1																										0
+Act 5 (H) Super C +SuN	61	96	-2						Act 5 (H) Super C	1	Smith Drop N Unique	1																										0
+Act 1 (H) Champ A Desecrated +ScH	62	63	-2						Act 1 (H) Champ A Desecrated	1	Smith Drop H Champ	1																										0
+Act 1 (H) Champ B Desecrated +ScH	62	66	-2						Act 1 (H) Champ B Desecrated	1	Smith Drop H Champ	1																										0
+Act 1 (H) Champ C Desecrated +ScH	62	68	-2						Act 1 (H) Champ C Desecrated	1	Smith Drop H Champ	1																										0
+Act 2 (H) Champ A Desecrated +ScH	62	69	-2						Act 2 (H) Champ A Desecrated	1	Smith Drop H Champ	1																										0
+Act 2 (H) Champ B Desecrated +ScH	62	71	-2						Act 2 (H) Champ B Desecrated	1	Smith Drop H Champ	1																										0
+Act 2 (H) Champ C Desecrated +ScH	62	72	-2						Act 2 (H) Champ C Desecrated	1	Smith Drop H Champ	1																										0
+Act 3 (H) Champ A Desecrated +ScH	62	74	-2						Act 3 (H) Champ A Desecrated	1	Smith Drop H Champ	1																										0
+Act 3 (H) Champ B Desecrated +ScH	62	75	-2						Act 3 (H) Champ B Desecrated	1	Smith Drop H Champ	1																										0
+Act 3 (H) Champ C Desecrated +ScH	62	77	-2						Act 3 (H) Champ C Desecrated	1	Smith Drop H Champ	1																										0
+Act 4 (H) Champ A Desecrated +ScH	62	78	-2						Act 4 (H) Champ A Desecrated	1	Smith Drop H Champ	1																										0
+Act 4 (H) Champ B Desecrated +ScH	62	80	-2						Act 4 (H) Champ B Desecrated	1	Smith Drop H Champ	1																										0
+Act 5 (H) Champ A Desecrated +ScH	62	81	-2						Act 5 (H) Champ A Desecrated	1	Smith Drop H Champ	1																										0
+Act 5 (H) Champ B Desecrated +ScH	62	83	-2						Act 5 (H) Champ B Desecrated	1	Smith Drop H Champ	1																										0
+Act 5 (H) Champ C Desecrated +ScH	62	85	-2						Act 5 (H) Champ C Desecrated	1	Smith Drop H Champ	1																										0
+Act 1 (H) Unique A Desecrated +SuH	63	63	-2						Act 1 (H) Unique A Desecrated	1	Smith Drop H Unique	1																										0
+Act 1 (H) Unique B Desecrated +SuH	63	66	-2						Act 1 (H) Unique B Desecrated	1	Smith Drop H Unique	1																										0
+Act 1 (H) Unique C Desecrated +SuH	63	68	-2						Act 1 (H) Unique C Desecrated	1	Smith Drop H Unique	1																										0
+Act 2 (H) Unique A Desecrated +SuH	63	69	-2						Act 2 (H) Unique A Desecrated	1	Smith Drop H Unique	1																										0
+Act 2 (H) Unique B Desecrated +SuH	63	71	-2						Act 2 (H) Unique B Desecrated	1	Smith Drop H Unique	1																										0
+Act 2 (H) Unique C Desecrated +SuH	63	72	-2						Act 2 (H) Unique C Desecrated	1	Smith Drop H Unique	1																										0
+Act 3 (H) Unique A Desecrated +SuH	63	74	-2						Act 3 (H) Unique A Desecrated	1	Smith Drop H Unique	1																										0
+Act 3 (H) Unique B Desecrated +SuH	63	75	-2						Act 3 (H) Unique B Desecrated	1	Smith Drop H Unique	1																										0
+Act 3 (H) Unique C Desecrated +SuH	63	77	-2						Act 3 (H) Unique C Desecrated	1	Smith Drop H Unique	1																										0
+Act 4 (H) Unique A Desecrated +SuH	63	78	-2						Act 4 (H) Unique A Desecrated	1	Smith Drop H Unique	1																										0
+Act 4 (H) Unique B Desecrated +SuH	63	80	-2						Act 4 (H) Unique B Desecrated	1	Smith Drop H Unique	1																										0
+Act 5 (H) Unique A Desecrated +SuH	63	81	-2						Act 5 (H) Unique A Desecrated	1	Smith Drop H Unique	1																										0
+Act 5 (H) Unique B Desecrated +SuH	63	83	-2						Act 5 (H) Unique B Desecrated	1	Smith Drop H Unique	1																										0
+Act 5 (H) Unique C Desecrated +SuH	63	85	-2						Act 5 (H) Unique C Desecrated	1	Smith Drop H Unique	1																										0
+Act 1 (H) Super B Desecrated +SuH	64	67	-2						Act 1 (H) Super B Desecrated	1	Smith Drop H Unique	1																										0
+Act 1 (H) Super C Desecrated +SuH	64	68	-2						Act 1 (H) Super C Desecrated	1	Smith Drop H Unique	1																										0
+Act 2 (H) Super A Desecrated +SuH	64	68	-2						Act 2 (H) Super A Desecrated	1	Smith Drop H Unique	1																										0
+Act 2 (H) Super B Desecrated +SuH	64	69	-2						Act 2 (H) Super B Desecrated	1	Smith Drop H Unique	1																										0
+Act 2 (H) Super C Desecrated +SuH	64	72	-2						Act 2 (H) Super C Desecrated	1	Smith Drop H Unique	1																										0
+Act 3 (H) Super A Desecrated +SuH	64	73	-2						Act 3 (H) Super A Desecrated	1	Smith Drop H Unique	1																										0
+Act 3 (H) Super B Desecrated +SuH	64	75	-2						Act 3 (H) Super B Desecrated	1	Smith Drop H Unique	1																										0
+Act 3 (H) Super C Desecrated +SuH	64	78	-2						Act 3 (H) Super C Desecrated	1	Smith Drop H Unique	1																										0
+Act 4 (H) Super A Desecrated +SuH	64	81	-2						Act 4 (H) Super A Desecrated	1	Smith Drop H Unique	1																										0
+Act 4 (H) Super B Desecrated +SuH	64	84	-2						Act 4 (H) Super B Desecrated	1	Smith Drop H Unique	1																										0
+Act 4 (H) Super C Desecrated +SuH	64	87	-2						Act 4 (H) Super C Desecrated	1	Smith Drop H Unique	1																										0
+Act 5 (H) Super A Desecrated +SuH	64	90	-2						Act 5 (H) Super A Desecrated	1	Smith Drop H Unique	1																										0
+Act 5 (H) Super B Desecrated +SuH	64	93	-2						Act 5 (H) Super B Desecrated	1	Smith Drop H Unique	1																										0
+Act 5 (H) Super C Desecrated +SuH	64	96	-2						Act 5 (H) Super C Desecrated	1	Smith Drop H Unique	1																										0

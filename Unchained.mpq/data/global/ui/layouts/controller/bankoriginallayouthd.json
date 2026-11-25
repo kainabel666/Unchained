@@ -49,7 +49,7 @@
                     "up": { "name": "grid" },
                 },
                 "buttonLegendAction": "select",
-                "buttonLegendString": "@strGoldWithdraw",
+                "buttonLegendString": "@d2r:strGoldWithdraw",
             },
         },
         {

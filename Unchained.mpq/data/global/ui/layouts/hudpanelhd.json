@@ -383,7 +383,7 @@
             "type": "LevelUpButtonWidget", "name": "StatUp",
             "fields": {
                 "type": "stats",
-                "labels": ["@strlvlup", "@strlvlup"],
+                "labels": ["@d2r:strlvlup", "@d2r:strlvlup"],
                 "isFloating": true,
                 "rect": { "x": 406, "y": -164 },
                 "filename": "PANEL/HUD_02/quest_button",
@@ -413,7 +413,7 @@
             "type": "LevelUpButtonWidget", "name": "SkillUp",
             "fields": {
                 "type": "skills",
-                "labels": [ "@strnewskl", "@strnewskl" ],
+                "labels": [ "@d2r:strnewskl", "@d2r:strnewskl" ],
                 "isFloating": true,
                 "rect": { "x": 2368, "y": -164 },
                 "filename": "PANEL/HUD_02/quest_button",
@@ -443,7 +443,7 @@
             "type": "LevelUpButtonWidget", "name": "QuestAlert",
             "fields": {
                 "type": "quests",
-                "labels": ["@CfgQuestLog", "@CfgQuestLog"],
+                "labels": ["@d2r:CfgQuestLog", "@d2r:CfgQuestLog"],
                 "isFloating": true,
                 "rect": { "x": 406, "y": -164 },
                 "filename": "PANEL/HUD_02/quest_button",

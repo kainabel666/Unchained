@@ -35,7 +35,7 @@
       "fields": {
         "rect": "$InGamePanelTitleRect",
         "style": "$StyleTitleBlock",
-        "text": "@stash"
+        "text": "@d2r:stash"
       }
     },
     {
@@ -61,7 +61,7 @@
         },
         "filename": "PANEL\\GoldButton",
         "hoveredFrame": 3,
-        "tooltipString": "@strGoldWithdraw",
+        "tooltipString": "@d2r:strGoldWithdraw",
         "onClickMessage": "BankPanelMessage:Withdraw"
       }
     },
@@ -75,7 +75,7 @@
         },
         "filename": "PANEL\\closebtn_4x",
         "hoveredFrame": 3,
-        "tooltipString": "@strClose",
+        "tooltipString": "@d2r:strClose",
         "sound": "cursor_close_window_hd",
         "onClickMessage": "BankPanelMessage:Close"
       }

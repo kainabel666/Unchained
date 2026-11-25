@@ -39,7 +39,7 @@
                     "up": { "name": "grid" },
                 },
                 "buttonLegendAction": "select",
-                "buttonLegendString": "@strGoldDrop"
+                "buttonLegendString": "@d2r:strGoldDrop"
             },
         },
         {

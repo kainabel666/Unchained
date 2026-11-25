@@ -1,0 +1,555 @@
+Name	Type	enabled	Npc	StatId	Max	String	Input	Quality	MinIlvl	MaxIlvl	Req1	ReqMin1	Req2	ReqMin2	Req3	ReqMin3	Cost1	CostAmt1	Cost2	CostAmt2	Cost3	CostAmt3	Gain1	GainMin1	GainMax1	Gain2	GainMin2	GainMax2	Gain3	GainMin3	GainMax3	Chance	ChanceStat	ChancePerPoint	Output	OutputQuality	OutputLvl	Message	Blueprint	Cost4	CostAmt4
+smith_level	stat	1		377	99	Smithing Level																																			
+smith_xp	stat	1		378	30000000	Smithing Experience																																			
+smith_bought	stat	1		379	1	Bought from a vendor																																			
+level 1	level	1			1							0																													
+level 2	level	1			2							120																													
+level 3	level	1			3							370																													
+level 4	level	1			4							730																													
+level 5	level	1			5							1170																													
+level 6	level	1			6							1680																													
+level 7	level	1			7							2270																													
+level 8	level	1			8							2920																													
+level 9	level	1			9							3630																													
+level 10	level	1			10							4410																													
+level 11	level	1			11							5240																													
+level 12	level	1			12							6120																													
+level 13	level	1			13							7060																													
+level 14	level	1			14							8050																													
+level 15	level	1			15							9090																													
+level 16	level	1			16							10180																													
+level 17	level	1			17							11320																													
+level 18	level	1			18							12500																													
+level 19	level	1			19							13730																													
+level 20	level	1			20							15000																													
+level 21	level	1			21							16320																													
+level 22	level	1			22							17670																													
+level 23	level	1			23							19070																													
+level 24	level	1			24							20520																													
+level 25	level	1			25							22000																													
+level 26	level	1			26							23520																													
+level 27	level	1			27							25080																													
+level 28	level	1			28							26680																													
+level 29	level	1			29							28320																													
+level 30	level	1			30							30000																													
+upgrade hiq	upgrade	1						hiq																								5	smith_level	1							
+upgrade rar	upgrade	1						rar																								10	smith_level	1							
+upgrade set	upgrade	1						set																								15	smith_level	1							
+upgrade uni	upgrade	1						uni																								20	smith_level	1							
+Cap	forge	1									smith_level	1					lt1	3	mt1	6			smith_xp	13	13										cap	nor	0		bpa	gold	25
+Leather Armor	forge	1									smith_level	1					fr1	3	lt1	6			smith_xp	13	13										lea	nor	0		bpa	gold	65
+Quilted Armor	forge	1									smith_level	1					fr1	3	lt1	5			smith_xp	13	13										qui	nor	0		bpa	gold	35
+Sash	forge	1									smith_level	1					lt1	6	sg1	3			smith_xp	13	13										lbl	nor	0		bpb	gold	25
+Boots	forge	1									smith_level	1					fr1	3	lt1	6			smith_xp	13	13										lbt	nor	0		bpb	gold	25
+Buckler	forge	1									smith_level	1					lt1	3	mt1	6			smith_xp	13	13										buc	nor	0		bpc	gold	25
+Eagle Orb	forge	1									smith_level	1					st1	3	wd1	3			smith_xp	13	13										ob1	nor	0		bpd	gold	40
+Short Staff	forge	1									smith_level	1					st1	3	wd1	6			smith_xp	13	13										sst	nor	0		bpd	gold	40
+Wand	forge	1									smith_level	1					st1	2	wd1	3			smith_xp	13	13										wnd	nor	0		bpd	gold	45
+Hand Axe	forge	1									smith_level	1					mt1	3	wd1	3			smith_xp	13	13										hax	nor	0		bpe	gold	40
+Katar	forge	1									smith_level	1					lt1	3	mt1	3			smith_xp	13	13										ktr	nor	0		bpe	gold	25
+Short Sword	forge	1									smith_level	1					lt1	3	mt1	6			smith_xp	13	13										ssd	nor	0		bpe	gold	25
+Short Bow	forge	1									smith_level	1					sg1	3	wd1	6			smith_xp	13	13										sbw	nor	0		bpf	gold	30
+Dagger	forge	1									smith_level	1					lt1	3	mt1	3			smith_xp	13	13										dgr	nor	0		bpg	gold	25
+Throwing Knife	forge	1									smith_level	1					lt1	2	mt1	3			smith_xp	13	13										tkf	nor	0		bpg	gold	25
+Club	forge	1									smith_level	1					lt1	3	wd1	6			smith_xp	13	13										clb	nor	0		bph	gold	25
+Javelin	forge	1									smith_level	1					mt1	3	wd1	6			smith_xp	13	13										jav	nor	0		bpi	gold	25
+Jawbone Cap	forge	1									smith_level	2					lt1	3	mt1	5			smith_xp	16	16										ba1	nor	0		bpa	gold	55
+Wolf Head	forge	1									smith_level	2					fr1	6	lt1	3			smith_xp	16	16										dr1	nor	0		bpa	gold	55
+Hard Leather Armor	forge	1									smith_level	2					fr1	2	lt1	6			smith_xp	16	16										hla	nor	0		bpa	gold	100
+Leather Gloves	forge	1									smith_level	2					fr1	4	lt1	6			smith_xp	16	16										lgl	nor	0		bpa	gold	25
+Skull Cap	forge	1									smith_level	2					lt1	2	mt1	6			smith_xp	16	16										skp	nor	0		bpa	gold	65
+Preserved Head	forge	1									smith_level	2					sg1	3	st1	3			smith_xp	16	16										ne1	nor	0		bpc	gold	35
+Targe	forge	1									smith_level	2					lt1	3	mt1	5			smith_xp	16	16										pa1	nor	0		bpc	gold	60
+Small Shield	forge	1									smith_level	2					lt1	2	mt1	6			smith_xp	16	16										sml	nor	0		bpc	gold	60
+Old Book	forge	1									smith_level	2					lt1	6	sg1	3			smith_xp	16	16										wa1	nor	0		bpc	gold	35
+Large Axe	forge	1									smith_level	2					lt1	2	mt1	5	wd1	2	smith_xp	16	16										lax	nor	0		bpe	gold	55
+Scimitar	forge	1									smith_level	2					lt1	3	mt1	5			smith_xp	16	16										scm	nor	0		bpe	gold	50
+Hunter's Bow	forge	1									smith_level	2					sg1	3	wd1	5			smith_xp	16	16										hbw	nor	0		bpf	gold	55
+Light Crossbow	forge	1									smith_level	2					mt1	2	sg1	2	wd1	5	smith_xp	16	16										lxb	nor	0		bpf	gold	85
+Scepter	forge	1									smith_level	2					mt1	6	st1	3			smith_xp	16	16										scp	nor	0		bpg	gold	55
+Spiked Club	forge	1									smith_level	2					lt1	3	wd1	5			smith_xp	16	16										spc	nor	0		bph	gold	45
+Bardiche	forge	1									smith_level	2					mt1	3	wd1	7			smith_xp	16	16										bar	nor	0		bpi	gold	50
+Spear	forge	1									smith_level	2					mt1	2	wd1	7			smith_xp	16	16										spr	nor	0		bpi	gold	50
+Fanged Helm	forge	1									smith_level	3					lt1	4	mt1	6			smith_xp	19	19										ba2	nor	0		bpa	gold	80
+Hawk Helm	forge	1									smith_level	3					fr1	5	lt1	3			smith_xp	19	19										dr2	nor	0		bpa	gold	75
+Studded Leather	forge	1									smith_level	3					fr1	3	lt1	7			smith_xp	19	19										stu	nor	0		bpa	gold	145
+Heavy Gloves	forge	1									smith_level	3					fr1	3	lt1	4			smith_xp	19	19										vgl	nor	0		bpa	gold	55
+Light Belt	forge	1									smith_level	3					lt1	5	sg1	3			smith_xp	19	19										vbl	nor	0		bpb	gold	40
+Heavy Boots	forge	1									smith_level	3					fr1	3	lt1	5			smith_xp	19	19										vbt	nor	0		bpb	gold	55
+Zombie Head	forge	1									smith_level	3					sg1	2	st1	3			smith_xp	19	19										ne2	nor	0		bpc	gold	60
+Rondache	forge	1									smith_level	3					lt1	4	mt1	6			smith_xp	19	19										pa2	nor	0		bpc	gold	95
+Tome	forge	1									smith_level	3					lt1	5	sg1	3			smith_xp	19	19										wa2	nor	0		bpc	gold	60
+Long Staff	forge	1									smith_level	3					st1	3	wd1	5			smith_xp	19	19										lst	nor	0		bpd	gold	65
+Sacred Globe	forge	1									smith_level	3					st1	3	wd1	2			smith_xp	19	19										ob2	nor	0		bpd	gold	65
+Axe	forge	1									smith_level	3					lt1	2	mt1	4	wd1	2	smith_xp	19	19										axe	nor	0		bpe	gold	60
+Saber	forge	1									smith_level	3					lt1	2	mt1	6			smith_xp	19	19										sbr	nor	0		bpe	gold	65
+Throwing Axe	forge	1									smith_level	3					mt1	3	wd1	2			smith_xp	19	19										tax	nor	0		bpe	gold	25
+Long Bow	forge	1									smith_level	3					sg1	3	wd1	7			smith_xp	19	19										lbw	nor	0		bpf	gold	65
+Dirk	forge	1									smith_level	3					lt1	3	mt1	4			smith_xp	19	19										dir	nor	0		bpg	gold	70
+Mace	forge	1									smith_level	3					mt1	6	wd1	3			smith_xp	19	19										mac	nor	0		bph	gold	65
+Helm	forge	1									smith_level	4					lt1	3	mt1	7			smith_xp	22	22										hlm	nor	0		bpa	gold	120
+Ring Mail	forge	1									smith_level	4					lt1	3	mt1	4			smith_xp	22	22										rng	nor	0		bpa	gold	200
+Belt	forge	1									smith_level	4					lt1	6	sg1	2			smith_xp	22	22										mbl	nor	0		bpb	gold	65
+Chain Boots	forge	1									smith_level	4					fr1	2	lt1	6			smith_xp	22	22										mbt	nor	0		bpb	gold	90
+Large Shield	forge	1									smith_level	4					lt1	2	mt1	5	wd1	2	smith_xp	22	22										lrg	nor	0		bpc	gold	105
+Spiked Shield	forge	1									smith_level	4					lt1	2	mt1	4	wd1	2	smith_xp	22	22										spk	nor	0		bpc	gold	130
+Gnarled Staff	forge	1									smith_level	4					st1	2	wd1	6			smith_xp	22	22										cst	nor	0		bpd	gold	85
+Two-Handed Sword	forge	1									smith_level	4					lt1	4	mt1	6			smith_xp	22	22										2hs	nor	0		bpe	gold	75
+Hatchet Hands	forge	1									smith_level	4					lt1	2	mt1	3			smith_xp	22	22										axf	nor	0		bpe	gold	65
+Broad Axe	forge	1									smith_level	4					lt1	2	mt1	5	wd1	1	smith_xp	22	22										bax	nor	0		bpe	gold	85
+Crystal Sword	forge	1									smith_level	4					lt1	3	mt1	7			smith_xp	22	22										crs	nor	0		bpe	gold	140
+Falchion	forge	1									smith_level	4					lt1	3	mt1	4			smith_xp	22	22										flc	nor	0		bpe	gold	80
+Wrist Blade	forge	1									smith_level	4					lt1	2	mt1	2			smith_xp	22	22										wrb	nor	0		bpe	gold	45
+Composite Bow	forge	1									smith_level	4					sg1	2	wd1	6			smith_xp	22	22										cbw	nor	0		bpf	gold	80
+Pilum	forge	1									smith_level	4					mt1	3	wd1	5			smith_xp	22	22										pil	nor	0		bpi	gold	25
+Trident	forge	1									smith_level	4					mt1	2	wd1	6			smith_xp	22	22										tri	nor	0		bpi	gold	80
+Voulge	forge	1									smith_level	4					mt1	4	wd1	6			smith_xp	22	22										vou	nor	0		bpi	gold	75
+Horned Helm	forge	1									smith_level	5					lt1	2	mt1	5			smith_xp	25	25										ba3	nor	0		bpa	gold	155
+Chain Mail	forge	1									smith_level	5					lt1	4	mt1	5			smith_xp	25	25										chn	nor	0		bpa	gold	290
+Full Helm	forge	1									smith_level	5					lt1	1	mt1	6			smith_xp	25	25										fhl	nor	0		bpa	gold	165
+Chain Gloves	forge	1									smith_level	5					fr1	2	lt1	5			smith_xp	25	25										mgl	nor	0		bpa	gold	90
+Scale Mail	forge	1									smith_level	5					lt1	2	mt1	7			smith_xp	25	25										scl	nor	0		bpa	gold	240
+Kite Shield	forge	1									smith_level	5					lt1	1	mt1	5	wd1	2	smith_xp	25	25										kit	nor	0		bpc	gold	140
+Smoked Sphere	forge	1									smith_level	5					st1	4	wd1	3			smith_xp	25	25										ob3	nor	0		bpd	gold	85
+Yew Wand	forge	1									smith_level	5					st1	3	wd1	4			smith_xp	25	25										ywn	nor	0		bpd	gold	80
+Double Axe	forge	1									smith_level	5					lt1	1	mt1	5	wd1	2	smith_xp	25	25										2ax	nor	0		bpe	gold	90
+Broad Sword	forge	1									smith_level	5					lt1	2	mt1	5			smith_xp	25	25										bsd	nor	0		bpe	gold	95
+Cestus	forge	1									smith_level	5					lt1	1	mt1	3			smith_xp	25	25										ces	nor	0		bpe	gold	70
+Crossbow	forge	1									smith_level	5					mt1	2	sg1	2	wd1	4	smith_xp	25	25										mxb	nor	0		bpf	gold	145
+Balanced Knife	forge	1									smith_level	5					lt1	2	mt1	2			smith_xp	25	25										bkf	nor	0		bpg	gold	25
+Grand Scepter	forge	1									smith_level	5					mt1	5	st1	3			smith_xp	25	25										gsc	nor	0		bpg	gold	100
+Morning Star	forge	1									smith_level	5					mt1	5	wd1	3			smith_xp	25	25										mst	nor	0		bph	gold	85
+Scythe	forge	1									smith_level	5					mt1	1	wd1	7			smith_xp	25	25										scy	nor	0		bpi	gold	85
+Short Spear	forge	1									smith_level	5					mt1	3	wd1	4			smith_xp	25	25										ssp	nor	0		bpi	gold	25
+Breast Plate	forge	1									smith_level	6					fr1	4	lt1	5			smith_xp	28	28										brs	nor	0		bpa	gold	300
+Antlers	forge	1									smith_level	6					fr1	6	lt1	2			smith_xp	28	28										dr3	nor	0		bpa	gold	160
+Unraveller Head	forge	1									smith_level	6					sg1	3	st1	4			smith_xp	28	28										ne3	nor	0		bpc	gold	100
+Heraldic Shield	forge	1									smith_level	6					lt1	2	mt1	5	wd1	1	smith_xp	28	28										pa3	nor	0		bpc	gold	160
+Codex	forge	1									smith_level	6					lt1	6	sg1	2			smith_xp	28	28										wa3	nor	0		bpc	gold	100
+Battle Staff	forge	1									smith_level	6					st1	4	wd1	6			smith_xp	28	28										bst	nor	0		bpd	gold	105
+Bone Wand	forge	1									smith_level	6					st1	2	wd1	2			smith_xp	28	28										bwn	nor	0		bpd	gold	110
+Clasped Orb	forge	1									smith_level	6					st1	3	wd1	1			smith_xp	28	28										ob4	nor	0		bpd	gold	105
+Balanced Axe	forge	1									smith_level	6					lt1	3	mt1	5	wd1	2	smith_xp	28	28										bal	nor	0		bpe	gold	25
+Battle Axe	forge	1									smith_level	6					lt1	2	mt1	5	wd1	3	smith_xp	28	28										btx	nor	0		bpe	gold	105
+Claymore	forge	1									smith_level	6					lt1	4	mt1	5			smith_xp	28	28										clm	nor	0		bpe	gold	105
+Claws	forge	1									smith_level	6					lt1	2	mt1	4			smith_xp	28	28										clw	nor	0		bpe	gold	80
+Stag Bow	forge	1									smith_level	6					sg1	2	wd1	7			smith_xp	28	28										am1	nor	0		bpf	gold	150
+Short Battle Bow	forge	1									smith_level	6					sg1	4	wd1	6			smith_xp	28	28										sbb	nor	0		bpf	gold	95
+Kriss	forge	1									smith_level	6					lt1	1	mt1	3			smith_xp	28	28										kri	nor	0		bpg	gold	105
+Maiden Spear	forge	1									smith_level	6					mt1	2	wd1	8			smith_xp	28	28										am3	nor	0		bpi	gold	125
+Brandistock	forge	1									smith_level	6					mt1	2	wd1	5			smith_xp	28	28										brn	nor	0		bpi	gold	100
+Assault Helmet	forge	1									smith_level	7					lt1	3	mt1	3			smith_xp	31	31										ba4	nor	0		bpa	gold	175
+Falcon Mask	forge	1									smith_level	7					fr1	6	lt1	4			smith_xp	31	31										dr4	nor	0		bpa	gold	175
+Mask	forge	1									smith_level	7					lt1	2	mt1	4			smith_xp	31	31										msk	nor	0		bpa	gold	160
+Splint Mail	forge	1									smith_level	7					lt1	4	mt1	4			smith_xp	31	31										spl	nor	0		bpa	gold	375
+Light Gauntlets	forge	1									smith_level	7					fr1	1	lt1	6			smith_xp	31	31										tgl	nor	0		bpa	gold	120
+Heavy Belt	forge	1									smith_level	7					lt1	6	sg1	4			smith_xp	31	31										tbl	nor	0		bpb	gold	95
+Light Plated Boots	forge	1									smith_level	7					fr1	4	lt1	6			smith_xp	31	31										tbt	nor	0		bpb	gold	120
+Bone Shield	forge	1									smith_level	7					lt1	2	mt1	5	wd1	3	smith_xp	31	31										bsh	nor	0		bpc	gold	170
+Gargoyle Head	forge	1									smith_level	7					sg1	2	st1	2			smith_xp	31	31										ne4	nor	0		bpc	gold	140
+Aerin Shield	forge	1									smith_level	7					lt1	3	mt1	5	wd1	2	smith_xp	31	31										pa4	nor	0		bpc	gold	215
+Compendium	forge	1									smith_level	7					lt1	6	sg1	4			smith_xp	31	31										wa4	nor	0		bpc	gold	140
+Blade Talons	forge	1									smith_level	7					lt1	4	mt1	4			smith_xp	31	31										btl	nor	0		bpe	gold	85
+Giant Sword	forge	1									smith_level	7					lt1	1	mt1	6			smith_xp	31	31										gis	nor	0		bpe	gold	115
+Long Sword	forge	1									smith_level	7					lt1	2	mt1	7			smith_xp	31	31										lsd	nor	0		bpe	gold	115
+Military Pick	forge	1									smith_level	7					lt1	2	mt1	6	wd1	2	smith_xp	31	31										mpi	nor	0		bpe	gold	115
+Flail	forge	1									smith_level	7					mt1	6	wd1	2			smith_xp	31	31										fla	nor	0		bph	gold	115
+Spetum	forge	1									smith_level	7					mt1	4	wd1	5			smith_xp	31	31										spt	nor	0		bpi	gold	125
+Avenger Guard	forge	1									smith_level	8					lt1	1	mt1	5			smith_xp	34	34										ba5	nor	0		bpa	gold	230
+Bone Helm	forge	1									smith_level	8					lt1	5	mt1	5			smith_xp	34	34										bhm	nor	0		bpa	gold	240
+Circlet	forge	1									smith_level	8					mt1	3	st1	3			smith_xp	34	34										ci0	nor	0		bpa	gold	330
+Spirit Mask	forge	1									smith_level	8					fr1	7	lt1	3			smith_xp	34	34										dr5	nor	0		bpa	gold	225
+Great Helm	forge	1									smith_level	8					lt1	1	mt1	7			smith_xp	34	34										ghm	nor	0		bpa	gold	235
+Demon Head	forge	1									smith_level	8					sg1	1	st1	3			smith_xp	34	34										ne5	nor	0		bpc	gold	175
+Tower Shield	forge	1									smith_level	8					lt1	2	mt1	6	wd1	2	smith_xp	34	34										tow	nor	0		bpc	gold	195
+Bastard Sword	forge	1									smith_level	8					lt1	1	mt1	5			smith_xp	34	34										bsw	nor	0		bpe	gold	135
+Great Axe	forge	1									smith_level	8					lt1	2	mt1	3	wd1	2	smith_xp	34	34										gax	nor	0		bpe	gold	130
+Heavy Crossbow	forge	1									smith_level	8					mt1	2	sg1	1	wd1	5	smith_xp	34	34										hxb	nor	0		bpf	gold	190
+Long Battle Bow	forge	1									smith_level	8					sg1	1	wd1	7			smith_xp	34	34										lbb	nor	0		bpf	gold	120
+Blade	forge	1									smith_level	8					lt1	2	mt1	4			smith_xp	34	34										bld	nor	0		bpg	gold	125
+War Scepter	forge	1									smith_level	8					mt1	6	st1	2			smith_xp	34	34										wsp	nor	0		bpg	gold	145
+Maul	forge	1									smith_level	8					mt1	7	wd1	3			smith_xp	34	34										mau	nor	0		bph	gold	125
+Maiden Javelin	forge	1									smith_level	8					mt1	1	wd1	6			smith_xp	34	34										am5	nor	0		bpi	gold	25
+Glaive	forge	1									smith_level	8					mt1	3	wd1	3			smith_xp	34	34										glv	nor	0		bpi	gold	25
+Poleaxe	forge	1									smith_level	8					mt1	1	wd1	8			smith_xp	34	34										pax	nor	0		bpi	gold	125
+Gauntlets	forge	1									smith_level	9					fr1	2	lt1	7			smith_xp	37	37										hgl	nor	0		bpa	gold	165
+Plate Mail	forge	1									smith_level	9					lt1	2	mt1	8			smith_xp	37	37										plt	nor	0		bpa	gold	450
+Plated Belt	forge	1									smith_level	9					lt1	7	sg1	3			smith_xp	37	37										hbl	nor	0		bpb	gold	135
+Greaves	forge	1									smith_level	9					fr1	3	lt1	7			smith_xp	37	37										hbt	nor	0		bpb	gold	165
+Crown Shield	forge	1									smith_level	9					lt1	3	mt1	7			smith_xp	37	37										pa5	nor	0		bpc	gold	250
+Grimoire	forge	1									smith_level	9					lt1	7	sg1	3			smith_xp	37	37										wa5	nor	0		bpc	gold	175
+Grim Wand	forge	1									smith_level	9					st1	1	wd1	3			smith_xp	37	37										gwn	nor	0		bpd	gold	135
+Jared's Stone	forge	1									smith_level	9					st1	4	wd1	2			smith_xp	37	37										ob5	nor	0		bpd	gold	135
+War Staff	forge	1									smith_level	9					st1	3	wd1	7			smith_xp	37	37										wst	nor	0		bpd	gold	135
+Flamberge	forge	1									smith_level	9					lt1	1	mt1	7			smith_xp	37	37										flb	nor	0		bpe	gold	145
+Giant Axe	forge	1									smith_level	9					lt1	2	mt1	4	wd1	1	smith_xp	37	37										gix	nor	0		bpe	gold	145
+Scissors Katar	forge	1									smith_level	9					lt1	1	mt1	2			smith_xp	37	37										skr	nor	0		bpe	gold	95
+War Axe	forge	1									smith_level	9					lt1	1	mt1	4	wd1	2	smith_xp	37	37										wax	nor	0		bpe	gold	140
+Reflex Bow	forge	1									smith_level	9					sg1	2	wd1	8			smith_xp	37	37										am2	nor	0		bpf	gold	180
+War Hammer	forge	1									smith_level	9					mt1	6	wd1	4			smith_xp	37	37										whm	nor	0		bph	gold	135
+Maiden Pike	forge	1									smith_level	9					mt1	2	wd1	4			smith_xp	37	37										am4	nor	0		bpi	gold	135
+Pike	forge	1									smith_level	9					mt1	4	wd1	4			smith_xp	37	37										pik	nor	0		bpi	gold	135
+Ancient Armor	forge	1									smith_level	10					lt1	2	mt1	3			smith_xp	40	40										aar	nor	0		bpa	gold	815
+Coronet	forge	1									smith_level	10					mt1	3	st1	2			smith_xp	40	40										ci1	nor	0		bpa	gold	455
+Crown	forge	1									smith_level	10					lt1	1	mt1	4			smith_xp	40	40										crn	nor	0		bpa	gold	275
+Field Plate	forge	1									smith_level	10					lt1	1	mt1	8			smith_xp	40	40										fld	nor	0		bpa	gold	465
+Full Plate Mail	forge	1									smith_level	10					lt1	2	mt1	2			smith_xp	40	40										ful	nor	0		bpa	gold	650
+Gothic Plate	forge	1									smith_level	10					lt1	1	mt1	3			smith_xp	40	40										gth	nor	0		bpa	gold	560
+Light Plate	forge	1									smith_level	10					fr1	3	lt1	3			smith_xp	40	40										ltp	nor	0		bpa	gold	505
+Gothic Shield	forge	1									smith_level	10					lt1	2	mt1	3	wd1	2	smith_xp	40	40										gts	nor	0		bpc	gold	270
+Great Sword	forge	1									smith_level	10					lt1	2	mt1	8			smith_xp	40	40										gsd	nor	0		bpe	gold	175
+War Sword	forge	1									smith_level	10					lt1	5	mt1	5			smith_xp	40	40										wsd	nor	0		bpe	gold	135
+Long War Bow	forge	1									smith_level	10					sg1	3	wd1	4			smith_xp	40	40										lwb	nor	0		bpf	gold	180
+Repeating Crossbow	forge	1									smith_level	10					mt1	1	sg1	2	wd1	5	smith_xp	40	40										rxb	nor	0		bpf	gold	155
+Short War Bow	forge	1									smith_level	10					sg1	2	wd1	5			smith_xp	40	40										swb	nor	0		bpf	gold	150
+Great Maul	forge	1									smith_level	10					mt1	4	wd1	3			smith_xp	40	40										gma	nor	0		bph	gold	170
+Halberd	forge	1									smith_level	10					mt1	1	wd1	5			smith_xp	40	40										hal	nor	0		bpi	gold	155
+Throwing Spear	forge	1									smith_level	10					mt1	5	wd1	5			smith_xp	40	40										tsp	nor	0		bpi	gold	25
+War Scythe	forge	1									smith_level	10					mt1	1	wd1	9			smith_xp	40	40										wsc	nor	0		bpi	gold	175
+Jo Staff	forge	1									smith_level	11					st2	3	wd2	6			smith_xp	43	43										8ss	nor	0		bpd	gold	85
+Burnt Wand	forge	1									smith_level	11					st2	3	wd2	3			smith_xp	43	43										9wn	nor	0		bpd	gold	90
+Glowing Orb	forge	1									smith_level	11					st2	3	wd2	2			smith_xp	43	43										ob6	nor	0		bpd	gold	85
+Quhab	forge	1									smith_level	11					lt2	3	mt2	3			smith_xp	43	43										9ar	nor	0		bpe	gold	145
+Hatchet	forge	1									smith_level	11					mt2	3	wd2	3			smith_xp	43	43										9ha	nor	0		bpe	gold	85
+Gladius	forge	1									smith_level	11					lt2	3	mt2	6			smith_xp	43	43										9ss	nor	0		bpe	gold	70
+Wrist Spike	forge	1									smith_level	11					lt2	2	mt2	3			smith_xp	43	43										9wb	nor	0		bpe	gold	195
+Razor Bow	forge	1									smith_level	11					mt2	2	sg2	2	wd2	5	smith_xp	43	43										8hb	nor	0		bpf	gold	110
+Edge Bow	forge	1									smith_level	11					mt2	2	sg2	2	wd2	4	smith_xp	43	43										8sb	nor	0		bpf	gold	75
+Poignard	forge	1									smith_level	11					lt2	3	mt2	3			smith_xp	43	43										9dg	nor	0		bpg	gold	65
+Rune Scepter	forge	1									smith_level	11					mt2	6	st2	3			smith_xp	43	43										9sc	nor	0		bpg	gold	110
+Battle Dart	forge	1									smith_level	11					lt2	2	mt2	3			smith_xp	43	43										9tk	nor	0		bpg	gold	25
+Cudgel	forge	1									smith_level	11					lt2	3	wd2	6			smith_xp	43	43										9cl	nor	0		bph	gold	60
+Barbed Club	forge	1									smith_level	11					lt2	3	wd2	5			smith_xp	43	43										9sp	nor	0		bph	gold	95
+Lochaber Axe	forge	1									smith_level	11					lt2	2	mt2	2	wd2	5	smith_xp	43	43										9b7	nor	0		bpi	gold	105
+War Javelin	forge	1									smith_level	11					mt2	3	wd2	6			smith_xp	43	43										9ja	nor	0		bpi	gold	35
+War Spear	forge	1									smith_level	11					mt2	3	wd2	7			smith_xp	43	43										9sr	nor	0		bpi	gold	105
+Jawbone Visor	forge	1									smith_level	12					lt2	3	mt2	6			smith_xp	46	46										ba6	nor	0		bpa	gold	385
+War Hat	forge	1									smith_level	12					lt2	3	mt2	5			smith_xp	46	46										xap	nor	0		bpa	gold	350
+Demonhide Gloves	forge	1									smith_level	12					fr2	3	lt2	6			smith_xp	46	46										xlg	nor	0		bpa	gold	275
+Ghost Armor	forge	1									smith_level	12					fr2	3	lt2	5			smith_xp	46	46										xui	nor	0		bpa	gold	525
+Mummified Trophy	forge	1									smith_level	12					sg2	3	st2	3			smith_xp	46	46										ne6	nor	0		bpc	gold	325
+Burnt Text	forge	1									smith_level	12					lt2	6	sg2	3			smith_xp	46	46										wa6	nor	0		bpc	gold	325
+Defender	forge	1									smith_level	12					lt2	3	mt2	6			smith_xp	46	46										xuc	nor	0		bpc	gold	335
+Quarterstaff	forge	1									smith_level	12					st2	3	wd2	5			smith_xp	46	46										8ls	nor	0		bpd	gold	125
+Cleaver	forge	1									smith_level	12					lt2	2	mt2	5	wd2	2	smith_xp	46	46										9ax	nor	0		bpe	gold	115
+Military Axe	forge	1									smith_level	12					lt2	2	mt2	4	wd2	2	smith_xp	46	46										9la	nor	0		bpe	gold	110
+Shamshir	forge	1									smith_level	12					lt2	3	mt2	5			smith_xp	46	46										9sb	nor	0		bpe	gold	125
+Francisca	forge	1									smith_level	12					mt2	3	wd2	2			smith_xp	46	46										9ta	nor	0		bpe	gold	30
+Cedar Bow	forge	1									smith_level	12					mt2	2	sg2	1	wd2	5	smith_xp	46	46										8lb	nor	0		bpf	gold	125
+Arbalest	forge	1									smith_level	12					mt2	1	sg2	2	wd2	5	smith_xp	46	46										8lx	nor	0		bpf	gold	155
+Flanged Mace	forge	1									smith_level	12					mt2	6	wd2	3			smith_xp	46	46										9ma	nor	0		bph	gold	125
+Partizan	forge	1									smith_level	12					lt2	2	mt2	2	wd2	4	smith_xp	46	46										9pa	nor	0		bpi	gold	220
+Ceremonial Javelin	forge	1									smith_level	12					mt2	3	wd2	5			smith_xp	46	46										ama	nor	0		bpi	gold	65
+Alpha Helm	forge	1									smith_level	13					fr2	6	lt2	3			smith_xp	49	49										dr6	nor	0		bpa	gold	385
+Serpentskin Armor	forge	1									smith_level	13					fr2	2	lt2	6			smith_xp	49	49										xea	nor	0		bpa	gold	560
+Sallet	forge	1									smith_level	13					lt2	2	mt2	6			smith_xp	49	49										xkp	nor	0		bpa	gold	395
+Demonhide Armor	forge	1									smith_level	13					fr2	4	lt2	6			smith_xp	49	49										xla	nor	0		bpa	gold	595
+Demonhide Boots	forge	1									smith_level	13					fr2	3	lt2	6			smith_xp	49	49										xlb	nor	0		bpb	gold	290
+Demonhide Sash	forge	1									smith_level	13					lt2	6	sg2	3			smith_xp	49	49										zlb	nor	0		bpb	gold	290
+Akaran Targe	forge	1									smith_level	13					lt2	3	mt2	5			smith_xp	49	49										pa6	nor	0		bpc	gold	540
+Round Shield	forge	1									smith_level	13					lt2	2	mt2	6			smith_xp	49	49										xml	nor	0		bpc	gold	375
+Crystalline Globe	forge	1									smith_level	13					st2	4	wd2	3			smith_xp	49	49										ob7	nor	0		bpd	gold	125
+Espandon	forge	1									smith_level	13					lt2	2	mt2	6			smith_xp	49	49										92h	nor	0		bpe	gold	140
+Dimensional Blade	forge	1									smith_level	13					lt2	4	mt2	6			smith_xp	49	49										9cr	nor	0		bpe	gold	245
+Tulwar	forge	1									smith_level	13					lt2	3	mt2	7			smith_xp	49	49										9fc	nor	0		bpe	gold	145
+Fascia	forge	1									smith_level	13					lt2	3	mt2	4			smith_xp	49	49										9xf	nor	0		bpe	gold	195
+Rondel	forge	1									smith_level	13					lt2	3	mt2	4			smith_xp	49	49										9di	nor	0		bpg	gold	130
+Great Pilum	forge	1									smith_level	13					mt2	2	wd2	6			smith_xp	49	49										9pi	nor	0		bpi	gold	35
+Fuscina	forge	1									smith_level	13					mt2	2	wd2	7			smith_xp	49	49										9tr	nor	0		bpi	gold	145
+Bill	forge	1									smith_level	13					lt2	2	mt2	1	wd2	5	smith_xp	49	49										9vo	nor	0		bpi	gold	140
+Lion Helm	forge	1									smith_level	14					lt2	4	mt2	6			smith_xp	52	52										ba7	nor	0		bpa	gold	440
+Sharkskin Gloves	forge	1									smith_level	14					fr2	3	lt2	7			smith_xp	52	52										xvg	nor	0		bpa	gold	320
+Sharkskin Boots	forge	1									smith_level	14					fr2	3	lt2	5			smith_xp	52	52										xvb	nor	0		bpb	gold	320
+Sharkskin Belt	forge	1									smith_level	14					lt2	5	sg2	3			smith_xp	52	52										zvb	nor	0		bpb	gold	310
+Fetish Trophy	forge	1									smith_level	14					sg2	2	st2	3			smith_xp	52	52										ne7	nor	0		bpc	gold	365
+Dark Tome	forge	1									smith_level	14					lt2	5	sg2	3			smith_xp	52	52										wa7	nor	0		bpc	gold	365
+Cedar Staff	forge	1									smith_level	14					st2	2	wd2	6			smith_xp	52	52										8cs	nor	0		bpd	gold	155
+Petrified Wand	forge	1									smith_level	14					st2	2	wd2	3			smith_xp	52	52										9yw	nor	0		bpd	gold	150
+Twin Axe	forge	1									smith_level	14					lt2	2	mt2	5	wd2	1	smith_xp	52	52										92a	nor	0		bpe	gold	160
+Bearded Axe	forge	1									smith_level	14					lt2	1	mt2	5	wd2	2	smith_xp	52	52										9ba	nor	0		bpe	gold	155
+Battle Sword	forge	1									smith_level	14					lt2	2	mt2	5			smith_xp	52	52										9bs	nor	0		bpe	gold	175
+Double Bow	forge	1									smith_level	14					mt2	3	sg2	2	wd2	5	smith_xp	52	52										8cb	nor	0		bpf	gold	150
+Siege Crossbow	forge	1									smith_level	14					mt2	2	sg2	3	wd2	5	smith_xp	52	52										8mx	nor	0		bpf	gold	255
+Ashwood Bow	forge	1									smith_level	14					mt2	2	sg2	2	wd2	6	smith_xp	52	52										am6	nor	0		bpf	gold	265
+War Dart	forge	1									smith_level	14					lt2	2	mt2	2			smith_xp	52	52										9bk	nor	0		bpg	gold	30
+Holy Water Sprinkler	forge	1									smith_level	14					mt2	5	st2	3			smith_xp	52	52										9qs	nor	0		bpg	gold	180
+Jagged Star	forge	1									smith_level	14					mt2	5	wd2	3			smith_xp	52	52										9mt	nor	0		bph	gold	160
+Griffon Headress	forge	1									smith_level	15					fr2	5	lt2	3			smith_xp	55	55										dr7	nor	0		bpa	gold	410
+Casque	forge	1									smith_level	15					lt2	3	mt2	7			smith_xp	55	55										xlm	nor	0		bpa	gold	455
+Linked Mail	forge	1									smith_level	15					lt2	3	mt2	4			smith_xp	55	55										xng	nor	0		bpa	gold	715
+Trellised Armor	forge	1									smith_level	15					fr2	3	lt2	4			smith_xp	55	55										xtu	nor	0		bpa	gold	655
+Akaran Rondache	forge	1									smith_level	15					lt2	4	mt2	6			smith_xp	55	55										pa7	nor	0		bpc	gold	605
+Barbed Shield	forge	1									smith_level	15					lt2	2	mt2	5	wd2	2	smith_xp	55	55										xpk	nor	0		bpc	gold	455
+Scutum	forge	1									smith_level	15					lt2	2	mt2	4	wd2	2	smith_xp	55	55										xrg	nor	0		bpc	gold	420
+Gothic Staff	forge	1									smith_level	15					st2	4	wd2	6			smith_xp	55	55										8bs	nor	0		bpd	gold	190
+Cloudy Sphere	forge	1									smith_level	15					st2	2	wd2	2			smith_xp	55	55										ob8	nor	0		bpd	gold	155
+Hurlbat	forge	1									smith_level	15					lt2	3	mt2	5	wd2	2	smith_xp	55	55										9b8	nor	0		bpe	gold	30
+Tabar	forge	1									smith_level	15					lt2	2	mt2	5	wd2	3	smith_xp	55	55										9bt	nor	0		bpe	gold	190
+Dacian Falx	forge	1									smith_level	15					lt2	4	mt2	5			smith_xp	55	55										9cm	nor	0		bpe	gold	190
+Hand Scythe	forge	1									smith_level	15					lt2	2	mt2	2			smith_xp	55	55										9cs	nor	0		bpe	gold	165
+Cinquedeas	forge	1									smith_level	15					lt2	1	mt2	3			smith_xp	55	55										9kr	nor	0		bpg	gold	190
+War Fork	forge	1									smith_level	15					mt2	4	wd2	6			smith_xp	55	55										9br	nor	0		bpi	gold	185
+Battle Scythe	forge	1									smith_level	15					lt2	1	mt2	2	wd2	5	smith_xp	55	55										9s8	nor	0		bpi	gold	160
+Simbilan	forge	1									smith_level	15					mt2	3	wd2	4			smith_xp	55	55										9s9	nor	0		bpi	gold	35
+Rage Mask	forge	1									smith_level	16					lt2	2	mt2	5			smith_xp	58	58										ba8	nor	0		bpa	gold	520
+Tigulated Mail	forge	1									smith_level	16					lt2	4	mt2	5			smith_xp	58	58										xcl	nor	0		bpa	gold	760
+Heavy Bracers	forge	1									smith_level	16					fr2	2	lt2	5			smith_xp	58	58										xmg	nor	0		bpa	gold	355
+Mesh Boots	forge	1									smith_level	16					fr2	2	lt2	6			smith_xp	58	58										xmb	nor	0		bpb	gold	355
+Mesh Belt	forge	1									smith_level	16					lt2	6	sg2	2			smith_xp	58	58										zmb	nor	0		bpb	gold	345
+Tomb Wand	forge	1									smith_level	16					st2	3	wd2	4			smith_xp	58	58										9bw	nor	0		bpd	gold	195
+Tusk Sword	forge	1									smith_level	16					lt2	1	mt2	6			smith_xp	58	58										9gs	nor	0		bpe	gold	205
+Rune Sword	forge	1									smith_level	16					lt2	2	mt2	7			smith_xp	58	58										9ls	nor	0		bpe	gold	210
+Greater Claws	forge	1									smith_level	16					lt2	1	mt2	3			smith_xp	58	58										9lw	nor	0		bpe	gold	215
+Crowbill	forge	1									smith_level	16					lt2	2	mt2	6	wd2	2	smith_xp	58	58										9mp	nor	0		bpe	gold	205
+Cutlass	forge	1									smith_level	16					lt2	2	mt2	4			smith_xp	58	58										9sm	nor	0		bpe	gold	100
+Short Siege Bow	forge	1									smith_level	16					mt2	2	sg2	2	wd2	3	smith_xp	58	58										8s8	nor	0		bpf	gold	175
+Divine Scepter	forge	1									smith_level	16					mt2	6	st2	2			smith_xp	58	58										9ws	nor	0		bpg	gold	255
+Knout	forge	1									smith_level	16					lt2	2	mt2	5	wd2	2	smith_xp	58	58										9fl	nor	0		bph	gold	200
+War Club	forge	1									smith_level	16					lt2	2	mt2	4	wd2	2	smith_xp	58	58										9m9	nor	0		bph	gold	220
+Yari	forge	1									smith_level	16					mt2	1	wd2	7			smith_xp	58	58										9st	nor	0		bpi	gold	220
+Ceremonial Spear	forge	1									smith_level	16					mt2	2	wd2	8			smith_xp	58	58										am8	nor	0		bpi	gold	220
+Hunter's Guise	forge	1									smith_level	17					fr2	6	lt2	2			smith_xp	61	61										dr8	nor	0		bpa	gold	500
+Basinet	forge	1									smith_level	17					lt2	1	mt2	6			smith_xp	61	61										xhl	nor	0		bpa	gold	510
+Mesh Armor	forge	1									smith_level	17					lt2	2	mt2	7			smith_xp	61	61										xhn	nor	0		bpa	gold	825
+Cuirass	forge	1									smith_level	17					fr2	4	lt2	5			smith_xp	61	61										xrs	nor	0		bpa	gold	820
+Sexton Trophy	forge	1									smith_level	17					sg2	3	st2	4			smith_xp	61	61										ne8	nor	0		bpc	gold	405
+Protector Shield	forge	1									smith_level	17					lt2	1	mt2	5	wd2	2	smith_xp	61	61										pa8	nor	0		bpc	gold	690
+Dark Codex	forge	1									smith_level	17					lt2	6	sg2	2			smith_xp	61	61										wa8	nor	0		bpc	gold	405
+Dragon Shield	forge	1									smith_level	17					lt2	2	mt2	5	wd2	1	smith_xp	61	61										xit	nor	0		bpc	gold	455
+Rune Staff	forge	1									smith_level	17					st2	3	wd2	7			smith_xp	61	61										8ws	nor	0		bpd	gold	235
+Sparkling Ball	forge	1									smith_level	17					st2	3	wd2	1			smith_xp	61	61										ob9	nor	0		bpd	gold	190
+Gothic Axe	forge	1									smith_level	17					lt2	2	mt2	3	wd2	2	smith_xp	61	61										9ga	nor	0		bpe	gold	235
+Ballista	forge	1									smith_level	17					mt2	2	sg2	1	wd2	4	smith_xp	61	61										8hx	nor	0		bpf	gold	335
+Long Siege Bow	forge	1									smith_level	17					mt2	1	sg2	2	wd2	4	smith_xp	61	61										8l8	nor	0		bpf	gold	210
+Ceremonial Bow	forge	1									smith_level	17					mt2	3	sg2	2	wd2	4	smith_xp	61	61										am7	nor	0		bpf	gold	315
+Stilleto	forge	1									smith_level	17					lt2	2	mt2	4			smith_xp	61	61										9bl	nor	0		bpg	gold	225
+Spiculum	forge	1									smith_level	17					mt2	2	wd2	5			smith_xp	61	61										9gl	nor	0		bpi	gold	35
+Lance	forge	1									smith_level	17					mt2	4	wd2	5			smith_xp	61	61										9p9	nor	0		bpi	gold	240
+Savage Helmet	forge	1									smith_level	18					lt2	3	mt2	3			smith_xp	64	64										ba9	nor	0		bpa	gold	570
+Russet Armor	forge	1									smith_level	18					lt2	2	mt2	4			smith_xp	64	64										xpl	nor	0		bpa	gold	915
+Death Mask	forge	1									smith_level	18					lt2	4	mt2	4			smith_xp	64	64										xsk	nor	0		bpa	gold	495
+Battle Gauntlets	forge	1									smith_level	18					fr2	1	lt2	6			smith_xp	64	64										xtg	nor	0		bpa	gold	390
+Battle Boots	forge	1									smith_level	18					fr2	4	lt2	6			smith_xp	64	64										xtb	nor	0		bpb	gold	390
+Battle Belt	forge	1									smith_level	18					lt2	6	sg2	4			smith_xp	64	64										ztb	nor	0		bpb	gold	375
+Cantor Trophy	forge	1									smith_level	18					sg2	2	st2	2			smith_xp	64	64										ne9	nor	0		bpc	gold	450
+Possessed Compendium	forge	1									smith_level	18					lt2	6	sg2	4			smith_xp	64	64										wa9	nor	0		bpc	gold	450
+Grim Shield	forge	1									smith_level	18					lt2	2	mt2	5	wd2	3	smith_xp	64	64										xsh	nor	0		bpc	gold	595
+Grave Wand	forge	1									smith_level	18					st2	1	wd2	3			smith_xp	64	64										9gw	nor	0		bpd	gold	245
+Gothic Sword	forge	1									smith_level	18					lt2	4	mt2	4			smith_xp	64	64										9b9	nor	0		bpe	gold	235
+Zweihander	forge	1									smith_level	18					lt2	1	mt2	7			smith_xp	64	64										9fb	nor	0		bpe	gold	260
+Greater Talons	forge	1									smith_level	18					lt2	1	mt2	2			smith_xp	64	64										9tw	nor	0		bpe	gold	290
+Naga	forge	1									smith_level	18					lt2	2	mt2	4	wd2	1	smith_xp	64	64										9wa	nor	0		bpe	gold	245
+Ancient Sword	forge	1									smith_level	18					lt2	1	mt2	5			smith_xp	64	64										9wd	nor	0		bpe	gold	240
+Rune Bow	forge	1									smith_level	18					mt2	2	sg2	3	wd2	4	smith_xp	64	64										8sw	nor	0		bpf	gold	265
+Battle Hammer	forge	1									smith_level	18					lt2	2	mt2	5	wd2	1	smith_xp	64	64										9wh	nor	0		bph	gold	245
+Slayer Guard	forge	1									smith_level	19					lt2	1	mt2	5			smith_xp	67	67										baa	nor	0		bpa	gold	650
+Sacred Feathers	forge	1									smith_level	19					fr2	6	lt2	4			smith_xp	67	67										dr9	nor	0		bpa	gold	515
+Grim Helm	forge	1									smith_level	19					lt2	5	mt2	5			smith_xp	67	67										xh9	nor	0		bpa	gold	580
+Winged Helm	forge	1									smith_level	19					lt2	1	mt2	7			smith_xp	67	67										xhm	nor	0		bpa	gold	585
+Templar Coat	forge	1									smith_level	19					lt2	2	mt2	8			smith_xp	67	67										xlt	nor	0		bpa	gold	1000
+Gilded Shield	forge	1									smith_level	19					lt2	3	mt2	5	wd2	2	smith_xp	67	67										pa9	nor	0		bpc	gold	765
+Pavise	forge	1									smith_level	19					lt2	2	mt2	6	wd2	2	smith_xp	67	67										xow	nor	0		bpc	gold	515
+Swirling Crystal	forge	1									smith_level	19					st2	4	wd2	2			smith_xp	67	67										oba	nor	0		bpd	gold	235
+Executioner Sword	forge	1									smith_level	19					lt2	2	mt2	8			smith_xp	67	67										9gd	nor	0		bpe	gold	310
+Ancient Axe	forge	1									smith_level	19					lt2	1	mt2	4	wd2	2	smith_xp	67	67										9gi	nor	0		bpe	gold	260
+Scissors Quhab	forge	1									smith_level	19					lt2	1	mt2	4			smith_xp	67	67										9qr	nor	0		bpe	gold	360
+Gothic Bow	forge	1									smith_level	19					mt2	1	sg2	1	wd2	5	smith_xp	67	67										8lw	nor	0		bpf	gold	315
+Chu-Ko-Nu	forge	1									smith_level	19					mt2	3	sg2	1	wd2	5	smith_xp	67	67										8rx	nor	0		bpf	gold	275
+Martel de Fer	forge	1									smith_level	19					lt2	1	mt2	5	wd2	2	smith_xp	67	67										9gm	nor	0		bph	gold	300
+Bec-de-Corbin	forge	1									smith_level	19					lt2	3	mt2	2	wd2	5	smith_xp	67	67										9h9	nor	0		bpi	gold	275
+Harpoon	forge	1									smith_level	19					mt2	1	wd2	6			smith_xp	67	67										9ts	nor	0		bpi	gold	35
+Ceremonial Pike	forge	1									smith_level	19					mt2	1	wd2	8			smith_xp	67	67										am9	nor	0		bpi	gold	240
+Tiara	forge	1									smith_level	20					mt2	3	st2	3			smith_xp	70	70										ci2	nor	0		bpa	gold	560
+Totemic Mask	forge	1									smith_level	20					fr2	7	lt2	3			smith_xp	70	70										dra	nor	0		bpa	gold	585
+Ornate Armor	forge	1									smith_level	20					lt2	2	mt2	3			smith_xp	70	70										xar	nor	0		bpa	gold	1425
+War Gauntlets	forge	1									smith_level	20					fr2	2	lt2	7			smith_xp	70	70										xhg	nor	0		bpa	gold	435
+Sharktooth Armor	forge	1									smith_level	20					lt2	1	mt2	4			smith_xp	70	70										xld	nor	0		bpa	gold	1005
+Grand Crown	forge	1									smith_level	20					lt2	1	mt2	8			smith_xp	70	70										xrn	nor	0		bpa	gold	620
+Embossed Plate	forge	1									smith_level	20					lt2	2	mt2	2			smith_xp	70	70										xth	nor	0		bpa	gold	1115
+Mage Plate	forge	1									smith_level	20					fr2	3	lt2	3			smith_xp	70	70										xtp	nor	0		bpa	gold	1030
+Chaos Armor	forge	1									smith_level	20					lt2	1	mt2	3			smith_xp	70	70										xul	nor	0		bpa	gold	1210
+War Boots	forge	1									smith_level	20					fr2	3	lt2	7			smith_xp	70	70										xhb	nor	0		bpb	gold	435
+War Belt	forge	1									smith_level	20					lt2	7	sg2	3			smith_xp	70	70										zhb	nor	0		bpb	gold	430
+Heirophant Trophy	forge	1									smith_level	20					sg2	1	st2	3			smith_xp	70	70										nea	nor	0		bpc	gold	500
+Royal Shield	forge	1									smith_level	20					lt2	3	mt2	7			smith_xp	70	70										paa	nor	0		bpc	gold	825
+Possessed Grimoire	forge	1									smith_level	20					lt2	7	sg2	3			smith_xp	70	70										waa	nor	0		bpc	gold	500
+Ancient Shield	forge	1									smith_level	20					lt2	2	mt2	3	wd2	2	smith_xp	70	70										xts	nor	0		bpc	gold	595
+Grim Scythe	forge	1									smith_level	20					lt2	2	mt2	3	wd2	5	smith_xp	70	70										9wc	nor	0		bpi	gold	305
+Shako	forge	1									smith_level	21					lt3	3	mt3	6			smith_xp	73	73										uap	nor	0		bpa	gold	710
+Giant Conch	forge	1									smith_level	21					lt3	3	mt3	5			smith_xp	73	73										uhl	nor	0		bpa	gold	720
+Bramble Mitts	forge	1									smith_level	21					fr3	3	lt3	6			smith_xp	73	73										ulg	nor	0		bpa	gold	490
+Walking Stick	forge	1									smith_level	21					st3	3	wd3	6			smith_xp	73	73										6ss	nor	0		bpd	gold	270
+Polished Wand	forge	1									smith_level	21					st3	3	wd3	3			smith_xp	73	73										7wn	nor	0		bpd	gold	290
+Tomahawk	forge	1									smith_level	21					mt3	3	wd3	3			smith_xp	73	73										7ha	nor	0		bpe	gold	355
+Feral Axe	forge	1									smith_level	21					lt3	2	mt3	5	wd3	2	smith_xp	73	73										7la	nor	0		bpe	gold	395
+Falcata	forge	1									smith_level	21					lt3	3	mt3	6			smith_xp	73	73										7ss	nor	0		bpe	gold	375
+Flying Axe	forge	1									smith_level	21					mt3	3	wd3	2			smith_xp	73	73										7ta	nor	0		bpe	gold	45
+Pellet Bow	forge	1									smith_level	21					mt3	2	sg3	2	wd3	5	smith_xp	73	73										6lx	nor	0		bpf	gold	420
+Spider Bow	forge	1									smith_level	21					mt3	2	sg3	2	wd3	4	smith_xp	73	73										6sb	nor	0		bpf	gold	435
+Matriarchal Bow	forge	1									smith_level	21					mt3	2	sg3	1	wd3	5	smith_xp	73	73										amb	nor	0		bpf	gold	460
+Bone Knife	forge	1									smith_level	21					lt3	3	mt3	3			smith_xp	73	73										7dg	nor	0		bpg	gold	335
+Truncheon	forge	1									smith_level	21					lt3	3	wd3	6			smith_xp	73	73										7cl	nor	0		bph	gold	115
+Tyrant Club	forge	1									smith_level	21					lt3	3	wd3	5			smith_xp	73	73										7sp	nor	0		bph	gold	245
+Hyperion Javelin	forge	1									smith_level	21					mt3	3	wd3	6			smith_xp	73	73										7ja	nor	0		bpi	gold	45
+Hyperion Spear	forge	1									smith_level	21					mt3	3	wd3	7			smith_xp	73	73										7sr	nor	0		bpi	gold	380
+Carnage Helm	forge	1									smith_level	22					lt3	2	mt3	6			smith_xp	76	76										bab	nor	0		bpa	gold	740
+Wyrmhide Boots	forge	1									smith_level	22					fr3	3	lt3	6			smith_xp	76	76										ulb	nor	0		bpb	gold	505
+Spiderweb Sash	forge	1									smith_level	22					lt3	6	sg3	3			smith_xp	76	76										ulc	nor	0		bpb	gold	510
+Minion Skull	forge	1									smith_level	22					sg3	3	st3	3			smith_xp	76	76										neb	nor	0		bpc	gold	710
+Luna	forge	1									smith_level	22					lt3	3	mt3	6			smith_xp	76	76										uml	nor	0		bpc	gold	715
+Heater	forge	1									smith_level	22					lt3	3	mt3	5			smith_xp	76	76										uuc	nor	0		bpc	gold	660
+Forgotten Volume	forge	1									smith_level	22					lt3	6	sg3	3			smith_xp	76	76										wab	nor	0		bpc	gold	710
+Heavenly Stone	forge	1									smith_level	22					st3	3	wd3	2			smith_xp	76	76										obb	nor	0		bpd	gold	435
+Legend Sword	forge	1									smith_level	22					lt3	3	mt3	5			smith_xp	76	76										72h	nor	0		bpe	gold	465
+Suwayyah	forge	1									smith_level	22					lt3	3	mt3	3			smith_xp	76	76										7ar	nor	0		bpe	gold	380
+Small Crescent	forge	1									smith_level	22					lt3	2	mt3	4	wd3	2	smith_xp	76	76										7ax	nor	0		bpe	gold	375
+Ataghan	forge	1									smith_level	22					lt3	2	mt3	6			smith_xp	76	76										7sm	nor	0		bpe	gold	380
+Blade Bow	forge	1									smith_level	22					mt3	1	sg3	2	wd3	5	smith_xp	76	76										6hb	nor	0		bpf	gold	440
+Mighty Scepter	forge	1									smith_level	22					mt3	6	st3	3			smith_xp	76	76										7sc	nor	0		bpg	gold	425
+Ogre Axe	forge	1									smith_level	22					lt3	2	mt3	2	wd3	5	smith_xp	76	76										7o7	nor	0		bpi	gold	300
+Stygian Pilum	forge	1									smith_level	22					mt3	3	wd3	5			smith_xp	76	76										7pi	nor	0		bpi	gold	45
+Matriarchal Spear	forge	1									smith_level	22					mt3	2	wd3	7			smith_xp	76	76										amd	nor	0		bpi	gold	380
+Blood Spirit	forge	1									smith_level	23					fr3	6	lt3	3			smith_xp	79	79										drb	nor	0		bpa	gold	745
+Boneweave	forge	1									smith_level	23					lt3	4	mt3	6			smith_xp	79	79										uhn	nor	0		bpa	gold	1430
+Hydraskull	forge	1									smith_level	23					lt3	3	mt3	7			smith_xp	79	79										ukp	nor	0		bpa	gold	750
+Dusk Shroud	forge	1									smith_level	23					fr3	3	lt3	5			smith_xp	79	79										uui	nor	0		bpa	gold	1400
+Vampirebone Gloves	forge	1									smith_level	23					fr3	2	lt3	6			smith_xp	79	79										uvg	nor	0		bpa	gold	525
+Sacred Targe	forge	1									smith_level	23					lt3	2	mt3	6			smith_xp	79	79										pab	nor	0		bpc	gold	810
+Hyperion	forge	1									smith_level	23					lt3	2	mt3	5	wd3	2	smith_xp	79	79										urg	nor	0		bpc	gold	770
+Stalagmite	forge	1									smith_level	23					st3	3	wd3	5			smith_xp	79	79										6ls	nor	0		bpd	gold	220
+Ghost Wand	forge	1									smith_level	23					st3	2	wd3	3			smith_xp	79	79										7yw	nor	0		bpd	gold	280
+Silver-edged Axe	forge	1									smith_level	23					lt3	2	mt3	5	wd3	1	smith_xp	79	79										7ba	nor	0		bpe	gold	415
+Elegant Blade	forge	1									smith_level	23					lt3	4	mt3	6			smith_xp	79	79										7sb	nor	0		bpe	gold	455
+Wrist Sword	forge	1									smith_level	23					lt3	2	mt3	3			smith_xp	79	79										7wb	nor	0		bpe	gold	390
+Shadow Bow	forge	1									smith_level	23					mt3	3	sg3	2	wd3	5	smith_xp	79	79										6lb	nor	0		bpf	gold	480
+Flying Knife	forge	1									smith_level	23					lt3	2	mt3	3			smith_xp	79	79										7tk	nor	0		bpg	gold	45
+Reinforced Mace	forge	1									smith_level	23					mt3	6	wd3	3			smith_xp	79	79										7ma	nor	0		bph	gold	365
+Colossus Voulge	forge	1									smith_level	23					lt3	2	mt3	2	wd3	4	smith_xp	79	79										7vo	nor	0		bpi	gold	340
+Matriarchal Javelin	forge	1									smith_level	23					mt3	2	wd3	6			smith_xp	79	79										amf	nor	0		bpi	gold	50
+Fury Visor	forge	1									smith_level	24					lt3	3	mt3	4			smith_xp	82	82										bac	nor	0		bpa	gold	785
+Wyrmhide	forge	1									smith_level	24					fr3	4	lt3	6			smith_xp	82	82										uea	nor	0		bpa	gold	1430
+Scarab Husk	forge	1									smith_level	24					fr3	3	lt3	7			smith_xp	82	82										ula	nor	0		bpa	gold	1445
+Armet	forge	1									smith_level	24					lt3	2	mt3	5			smith_xp	82	82										ulm	nor	0		bpa	gold	795
+Scarabshell Boots	forge	1									smith_level	24					fr3	3	lt3	5			smith_xp	82	82										uvb	nor	0		bpb	gold	540
+Vampirefang Belt	forge	1									smith_level	24					lt3	5	sg3	3			smith_xp	82	82										uvc	nor	0		bpb	gold	540
+Overseer Skull	forge	1									smith_level	24					sg3	2	st3	3			smith_xp	82	82										ned	nor	0		bpc	gold	760
+Hellspawn Skull	forge	1									smith_level	24					sg3	3	st3	4			smith_xp	82	82										neg	nor	0		bpc	gold	760
+Blade Barrier	forge	1									smith_level	24					lt3	2	mt3	4	wd3	2	smith_xp	82	82										upk	nor	0		bpc	gold	875
+Occult Tome	forge	1									smith_level	24					lt3	5	sg3	3			smith_xp	82	82										wac	nor	0		bpc	gold	760
+Occult Codex	forge	1									smith_level	24					lt3	6	sg3	2			smith_xp	82	82										wad	nor	0		bpc	gold	760
+Eldritch Orb	forge	1									smith_level	24					st3	4	wd3	3			smith_xp	82	82										obc	nor	0		bpd	gold	415
+Highland Blade	forge	1									smith_level	24					lt3	3	mt3	7			smith_xp	82	82										7cm	nor	0		bpe	gold	360
+War Fist	forge	1									smith_level	24					lt3	3	mt3	4			smith_xp	82	82										7xf	nor	0		bpe	gold	375
+Great Bow	forge	1									smith_level	24					mt3	2	sg3	3	wd3	5	smith_xp	82	82										6cb	nor	0		bpf	gold	400
+Gorgon Crossbow	forge	1									smith_level	24					mt3	2	sg3	2	wd3	6	smith_xp	82	82										6mx	nor	0		bpf	gold	450
+Stygian Pike	forge	1									smith_level	24					mt3	4	wd3	6			smith_xp	82	82										7tr	nor	0		bpi	gold	395
+Sun Spirit	forge	1									smith_level	25					fr3	5	lt3	3			smith_xp	85	85										drc	nor	0		bpa	gold	785
+Vambraces	forge	1									smith_level	25					fr3	3	lt3	4			smith_xp	85	85										umg	nor	0		bpa	gold	560
+Diamond Mail	forge	1									smith_level	25					lt3	4	mt3	5			smith_xp	85	85										ung	nor	0		bpa	gold	1515
+Wire Fleece	forge	1									smith_level	25					fr3	2	lt3	5			smith_xp	85	85										utu	nor	0		bpa	gold	1480
+Boneweave Boots	forge	1									smith_level	25					fr3	2	lt3	6			smith_xp	85	85										umb	nor	0		bpb	gold	575
+Sacred Rondache	forge	1									smith_level	25					lt3	4	mt3	6			smith_xp	85	85										pac	nor	0		bpc	gold	880
+Monarch	forge	1									smith_level	25					lt3	1	mt3	5	wd3	2	smith_xp	85	85										uit	nor	0		bpc	gold	860
+Ettin Axe	forge	1									smith_level	25					lt3	1	mt3	5	wd3	2	smith_xp	85	85										72a	nor	0		bpe	gold	350
+Decapitator	forge	1									smith_level	25					lt3	3	mt3	5	wd3	2	smith_xp	85	85										7bt	nor	0		bpe	gold	385
+Hydra Edge	forge	1									smith_level	25					lt3	2	mt3	5			smith_xp	85	85										7fc	nor	0		bpe	gold	410
+Balrog Blade	forge	1									smith_level	25					lt3	4	mt3	5			smith_xp	85	85										7gs	nor	0		bpe	gold	385
+Diamond Bow	forge	1									smith_level	25					mt3	2	sg3	2	wd3	3	smith_xp	85	85										6s7	nor	0		bpf	gold	470
+Mithral Point	forge	1									smith_level	25					lt3	3	mt3	4			smith_xp	85	85										7di	nor	0		bpg	gold	400
+Ogre Maul	forge	1									smith_level	25					lt3	2	mt3	5	wd3	2	smith_xp	85	85										7m7	nor	0		bph	gold	330
+Devil Star	forge	1									smith_level	25					mt3	5	wd3	3			smith_xp	85	85										7mt	nor	0		bph	gold	375
+Balrog Spear	forge	1									smith_level	25					mt3	3	wd3	4			smith_xp	85	85										7s7	nor	0		bpi	gold	45
+Thresher	forge	1									smith_level	25					lt3	2	mt3	1	wd3	5	smith_xp	85	85										7s8	nor	0		bpi	gold	315
+Destroyer Helm	forge	1									smith_level	26					lt3	1	mt3	6			smith_xp	88	88										bad	nor	0		bpa	gold	845
+Earth Spirit	forge	1									smith_level	26					fr3	6	lt3	2			smith_xp	88	88										drd	nor	0		bpa	gold	845
+Loricated Mail	forge	1									smith_level	26					lt3	2	mt3	7			smith_xp	88	88										ucl	nor	0		bpa	gold	1535
+Balrog Skin	forge	1									smith_level	26					lt3	3	mt3	3			smith_xp	88	88										upl	nor	0		bpa	gold	1605
+Great Hauberk	forge	1									smith_level	26					fr3	4	lt3	5			smith_xp	88	88										urs	nor	0		bpa	gold	1565
+Demonhead	forge	1									smith_level	26					lt3	2	mt3	4			smith_xp	88	88										usk	nor	0		bpa	gold	830
+Mithril Coil	forge	1									smith_level	26					lt3	6	sg3	2			smith_xp	88	88										umc	nor	0		bpb	gold	580
+Ancient Shield	forge	1									smith_level	26					lt3	2	mt3	5	wd3	1	smith_xp	88	88										pad	nor	0		bpc	gold	940
+Elder Staff	forge	1									smith_level	26					st3	2	wd3	6			smith_xp	88	88										6cs	nor	0		bpd	gold	285
+Lich Wand	forge	1									smith_level	26					st3	3	wd3	4			smith_xp	88	88										7bw	nor	0		bpd	gold	290
+Demon Heart	forge	1									smith_level	26					st3	2	wd3	2			smith_xp	88	88										obd	nor	0		bpd	gold	445
+Phase Blade	forge	1									smith_level	26					lt3	1	mt3	6			smith_xp	88	88										7cr	nor	0		bpe	gold	480
+Battle Cestus	forge	1									smith_level	26					lt3	2	mt3	2			smith_xp	88	88										7cs	nor	0		bpe	gold	375
+Colossus Crossbow	forge	1									smith_level	26					mt3	2	sg3	1	wd3	4	smith_xp	88	88										6hx	nor	0		bpf	gold	485
+Seraph Rod	forge	1									smith_level	26					mt3	5	st3	3			smith_xp	88	88										7qs	nor	0		bpg	gold	460
+Scourge	forge	1									smith_level	26					lt3	2	mt3	4	wd3	2	smith_xp	88	88										7fl	nor	0		bph	gold	420
+Mancatcher	forge	1									smith_level	26					mt3	1	wd3	7			smith_xp	88	88										7br	nor	0		bpi	gold	365
+Spired Helm	forge	1									smith_level	27					lt3	4	mt3	4			smith_xp	91	91										uhm	nor	0		bpa	gold	885
+Hellforge Plate	forge	1									smith_level	27					lt3	1	mt3	5			smith_xp	91	91										ult	nor	0		bpa	gold	1645
+Crusader Gauntlets	forge	1									smith_level	27					fr3	1	lt3	6			smith_xp	91	91										utg	nor	0		bpa	gold	595
+Aegis	forge	1									smith_level	27					lt3	2	mt3	5	wd3	3	smith_xp	91	91										uow	nor	0		bpc	gold	940
+Troll Nest	forge	1									smith_level	27					lt3	3	mt3	5	wd3	2	smith_xp	91	91										ush	nor	0		bpc	gold	955
+Champion Sword	forge	1									smith_level	27					lt3	2	mt3	7			smith_xp	91	91										7b7	nor	0		bpe	gold	425
+Winged Axe	forge	1									smith_level	27					lt3	2	mt3	5	wd3	3	smith_xp	91	91										7b8	nor	0		bpe	gold	50
+Conquest Sword	forge	1									smith_level	27					lt3	2	mt3	4			smith_xp	91	91										7bs	nor	0		bpe	gold	415
+Colossal Sword	forge	1									smith_level	27					lt3	1	mt3	7			smith_xp	91	91										7fb	nor	0		bpe	gold	470
+Feral Claws	forge	1									smith_level	27					lt3	1	mt3	3			smith_xp	91	91										7lw	nor	0		bpe	gold	380
+War Spike	forge	1									smith_level	27					lt3	2	mt3	6	wd3	2	smith_xp	91	91										7mp	nor	0		bpe	gold	380
+Crusader Bow	forge	1									smith_level	27					mt3	1	sg3	2	wd3	4	smith_xp	91	91										6l7	nor	0		bpf	gold	405
+Ward Bow	forge	1									smith_level	27					mt3	3	sg3	2	wd3	4	smith_xp	91	91										6sw	nor	0		bpf	gold	370
+Grand Matron Bow	forge	1									smith_level	27					mt3	2	sg3	3	wd3	4	smith_xp	91	91										amc	nor	0		bpf	gold	550
+Winged Knife	forge	1									smith_level	27					lt3	2	mt3	2			smith_xp	91	91										7bk	nor	0		bpg	gold	45
+Ghost Glaive	forge	1									smith_level	27					mt3	2	wd3	5			smith_xp	91	91										7gl	nor	0		bpi	gold	45
+Cryptic Axe	forge	1									smith_level	27					lt3	1	mt3	2	wd3	5	smith_xp	91	91										7pa	nor	0		bpi	gold	385
+Conqueror Crown	forge	1									smith_level	28					lt3	5	mt3	5			smith_xp	94	94										bae	nor	0		bpa	gold	890
+Sky Spirit	forge	1									smith_level	28					fr3	6	lt3	4			smith_xp	94	94										dre	nor	0		bpa	gold	885
+Kraken Shell	forge	1									smith_level	28					lt3	1	mt3	7			smith_xp	94	94										uld	nor	0		bpa	gold	1665
+Lacquered Plate	forge	1									smith_level	28					lt3	2	mt3	8			smith_xp	94	94										uth	nor	0		bpa	gold	1705
+Mirrored Boots	forge	1									smith_level	28					fr3	4	lt3	6			smith_xp	94	94										utb	nor	0		bpb	gold	610
+Troll Belt	forge	1									smith_level	28					lt3	6	sg3	4			smith_xp	94	94										utc	nor	0		bpb	gold	610
+Succubus Skull	forge	1									smith_level	28					sg3	2	st3	2			smith_xp	94	94										nee	nor	0		bpc	gold	850
+Zakarum Shield	forge	1									smith_level	28					lt3	2	mt3	6	wd3	2	smith_xp	94	94										pae	nor	0		bpc	gold	1040
+Blasphemous Compendium	forge	1									smith_level	28					lt3	6	sg3	4			smith_xp	94	94										wae	nor	0		bpc	gold	850
+Shillelagh	forge	1									smith_level	28					st3	4	wd3	6			smith_xp	94	94										6bs	nor	0		bpd	gold	270
+Champion Axe	forge	1									smith_level	28					lt3	2	mt3	3	wd3	2	smith_xp	94	94										7ga	nor	0		bpe	gold	415
+Cryptic Sword	forge	1									smith_level	28					lt3	4	mt3	4			smith_xp	94	94										7ls	nor	0		bpe	gold	360
+Runic Talons	forge	1									smith_level	28					lt3	1	mt3	2			smith_xp	94	94										7tw	nor	0		bpe	gold	395
+Fanged Knife	forge	1									smith_level	28					lt3	1	mt3	3			smith_xp	94	94										7kr	nor	0		bpg	gold	350
+Legendary Mallet	forge	1									smith_level	28					lt3	2	mt3	5	wd3	1	smith_xp	94	94										7wh	nor	0		bph	gold	360
+Ghost Spear	forge	1									smith_level	28					mt3	2	wd3	8			smith_xp	94	94										7st	nor	0		bpi	gold	395
+Matriarchal Pike	forge	1									smith_level	28					mt3	4	wd3	5			smith_xp	94	94										ame	nor	0		bpi	gold	420
+Bone Visage	forge	1									smith_level	29					lt3	2	mt3	3			smith_xp	97	97										uh9	nor	0		bpa	gold	885
+Archon Plate	forge	1									smith_level	29					fr3	2	lt3	7			smith_xp	97	97										utp	nor	0		bpa	gold	1690
+Shadow Plate	forge	1									smith_level	29					lt3	1	mt3	4			smith_xp	97	97										uul	nor	0		bpa	gold	1740
+Ward	forge	1									smith_level	29					lt3	2	mt3	3	wd3	2	smith_xp	97	97										uts	nor	0		bpc	gold	995
+Archon Staff	forge	1									smith_level	29					st3	3	wd3	7			smith_xp	97	97										6ws	nor	0		bpd	gold	300
+Vortex Orb	forge	1									smith_level	29					st3	3	wd3	1			smith_xp	97	97										obe	nor	0		bpd	gold	475
+Colossus Blade	forge	1									smith_level	29					lt3	2	mt3	8			smith_xp	97	97										7gd	nor	0		bpe	gold	450
+Glorious Axe	forge	1									smith_level	29					lt3	2	mt3	4	wd3	1	smith_xp	97	97										7gi	nor	0		bpe	gold	405
+Scissors Suwayyah	forge	1									smith_level	29					lt3	1	mt3	4			smith_xp	97	97										7qr	nor	0		bpe	gold	405
+Berserker Axe	forge	1									smith_level	29					lt3	1	mt3	4	wd3	2	smith_xp	97	97										7wa	nor	0		bpe	gold	380
+Hydra Bow	forge	1									smith_level	29					mt3	1	sg3	1	wd3	5	smith_xp	97	97										6lw	nor	0		bpf	gold	420
+Demon Crossbow	forge	1									smith_level	29					mt3	3	sg3	1	wd3	5	smith_xp	97	97										6rx	nor	0		bpf	gold	480
+Legend Spike	forge	1									smith_level	29					lt3	2	mt3	4			smith_xp	97	97										7bl	nor	0		bpg	gold	380
+Thunder Maul	forge	1									smith_level	29					lt3	1	mt3	5	wd3	2	smith_xp	97	97										7gm	nor	0		bph	gold	400
+Great Poleaxe	forge	1									smith_level	29					lt3	3	mt3	2	wd3	5	smith_xp	97	97										7h7	nor	0		bpi	gold	440
+War Pike	forge	1									smith_level	29					mt3	1	wd3	6			smith_xp	97	97										7p7	nor	0		bpi	gold	380
+Winged Harpoon	forge	1									smith_level	29					mt3	3	wd3	3			smith_xp	97	97										7ts	nor	0		bpi	gold	40
+Guardian Crown	forge	1									smith_level	30					lt3	1	mt3	8			smith_xp	100	100										baf	nor	0		bpa	gold	940
+Diadem	forge	1									smith_level	30					mt3	3	st3	3			smith_xp	100	100										ci3	nor	0		bpa	gold	720
+Dream Spirit	forge	1									smith_level	30					fr3	7	lt3	3			smith_xp	100	100										drf	nor	0		bpa	gold	910
+Sacred Armor	forge	1									smith_level	30					lt3	2	mt3	2			smith_xp	100	100										uar	nor	0		bpa	gold	1835
+Ogre Gauntlets	forge	1									smith_level	30					fr3	3	lt3	3			smith_xp	100	100										uhg	nor	0		bpa	gold	640
+Corona	forge	1									smith_level	30					lt3	1	mt3	3			smith_xp	100	100										urn	nor	0		bpa	gold	925
+Myrmidon Greaves	forge	1									smith_level	30					fr3	3	lt3	7			smith_xp	100	100										uhb	nor	0		bpb	gold	640
+Colossus Girdle	forge	1									smith_level	30					lt3	7	sg3	3			smith_xp	100	100										uhc	nor	0		bpb	gold	635
+Bloodlord Skull	forge	1									smith_level	30					sg3	1	st3	3			smith_xp	100	100										nef	nor	0		bpc	gold	880
+Vortex Shield	forge	1									smith_level	30					lt3	3	mt3	7			smith_xp	100	100										paf	nor	0		bpc	gold	1120
+Blasphemous Grimoire	forge	1									smith_level	30					lt3	7	sg3	3			smith_xp	100	100										waf	nor	0		bpc	gold	880
+Unearthed Wand	forge	1									smith_level	30					st3	1	wd3	3			smith_xp	100	100										7gw	nor	0		bpd	gold	265
+Dimensional Shard	forge	1									smith_level	30					st3	4	wd3	2			smith_xp	100	100										obf	nor	0		bpd	gold	425
+Mythical Sword	forge	1									smith_level	30					lt3	1	mt3	5			smith_xp	100	100										7wd	nor	0		bpe	gold	425
+Caduceus	forge	1									smith_level	30					mt3	6	st3	2			smith_xp	100	100										7ws	nor	0		bpg	gold	455
+Giant Thresher	forge	1									smith_level	30					lt3	2	mt3	3	wd3	5	smith_xp	100	100										7wc	nor	0		bpi	gold	400
+max	spend	1			100																																				
+spend rar	spend	1						rar																								25									
+spend mag	spend	1						mag																								45									
+spend hiq	spend	1						hiq																								20									
+Charsi	npc	1	154																																						
+Fara	npc	1	178																																						
+Hratli	npc	1	253																																						
+Halbu	npc	1	257																																						
+Larzuk	npc	1	511																																						

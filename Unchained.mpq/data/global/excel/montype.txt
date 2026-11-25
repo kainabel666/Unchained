@@ -70,3 +70,9 @@ boundhuman	thebound	human				0
 boundspirit	thebound	spirit				0
 enemygolem	construct					0
 wolf	wildanimal					0
+legion						0
+c_remote	legion	human				0
+c_obscure	legion	human				0
+c_removed	legion	human				0
+c_secluded	legion	human				0
+c_detached	legion	human				0

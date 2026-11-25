@@ -25,7 +25,7 @@
             "fields": {
                 "rect": { "x": 144, "y": 260 },
                 "filename": "PANEL\\miniconvert",
-                "tooltipString": "@strUiMenu2",
+                "tooltipString": "@d2r:strUiMenu2",
                 "tooltipOffset": { "x": 0, "y": -3 },
                 "onClickMessage": "HoradricCubePanelMessage:Convert",
             },
@@ -37,7 +37,7 @@
                 "filename": "PANEL\\buysellbtn",
                 "normalFrame": 10,
                 "pressedFrame": 11,
-                "tooltipString": "@strClose",
+                "tooltipString": "@d2r:strClose",
                 "tooltipOffset": { "x": 0, "y": -3 },
                 "onClickMessage": "HoradricCubePanelMessage:Close",
             },
